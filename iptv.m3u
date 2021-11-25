@@ -14,3 +14,6 @@ m3u:https://playstationtv.herokuapp.com/listas/iptv-link.m3u
 #EXTINF:-1,Canais 24H
 m3u:https://playstationtv.herokuapp.com/listas/iptv-24.m3u
 
+
+#EXTINF:-1,Canais 24H - Lite
+m3u:https://playstationtv.herokuapp.com/listas/iptv-24-limpa.m3u
