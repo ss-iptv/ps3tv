@@ -1,0 +1,5 @@
+#EXTM3U
+
+EXTINF:-1,DESENHOS/ANIMES
+m3u:https://alfaconcursos.herokuapp.com/m3u/listas/desenhoseanimes.m3u
+
