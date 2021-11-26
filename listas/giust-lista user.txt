@@ -1,0 +1,21 @@
+#EXTM3U 
+#EXTINF:-1,MEGAPIX SD
+http://vipeiptv.com:25461/tel123/tel123/856119
+#EXTINF:-1,SPACE SD
+http://vipeiptv.com:25461/tel123/tel123/856133
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://vipeiptv.com:25461/tel123/tel123/856140
+#EXTINF:-1,TNT SD
+http://vipeiptv.com:25461/tel123/tel123/856161
+#EXTINF:-1,TNT SÉRIES SD
+http://vipeiptv.com:25461/tel123/tel123/856167
+#EXTINF:-1,WARNER CHANNEL SD
+http://vipeiptv.com:25461/tel123/tel123/856177
+#EXTINF:-1,HBO SD
+http://vipeiptv.com:25461/tel123/tel123/856313
+#EXTINF:-1,CARTOON NETWORK SD
+http://vipeiptv.com:25461/tel123/tel123/856585
+#EXTINF:-1,CANAL SONY SD
+http://vipeiptv.com:25461/tel123/tel123/856653
+#EXTINF:-1,COMEDY CENTRAL SD
+http://vipeiptv.com:25461/tel123/tel123/856657
