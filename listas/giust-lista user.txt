@@ -1,21 +1,21 @@
 #EXTM3U 
 #EXTINF:-1,MEGAPIX SD
 http://vipeiptv.com:25461/tel123/tel123/856119
-#EXTINF:-1,SPACE SD
-http://vipeiptv.com:25461/tel123/tel123/856133
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://vipeiptv.com:25461/tel123/tel123/856140
-#EXTINF:-1,TNT SD
-http://vipeiptv.com:25461/tel123/tel123/856161
-#EXTINF:-1,TNT SÉRIES SD
-http://vipeiptv.com:25461/tel123/tel123/856167
-#EXTINF:-1,WARNER CHANNEL SD
-http://vipeiptv.com:25461/tel123/tel123/856177
-#EXTINF:-1,HBO SD
-http://vipeiptv.com:25461/tel123/tel123/856313
-#EXTINF:-1,CARTOON NETWORK SD
-http://vipeiptv.com:25461/tel123/tel123/856585
-#EXTINF:-1,CANAL SONY SD
-http://vipeiptv.com:25461/tel123/tel123/856653
-#EXTINF:-1,COMEDY CENTRAL SD
-http://vipeiptv.com:25461/tel123/tel123/856657
+
+andre2:::w:::andre2
+876543:::w:::876543
+567890:::w:::567890
+flavio001:::w:::flavio001
+Miguel:::w:::123456
+monica01:::w:::monica01
+maria10:::w:::maria10
+angelo:::w:::angelo
+tel123:::w:::tel123
+
+Usuário mauro12345 Senha mauro12345 USUÁRIO klisman SENHA 123456 Usuário miguel senha 123456 usuário 802418ma
+Senha 802418ma usuário Marceloriffel
+Senha Marceloriffel. usuário tiomateusesara
+Senha tiomateusesara
+Usuário Gustavoarau
+Senha Gustavoarau12890 usuário Camilaarau
+Senha Camilaarau1010
