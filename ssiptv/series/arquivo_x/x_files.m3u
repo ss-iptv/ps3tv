@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTENC: UTF-8
+ #EXTM3U size="medium"
+
 #PLAYLIST: Arquivo X 01 temporada  group-title="SERIES | ARQUIVO X"
 #EXTINF:0, Arquivo-X.S01E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S01E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZdtXWhnEd05AMvhc_MsDBHkQ8_9ZE4tQ  group-title="SERIES | ARQUIVO X"
@@ -51,7 +51,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S01E23.MP4.DUB
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S01E24.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u78aC2qgTpG80huANnWjXCvzTinmuGsy
 
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 02 temporada  group-title="SERIES | ARQUIVO X"
 #EXTINF:0, Arquivo-X.S02E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZDrMe-fjWv92fQC1fLXAikZQP860QI5p  group-title="SERIES | ARQUIVO X"
@@ -105,7 +105,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E24.MP4.DUB
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E25.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GooQwNkH4RR752QM4x85-JFhLyeioTRN
 
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 03 temporada  group-title="SERIES | ARQUIVO X"
 #EXTINF:0, Arquivo-X.S03E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S03E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QrN0kgfNjxG_Ad4Rc9MzUEXFv8j_2T7k  group-title="SERIES | ARQUIVO X"
@@ -157,7 +157,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S03E23.MP4.DUB
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S03E24.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bUM625CcCAapmkPsqm2c2VB94X7zh5oy
 
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 04 temporada  group-title="SERIES | ARQUIVO X"
 #EXTINF:0, Arquivo-X.S04E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S04E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JKtQ0Cy1Nz6jucbmKjU3LJDA4FfMn0Qw  group-title="SERIES | ARQUIVO X"
@@ -209,7 +209,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S04E23.MP4.DUB
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S04E24.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kLsm0i4KQGplWbbTrWeQHu-nbiZBaKTj
 
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 05 temporada  group-title="SERIES | ARQUIVO X"
 #EXTINF:0, Arquivo-X.S05E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S05E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Be4WrtCsma8bZaIRMbcrg7HdNSUp_SCm  group-title="SERIES | ARQUIVO X"
@@ -253,7 +253,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S05E19.MP4.DUB
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S05E20.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Pm_xMuBmW4-G6ARibe9wjB2yoo0SYy5X
 
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 06 temporada  group-title="SERIES | ARQUIVO X"
 #EXTINF:0, Arquivo-X.S06E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S06E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11I2-IQOz9saZaecJ30NMw-Yk8Cb2QQ6J  group-title="SERIES | ARQUIVO X"
@@ -301,7 +301,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S06E21.MP4.DUB
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S06E22.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19BP5trP6RFfzennMtx3BLNI0DwyLldFi
 
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 07 temporada  group-title="SERIES | ARQUIVO X"
 #EXTINF:0, Arquivo-X.S07E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S07E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1alzlSXcxajuPY_BQtYBsIzGdewlHBE3_  group-title="SERIES | ARQUIVO X"
@@ -348,7 +348,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S07E21.MP4.DUB
 #EXTINF:0, Arquivo-X.S07E22.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S07E22.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FZFYXlxxkC1uvMCSBnaSbtSgAoaS8G14
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 08 temporada
 #EXTINF:0, Arquivo.X.S08E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S08E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nOcziWRidQokgSV0p_DbzXGSWLdET5SO
@@ -393,7 +393,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S08E20.MP4.DUB
 #EXTINF:0, Arquivo.X.S08E21.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S08E21.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PFmBX7M0A0bxCrPaq37WddjY3JlqatqS
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 09 temporada
 #EXTINF:0, Arquivo.X.S09E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S09E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yUKNiLPXFlkk84vwVHZ45NlSjr_MUcIs
@@ -434,7 +434,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S09E18.MP4.DUB
 #EXTINF:0, Arquivo.X.S09E19-20.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S09E19-20.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vSzTw9CJeInUVoZu8IHYOW1JSbZYQgs5
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 10 temporada
 #EXTINF:0, Arquivo.X.S10E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S10E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KJb5HTx_F8sZ3UckBQWv6P5pX93tbkKU
@@ -449,7 +449,7 @@ https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S10E05.MP4.DUB
 #EXTINF:0, Arquivo.X.S10E06.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S10E06.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=133ZiCkf2EdR_iftBPpRqQY1nuC7W-reN
 #EXTM3U
-#EXTENC: UTF-8
+
 #PLAYLIST: Arquivo X 11 temporada
 #EXTINF:0, Arquivo.X.S11E01.MP4.DUB.BaixarSeriesMP4.Com.mp4
 https://pobreflix.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S11E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16iXJrNnOBX2vEzA2GakBZOFK0IwKzd30
