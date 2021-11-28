@@ -1,0 +1,59 @@
+ #EXTm3u8 size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_1.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 2
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_2.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 3
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_3.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 4
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_4.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 5
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_5.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 6
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_6.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 7
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_7.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 8
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_8.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 9
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_9.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA X
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_10.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA XI
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files_11.m3u8
+
+
+
+

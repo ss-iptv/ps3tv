@@ -1,0 +1,21 @@
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",Arquivo X
+#EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
+playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files.m3u
+
+
+#EXTINF:0 type="playlist" tvg-logo="",Stargate Universe
+#EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/SGUTVlogo.jpg/220px-SGUTVlogo.jpg
+https://drive.google.com/uc?id=0Bx8tjKEoJSjOQ1hfeXlpazJ3WUU&export=download
+
+
+#EXTINF:0 type="playlist" tvg-logo="",Stargate SG1
+#EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stargate_SG-1.svg/200px-Stargate_SG-1.svg.png
+https://drive.google.com/uc?id=0Bx8tjKEoJSjOQ1hfeXlpazJ3WUU&export=download
+
+
+#EXTINF:0 type="playlist" tvg-logo="",Stargate Atlantis
+#EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
+https://drive.google.com/uc?id=0Bx8tjKEoJSjOQ1hfeXlpazJ3WUU&export=download
+
