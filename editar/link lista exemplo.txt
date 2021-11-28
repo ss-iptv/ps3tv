@@ -1,0 +1,1 @@
+http://rec2.distv.net:8080/get.php?username=damaris&password=123456&type=m3u_plus&output=ts
