@@ -7,15 +7,15 @@ https://playstationtv.herokuapp.com/ssiptv/series/arquivo_x/menu_x_files.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",Stargate Universe
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/SGUTVlogo.jpg/220px-SGUTVlogo.jpg
-https://playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files.m3u
+https://playstationtv.herokuapp.com/ssiptv/series/stargate/menu_sgu.m3u
 
 
 #EXTINF:0 type="playlist" tvg-logo="",Stargate SG1
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Stargate_SG-1.svg/200px-Stargate_SG-1.svg.png
-https://playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files.m3u
+https://playstationtv.herokuapp.com/ssiptv/series/stargate/menu_sg1.m3u
 
 
 #EXTINF:0 type="playlist" tvg-logo="",Stargate Atlantis
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
-https://playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files.m3u
+https://playstationtv.herokuapp.com/ssiptv/series/stargate/menu_sga.m3u
 
