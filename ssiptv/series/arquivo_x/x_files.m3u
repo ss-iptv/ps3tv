@@ -1,6 +1,6 @@
  #EXTM3U size="medium"
 
-#PLAYLIST: Arquivo X 01 temporada
+
  #EXTINF:0, Arquivo-X.S01E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S01E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZdtXWhnEd05AMvhc_MsDBHkQ8_9ZE4tQ
  #EXTINF:0, Arquivo-X.S01E02
@@ -52,7 +52,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S01E24.MP4.DUB.Baixa
 
 #EXTM3U
 
-#PLAYLIST: Arquivo X 02 temporada
+
  #EXTINF:0, Arquivo-X.S02E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZDrMe-fjWv92fQC1fLXAikZQP860QI5p
  #EXTINF:0, Arquivo-X.S02E02
@@ -106,7 +106,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S02E25.MP4.DUB.Baixa
 
 #EXTM3U
 
-#PLAYLIST: Arquivo X 03 temporada
+
  #EXTINF:0, Arquivo-X.S03E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S03E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QrN0kgfNjxG_Ad4Rc9MzUEXFv8j_2T7k
  #EXTINF:0, Arquivo-X.S03E02
@@ -158,7 +158,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S03E24.MP4.DUB.Baixa
 
 #EXTM3U
 
-#PLAYLIST: Arquivo X 04 temporada
+
  #EXTINF:0, Arquivo-X.S04E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S04E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JKtQ0Cy1Nz6jucbmKjU3LJDA4FfMn0Qw
  #EXTINF:0, Arquivo-X.S04E02
@@ -210,7 +210,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S04E24.MP4.DUB.Baixa
 
 #EXTM3U
 
-#PLAYLIST: Arquivo X 05 temporada
+
  #EXTINF:0, Arquivo-X.S05E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S05E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Be4WrtCsma8bZaIRMbcrg7HdNSUp_SCm
  #EXTINF:0, Arquivo-X.S05E02
@@ -254,7 +254,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S05E20.MP4.DUB.Baixa
 
 #EXTM3U
 
-#PLAYLIST: Arquivo X 06 temporada
+
  #EXTINF:0, Arquivo-X.S06E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S06E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11I2-IQOz9saZaecJ30NMw-Yk8Cb2QQ6J
  #EXTINF:0, Arquivo-X.S06E02
@@ -302,7 +302,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S06E22.MP4.DUB.Baixa
 
 #EXTM3U
 
-#PLAYLIST: Arquivo X 07 temporada
+
  #EXTINF:0, Arquivo-X.S07E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S07E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1alzlSXcxajuPY_BQtYBsIzGdewlHBE3_
  #EXTINF:0, Arquivo-X.S07E02
@@ -349,7 +349,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S07E21.MP4.DUB.Baixa
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo-X.S07E22.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FZFYXlxxkC1uvMCSBnaSbtSgAoaS8G14
 #EXTM3U
 
-#PLAYLIST: Arquivo X 08 temporada
+
  #EXTINF:0, Arquivo.X.S08E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S08E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nOcziWRidQokgSV0p_DbzXGSWLdET5SO
  #EXTINF:0, Arquivo.X.S08E02
@@ -394,7 +394,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S08E20.MP4.DUB.Baixa
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S08E21.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PFmBX7M0A0bxCrPaq37WddjY3JlqatqS
 #EXTM3U
 
-#PLAYLIST: Arquivo X 09 temporada
+
  #EXTINF:0, Arquivo.X.S09E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S09E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yUKNiLPXFlkk84vwVHZ45NlSjr_MUcIs
  #EXTINF:0, Arquivo.X.S09E02
@@ -435,7 +435,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S09E18.MP4.DUB.Baixa
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S09E19-20.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vSzTw9CJeInUVoZu8IHYOW1JSbZYQgs5
 #EXTM3U
 
-#PLAYLIST: Arquivo X 10 temporada
+
  #EXTINF:0, Arquivo.X.S10E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S10E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KJb5HTx_F8sZ3UckBQWv6P5pX93tbkKU
  #EXTINF:0, Arquivo.X.S10E02
@@ -450,7 +450,7 @@ https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S10E05.MP4.DUB.Baixa
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S10E06.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=133ZiCkf2EdR_iftBPpRqQY1nuC7W-reN
 #EXTM3U
 
-#PLAYLIST: Arquivo X 11 temporada
+
  #EXTINF:0, Arquivo.X.S11E01
 https://m3u.herokuapp.com/api/v1/redirectdownload/Arquivo.X.S11E01.MP4.DUB.BaixarSeriesMP4.Com.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16iXJrNnOBX2vEzA2GakBZOFK0IwKzd30
  #EXTINF:0, Arquivo.X.S11E02
