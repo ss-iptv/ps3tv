@@ -6,12 +6,12 @@ m3u:https://playstationtv.herokuapp.com/ssiptv/animes/naruto/nar_ship_leg.m38u
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Super
 m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbs.m38u
 
-#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Super
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Sayajins
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_ss.m38u
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - 
 m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbs.m38u
 
-#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Super
-m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbs.m38u
-
-#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Super
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - 
 m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbs.m38u
 
