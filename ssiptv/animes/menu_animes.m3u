@@ -1,5 +1,8 @@
  #EXTM3U size="big"
 
-#EXTINF:0 type="playlist" tvg-logo="",NARUTO SHIPUDDEN LEGENDADO
+#EXTINF:0 type="playlist" tvg-logo="",Naruto Shipuuden - Leg
 m3u:https://playstationtv.herokuapp.com/ssiptv/animes/naruto/nar_ship_leg.m38u
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Super
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbs.m38u
 
