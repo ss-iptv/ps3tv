@@ -1,0 +1,5 @@
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",NARUTO SHIPUDDEN LEGENDADO
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/naruto/nar_ship_leg.m38u
+
