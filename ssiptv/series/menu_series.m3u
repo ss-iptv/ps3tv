@@ -2,7 +2,7 @@
 
 #EXTINF:0 type="playlist" tvg-logo="",Arquivo X
 #EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
-https://playstationtv.herokuapp.com/ssiptv/series/arquivo_x/x_files.m3u
+https://playstationtv.herokuapp.com/ssiptv/series/arquivo_x/menu_x_files.m3u
 
 
 #EXTINF:0 type="playlist" tvg-logo="",Stargate Universe
