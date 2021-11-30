@@ -1,10 +1,6 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1,OUTRAS SERIES
-m3u:https://playstationtv.herokuapp.com/listas/nullseries.m3u
-
-
 #EXTINF:-1,TODAS AS SERIES
 m3u:https://playstationtv.herokuapp.com/listas/streaming2.m3u
 
