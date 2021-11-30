@@ -4,7 +4,6 @@
 #EXTBG:https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_X-Files.jpg/250px-The_X-Files.jpg
 https://playstationtv.herokuapp.com/ssiptv/series/arquivo_x/menu_x_files.m3u
 
-
 #EXTINF:0 type="playlist" tvg-logo="",Stargate Universe
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/SGUTVlogo.jpg/220px-SGUTVlogo.jpg
 https://playstationtv.herokuapp.com/ssiptv/series/stargate/menu_sgu.m3u
