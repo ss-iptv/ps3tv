@@ -1,32 +1,32 @@
  #EXTM3U size="big"
 
 #EXTINF:0 type="playlist" tvg-logo="",Naruto Shipuuden - Leg
-https://playstationtv.herokuapp.com/ssiptv/animes/naruto/nar_ship_leg.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/naruto/nar_ship_leg.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Super
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbs.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbs.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Sayajins
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_ss.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_ss.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Freeza
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sf.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sf.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Garlic
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sg.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sg.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Androides
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sa.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sa.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Cell
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sc.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_sc.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Outro Mundo
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_so.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_so.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - MajinBoo
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_smb.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_smb.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Outro Mundo
-https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_so.m3u8
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/dragon_ball/dbz_so.m3u8
 
