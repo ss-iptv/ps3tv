@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: The Good Doctor - O Bom Doutor 2ª Temporada Completa 2019 720p
+#EXTINF:0, 01 - Hello.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Hello.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lE85vFSDitfjO7sPQpOZihO0e-lwRjlb
+#EXTINF:0, 02 - Middle Ground.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Middle%20Ground.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19d6JVRmSZIwU-bJ9L8uFtt6PcJAgyCQq
+#EXTINF:0, 03 - 36 Hours.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%2036%20Hours.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mCrMUFAaXAOEbt1jv6AMIhJS9CpVGRv_
+#EXTINF:0, 04 - Tough Titmouse.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Tough%20Titmouse.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tV4bDuMjktoB1-MDViMrUBIAgQNMC86-
+#EXTINF:0, 05 - Carrots.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Carrots.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1djjVeYDx5nExeoPaQD-MgzNVR2MpbF4Z
+#EXTINF:0, 06 - Two-Ply (or Not Two-Ply).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Two-Ply%20(or%20Not%20Two-Ply).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15qEw_JToyKQeIGg6JZ3Rld3kERvmztCu
+#EXTINF:0, 07 - Hubert.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Hubert.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P-R9s7kdodaPPFbkg_cUsDAk_B2L8xEk
+#EXTINF:0, 08 - Stories.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Stories.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ee_dPCe5jfwcNaqdbm2vrf9Mj8KcIL59
+#EXTINF:0, 09 - Empathy.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Empathy.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ThvSl1OGl-yloln2GVYcanQenaDblQGr
+#EXTINF:0, 10 - Quarantine - Part One.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Quarantine%20-%20Part%20One.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18Xh9RY0fcQ16p70LLcC0ZQ7HJuApeIYI
+#EXTINF:0, 11 - Quarantine - Part Two.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Quarantine%20-%20Part%20Two.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nCklk54wxHcW5w1p_9ewJOAiNZJDhsza
+#EXTINF:0, 12 - Aftermath.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Aftermath.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fbfWatAl3Bitn4PlTHhn1g-USo0X-Br1
+#EXTINF:0, 13 - Xin.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Xin.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AicBo1bynYOG3FbLsIsjpaeWNWdnNVCq
+#EXTINF:0, 14 - Faces.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Faces.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YtrGmU8_SFzYr2nIsjxDQ0JKz4_C3kNT
+#EXTINF:0, 15 - Risk and Reward.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Risk%20and%20Reward.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YNVOWFmWtfFzwNwJ46FLxqiTT7Sq0D9c
+#EXTINF:0, 16 - Believe.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Believe.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EImm1Lv78E2aUajDYwskc2cKikS3yjSb
+#EXTINF:0, 17 - Breakdown.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Breakdown.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OeL3MEG219vfSg15mZSp4L25rkNkhuMG
+#EXTINF:0, 18 - Trampoline.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Trampoline.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KAswNSRD1OQJ00n-NRf3PYk1tazPeJxW
