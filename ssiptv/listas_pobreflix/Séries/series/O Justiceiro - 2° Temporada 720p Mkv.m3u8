@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: O Justiceiro - 2° Temporada 720p Mkv
+#EXTINF:0, 1. Briga de bar.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.%20Briga%20de%20bar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f8-BRIEm42drKrxetV9P1YAUWo1PJPnz
+#EXTINF:0, 10. Coração sombrio.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10.%20Cora%C3%A7%C3%A3o%20sombrio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FEzAXFMGmHkq_oomsPS4rY9S7dX9ml3y
+#EXTINF:0, 11. O abismo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11.%20O%20abismo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1H8SRnkKJa7QGjWJ9Kt5mi1GoWIelfqPD
+#EXTINF:0, 12. Rota de colisão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12.%20Rota%20de%20colis%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GBODB-yhQy8QONdyRvsoMKKD8pM1Qiaw
+#EXTINF:0, 13. A tormenta.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13.%20A%20tormenta.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vHuKnluauRyupuWhIqLDt2rLBLWbziPm
+#EXTINF:0, 2. Lutar ou fugir.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.%20Lutar%20ou%20fugir.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cURgAVBnt1flS4t2wVxJ1pZcnILIhEEX
+#EXTINF:0, 3. Agitar a água.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.%20Agitar%20a%20%C3%A1gua.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OkvsO8xMRwG9DLs6K0OW-w6lxnt4iLJ3
+#EXTINF:0, 4. Cicatrizes do passado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/4.%20Cicatrizes%20do%20passado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18GpLfmPP8obZVQ4WLWYL55N_vdPdkSty
+#EXTINF:0, 5. O jogo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/5.%20O%20jogo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OvUeXvVrAeUlJccYHiC4jIVD6ouUq0W5
+#EXTINF:0, 6. Nakazat.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/6.%20Nakazat.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PM-b_G8hjL4E4ludQaTBg2C5WoFbiZZ0
+#EXTINF:0, 7. Um dia ruim.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/7.%20Um%20dia%20ruim.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R2yvypA6UKs9W3waaV5_jWGksiA1CpoM
+#EXTINF:0, 8. O protetor do meu irmão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8.%20O%20protetor%20do%20meu%20irm%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19EbFTqwLL2Dc22osV2WCcaorewADm5tH
+#EXTINF:0, 9. A recompensa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/9.%20A%20recompensa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sCh5f9W7sry6a4ceuZBi2W0FTkOxmOvY

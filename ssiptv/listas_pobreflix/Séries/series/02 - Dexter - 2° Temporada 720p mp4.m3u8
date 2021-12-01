@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - Dexter - 2° Temporada 720p mp4
+#EXTINF:0, S02x01.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x01.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IFHDZ3CgaFDZQAcYZwRWh9ttXNASSX_h
+#EXTINF:0, S02x02.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x02.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xYjN4qkAJNoVkSI7p4yFGxZlFnnbzwPH
+#EXTINF:0, S02x03.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x03.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14Z8bbdhV8ofg2AgI1wN5nXJuTQOPpKK-
+#EXTINF:0, S02x04.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x04.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PkcfNzj5KLftIZOKVfRxJiuJH4t64oGE
+#EXTINF:0, S02x05.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x05.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NMnqZOxMja0FClEZQMFpw95o4jp1f0TV
+#EXTINF:0, S02x06.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x06.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kCZK1Vl9JsXRg74xV5crvYISWbNn9CcS
+#EXTINF:0, S02x07.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oP4Be4_Lw2gVFXl-pAZs6rjlXB4FK56j
+#EXTINF:0, S02x08.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sY8q-IcNASe36jEOFXfqahbGrZ6b98oP
+#EXTINF:0, S02x09.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j92j4NCR1NbAe--kQeug3lKzdsFQgSqE
+#EXTINF:0, S02x10.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ac9fny8iOBnFJxVCGFh5yIGFS-WT5nZk
+#EXTINF:0, S02x11.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x11.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iZBC4EINP8GlEkeTMi8nHQtJ4-B8mQtO
+#EXTINF:0, S02x12.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x12.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QMt5QSxp_LhoH_xJBfHvNMrua37XpO8I

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Ghoul - Trama Demoníaca 1ª Temporada (2018) 1080p Mkv
+#EXTINF:0, 1. O fogo que não queima.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.%20O%20fogo%20que%20n%C3%A3o%20queima.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Jdb14VQxnVB2qQ8MzFdTGBSRRgYcegts
+#EXTINF:0, 2. Os pesadelos começarão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.%20Os%20pesadelos%20come%C3%A7ar%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IYprtHZa3NQZk6od0e89Y4Gfs-Atb5JK
+#EXTINF:0, 3. Revele a culpa e coma a carne deles.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.%20Revele%20a%20culpa%20e%20coma%20a%20carne%20deles.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZWBACmdKIUZs-AcXzmxdK3gAXeWIVkvN

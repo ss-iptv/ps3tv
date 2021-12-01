@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 04 - Smallville - 4° Temporada 720p Mp4
+#EXTINF:0, 03 - Fachada.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Fachada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PeW9McDX-n2t8Ga_M9BRy0n5MCdmJhd6
+#EXTINF:0, 4x01 - Cruzada.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x01%20-%20Cruzada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZlgYLc1BLAzDsjGizolqYgc9L3XBSQr-
+#EXTINF:0, 4x02 - Final.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x02%20-%20Final.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fAbheXgdjH81XoYBhcUNpfo5tzklO91c
+#EXTINF:0, 4x04 - Devoção.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x04%20-%20Devo%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UHR5IjXESeDChh_NNRq8EMdIFsS35BA2
+#EXTINF:0, 4x05 - Fugindo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x05%20-%20Fugindo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PjdwcwCVdH6yAao5U4q-PyqqNbLrGbuS
+#EXTINF:0, 4x06 - Transferência.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x06%20-%20Transfer%C3%AAncia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1L1OyQa7XpzO7r1VkOqoQOZhjCwRe0w5x
+#EXTINF:0, 4x07 - Azar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x07%20-%20Azar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XQ6BFpptC34YKNBDaIRNoah_godm7K2M
+#EXTINF:0, 4x08 - Feitiço.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x08%20-%20Feiti%C3%A7o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BctIuk0iQfRrGzJ3PhFlwxAsq7AfmDrS
+#EXTINF:0, 4x09 - Preso.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x09%20-%20Preso.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JdpKp4W3r8p9IVQYMs0TN3t4pW-AuWWq
+#EXTINF:0, 4x10 - Susto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x10%20-%20Susto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R9SC1HjErEIyt7Na5Do74rBK02h9SdfR
+#EXTINF:0, 4x11 - Em Perigo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x11%20-%20Em%20Perigo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lrzJKO1SIsW9ZSKHNo9CtcXBVprschWH
+#EXTINF:0, 4x12 - A Excluída.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x12%20-%20A%20Exclu%C3%ADda.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CMuuqNR89FBj2JlnGWpVQwGRnVDhtfbK
+#EXTINF:0, 4x13 - O Novato.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x13%20-%20O%20Novato.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ul4QXf2rT9COZ3N8EnvlH0yWmztLLFP1
+#EXTINF:0, 4x14 - Krypto - O Supercão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x14%20-%20Krypto%20-%20O%20Superc%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1C2VpdIWyqZarcEBd5V35QXKm2L28Ux0I
+#EXTINF:0, 4x15 - O Que é Sagrado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x15%20-%20O%20Que%20%C3%A9%20Sagrado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13MBer0K_YSSCaZlv088tz8EDWK-CXauU
+#EXTINF:0, 4x16 - Minha Irmã.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x16%20-%20Minha%20Irm%C3%A3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19vNWm0qupLverBosBkqgG8xzoos1IeE7
+#EXTINF:0, 4x17 - O Vilão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x17%20-%20O%20Vil%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xS4-y7nKSs3lV1V3X_iTIzY4WnfLQ-WF
+#EXTINF:0, 4x18 - O Espírito.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x18%20-%20O%20Esp%C3%ADrito.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YW8DDpVfiHt1hA3artQrbtlkPBKfuI6N
+#EXTINF:0, 4x19 - Amnésia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x19%20-%20Amn%C3%A9sia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UnrZwHU3QkWuH6B7npAEHO2yqrLyyk5G
+#EXTINF:0, 4x20 - Envelhecimento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x20%20-%20Envelhecimento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1k4M0XzFfunorme19YDnPxh95q7KNvUFM
+#EXTINF:0, 4x21 - Eterno.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x21%20-%20Eterno.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lO7-uS5eR2ewUTv-4kTJ4EQnMEVqU3ZN
+#EXTINF:0, 4x22 - Formatura.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x22%20-%20Formatura.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=119rK9F-y4YQrTEqdbZ4ZglI2lPnXzwr2

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Game of Thrones - 1ª Temporada (2011) 720p Dublado
+#EXTINF:0, 01 - O Inverno Está Chegando.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Inverno%20Est%C3%A1%20Chegando.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lrqzJidoLl5fT-2ekK-ZKEJFWBsGtsvG
+#EXTINF:0, 02 - A Estrada do Rei.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20A%20Estrada%20do%20Rei.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ADxYP6vG98J5wKafi6B5DAqMuk1ZpLti
+#EXTINF:0, 03 - Lorde Snow.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Lorde%20Snow.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T0Ktz46WMU2Og9ZqWZRwuimWu8BkM09D
+#EXTINF:0, 03 - Lorde Snow.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Lorde%20Snow.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E19KbcdHO15ZRmDEaKiSJz9J-FuovoA_
+#EXTINF:0, 04 - Aleijados, Bastardos e Coisas Partidas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Aleijados,%20Bastardos%20e%20Coisas%20Partidas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eAvR3N7rAFkErJhGd3OszXARcOzcxpVi
+#EXTINF:0, 05 - O Lobo e o Leão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Lobo%20e%20o%20Le%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lyOYv5PJfno1fNRig-9w6MNXNj8Dj89P
+#EXTINF:0, 06 - Uma Coroa Dourada.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Uma%20Coroa%20Dourada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g1Zus4rZOIBjeWFkzRjebQEpNYIyFtQM
+#EXTINF:0, 07 - Ganhar ou Morrer.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Ganhar%20ou%20Morrer.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-jjLjzgE4cHXx6cKT0lmSdQyL5tK55cl
+#EXTINF:0, 08 - A Ponta Afiada.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20A%20Ponta%20Afiada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tDZkKqo8GtvqDZeWEH1Fq4x12iIHVcby
+#EXTINF:0, 09 - Baelor.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Baelor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ic2zxM0cb6FYkFVaRWI0obU4aIFowhqR
+#EXTINF:0, 10 - Fogo e Sangue.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Fogo%20e%20Sangue.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uL4-nVCAzeVuOMeBsnHeAJjQbIuZHTfB

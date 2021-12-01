@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - 13 Reasons Why - 1° Temporada 720p Mp4
+#EXTINF:0, S01E01 720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E01%20720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WR8m3O2VZMQNtEsaX9dym_9bNgRX0sks
+#EXTINF:0, S01E02.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E02.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KwgCQ_t8S7Jgc3siM4RSMZipr9xG1ft7
+#EXTINF:0, S01E03.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E03.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16Y95SnJBDxPKuKx7LPbllDbG3pkuIxPe
+#EXTINF:0, S01E04.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E04.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l-e2l7pASiANldFFrO0XTl8sCxXq7LiX
+#EXTINF:0, S01E05.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E05.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JICAOCABUvcWL8FkbtBLMLNXWaV7ehl0
+#EXTINF:0, S01E06.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E06.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=183G0Cn52NO-WpnaRSoumOAfoRgC5cSPy
+#EXTINF:0, S01E07.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E07.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1po303FWkLhUsRENkpBtu6nDdOatox8p9
+#EXTINF:0, S01E08.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E08.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cGwXD452YDTUArz_-lhULUDJdgxJzRPE
+#EXTINF:0, S01E09.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E09.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Y6U9Ne-d08JQ-OfTxU0DL4HXDXYjESTS
+#EXTINF:0, S01E10.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E10.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Co_SGOwUHR7n7I75ItpfMSd5RvdKNmao
+#EXTINF:0, S01E11.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E11.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qZX_GFq3Q-WYZRItLGTXVRNeJCL72T-q
+#EXTINF:0, S01E12.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E12.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MnNvLAk2z-OqDIn8_81CrqFuelkJtQsx
+#EXTINF:0, S01E13.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E13.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SJtmS7_Rey781TjiCCf9U6nD-_Ay_Mz8

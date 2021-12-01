@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dois Homens e Meio - 04ª Temporada
+#EXTINF:0, 4x01 - Trabalhando Para Calígula.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x01%20-%20Trabalhando%20Para%20Cal%C3%ADgula.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rcXl13LpkQ0je2Vw9oUiUYRcf704iSsR
+#EXTINF:0, 4x02 - Arrependimento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x02%20-%20Arrependimento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18bFdnBXS3RxPHltRSXl_RVT-f1wWppi0
+#EXTINF:0, 4x03 - O Mar É Traiçoeiro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x03%20-%20O%20Mar%20%C3%89%20Trai%C3%A7oeiro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jlkoSdMPgy4iZGY4lhUOgow2d5TNCNZ1
+#EXTINF:0, 4x04 - Separação do Cão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x04%20-%20Separa%C3%A7%C3%A3o%20do%20C%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e19CXG7gh1Ecatt3-TnOHyod-jRuHwFq
+#EXTINF:0, 4x05 - Casamento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x05%20-%20Casamento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fiyMuJwu3-Eot89L10FEVXCQ5ZMVhb3h
+#EXTINF:0, 4x06 - Desculpa Pela Frivolidade.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x06%20-%20Desculpa%20Pela%20Frivolidade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13kbMDORBpweAMSt0okGYrBVTUgM_BPkA
+#EXTINF:0, 4x07 - Por Grávidas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x07%20-%20Por%20Gr%C3%A1vidas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JtOG8J3MHTZ4O3JQBAXFbZsyZKXt_fTJ
+#EXTINF:0, 4x08 - Soltem Os cachorros.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x08%20-%20Soltem%20Os%20cachorros.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1agjLVEveotcLpnUKGH1Lj2jTYE__LCWV
+#EXTINF:0, 4x09 - Sozinho Em Casa.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x09%20-%20Sozinho%20Em%20Casa.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K2SkFESYCNY4h_BgmcYimPgZK9gXxobD
+#EXTINF:0, 4x10 - Dependência.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x10%20-%20Depend%C3%AAncia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fV6KFZLzApCrYqmfOgddZ2xhyM_oBszh
+#EXTINF:0, 4x11 - Gemada No Natal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x11%20-%20Gemada%20No%20Natal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1z9QcPfe2m_X4mUfQnDTuyCPetMJWL6C5
+#EXTINF:0, 4x12 - Namoro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x12%20-%20Namoro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16bp0zudM-MIQVR22bw9syeBoqFl-hF75
+#EXTINF:0, 4x13 - Flagrantes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x13%20-%20Flagrantes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1flINP45o2owwWPod_n5WnNL8voV1_cVD
+#EXTINF:0, 4x14 - Nova Vizinhança.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x14%20-%20Nova%20Vizinhan%C3%A7a.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17Cr_xG2uSsyfc4Gjf7jZVLoayNmSPWSg
+#EXTINF:0, 4x15 - Querida Perseguidora.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x15%20-%20Querida%20Perseguidora.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GP4C0NcB6j_V-Kik8TQoMfRT-trbgQ7h
+#EXTINF:0, 4x16 - Juventude.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x16%20-%20Juventude.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SQCkqdfZuGoB4K-M8FkS6shN-Q-GZXyR
+#EXTINF:0, 4x17 - Família.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x17%20-%20Fam%C3%ADlia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CZrJLDJDBcXAG3Q9fhocBwETFcaDuyyQ
+#EXTINF:0, 4x18 - Não Chove Aqui Dentro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x18%20-%20N%C3%A3o%20Chove%20Aqui%20Dentro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LFjF9prfxX9TEYKh4CJZspvhBvxRzdsY
+#EXTINF:0, 4x19 - A Cunhada.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x19%20-%20A%20Cunhada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kroRcDilj203wllakyl1jnX9PZkTPzR4
+#EXTINF:0, 4x20 - Cerimônia De Casamento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x20%20-%20Cerim%C3%B4nia%20De%20Casamento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Jr-K9ENtPkcmaMrDvUTOrQbjjWfJE6nd
+#EXTINF:0, 4x21 - Será Que Ele É.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x21%20-%20Ser%C3%A1%20Que%20Ele%20%C3%89.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AHvJrTs0tjZB5o0LaMy2-LvxIIt5wbjl
+#EXTINF:0, 4x22 - Sorte De Principiante.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x22%20-%20Sorte%20De%20Principiante.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nASQIOB_ekpSOhR65xg31D5ZTnpMQCCV
+#EXTINF:0, 4x23 - Sorte De Principiante.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x23%20-%20Sorte%20De%20Principiante.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jhlJGehncHgam_I3kM8JGr5QnDG6MHUZ
+#EXTINF:0, 4x24 - Prostitutas E Sorvetes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4x24%20-%20Prostitutas%20E%20Sorvetes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jMFwc2Ag1s5CNDEt-HNWRYUDtXT-YQ9K

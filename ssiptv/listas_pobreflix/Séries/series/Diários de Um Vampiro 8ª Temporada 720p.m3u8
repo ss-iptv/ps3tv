@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diários de Um Vampiro 8ª Temporada 720p
+#EXTINF:0, 01 - Olá, Irmão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Ol%C3%A1,%20Irm%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14j_JQjEA0eQZ7NT3Ua3-PvE1AgEgRJ5n
+#EXTINF:0, 02 - Hoje Será Diferente.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Hoje%20Ser%C3%A1%20Diferente.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HoHuy-OxSiEoZVWfuRGSGI4SMw2YHNBc
+#EXTINF:0, 03 - Você Decidiu Que Eu Valia Ser Salvo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Voc%C3%AA%20Decidiu%20Que%20Eu%20Valia%20Ser%20Salvo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ib2hDEF8cztmD17mVGFOq5m9YrDyBDvT
+#EXTINF:0, 04 - Uma Eternidade de Miséria.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Uma%20Eternidade%20de%20Mis%C3%A9ria.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Y4bpW0a1Kq5ZOsDjaIvYR870bvynyjSz
+#EXTINF:0, 05 - Voltar Para Casa Foi um Erro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Voltar%20Para%20Casa%20Foi%20um%20Erro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ryIZCo0priOBzHJpNwz7w_uxm2RJcXBN
+#EXTINF:0, 06 - Desviando Pela Floresta o Caminho Para o Inferno.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Desviando%20Pela%20Floresta%20o%20Caminho%20Para%20o%20Inferno.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19aCiDmLIWUE28H3utXDyUSEwiti57yJ3
+#EXTINF:0, 07 - Na Próxima Vez Que Eu Machucar Alguém, Pode Ser Você.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Na%20Pr%C3%B3xima%20Vez%20Que%20Eu%20Machucar%20Algu%C3%A9m,%20Pode%20Ser%20Voc%C3%AA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19j6HrgAREaOU78k5l4hEjRfeatwwtjlU
+#EXTINF:0, 08 - Uma História Juntos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Uma%20Hist%C3%B3ria%20Juntos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O7G7e3mbdpscFI9V0FUlJ2WCEV9JvBhf
+#EXTINF:0, 09 - A Intimidade de um Toque.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20A%20Intimidade%20de%20um%20Toque.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1--mDYMpp-NO-S2fJvlSHY-9Dl1isuf4i
+#EXTINF:0, 10 - Nostalgia é uma Droga.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Nostalgia%20%C3%A9%20uma%20Droga.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rregvi_ucRh7Ot6_XjnDg4bxLFihCc5_
+#EXTINF:0, 11 - Você Escolheu Ser do Bem.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Voc%C3%AA%20Escolheu%20Ser%20do%20Bem.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eXjI7WxSoMy2z95zZE8QGrhcUS7bo4dP
+#EXTINF:0, 12 - O Que Você é.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20O%20Que%20Voc%C3%AA%20%C3%A9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TPsStxiFl2K3OdVJixuj7GXpnPldNVfk
+#EXTINF:0, 13 - Mentiras Te Alcançarão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Mentiras%20Te%20Alcan%C3%A7ar%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G9Pa86TGw6semf38scIPvvE50qpVbMnH
+#EXTINF:0, 14 - Uma Estrada e Tanto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Uma%20Estrada%20e%20Tanto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ExdxsqRi922Mr-HZGy4z_KPRpHaVN_5T
+#EXTINF:0, 15 - Um Casamento Em Junho.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Um%20Casamento%20Em%20Junho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vhFxl3qGarbj5mpkl-kSKIq0P3YbGJ4w
+#EXTINF:0, 16 - Uma Vida Épica.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Uma%20Vida%20%C3%89pica.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PweAk-_56ckG39E0ZKadGUtpVmYJF8_I
+#EXTINF:0, Episódio Especial - Diários de um Vampiro, Para Sempre Seu.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Epis%C3%B3dio%20Especial%20-%20Di%C3%A1rios%20de%20um%20Vampiro,%20Para%20Sempre%20Seu.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XRJTRBgFTGt4B5G6BqdPH1BSSczFmVp0

@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diários de Um Vampiro 3ª Temporada 2011 DUAL AUDIO 720p
+#EXTINF:0, 01 - O Aniversário.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Anivers%C3%A1rio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OJ15k2lhBvTewZ34Z6mFmw-q66OdeJ6f
+#EXTINF:0, 02 - O Híbrido.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20O%20H%C3%ADbrido.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QgwVy-u5pCRZzGk_NLYG6sVAJoQLWZZ0
+#EXTINF:0, 03 - Fim de Caso.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Fim%20de%20Caso.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lq64omyay3VFmGuZjC8d4ihkb9nX8JR-
+#EXTINF:0, 04 - Comportamento Incômodo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Comportamento%20Inc%C3%B4modo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15gEEkumYuHY7d-LjhbzhQ-jYqJ1EuifL
+#EXTINF:0, 05 - O Reconhecimento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Reconhecimento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10SHkTn7gQCQx0CytJjptGmpf64QYuBun
+#EXTINF:0, 06 - Tem O Cheiro Da Juventude.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Tem%20O%20Cheiro%20Da%20Juventude.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZSUGwmSqxKXOf6coTLNaiTadLNw-BOar
+#EXTINF:0, 07 - Mundo Fantasma.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Mundo%20Fantasma.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WmoeFw9MEZqt-vgix-vBB1SmXhq8dCwp
+#EXTINF:0, 08 - Gente Comum.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Gente%20Comum.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FaA8BVyYB9S061NOGapSYgVXKdp4Flw5
+#EXTINF:0, 09 - O Baile.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20O%20Baile.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XimAZdoJhdYGhshflvwGabktBuJC1n3c
+#EXTINF:0, 10 - A Nova Ordem.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20A%20Nova%20Ordem.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Q4wqqJOVnGykcm7cP3eowqwjHyChPW9o
+#EXTINF:0, 11 - Nossa Cidade.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Nossa%20Cidade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m1cqaPEQWWngLrf7k2uUwPNo2CBC6ITA
+#EXTINF:0, 12 - Os Laços Que Unem.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Os%20La%C3%A7os%20Que%20Unem.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17-FnbjGzgiEUVf7IQK6OoNnswGiwTk3g
+#EXTINF:0, 13 - Que Venham Os Mortos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Que%20Venham%20Os%20Mortos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17M_yVE01WQjr7o78uHYPBf-3njiViSX-
+#EXTINF:0, 14 - Ligações Perigosas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Liga%C3%A7%C3%B5es%20Perigosas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fwA56ioIEFOUX0AErBwMilluozt5Z7YX
+#EXTINF:0, 15 - Todos Os Meus Filhos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Todos%20Os%20Meus%20Filhos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BcVULSBIR-VTDLdPw33KjyQmXbTXNzbi
+#EXTINF:0, 16 - 1912.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%201912.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SGqg7CDyAQAegmH7pI8YNI44wDUClFPq
+#EXTINF:0, 17 - Abrindo Caminho.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Abrindo%20Caminho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ELKOFCuADnbHsJoiDutPS9FyWyXL2t_4
+#EXTINF:0, 18 - A Morte De Um.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20A%20Morte%20De%20Um.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_mxaZ2XgOJDvpcxh72Bj9SnaXANtQy5M
+#EXTINF:0, 19 - Coração Da Escuridão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Cora%C3%A7%C3%A3o%20Da%20Escurid%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1c8yy-F7cK9Z3NKFPXG_ol9yKgtRAgqUW
+#EXTINF:0, 20 - Não Seja Gentil.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20N%C3%A3o%20Seja%20Gentil.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qBRVGNMhkIOg-fa8Zkr6ctrWk_YPpraf
+#EXTINF:0, 21 - Antes Do Pôr Do Sol.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Antes%20Do%20P%C3%B4r%20Do%20Sol.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NrAmiTy9VYOgkCm4vzz6TjHIY4Sc-7u5
+#EXTINF:0, 22 - Aqueles Que Partiram.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Aqueles%20Que%20Partiram.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JQUSsZt9rPMyVSiFoQO7hOM6opww1ade

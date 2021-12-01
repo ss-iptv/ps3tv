@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 5ª Temporada
+#EXTINF:0, The Blacklist - S05E01 - Smokey Putnum.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E01%20-%20Smokey%20Putnum.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xy6ji6a7_vTHBic9rpAJUVYBihJackHm
+#EXTINF:0, The Blacklist - S05E02 - Greyson Blaise.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E02%20-%20Greyson%20Blaise.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10Ep0RuxH0X73rRUMKOcNxROevnsdhHaU
+#EXTINF:0, The Blacklist - S05E03 - Miss Rebecca Thrall.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E03%20-%20Miss%20Rebecca%20Thrall.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aJigJTZ-A1SNpe_a31PJB4uMvjE1w69f
+#EXTINF:0, The Blacklist - S05E04 - The Endling.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E04%20-%20The%20Endling.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MAgdiUzN2uVYuWtTLKMPozgrDbjCOUh1
+#EXTINF:0, The Blacklist - S05E05 - Ilyas Surkov.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E05%20-%20Ilyas%20Surkov.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qFjafMgCNhcLyS0gNFAp-8QwWvzr8j4Y
+#EXTINF:0, The Blacklist - S05E06 - The Travel Agency.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E06%20-%20The%20Travel%20Agency.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HEJOhA9QLrLvWSdqINJGwT565o_f5IVr
+#EXTINF:0, The Blacklist - S05E07 - The Kilgannon Corporation.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E07%20-%20The%20Kilgannon%20Corporation.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WLPVhRDsupSYugDXZF7M1xAMCKgmYKjn
+#EXTINF:0, The Blacklist - S05E08 - Ian Garvey (1).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E08%20-%20Ian%20Garvey%20(1).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AKBj7dquaFlvlmBm_fSLa0kfzcoHW6ZW
+#EXTINF:0, The Blacklist - S05E09 - Ruin.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E09%20-%20Ruin.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IzKjdtYSDQGuKvB1AaIRYbQ-HDg6EtUo
+#EXTINF:0, The Blacklist - S05E10 - The Informant.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E10%20-%20The%20Informant.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rr4vfL5eiAPLTq7izRgAYzv_6RPw5PAk
+#EXTINF:0, The Blacklist - S05E11 - Abraham Stern.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E11%20-%20Abraham%20Stern.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nu3yBxoDvGJT0N6M8BoOZDzHIlP5jN5u
+#EXTINF:0, The Blacklist - S05E12 - The Cook.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E12%20-%20The%20Cook.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LUzErY2JkYj_NcBM5IBnDAB2ovkDVfKu
+#EXTINF:0, The Blacklist - S05E13 - The Invisible Hand.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E13%20-%20The%20Invisible%20Hand.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1z0ygaxLHUdZ8PPGcqVBVrXl97XT1lTtf
+#EXTINF:0, The Blacklist - S05E14 - Mr. Raleigh Sinclair III.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E14%20-%20Mr.%20Raleigh%20Sinclair%20III.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FN2OsvfYnZVwk3AhiDTQzovbG8N4XqMK
+#EXTINF:0, The Blacklist - S05E15 - Pattie Sue Edwards.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E15%20-%20Pattie%20Sue%20Edwards.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18dbJ3op6CAj1MsI2rzaKjebhIuFtVja9
+#EXTINF:0, The Blacklist - S05E16 - The Capricorn Killer.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E16%20-%20The%20Capricorn%20Killer.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Jk56Yt49svaGM3kL9Aycfj_viJEQ9-O0
+#EXTINF:0, The Blacklist - S05E17 - Anna-Gracia Duerte.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E17%20-%20Anna-Gracia%20Duerte.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SDvtyoXbnJWlm2NhxAso7p2WSxI-yIdS
+#EXTINF:0, The Blacklist - S05E18 - Zarak Mosadek.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E18%20-%20Zarak%20Mosadek.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XHeLIJcE_qAdK8aT1Rvne8w_RT_wbKIk
+#EXTINF:0, The Blacklist - S05E19 - Ian Garvey Conclusion (2).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E19%20-%20Ian%20Garvey%20Conclusion%20(2).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BMP61KIvGUElxArdlGjmXH6YhEOtYRLs
+#EXTINF:0, The Blacklist - S05E20 - Nicholas T. Moore.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E20%20-%20Nicholas%20T.%20Moore.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hz4lP2Z6AImG7XRZiPob6_QGJDdDbRJI
+#EXTINF:0, The Blacklist - S05E21 - Lawrence Dane Devlin.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E21%20-%20Lawrence%20Dane%20Devlin.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XITU_9zDwK_3DmNE7dG1BEkzpzfkXd41
+#EXTINF:0, The Blacklist - S05E22 - Sutton Ross.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S05E22%20-%20Sutton%20Ross.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HCbrTkRRHvQyuSUibyW4QRjR3FlLbavv

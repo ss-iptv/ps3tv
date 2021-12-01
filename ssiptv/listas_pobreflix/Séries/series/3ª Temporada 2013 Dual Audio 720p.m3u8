@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 3ª Temporada 2013 Dual Audio 720p
+#EXTINF:0, 01 - O Coração do Verdadeiro Crédulo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Cora%C3%A7%C3%A3o%20do%20Verdadeiro%20Cr%C3%A9dulo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jpRu3cndbnzSqU-EXL0QjoqGysN_zKUU
+#EXTINF:0, 02 - Menina Perdida.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Menina%20Perdida.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WxqMV3ZKpb3M6x2l23wIaQh_Tr_ndV4y
+#EXTINF:0, 03 - Uma Fada Comum.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Uma%20Fada%20Comum.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E-Rym4TUcJafW3ma5kua9wFNnJFbRFye
+#EXTINF:0, 04 - Maus Hábitos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Maus%20H%C3%A1bitos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18s0hQMqDlIzBOkfFV1puGy_rUl1mFHWA
+#EXTINF:0, 05 - Agir Corretamente.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Agir%20Corretamente.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DJA1zoFWwIXLB_nqeINwMCShqFOvjaya
+#EXTINF:0, 06 - Ariel.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Ariel.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VDA2GWOOpd7Tee8_6pkhcDKv4HFqY72a
+#EXTINF:0, 07 - Buraco Negro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Buraco%20Negro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l2zw4AKfjYJv9mDwtIoASTMasO7sAJg2
+#EXTINF:0, 08 - Pense em Coisas Bonitas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Pense%20em%20Coisas%20Bonitas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IrvONwxAVf31gNJcKjoRhH-va7kmtCxV
+#EXTINF:0, 09 - Salvar Henry.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Salvar%20Henry.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17hFFc4NYhXeVf06kyWf5ek5csqg8ldRD
+#EXTINF:0, 10 - A Nova Terra do Nunca.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20A%20Nova%20Terra%20do%20Nunca.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XGi0GYG3j6mjP8QJfU9FEkLLDlrxCeFg
+#EXTINF:0, 11 - Voltando Para Casa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Voltando%20Para%20Casa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Edau_XpLNik1eeK32JVemK4LYtaBUWbr
+#EXTINF:0, 12 - Serenata de Nova York.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Serenata%20de%20Nova%20York.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zU851peM7OVsPPUkZSzVHPGgjJRJhS17
+#EXTINF:0, 13 - Caça à Bruxa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Ca%C3%A7a%20%C3%A0%20Bruxa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1C9Fd6I1zQkd2KDISzok16-xv2Zt0QnJA
+#EXTINF:0, 14 - A Torre.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20A%20Torre.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=184JTLXF27i_J_Rmm4eeyCaBOD5RHlAOY
+#EXTINF:0, 15 - Mentes Silenciosas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Mentes%20Silenciosas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-ZWVDdcwDxnIC9ko0gtyo7ZRrLmZHKOD
+#EXTINF:0, 16 - Não é Fácil Ser Verde.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20N%C3%A3o%20%C3%A9%20F%C3%A1cil%20Ser%20Verde.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gXD6UXCb03gsQhPudONOfstJDmiQb_Uu
+#EXTINF:0, 17 - Jolly Roger.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Jolly%20Roger.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bAHaQtwAySdx86TkF35JCdkkIZeCx_Zt
+#EXTINF:0, 18 - Passado Obscuro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Passado%20Obscuro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1X751KI05RC2P3Cd_pd2NMt2NJ4HMvyIq
+#EXTINF:0, 19 - Uma Coisa Curiosa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Uma%20Coisa%20Curiosa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NnA3OWC74TxXtTJoBL_cclKe82lCyeii
+#EXTINF:0, 20 - Um Só Coração.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Um%20S%C3%B3%20Cora%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1abz1XOkGoo16hurkNM6BHp1V_3B6zU8B
+#EXTINF:0, 21 - Portal do Tempo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Portal%20do%20Tempo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ho5jCK0ycyKF9RIHRnzDqoZMDWx1Uz36
+#EXTINF:0, 22 - O Lar é o Melhor Lugar.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20O%20Lar%20%C3%A9%20o%20Melhor%20Lugar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fSXn8p0r0hVobf7aQO8UAXRz94_OLD96

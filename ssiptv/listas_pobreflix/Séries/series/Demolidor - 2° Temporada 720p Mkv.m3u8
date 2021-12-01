@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Demolidor - 2° Temporada 720p Mkv
+#EXTINF:0, S02E01.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E01.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hlNL0uW5ohqRIeHbfOI6YtID6pa-DiAT
+#EXTINF:0, S02E02.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E02.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1acUuFZ7oWtaOf4CqJRC09gh0M5ras0y-
+#EXTINF:0, S02E03.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E03.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lDesmTbwCLoEZCWOOjuwHrH3wEz1lnzO
+#EXTINF:0, S02E04.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E04.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u828-lWoBg34PhGJwASrE_qeLGYXfELj
+#EXTINF:0, S02E05.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E05.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1avHmqmH6R6z-6L11_jc9m0OmjG2a872L
+#EXTINF:0, S02E06.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E06.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WniKvf8lFtXacZnmqNjgQ1bdVdHdYJSO
+#EXTINF:0, S02E07.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E07.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U2yTFNYivI4I8xoKFhAZC_ZPjwhlMwxS
+#EXTINF:0, S02E08.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E08.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vA4RIfA1X3YQy29tDjCIwr-lXeYMXYKl
+#EXTINF:0, S02E09.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E09.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SQP88JiRMMCeM1wH7Oh-waraJPKVQwoY
+#EXTINF:0, S02E10.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K44Sw3yGObi9EM11FGWmIt2sY7sH8nWL
+#EXTINF:0, S02E11.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E11.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u76n2wzrzqLF-AA3GiNTSxXT-gi75gcQ
+#EXTINF:0, S02E12.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E12.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j0dadvavkuSOhOJ1d4WADkLYIhMgToz2
+#EXTINF:0, S02E13.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E13.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N8nzNqQ_OLpc9PPNK5RzyPhhT3JBa-cM

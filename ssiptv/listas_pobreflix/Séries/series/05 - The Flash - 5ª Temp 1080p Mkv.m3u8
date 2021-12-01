@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 05 - The Flash - 5ª Temp 1080p Mkv
+#EXTINF:0, Cópia de S05E07 - Sejamos Gratos[1080p][dual].mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%20S05E07%20-%20Sejamos%20Gratos%5B1080p%5D%5Bdual%5D.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lxdZwNQVt-mPPXMuYmlWe_tJxEUPc1yC
+#EXTINF:0, S05E01 - Nora[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E01%20-%20Nora%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ueKxNRiLEC8Mr19VOFdISjtMNfpa3-ib
+#EXTINF:0, S05E02 - Bloqueado[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E02%20-%20Bloqueado%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Jp5-TqDZGASa7SheMO3Xx2nXwrz4QzBh
+#EXTINF:0, S05E03 - A Morte do Vibro[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E03%20-%20A%20Morte%20do%20Vibro%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B6iL2or4mCUuGoE2ovXQh0ZvJEi-ryHa
+#EXTINF:0, S05E04 - Notícias de Última Hora[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E04%20-%20Not%C3%ADcias%20de%20%C3%9Altima%20Hora%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QXl9A8z_PvUyBt1bE09VbiTAjtsZqNaW
+#EXTINF:0, S05E05 - Todo Embunecado[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E05%20-%20Todo%20Embunecado%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vJlnyejuY0Xalo0wQZ-2ZSiyTvAM0btj
+#EXTINF:0, S05E06 - A Chegada da Geada[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E06%20-%20A%20Chegada%20da%20Geada%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1A_AZWU1P29yU5EejBCf8AVahdCwfZ-Lw
+#EXTINF:0, S05E08 - O Passado é o Prólogo[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E08%20-%20O%20Passado%20%C3%A9%20o%20Pr%C3%B3logo%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14GBKT0fB9qUoAJ7v1yflkCwsBFg-GIRb
+#EXTINF:0, S05E09 - Túnel do Tempo Parte 1[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E09%20-%20T%C3%BAnel%20do%20Tempo%20Parte%201%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14erHeiB31P-PjFcIviHfyOQUag19rzqR

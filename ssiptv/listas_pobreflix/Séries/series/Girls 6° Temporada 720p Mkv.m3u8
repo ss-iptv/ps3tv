@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Girls 6° Temporada 720p Mkv
+#EXTINF:0, Girls.S06E01.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E01.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w_F8zb1B_Y98FP3heeDHWptIJ5d07Byd
+#EXTINF:0, Girls.S06E02.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E02.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rfl3BIuYvh2tlC5JBTmW7eS_trTmEUK-
+#EXTINF:0, Girls.S06E03.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E03.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iSfqjHQF8NLsfCwRYA2L_KD7RuvOPoUC
+#EXTINF:0, Girls.S06E04.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E04.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1p31K2ONVNpvWbRWjT7tlvv8dauTQkNtQ
+#EXTINF:0, Girls.S06E05.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E05.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S7v7bE8gz2GUD4pJnFsJOHJaQosLJq-z
+#EXTINF:0, Girls.S06E06.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E06.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PB0S-yqMynMGjjaZDifKpvcZpU6vDlAU
+#EXTINF:0, Girls.S06E07.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E07.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ofCh08zjIUe2Kh9FZymRbB43uvSRfpe4
+#EXTINF:0, Girls.S06E08.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E08.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RbhhZWZg2wD3jWarJc5o_zAHPGqaNrOr
+#EXTINF:0, Girls.S06E08.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E08.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dsHdWpvxIRO6SIaJysrBimC9NDe60B4y
+#EXTINF:0, Girls.S06E09.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E09.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xomTT7Cr4S-WGObNEWYf5BrYuhBHGOHp
+#EXTINF:0, Girls.S06E09.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E09.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UaPodhBKRQ4WACSxvJz15LOPt4ldLGeR
+#EXTINF:0, Girls.S06E10.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Girls.S06E10.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YAe00Pk-qOhKIDtb0q5SU4pzXCwaVzvv

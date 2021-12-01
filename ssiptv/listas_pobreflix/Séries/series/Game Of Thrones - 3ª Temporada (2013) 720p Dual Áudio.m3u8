@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Game Of Thrones - 3ª Temporada (2013) 720p Dual Áudio
+#EXTINF:0, S03E01 - Valar Dohaeris.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E01%20-%20Valar%20Dohaeris.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MpgjELusc9Ac6PG8I55KYtDCVDyLI1iQ
+#EXTINF:0, S03E02 - Dark Wings Dark Words.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E02%20-%20Dark%20Wings%20Dark%20Words.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JkdyVNiGySQGP-H6VhjxBSWADwD_ul6L
+#EXTINF:0, S03E03 - Walk of Punishment.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E03%20-%20Walk%20of%20Punishment.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10QiDOFdFmHSKrfphArivuvEahH7qK59-
+#EXTINF:0, S03E04 - And Now His Watch Is Ended.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E04%20-%20And%20Now%20His%20Watch%20Is%20Ended.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_MiiOY-MIGoHqbAZooDRGNfP5gmfuGqO
+#EXTINF:0, S03E05 - Kissed by Fire.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E05%20-%20Kissed%20by%20Fire.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LR4Aqz7VU4d8Yc2H-fCK_9Dfoz3O8b_H
+#EXTINF:0, S03E06 - The Climb.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E06%20-%20The%20Climb.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_efMAi39NaEV0OJVGKEX9VN4oFja0GyN
+#EXTINF:0, S03E07 - The Bear and the Maiden Fair.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E07%20-%20The%20Bear%20and%20the%20Maiden%20Fair.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vvVUBZsnqChcFEQva5f59GKrFX9OLrBI
+#EXTINF:0, S03E08 - Second Sons.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E08%20-%20Second%20Sons.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Js5bTh4l5ffiNf4kFk0o-E8sLA4XJxxt
+#EXTINF:0, S03E09 - The Rains of Castamere.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E09%20-%20The%20Rains%20of%20Castamere.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15km8P2Q_HA3TjNw2Ml8f4PpwjpRwoC4c
+#EXTINF:0, S03E10 - Mhysa.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S03E10%20-%20Mhysa.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iL1gZiHC0HeJhWt5JXNTs7U8D8ACWAGM

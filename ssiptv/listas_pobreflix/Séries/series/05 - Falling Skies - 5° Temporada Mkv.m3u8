@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 05 - Falling Skies - 5° Temporada Mkv
+#EXTINF:0, 1 - Find Your Warrior.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Find%20Your%20Warrior.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=113xXYlzRkjMRVjSMqNQdq4ReEZ6WklOC
+#EXTINF:0, 10 - Reborn.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Reborn.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D1wnpfS1oLYUVvz5sxUIENqlmsZUA174
+#EXTINF:0, 2 - Hunger Pains.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Hunger%20Pains.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QSNRWqse_3yax8HPQoHeYk2Ptv4B3mdO
+#EXTINF:0, 3 - Hatchlings.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Hatchlings.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aUwrUPpa1gg4NDlwzlcDw33cwd-DhCK6
+#EXTINF:0, 4 - Pope Breaks Bad.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Pope%20Breaks%20Bad.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wkFlbA2MLirlzwjHKshHtFthukUPCZur
+#EXTINF:0, 5 - Non-Essential Personnel.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Non-Essential%20Personnel.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1M5QcGCUxdOs4OfdHvljCnCS5tp99rke-
+#EXTINF:0, 6 - Respite.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Respite.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VJ9L5poTFqIRGi4E4cdlUKcwB4bHROlc
+#EXTINF:0, 7 - Everybody Has Their Reasons.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Everybody%20Has%20Their%20Reasons.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KYV-IXcAwtLcPSQTGIybzbILgiCmWigM
+#EXTINF:0, 8 - Stalag 14th Virginia.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Stalag%2014th%20Virginia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qIjYz5WLjsGgE01OsNOTCHhn8VwS_SuJ
+#EXTINF:0, 9 - Reunion.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Reunion.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bu5H5YtjOiEozeKwf2cltlOYFnjTHoQD

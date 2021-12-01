@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Sex Education 1ª Temporada Completa (2019) 720p Mkv
+#EXTINF:0, S01E01.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E01.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YRDkbSw6PEntVa8YTLiDc9IhE-hS71gZ
+#EXTINF:0, S01E02.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E02.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15hbTbT_cZ5F1eDwylPm1p9HfRzh0wKoL
+#EXTINF:0, S01E03.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E03.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10VB7rTfIvzWPMG3iR5NuNR_E1K3RHD60
+#EXTINF:0, S01E04.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E04.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=142-KMuwx63K8Fqa9ODNqhBZdi_ikySg6
+#EXTINF:0, S01E05.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E05.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1b5yWVwU5U3MygQNhWR8meOKAf6hh1ZAR
+#EXTINF:0, S01E06.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E06.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GRXU659C8CSSG3gb7qnsS6ey-jvbNy-y
+#EXTINF:0, S01E07.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E07.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hPi3dQESNpNZoZNXqpeWKUtb16WaeHUc
+#EXTINF:0, S01E08.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E08.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1c--gcRPT5u7LiARE9vzAQOTg3N2PuxGu

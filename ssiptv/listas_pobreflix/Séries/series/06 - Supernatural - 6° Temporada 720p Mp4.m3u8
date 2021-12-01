@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 06 - Supernatural - 6° Temporada 720p Mp4
+#EXTINF:0, 1 - Exílio na Rua Principal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Ex%C3%ADlio%20na%20Rua%20Principal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cnlptkfcDVyVdTtEFpmJ3l-TLgV03kLw
+#EXTINF:0, 10 - Fogo Enjaulado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Fogo%20Enjaulado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j6WMTghOHdcY73oH-gUQGitL2Ct90fQ8
+#EXTINF:0, 11 - Encontro em Samarra.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Encontro%20em%20Samarra.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jvjjtpDw4k_WGYHlSjZed0AEeCv9wqMP
+#EXTINF:0, 12 - Como Uma Virgem.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Como%20Uma%20Virgem.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hAOYOhJAlqlKTEk506gmDIuac1dWrS_A
+#EXTINF:0, 13 - Imperdoável.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Imperdo%C3%A1vel.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Fzrh_KGp9zTDqnEYm4gcqG9sNss-ZVHf
+#EXTINF:0, 14 - Manequim 3 O Confronto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Manequim%203%20O%20Confronto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bRvXoVZZzW-RU93HKAUF-SPMkKOScovU
+#EXTINF:0, 15 - Outro Universo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Outro%20Universo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Xk0t4_SX8i8EkmtRp1EB-JorTaNuq_yH
+#EXTINF:0, 16 - ...Não Restou Nenhum.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20...N%C3%A3o%20Restou%20Nenhum.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cMBCHGwt4V-5qUKR0n9VZarffETfyjn-
+#EXTINF:0, 17 - Meu Coração Vai Seguir.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Meu%20Cora%C3%A7%C3%A3o%20Vai%20Seguir.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cJOGs6XiwSNmOOSkSuTrAWIjB6xjFv7U
+#EXTINF:0, 18 - Terra de Fronteira.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Terra%20de%20Fronteira.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MsVxlY9WE7n2QkFFbfGKPEMtnmCzmhQb
+#EXTINF:0, 19 - Mamãezinha Querida.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Mam%C3%A3ezinha%20Querida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xOO2-k5HCOs2F1V7sqpc9eiI4gvcY1Cs
+#EXTINF:0, 2 - Dois Homens e Meio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Dois%20Homens%20e%20Meio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1p2o5-zDyutS46_IdbwbiA_H4deL3_3Wy
+#EXTINF:0, 20 - O Homem Que Queria Ser Rei.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20O%20Homem%20Que%20Queria%20Ser%20Rei.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16h9dkgYkB5dDA2n3u7Y6EGoq1pn26mBT
+#EXTINF:0, 21 - Deixa Sangrar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Deixa%20Sangrar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18jC4-jgZGOCD4i4Pofe7Tth1K_GK9CmB
+#EXTINF:0, 22 - O Homem Que Sabia Demais.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20O%20Homem%20Que%20Sabia%20Demais.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1imQWodL0GrnGGCLCRycW6qDrtdvPjoTO
+#EXTINF:0, 3 - O Terceiro Homem.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20O%20Terceiro%20Homem.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DSWETDDxksLL0cA9TInCq8RhqCSZojj9
+#EXTINF:0, 4 - Fim de Semana na Casa do Bobby.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Fim%20de%20Semana%20na%20Casa%20do%20Bobby.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gCwBbcjorjx2OMFy5jcGsvkJrsogUzfk
+#EXTINF:0, 5 - Viva Livre ou no Crepúsculo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Viva%20Livre%20ou%20no%20Crep%C3%BAsculo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=143pi3_OyCLIOa0g1DCjD8xylaqqs50uS
+#EXTINF:0, 6 - Você Não Aguenta a Verdade.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Voc%C3%AA%20N%C3%A3o%20Aguenta%20a%20Verdade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SxbY0H0S4SUSFkw0BXTgbiXtqpHj-Pfj
+#EXTINF:0, 7 - Assuntos de Família.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Assuntos%20de%20Fam%C3%ADlia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yw06cvGkDQKp0mS3yuY_VrBzDTf9axwr
+#EXTINF:0, 8 - Todos os Cães Vão Para o Céu.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Todos%20os%20C%C3%A3es%20V%C3%A3o%20Para%20o%20C%C3%A9u.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hTbpsACCM_r_9sDvROzxExDgP2fHcAms
+#EXTINF:0, 9 - Bata Palmas Se Você Acredita.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Bata%20Palmas%20Se%20Voc%C3%AA%20Acredita.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1okvnybHNckv9pHTm_haA8G0TzY3QvszB

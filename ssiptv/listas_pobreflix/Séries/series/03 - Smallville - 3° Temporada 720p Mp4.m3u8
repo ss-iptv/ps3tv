@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 03 - Smallville - 3° Temporada 720p Mp4
+#EXTINF:0, 3x01 - Exílio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x01%20-%20Ex%C3%ADlio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CVU031QNf_qKoxTcI-7hqmRr_eqNf4Lh
+#EXTINF:0, 3x02- Fênix.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x02-%20F%C3%AAnix.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NuVxmIg1E21CXjm2s4frClOp7PFHri4E
+#EXTINF:0, 3x03 - Extinção.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x03%20-%20Extin%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1huxjZFjQMHiTLYHbNUuYJQ-7KGeBUNmZ
+#EXTINF:0, 3x04 - Adormecido.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x04%20-%20Adormecido.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N3lM9QnuhFZ-RhuvwKDpx6x8jPFv4agg
+#EXTINF:0, 3x05 - O Repórter.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x05%20-%20O%20Rep%C3%B3rter.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KeY1RNcmmr1WxH-hWX49fU3LR6jEItLB
+#EXTINF:0, 3x06 - Relíquia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x06%20-%20Rel%C3%ADquia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cwECsjNuQZZYFGH6u0krTdfhq_U9Vlfk
+#EXTINF:0, 3x07 - Magnetismo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x07%20-%20Magnetismo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qAWmuVcre2LwXYZ3Wcu_B-jzVncQkHd0
+#EXTINF:0, 3x08 - Surto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x08%20-%20Surto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XcOxtjK7Yirg_8RBHeIxi_NWXB2WKWBj
+#EXTINF:0, 3x09 - Sanatório.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x09%20-%20Sanat%C3%B3rio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mz15L_VoiNP_SzwInJGKoEReeazU2BVJ
+#EXTINF:0, 3x10 - Sussurro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x10%20-%20Sussurro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V_9cA7szCd88Seq8URhcirvAJBMdvlcL
+#EXTINF:0, 3x11 - Apagado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x11%20-%20Apagado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rX1sv799amr5bvhzqfKnABnuijl6woXR
+#EXTINF:0, 3x12 - No outro mundo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x12%20-%20No%20outro%20mundo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15nx8PhtbQTNz3kd5_IclOT43rZiZpgcs
+#EXTINF:0, 3x13 - Velocidade.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x13%20-%20Velocidade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N-ET4bNiwYugsB8Fk67lZFNaGijJVqsa
+#EXTINF:0, 3x14 - Obsessão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x14%20-%20Obsess%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1L7b4P1EogA9rCJN6yQEIq2izjiWYkTDa
+#EXTINF:0, 3x15 - Ressurreição.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x15%20-%20Ressurrei%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1y5VbctY3-7ElECIyI6bJlVnpW3YZb9NR
+#EXTINF:0, 3x16 - Crise.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x16%20-%20Crise.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14y0KWQwtGGYlBCfVzwelAf_saxD0g91I
+#EXTINF:0, 3x17 - Legado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x17%20-%20Legado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eTQ65mHhchbKjt8rYW-6TBQRnANxWV4c
+#EXTINF:0, 3x18.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x18.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Vfc_vqEpUhivJb9I-KrQO1guWVaCM_5i
+#EXTINF:0, 3x19 - Lembranças.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x19%20-%20Lembran%C3%A7as.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n5bVj_xFNdOX9MM-e0NOz8d4jGkZTfJg
+#EXTINF:0, 3x20 - Talismã.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x20%20-%20Talism%C3%A3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l1UPuO3UJ8GLf5LyiyeRUNJqbUQDtXYh
+#EXTINF:0, 3x21 - Renúncias.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x21%20-%20Ren%C3%BAncias.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yMbQVm_ne5kZywBWZqjBYBMppybv5XQ9
+#EXTINF:0, 3x22 - O Acordo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x22%20-%20O%20Acordo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jnqFVYY8_O-R-GOdb3DE2UnFsBAIFv9q

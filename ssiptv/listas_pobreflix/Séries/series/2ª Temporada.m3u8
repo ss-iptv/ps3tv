@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2ª Temporada
+#EXTINF:0, The Blacklist - S02E01 - Lord Baltimore.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E01%20-%20Lord%20Baltimore.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xnZr1mGoV3K4jqrYyiJ_Ql0c9iE6Kppi
+#EXTINF:0, The Blacklist - S02E02 - Monarch Douglas Bank.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E02%20-%20Monarch%20Douglas%20Bank.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CDP53dLlVm4BPS_hpAL-eQzguUGu_YYo
+#EXTINF:0, The Blacklist - S02E03 - Dr. James Covington.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E03%20-%20Dr.%20James%20Covington.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NpZj5NjTX7xjc3Fs00Au_h-81gXD7EJ_
+#EXTINF:0, The Blacklist - S02E04 - Dr. Linus Creel.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E04%20-%20Dr.%20Linus%20Creel.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E8AEmRajWYydA9D7yyDHqzBOmZeeXBD2
+#EXTINF:0, The Blacklist - S02E05 - The Front.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E05%20-%20The%20Front.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LRd156v5rt-FzUBaWd8AIBFDjetRpSKH
+#EXTINF:0, The Blacklist - S02E06 - The Mombasa Cartel.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E06%20-%20The%20Mombasa%20Cartel.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T_DJLnb4MrO5qZqLaIC6V2Ak9RGEOeCQ
+#EXTINF:0, The Blacklist - S02E07 - The Scimitar.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E07%20-%20The%20Scimitar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e1OWZXCgxWZhWeL8e95N3Ht7xTE3iEMC
+#EXTINF:0, The Blacklist - S02E08 - The Decembrist.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E08%20-%20The%20Decembrist.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wuRvn_pwsT2pzhkE1qpIzrjOZe2Ricnw
+#EXTINF:0, The Blacklist - S02E09 - Luther Braxton (1).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E09%20-%20Luther%20Braxton%20(1).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=167u5Zn_LmhpcRfhpq5FSOLWcwd2A5oHm
+#EXTINF:0, The Blacklist - S02E10 - Luther Braxton Conclusion (2).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E10%20-%20Luther%20Braxton%20Conclusion%20(2).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lvLlo0qWzqmrco1hN1qzGhXZhurL7OI-
+#EXTINF:0, The Blacklist - S02E11 - Ruslan Denisov.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E11%20-%20Ruslan%20Denisov.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19TVRWbyoyCySCQHGMGvKAid5TRqhY2U1
+#EXTINF:0, The Blacklist - S02E12 - The Kenyon Family.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E12%20-%20The%20Kenyon%20Family.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jOeiO7xzZ9FZQ4p1DWp3nvhRkcnLzh7f
+#EXTINF:0, The Blacklist - S02E13 - The Deer Hunter.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E13%20-%20The%20Deer%20Hunter.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BZzs4wNlW5HJTOUGQ1FxHRccgiq8HBna
+#EXTINF:0, The Blacklist - S02E14 - T. Earl King VI.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E14%20-%20T.%20Earl%20King%20VI.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1auW6A73fzW6Bh8MvhraXZhYTeg3sfPRL
+#EXTINF:0, The Blacklist - S02E15 - The Major.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E15%20-%20The%20Major.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MrZnXPD-z3z2LyO_hAfrFDnPfcuIi_Nd
+#EXTINF:0, The Blacklist - S02E16 - Tom Keen.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E16%20-%20Tom%20Keen.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ETsxLf1FQpp2z5P-mdu18RWaOaBy5DSk
+#EXTINF:0, The Blacklist - S02E17 - The Longevity Initiative.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E17%20-%20The%20Longevity%20Initiative.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e8xTSRW9AxD5-inkKgcuTjcPZzKrHOpf
+#EXTINF:0, The Blacklist - S02E18 - Vanessa Cruz.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E18%20-%20Vanessa%20Cruz.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RjXrLljwdTib11axWt-tPDZHdbYtEi_X
+#EXTINF:0, The Blacklist - S02E19 - Leonard Caul.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E19%20-%20Leonard%20Caul.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JIYJkznS9cY0ayWGUHdTApX8CdJSSNR9
+#EXTINF:0, The Blacklist - S02E20 - Quon Zhang.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E20%20-%20Quon%20Zhang.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jcyPrn375p2V8LLLbkvon5aBkD7Aklqc
+#EXTINF:0, The Blacklist - S02E21 - Karakurt.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E21%20-%20Karakurt.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1d3zfpklKEEHDvCXVQO1zciQi9SfTpbTv
+#EXTINF:0, The Blacklist - S02E22 - Tom Connolly.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S02E22%20-%20Tom%20Connolly.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vchZCABaknIEs7J1L0Z4J_7FoHT3xwe3

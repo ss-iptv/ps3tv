@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1ª Temporada Completa 2016
+#EXTINF:0, 1. Cálice letal.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.%20C%C3%A1lice%20letal.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vUFhQWDjZ5aeEb0SesIRXUPGT3jxkOyP
+#EXTINF:0, 10. O mundo invertido.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/10.%20O%20mundo%20invertido.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZIj2lLqpuZ9sv1_RPpLqzNkZCt3Zw5uA
+#EXTINF:0, 11. A força do sangue.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/11.%20A%20for%C3%A7a%20do%20sangue.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16iSf2Al8cf9P0RwFn6XrJJ9WTnSL_Znj
+#EXTINF:0, 12. Magnus e Alec.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/12.%20Magnus%20e%20Alec.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ux2kyT_JUdNp9zh7mqnmRATNc5GzTLXV
+#EXTINF:0, 13. Estrela da manhã.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/13.%20Estrela%20da%20manh%C3%A3.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1X0hVG0u-mJ0Z_eJZaBx921L-s-IZ97kB
+#EXTINF:0, 2. A descida não é fácil.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.%20A%20descida%20n%C3%A3o%20%C3%A9%20f%C3%A1cil.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SSr1jfBL0GVb6HQ0nO654tRc8Ogr69aw
+#EXTINF:0, 3. Hotel finados.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.%20Hotel%20finados.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gQxmP-OqZA7dl4HXWduS-0q1jRLxpF1r
+#EXTINF:0, 4. Mandando tudo para o inferno.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/4.%20Mandando%20tudo%20para%20o%20inferno.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QATbQ7Iudjt0NsW6CH9v77krN77N5sGD
+#EXTINF:0, 5. Moo Shu para viagem.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/5.%20Moo%20Shu%20para%20viagem.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wodoafwfagwZPzdP8vUrKlPENV36Nj-c
+#EXTINF:0, 6. Homens e anjos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/6.%20Homens%20e%20anjos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mmo2f9m2R62A5qip_ewm1yH6qP8p7YU_
+#EXTINF:0, 7. Arcanos maiores.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/7.%20Arcanos%20maiores.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=145x6UsuLA5CMZhFonX2rKDxbcOFn_6kB
+#EXTINF:0, 8. Rancor.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8.%20Rancor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1umpjGA3ezVNxV9rhIvnyWTtRI_9J7suq
+#EXTINF:0, 9. Insurreição.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/9.%20Insurrei%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GgWquxjFKhwGtL4uTaGExZvyPndP9q5L

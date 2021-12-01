@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: The Walking Dead - 9ª Temporada
+#EXTINF:0, 01 - Um Novo Começo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Um%20Novo%20Come%C3%A7o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AdX3dgwhl7f5vQOiOOae80W3LvW6CGm5
+#EXTINF:0, 02 - A Ponte.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20A%20Ponte.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rdtiury-ElyiukxABWGlQ0kXlTZRZyyS
+#EXTINF:0, 03 - Sinais de Aviso.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Sinais%20de%20Aviso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11bOTPYZ1BaIXL4lkFupCsUwXVHPPa-gK
+#EXTINF:0, 04 - A Obrigação.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20A%20Obriga%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G2GYMwTSJS3SIV325OiJ1JqMvEsbdmqg
+#EXTINF:0, 05 - O Que Vem a Seguir.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Que%20Vem%20a%20Seguir.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KAxiQQIYJFKCTKNKVk7SWyBD-2JZ7-e5
+#EXTINF:0, 06 - Quem é Você Agora?.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Quem%20%C3%A9%20Voc%C3%AA%20Agora?.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uzFB0VwYovMlLWH7VlshobSOTc_twoSU
+#EXTINF:0, 07 - Stradivarius.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Stradivarius.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12S8jnNYVMzMZyz9m5rJfiyJKCggvuStj
+#EXTINF:0, 08 - Evolução.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Evolu%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16MH2rCVOwRVMnW9UFrMLOnMsWf7eb_cC
+#EXTINF:0, 09 - Adaptação.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Adapta%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mjEnpSaCXeJ8c799IR7N4SynzfA0vPAc
+#EXTINF:0, 10 - Ômega.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20%C3%94mega.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nlvDJTHiuaQP_aeTzvIlXYIT-N-bLJyr
+#EXTINF:0, 11 - Recompensa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Recompensa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gB08ofh1VZqI5S7BtlX9PMAdmgW7qPNz
+#EXTINF:0, 12 - Guardiões.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Guardi%C3%B5es.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LU04ghb0bte9zDTrVx84_StKAM_4OVJa
+#EXTINF:0, 13 - Ponto de Sufoco.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Ponto%20de%20Sufoco.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13Lr37RqKq1DR0Q5a78bmJUPQrIUGRBOM
+#EXTINF:0, 14 - Cicatrizes.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Cicatrizes.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15s97_2yjh0kpGP7627mg-rnAq7mRdpVO
+#EXTINF:0, 15 - Momentos de Calmaria.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Momentos%20de%20Calmaria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qi9s7oY7ifN5lT9AOCF0Y3M8oOikjntm
+#EXTINF:0, 16 - A Tempestade.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20A%20Tempestade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-9ZfeYifsGyqcJYTlfnmySCkJVBIO0Z8

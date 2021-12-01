@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diablero 1ª Temporada Completa (2018) 720p Mkv
+#EXTINF:0, 1. Os demônios estão entre nós.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.%20Os%20dem%C3%B4nios%20est%C3%A3o%20entre%20n%C3%B3s.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1k-VK0Ux-PDOyOSb2YX0Ecui54-mZ0mQF
+#EXTINF:0, 2. Perna de um cachorro, coração de uma galinha.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.%20Perna%20de%20um%20cachorro,%20cora%C3%A7%C3%A3o%20de%20uma%20galinha.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uGcMgpb8tMg-svcrmmqVfMZAy5y5ou3Y
+#EXTINF:0, 3. As crianças desaparecidas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.%20As%20crian%C3%A7as%20desaparecidas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18B-rI_T-hUoY1FAusokCv8mg0fnj1Thb
+#EXTINF:0, 4. Uma invocação arcana.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/4.%20Uma%20invoca%C3%A7%C3%A3o%20arcana.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_af66bekXF68yWDuTfZ8V-y5v9fX6Buu
+#EXTINF:0, 5. O Conclave.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/5.%20O%20Conclave.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xF-UpsG4XieEbPC0rwddqcLqXJzSzSTR
+#EXTINF:0, 6. Uma mulher Diablera.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/6.%20Uma%20mulher%20Diablera.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T8eWkzEhaC-YkUcIuIN9s_k-aApAy2zx
+#EXTINF:0, 7. Quatro túmulos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/7.%20Quatro%20t%C3%BAmulos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RjzOaZ-fACa2PAJcTPsBjiNJtEzy-W8S
+#EXTINF:0, 8. Céu vermelho.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8.%20C%C3%A9u%20vermelho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ka9V7inxHc5FXjDEgHndt9xGGG1OhrNH

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Game Of Thrones - 2ª Temporada (2012) 720p Dual Áudio
+#EXTINF:0, 01 - O Norte Se Lembra.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Norte%20Se%20Lembra.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15hAgj3DshijhNEE-d2J1QuEN9l1zDWjf
+#EXTINF:0, 02 - As Terras Noturnas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20As%20Terras%20Noturnas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=135QqZOsycbbS0SsryneIoe4Ol_uYYMXs
+#EXTINF:0, 03 - O Que Está Morto Não Pode Morrer.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20O%20Que%20Est%C3%A1%20Morto%20N%C3%A3o%20Pode%20Morrer.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XW4vl7xkFXV5z6DuP51SvkTNAzIAWE_1
+#EXTINF:0, 03 - O Que Está Morto Não Pode Morrer.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20O%20Que%20Est%C3%A1%20Morto%20N%C3%A3o%20Pode%20Morrer.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KEKyYVY0KA6A96T5lPDjXpTbXJ6z-L4z
+#EXTINF:0, 04 - O Jardim dos Ossos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Jardim%20dos%20Ossos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iizq2wc_-GEwmR3psd0i9m345TUhZGqC
+#EXTINF:0, 05 - O Fantasma de Harrenhal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Fantasma%20de%20Harrenhal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hbNU2yQ-oiZMW5OD1Da3NvyVirQmFJQa
+#EXTINF:0, 06 - Os Deuses Antigos e os Novos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Os%20Deuses%20Antigos%20e%20os%20Novos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XjUrcb7uhjcPmCMUnHM7aQCAGu5z59sE
+#EXTINF:0, 07 - Um Homem Sem Honra.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Um%20Homem%20Sem%20Honra.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14tANvyXoTcjiuTWMw12WrglAAlmT4bEn
+#EXTINF:0, 08 - O Príncipe de Winterfell.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20O%20Pr%C3%ADncipe%20de%20Winterfell.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IM6Vkfkxzby-5WbQ9JclTgx21sa9EKyN
+#EXTINF:0, 09 - Água Negra.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20%C3%81gua%20Negra.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qjtgJy3WxdsoM6v5h9Ttk2CXBDfOnMdx
+#EXTINF:0, 10 - Valar Morghulis.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Valar%20Morghulis.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_eaywfjfBDAgmdKMJs0bzXs6wbRAj5hD

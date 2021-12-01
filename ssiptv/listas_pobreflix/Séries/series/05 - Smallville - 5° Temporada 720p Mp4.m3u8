@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 05 - Smallville - 5° Temporada 720p Mp4
+#EXTINF:0, Smallville - S05E01 - Chegada.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E01%20-%20Chegada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Uy8GAIUjPHtn4v8XgOogpBBEBocWsrDa
+#EXTINF:0, Smallville - S05E02 - Mortal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E02%20-%20Mortal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OgPjz73ckvj_T8rI7xnSYjxV9D1YzfAx
+#EXTINF:0, Smallville - S05E03 - Oculto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E03%20-%20Oculto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13LqcjxTv8D1pdo6HZ6G0yVNOHrKSRhly
+#EXTINF:0, Smallville - S05E04 - Guardião Do Mar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E04%20-%20Guardi%C3%A3o%20Do%20Mar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pIQfcpDql-0lbA_4UZACvSlDWeLvgdr9
+#EXTINF:0, Smallville - S05E05 - Sede.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E05%20-%20Sede.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13XLeyoRKuJIH8LcRUd9ZTpep_AXqe8M3
+#EXTINF:0, Smallville - S05E06 - Exposto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E06%20-%20Exposto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PYXsdeEKJZFNry3IaUB943A8CtLVpSHB
+#EXTINF:0, Smallville - S05E07 - Paranóia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E07%20-%20Paran%C3%B3ia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PLrJj8kDlRaRmL630KDGT5GferPVjq0I
+#EXTINF:0, Smallville - S05E09 - Uma Vida Melhor.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E09%20-%20Uma%20Vida%20Melhor.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gJ9po3qWNBiFpb1xaQb-ORtH-gulSvsX
+#EXTINF:0, Smallville - S05E10 - Fanática.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E10%20-%20Fan%C3%A1tica.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HZLgSU8pABB_WtDMEiYrBHFCmHpkdBNo
+#EXTINF:0, Smallville - S05E11 - A Sala Do Pânico.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E11%20-%20A%20Sala%20Do%20P%C3%A2nico.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_eWzsFr9oAX8v-vKRAAO4FzCG7kUSx4D
+#EXTINF:0, Smallville - S05E12 - Ajuste De Contas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E12%20-%20Ajuste%20De%20Contas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Uor_dGYfV_qehzwJ0cbXYlNz9SoNm48o
+#EXTINF:0, Smallville - S05E13 - O Anjo Vingador.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E13%20-%20O%20Anjo%20Vingador.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Nc45S-R5GYUgo3TFS5r4GYtiRX5Tz9II
+#EXTINF:0, Smallville - S05E14 - Túmulo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E14%20-%20T%C3%BAmulo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13Oi1gsAQCa0U-aYpqo9tNuEVP6oMJ5me
+#EXTINF:0, Smallville - S05E15 - Ciborgue.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E15%20-%20Ciborgue.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bj1rfDA7ySr--794UaBIt5otbOOmMfP5
+#EXTINF:0, Smallville - S05E16 - Hipnose.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E16%20-%20Hipnose.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10H20wle5idV6CDgRjpDytdeaKAhcF3Rb
+#EXTINF:0, Smallville - S05E17 - Vazio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E17%20-%20Vazio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lY78EmZ6VYkkqW2-x_7-TwSM4bVRm0PR
+#EXTINF:0, Smallville - S05E18 - Frágil.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E18%20-%20Fr%C3%A1gil.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jI8zDjlzvRb4qTIWGNntHIWRCBkexCuo
+#EXTINF:0, Smallville - S05E19 - Clemência.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E19%20-%20Clem%C3%AAncia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V-b4jvoRyer38m3ESI9JJrS5fOZCBcpW
+#EXTINF:0, Smallville - S05E20 - Definitivo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E20%20-%20Definitivo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UtVsFHxyuHC6n9yd8tnTb73i1Sp2clLF
+#EXTINF:0, Smallville - S05E21 - Oráculo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E21%20-%20Or%C3%A1culo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lFkyJSoGC557KveRWg1QZA9qX8EBtubO
+#EXTINF:0, Smallville - S05E22 - O Hospedeiro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20-%20S05E22%20-%20O%20Hospedeiro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NSxR4AU_Je3S8wWRZMDC4cnJsRJuBRbS

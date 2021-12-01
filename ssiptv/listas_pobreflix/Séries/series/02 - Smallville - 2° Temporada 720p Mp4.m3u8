@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - Smallville - 2° Temporada 720p Mp4
+#EXTINF:0, 2x01 - Depois da Tempestade.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x01%20-%20Depois%20da%20Tempestade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MAUdgtKAmJx3BVSAONGiQTN7U0GPgQ_o
+#EXTINF:0, 2x02 - Um Novo Poder.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x02%20-%20Um%20Novo%20Poder.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DzhqEVY1fy72RVQ3czyCEGbKwBc5zvr9
+#EXTINF:0, 2x03 - A Revelação.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x03%20-%20A%20Revela%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pZgTh0DwJ0DxRPgFENfeAifBWr4Ar8Fj
+#EXTINF:0, 2x04 - Rebeldia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x04%20-%20Rebeldia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gkaeE09lFnZViw-KP6m-G99UVDBIDXtT
+#EXTINF:0, 2x05 - Poemas de Amor.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x05%20-%20Poemas%20de%20Amor.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OrY9ZtxHBnnMBS9SNM4aJw6s_yHdI9gN
+#EXTINF:0, 2x06 - Sede de Juventude.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x06%20-%20Sede%20de%20Juventude.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EBWjoiqEEbVrL07hGjUG5ulzzWL2cX6H
+#EXTINF:0, 2x07 - Em busca das Origens.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x07%20-%20Em%20busca%20das%20Origens.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RRfbu_-u7Z5OeJWjTA98iv1RDa4mFCbe
+#EXTINF:0, 2x08 - A volta de Ryan.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x08%20-%20A%20volta%20de%20Ryan.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WRoMuv8ICsXRciH7hV-TZn9L9vsHM_Zz
+#EXTINF:0, 2x09 - Duplo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x09%20-%20Duplo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VBgz82s3_BjXE2Dm90ahRGB5ymRBGnoD
+#EXTINF:0, 2x10 - Mutantes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x10%20-%20Mutantes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OWK3xMt7PmgXT4-LZAXQ2HsKH9uGqEbT
+#EXTINF:0, 2x11 - Falsas Aparências.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x11%20-%20Falsas%20Apar%C3%AAncias.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zZ6uDZtJznzhgcPQo-ehcIrEgEG_K1k8
+#EXTINF:0, 2x12 - Insurreição.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x12%20-%20Insurrei%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1k20s7n8NhRdZKC245w_xDgUL1Jv5nwFV
+#EXTINF:0, 2x13 - Suspeito.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x13%20-%20Suspeito.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1o4KolWXeoHdHdMt4OfcIVKHVO5ejO45n
+#EXTINF:0, 2x14 - Pura Adrenalina.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x14%20-%20Pura%20Adrenalina.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1baqtw6rnZvegyx5It2BORWABqTjDjEs5
+#EXTINF:0, 2x15 - O Filho Pródigo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x15%20-%20O%20Filho%20Pr%C3%B3digo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FaM1RAnMWhRdpEJm-1mauEzv4ymshlem
+#EXTINF:0, 2x16 - Febre.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x16%20-%20Febre.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Vo3PI_px485Ru9cHP3iDh_PQ-Yb5McTu
+#EXTINF:0, 2x17 - Respostas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x17%20-%20Respostas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yH3RVZG7SKbjsDskqcC69NhKEY_Q-ixS
+#EXTINF:0, 2x18 - Visitante.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x18%20-%20Visitante.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14XtAztUBcRTw7a34cJjjXitHdii_IYwI
+#EXTINF:0, 2x19 - Precipício.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x19%20-%20Precip%C3%ADcio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ma4z7TfR4uIYs0jKVfN0Uk664PmKjOWB
+#EXTINF:0, 2x20 - Testemunha.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x20%20-%20Testemunha.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pV3qZ2qyFKPr2Vc8-wLZi-cRIg1xjncS
+#EXTINF:0, 2x21 - Acelerado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x21%20-%20Acelerado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tcDA8UJECX2Pfeaa9v8HZetAjik8ERzS
+#EXTINF:0, 2x22 - O Chamado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x22%20-%20O%20Chamado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tnD3hx7ylIDXNXXe-5b-kiS_PR3NVZ3E
+#EXTINF:0, 2x23 - Êxodo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2x23%20-%20%C3%8Axodo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11QhNLkPVSN4adb_yniZHHsEwKlSjpCsB

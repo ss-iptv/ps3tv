@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 04 - Star Wars - The Clone Wars 4ª Temporada Completa 720p (2011) Dual Áudio BluRay Mkv
+#EXTINF:0, T04E01 - Guerra da água.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E01%20-%20Guerra%20da%20%C3%A1gua.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tkiKfKg5pjjXnTXDqwLezSWUM2SXlQOg
+#EXTINF:0, T04E02 - Ataque Gungan.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E02%20-%20Ataque%20Gungan.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u9Ht8Or2ujnPtEoOU1j-cTas28xYtb0m
+#EXTINF:0, T04E03 - Prisioneiros.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E03%20-%20Prisioneiros.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1C4K5ZI8vwVGedQPau5axaf1YmXAzgf1a
+#EXTINF:0, T04E04 - Guerreiro das sombras.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E04%20-%20Guerreiro%20das%20sombras.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_YnJggbaaky5tUb5Q4DdityUxssOnYKw
+#EXTINF:0, T04E05 - Missão de Misericórdia.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E05%20-%20Miss%C3%A3o%20de%20Miseric%C3%B3rdia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17Vznz8STscwDfcVE-1FsBalTjU9n_AAC
+#EXTINF:0, T04E06 - Nômade Droids.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E06%20-%20N%C3%B4made%20Droids.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16Cg-ruNiQ_U6IU39_km-Y1ZIbH2sMw1t
+#EXTINF:0, T04E07 - Escuridão na Umbara.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E07%20-%20Escurid%C3%A3o%20na%20Umbara.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CWk-xdYxLZuCdfL04Rgz8DRH1Ah4Lecf
+#EXTINF:0, T04E08 - O General.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E08%20-%20O%20General.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=128MoMk7M587L9IsTj13Xm_3YYUexRhqf
+#EXTINF:0, T04E09 - Plano de Dissidência.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E09%20-%20Plano%20de%20Dissid%C3%AAncia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fBXtwapzZ6WEEhP-zTO8IvcrllbkavaT
+#EXTINF:0, T04E10 - Carnificina de Krell.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E10%20-%20Carnificina%20de%20Krell.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DLmjlMJF3Lja0Qz7xlN9GaoxkNp9R8lv
+#EXTINF:0, T04E11 - Seqüestrado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E11%20-%20Seq%C3%BCestrado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=175Tb8QoLvtdCLn1GnDwGE80UzX0WLfav
+#EXTINF:0, T04E12 - Escravos da República.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E12%20-%20Escravos%20da%20Rep%C3%BAblica.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NOMY5ARA4uEcMiSBGUwFw5j8GBYHuqTx
+#EXTINF:0, T04E13 - Escapar de Kadavo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E13%20-%20Escapar%20de%20Kadavo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TQyu8spybZP4Dgl0FBMAv5Dpn3UOBFiQ
+#EXTINF:0, T04E14 - Um amigo em necessidade.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E14%20-%20Um%20amigo%20em%20necessidade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18ym61u8rmgtFYoXkO8F3EtPt7GvI49Pg
+#EXTINF:0, T04E15 - Decepção.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E15%20-%20Decep%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14_XVykLSKFb67XMZADJplvQS2JDMRj9x
+#EXTINF:0, T04E16 - Amigos e Inimigos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E16%20-%20Amigos%20e%20Inimigos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FZdqR2aKCNheaHYfB-IC5Pg9FnsLl-sK
+#EXTINF:0, T04E17 - A Caixa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E17%20-%20A%20Caixa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RYEA4yJObutXTV6cqq1xVLi7evvlPUrJ
+#EXTINF:0, T04E18 - Crise em Naboo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E18%20-%20Crise%20em%20Naboo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oCorCaNp-b_EB5sgECP48m5z2qXRiBWf
+#EXTINF:0, T04E19 - Massacre.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E19%20-%20Massacre.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yngOhoibLgph8yILYMbPlr-DW_TMAGew
+#EXTINF:0, T04E20 - Recompensa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E20%20-%20Recompensa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10EK1v1Y1adI0ogaA4uwLh1IFXz7kUBO6
+#EXTINF:0, T04E21 - Irmãos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E21%20-%20Irm%C3%A3os.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R_7yFL9Xeq-4ejURCzSbdaSjTmfe5Cnv
+#EXTINF:0, T04E22 - Vingança.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T04E22%20-%20Vingan%C3%A7a.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1p0DPll5i9IbidfPCo2sgnMw4H2EHzHcM

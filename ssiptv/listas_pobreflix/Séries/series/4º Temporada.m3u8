@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 4º Temporada
+#EXTINF:0, S04E01-Uma História de Violência.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E01-Uma%20Hist%C3%B3ria%20de%20Viol%C3%AAncia.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lk0CB6K4a7XvChJJ5Epruc8qIl_31QcV
+#EXTINF:0, S04E02-Obituários.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E02-Obitu%C3%A1rios.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e3-Vfxgm2oM9UJ6-UfnrrEq5FrqwmYAr
+#EXTINF:0, S04E03-A Carta dos Direitos.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E03-A%20Carta%20dos%20Direitos.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g6O4AmV6sxriGQLl6rqDnzw7Un0VPM8o
+#EXTINF:0, S04E04-A Clemência.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E04-A%20Clem%C3%AAncia.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gpUsleHxIVAzqQhIFOhHIbRmIOEYA6K6
+#EXTINF:0, S04E05-A Mente Criminosa.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E05-A%20Mente%20Criminosa.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1muOhzslbip5SCnL8x6HLb8XEVfdvZ-2y
+#EXTINF:0, S04E06-Uma Palavra aos Sábios.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E06-Uma%20Palavra%20aos%20S%C3%A1bios.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S4qN4-HaciP_Amo1XCw3dn9thpNoXeLE
+#EXTINF:0, S04E07-Uma Cidade sem Piedade.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E07-Uma%20Cidade%20sem%20Piedade.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tE0_8d14ID9Zl-CcOpmvgZ47xplMAUIb
+#EXTINF:0, S04E08- Aposte sua Vida.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E08-%20Aposte%20sua%20Vida.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fh5KEJBRDkjSw37mEU2mtXLfIGLbUf0M
+#EXTINF:0, S04E09-Mal Passado.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E09-Mal%20Passado.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14302zVk0Is4sTQ9kMsPJnPH1Z7byxO52
+#EXTINF:0, S04E10-Converçoes.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E10-Conver%C3%A7oes.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fHpQllX2ex21xdHnfp0NUR4uGeRUZDB-
+#EXTINF:0, S04E11-Doce é a Vingança.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E11-Doce%20%C3%A9%20a%20Vingan%C3%A7a.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-XyVvlpU0EW19ut4I24h_FreqetqTVNJ
+#EXTINF:0, S04E12-Corte de Faca.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E12-Corte%20de%20Faca.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1krAt-aKqOR_MTmZm_-7pmoxdmobB7txS
+#EXTINF:0, S04E13-A Nevasca.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E13-A%20Nevasca.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CCpv6ZSQKMrT2Wmr9LM6-uX9QSg79Loc
+#EXTINF:0, S04E14-A Descida De Orfeu.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E14-A%20Descida%20De%20Orfeu.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gBmpWPog4YwLnLKm2FZcVt1rYMya1CS2
+#EXTINF:0, S04E15-Acerto de Contas.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E15-Acerto%20de%20Contas.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EcbxxsFEisy4q4eRhfa4VE7Fy7ZdJAVV
+#EXTINF:0, S04E16-Ùltimas Palavras.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E16-%C3%99ltimas%20Palavras.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-bwDMuuLIeEK4hKmG7N2TkV8TQ5DyIWM

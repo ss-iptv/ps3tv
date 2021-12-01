@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Jessica Jones 2ª Temporada 720p Mkv
+#EXTINF:0, Jessica.Jones.S02E01.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E01.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eAVVlnez3LrYVGWtyja9KXfZ-likvVpp
+#EXTINF:0, Jessica.Jones.S02E02.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E02.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wOWZtKBIb9IPw_VCapgw8bgqCI6Dyt3_
+#EXTINF:0, Jessica.Jones.S02E03.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E03.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SiBzZW_CSs_SUNs--WedYMh0_h5fTzaV
+#EXTINF:0, Jessica.Jones.S02E04.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E04.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ens2wsMPMvqku9fg7FdhoWUd8S6dfXyF
+#EXTINF:0, Jessica.Jones.S02E05.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E05.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KBJsoiSIBNscr7bCzYl_zO5sBDvmD2-M
+#EXTINF:0, Jessica.Jones.S02E06.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E06.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CWHedPHodGtLJ36SaL0lCJcXrNeTNV_d
+#EXTINF:0, Jessica.Jones.S02E07.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E07.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XPMPbq9gW5J2WhEVpmZMccbiRuRqo9J6
+#EXTINF:0, Jessica.Jones.S02E08.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E08.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1s-opE5iyfcLJyKaAq8HZgs3-etUgp_Q2
+#EXTINF:0, Jessica.Jones.S02E09.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E09.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V0AFxZNx_c6l45U1KeJ-0n6CvxkFzMJb
+#EXTINF:0, Jessica.Jones.S02E10.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E10.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UkIQ8AnIaeB-l7kGU-p4Dtb9SsmwWss_
+#EXTINF:0, Jessica.Jones.S02E11.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E11.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15PgrMEEYIzVGJemMrno0LYXZE59kqr6D
+#EXTINF:0, Jessica.Jones.S02E12.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E12.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EHFcAaEDM19YsSOXm4lDzKPNMTb5crp_
+#EXTINF:0, Jessica.Jones.S02E13.720p.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica.Jones.S02E13.720p.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15u7C701hayYA-N_UXvQqYQqf5yoNvbst

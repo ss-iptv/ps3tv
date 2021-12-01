@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Supergirl 4ª Temporada 1080p Mkv
+#EXTINF:0, S04E01 - Aliens Americanos[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E01%20-%20Aliens%20Americanos%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mS2vs5XEewJXdtU6Mbr1NnSbCVVwy63a
+#EXTINF:0, S04E02 - Consequências[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E02%20-%20Consequ%C3%AAncias%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hg8cRH5Q97dFbViRjNKADGNO4GFxGMxl
+#EXTINF:0, S04E03 - Homem de Aço[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E03%20-%20Homem%20de%20A%C3%A7o%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EcnQ6jG1_J_Eoid0G726jpdJzmDe-vsg
+#EXTINF:0, S04E04 - Ahimsa[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E04%20-%20Ahimsa%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RlY1lqI74CK202fYf7ORnTse0zUgx4u3
+#EXTINF:0, S04E05 - Parasita Perdido[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E05%20-%20Parasita%20Perdido%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RplerBKAvIxerj42-Ux9RZT176dDiqf9
+#EXTINF:0, S04E06 - Apelo a Ação[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E06%20-%20Apelo%20a%20A%C3%A7%C3%A3o%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RhIRMa0Zt7IS0s36JfCFGYoMxEj6VKtn
+#EXTINF:0, S04E07 - Prefiro Anjo Caído[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E07%20-%20Prefiro%20Anjo%20Ca%C3%ADdo%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ipQPQKAUCSXf-b3qbr430kC5f8OnQOIK
+#EXTINF:0, S04E08 - Bunker Hill[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E08%20-%20Bunker%20Hill%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16jH85ozIyGIKXqW9bELKour0aVD-qIXG
+#EXTINF:0, S04E09 - Túnel do Tempo Parte 3[1800p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E09%20-%20T%C3%BAnel%20do%20Tempo%20Parte%203%5B1800p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uR4Ssrqaqp3KiVWBMvbyBdFYcA8wEU_N

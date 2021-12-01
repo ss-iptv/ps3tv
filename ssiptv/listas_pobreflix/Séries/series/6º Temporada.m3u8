@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 6º Temporada
+#EXTINF:0, S06E01-O Morto Que Fala.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E01-O%20Morto%20Que%20Fala.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iGJFzCy81TzwTZNGS0TSTO20KA1Q85j5
+#EXTINF:0, S06E02-Não Vejam o Mal,Não Ouçam o Mal,Não Chrirem o Mal.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E02-N%C3%A3o%20Vejam%20o%20Mal,N%C3%A3o%20Ou%C3%A7am%20o%20Mal,N%C3%A3o%20Chrirem%20o%20Mal.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16Dq8bxw9sxzPuHAuFLGeAjJC9BtqrFRn
+#EXTINF:0, S06E03-Sonta Da Oz.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E03-Sonta%20Da%20Oz.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ImdXmr-FJwIDpFAhJV_xaxokHJJcd3iI
+#EXTINF:0, S06E04-A Falha Na Comunicação.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E04-A%20Falha%20Na%20Comunica%C3%A7%C3%A3o.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WnLkfX2aXNKbvsfwSU_KFEBGlNFzNhFO
+#EXTINF:0, S06E05-Perdão.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E05-Perd%C3%A3o.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ino4kl2GytKrnqT_Rrx4J57LKjqT1ncN
+#EXTINF:0, S06E06-Um Dia Na Morte.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E06-Um%20Dia%20Na%20Morte.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BGnecdQuU5lzERkX7XRGjRIRPnGffHbP
+#EXTINF:0, S06E07-Caes do Lixo.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E07-Caes%20do%20Lixo.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ge7HPL1Kip_2I24Gcx9ZWeqLATqYuQSm
+#EXTINF:0, S06E08-Exeunt Omnes.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06E08-Exeunt%20Omnes.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19wkw9ZZIahMrvPUKibC0gS039ECvkikO

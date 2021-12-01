@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Game of Thrones - 6ª Temporada (2016) 720p Dual Áudio
+#EXTINF:0, 01 - A Mulher Vermelha.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20A%20Mulher%20Vermelha.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aYYOD1I-oFuxbnFb3ud1QBVGsCUPpeGy
+#EXTINF:0, 02 - Lar.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Lar.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VhgwA9cjK7C2S0SYcPCbSrG4fa-pN7_w
+#EXTINF:0, 03 - Quebrador de Promessas.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Quebrador%20de%20Promessas.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w81ALUMIq-YLP51DDrvgKcgXJh0EvaNH
+#EXTINF:0, 03 - Quebrador de Promessas.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Quebrador%20de%20Promessas.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1idcER5Qt6P9m2WeHz5gv6PSuJUEA7fVi
+#EXTINF:0, 04 - O Livro do Estranho.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Livro%20do%20Estranho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hCYL-f7gXoKsp6ePx2vuJdbdZAG1i1Wp
+#EXTINF:0, 05 - A Porta.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20A%20Porta.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1s6InDkAjiuVTY8a6isvOxonFmQs1J1hq
+#EXTINF:0, 06 - Sangue do Meu Sangue.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Sangue%20do%20Meu%20Sangue.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QsG1a7s0GdnHrZ4SQo93RAzVq1LVFsQO
+#EXTINF:0, 07 - O Homem Quebrado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20O%20Homem%20Quebrado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Z7MNWkkqul2E1z2HPlOzcuCRVMXPl-MN
+#EXTINF:0, 08 - Ninguém.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Ningu%C3%A9m.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1y_0br5lFMNlb4b_Lx7cLDcu080l2b_Qq
+#EXTINF:0, 09 - A Batalha dos Bastardos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20A%20Batalha%20dos%20Bastardos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S0aH1GGvHensqVplMvgAwXCc4hAc754C
+#EXTINF:0, 10 - Os Ventos do Inverno.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Os%20Ventos%20do%20Inverno.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1I6-WYS1wPAfZ8sJvBhh4bAHR1Jlohfta

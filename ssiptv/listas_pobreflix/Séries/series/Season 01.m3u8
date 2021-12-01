@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 01
+#EXTINF:0, Stargate Atlantis S01E01 & S01E02 - Rising .avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E01%20&%20S01E02%20-%20Rising%20.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11Lc1oSWBR-aZ7bkCgwiaouU5gE0UGwLE
+#EXTINF:0, Stargate Atlantis S01E03 - Hide and Seek.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E03%20-%20Hide%20and%20Seek.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1doaHXGn2ivSNQCaXHWysetKjdCmK3F9G
+#EXTINF:0, Stargate Atlantis S01E04 - Thirty Eight Minutes.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E04%20-%20Thirty%20Eight%20Minutes.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qjjUh_6cFbvb-DoyHF0CacHyCEYyyl3e
+#EXTINF:0, Stargate Atlantis S01E05 - Suspicion.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E05%20-%20Suspicion.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hqSqENdNxyRSNbe_IQmZ9cBVKXsd8h3Z
+#EXTINF:0, Stargate Atlantis S01E06 - Childhood's End.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E06%20-%20Childhood's%20End.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AB3YyukHJG8qyi1rzeEvWMdUantMV_BW
+#EXTINF:0, Stargate Atlantis S01E07 - Poisoning the Well.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E07%20-%20Poisoning%20the%20Well.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wt4FoLKYRrZMouH_Z8QuAZZww0f5IhRi
+#EXTINF:0, Stargate Atlantis S01E08 - Underground.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E08%20-%20Underground.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KYy0zvdYiwRqCpau74wm0RmwumtgtGRS
+#EXTINF:0, Stargate Atlantis S01E09 - Home.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E09%20-%20Home.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QlYL9vn2ElYh_SowFbHDBxQIcAkibuRt
+#EXTINF:0, Stargate Atlantis S01E10 - The Storm.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E10%20-%20The%20Storm.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12mkhg1_MRVm6zuxnIt6vJ3B4c_zVHPJI
+#EXTINF:0, Stargate Atlantis S01E11 - The Eye.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E11%20-%20The%20Eye.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vYuVWTorH1M-GOrS1PdC_WWY_MDXnzAJ
+#EXTINF:0, Stargate Atlantis S01E12 - The Defiant One.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E12%20-%20The%20Defiant%20One.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xrxBconZr47W57sOSLZaL5qIWgkEBMiB
+#EXTINF:0, Stargate Atlantis S01E13 - Hot Zone.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E13%20-%20Hot%20Zone.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1a281Sjna-fiZaEqc6eKpbW2NeWflMMN7
+#EXTINF:0, Stargate Atlantis S01E14 - Sanctuary.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E14%20-%20Sanctuary.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T72DPyLFTiXobYAqwC43RL74aqlu93iT
+#EXTINF:0, Stargate Atlantis S01E15 - Before I Sleep.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E15%20-%20Before%20I%20Sleep.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TaVJlESq_CqfA_FdM5Lk3hYPWRqKHbQj
+#EXTINF:0, Stargate Atlantis S01E16 - The Brotherhood.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E16%20-%20The%20Brotherhood.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10h0dG_eIilrF-9x5t8o321GxjaNhtD_p
+#EXTINF:0, Stargate Atlantis S01E17 - Letters From Pegasus.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E17%20-%20Letters%20From%20Pegasus.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10mu9xeQlU7_tAZR692C13oVVP9ID0alR
+#EXTINF:0, Stargate Atlantis S01E18 - The Gift.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E18%20-%20The%20Gift.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17zUHmQuvMeHukUi53MlLJ9m6-JQ1WM68
+#EXTINF:0, Stargate Atlantis S01E19 - The Siege, Part 1.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E19%20-%20The%20Siege,%20Part%201.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17G-miZEGW4GZCHxCh5jZEGt-kLdaSUeO
+#EXTINF:0, Stargate Atlantis S01E20 - The Siege, Part 2.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S01E20%20-%20The%20Siege,%20Part%202.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1M_kO_J0nD5S-pF9zhExemEhyI9duTuIU

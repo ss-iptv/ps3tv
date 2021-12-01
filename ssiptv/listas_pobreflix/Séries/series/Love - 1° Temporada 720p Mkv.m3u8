@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Love - 1° Temporada 720p Mkv
+#EXTINF:0,  Love.S01E010.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/%20Love.S01E010.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m8eHyXesZWI72prolbEjN1OpKAGXlmNS
+#EXTINF:0,  Love.S01E04.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/%20Love.S01E04.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l14AkYydOVFP71URMf70Jqdd1zQxNWcg
+#EXTINF:0,  Love.S01E06.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/%20Love.S01E06.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kvvac2DrWF_pLUgsZyccGwe9o7aX8gXH
+#EXTINF:0, Love.S01E01.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Love.S01E01.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1chwFeSPPeLbeqtX3HWtJNWj96834vHgJ
+#EXTINF:0, Love.S01E02.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Love.S01E02.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KKnedot31Dr7jYHFXH6Mi19pNEg4iVdG
+#EXTINF:0, Love.S01E03.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Love.S01E03.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OKLUoAnh9UrxuQorJNbRCr__IE8LDKfu
+#EXTINF:0, Love.S01E05.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Love.S01E05.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K7JSWkVbqGoAfYiAiaRoikhqMcMnUgHe
+#EXTINF:0, Love.S01E07.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Love.S01E07.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UJJVPdSa7yeaV_332b-88dvAdiA4CgRR
+#EXTINF:0, Love.S01E08.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Love.S01E08.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T9p3AvMhFS394X1UgcO3Zl9ZUvJ1gVEL
+#EXTINF:0, Love.S01E09.720p.Dub.FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Love.S01E09.720p.Dub.FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16lk549y83ZD-igAIAH9k7y9qLEY26EnA

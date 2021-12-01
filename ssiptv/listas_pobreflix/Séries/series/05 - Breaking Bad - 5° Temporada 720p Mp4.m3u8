@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 05 - Breaking Bad - 5° Temporada 720p Mp4
+#EXTINF:0, S05E01 - Live Free or Die.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E01%20-%20Live%20Free%20or%20Die.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xoRKjBXpXxAcw9T6wxrvkR0zxfRFu0vF
+#EXTINF:0, S05E02 - Madrigal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E02%20-%20Madrigal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EUM5HPzjfV5wDBsaFRfDnega6bdK_OXY
+#EXTINF:0, S05E03 - Hazard Pay.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E03%20-%20Hazard%20Pay.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rwUrX09CVyNT3iW97m8s5ad5rTSEbolR
+#EXTINF:0, S05E04 - Fifty-One.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E04%20-%20Fifty-One.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B8a_l-RpGmY9oL0sgMf4UG_nsnl_uRAb
+#EXTINF:0, S05E05 - Dead Freight.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E05%20-%20Dead%20Freight.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e2ALYn3W_JcIHTEgiMQGW_4KzR8gcZbA
+#EXTINF:0, S05E06 - Buyout.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E06%20-%20Buyout.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13pk-HYDHnaVMqQp4oHxME68zw77OwuiY
+#EXTINF:0, S05E07 - Say My Name.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E07%20-%20Say%20My%20Name.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aDxlMyck_-esFBjmmDiqp8oGgYyqsUJb
+#EXTINF:0, S05E08 - Gliding Over All.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E08%20-%20Gliding%20Over%20All.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZOoaiSY_U7y5-5Lu5m0iNPWU_mJuW4Pb
+#EXTINF:0, S05E09 - Blood Money.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E09%20-%20Blood%20Money.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ikJQ0jj5AYa5X_Pb8bjmFp5HaJwKJq6U
+#EXTINF:0, S05E10 - Buried.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E10%20-%20Buried.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bAeg7jhV42kMVCozrm_7uly2_pL0T8sG
+#EXTINF:0, S05E11 - Confessions.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E11%20-%20Confessions.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17t5C232EbIg1zY3oO4ZRKLFKd01e0UkU
+#EXTINF:0, S05E12 - Rabid Dog.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E12%20-%20Rabid%20Dog.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ELvwtozTGz-xyqzUaFQUp5rVVNGN7MQP
+#EXTINF:0, S05E13 - Tohajiilee.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E13%20-%20Tohajiilee.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n4Lkkb7-lY21fW9rB_5M-E5g0KX3LK-B
+#EXTINF:0, S05E14 - Ozymandias.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E14%20-%20Ozymandias.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dS47Orc78I8U74XDnIq-bIzMHbmPN3De
+#EXTINF:0, S05E15 - Granite State.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E15%20-%20Granite%20State.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lCtxx-V5IQeiEFJG6XKamrs8kMhW5O5E
+#EXTINF:0, S05E16 - Felina.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E16%20-%20Felina.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-I-bDqdnEvGMybgPfieSdg-tc-l-6TEo

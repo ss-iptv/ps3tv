@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - The Flash - 1ª Temp 1080p Mkv
+#EXTINF:0, S01E01 - Cidade de Heroís[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E01%20-%20Cidade%20de%20Hero%C3%ADs%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15KTMvT4ASjVqwPxzitgIzx1GGIZpKcJt
+#EXTINF:0, S01E02 - O Homem mais rápido do Mundo[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E02%20-%20O%20Homem%20mais%20r%C3%A1pido%20do%20Mundo%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yG1X5wrn3fbu5g1GlbSeZF4hBRvA1c2P
+#EXTINF:0, S01E03 - O que não dá para ultrapassar[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E03%20-%20O%20que%20n%C3%A3o%20d%C3%A1%20para%20ultrapassar%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1opy4wiKYv9z_25SrSqTkcXx-RsFRtisP
+#EXTINF:0, S01E04 - Ficando Rougue[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E04%20-%20Ficando%20Rougue%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T0lSng4M0HIcObXccC30-pOmerzS8NPl
+#EXTINF:0, S01E05 - Plastique[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E05%20-%20Plastique%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t4tZ2nCMUcVhdo6TbfaQh2Bj45aiNtXp
+#EXTINF:0, S01E06 - Surge o Flash[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E06%20-%20Surge%20o%20Flash%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OLzhdCI6BdtHtvo_wnJ0z4hPqcDT-UXp
+#EXTINF:0, S01E07 - Queda de Energia[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E07%20-%20Queda%20de%20Energia%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TEhUh7HRfMbMnmXAVYvIuLaLJQjWHn1K
+#EXTINF:0, S01E08 - Flash vs Arrow[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E08%20-%20Flash%20vs%20Arrow%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vMaYRUzBNMmgVuTAsR2ohKclKt_LEAON
+#EXTINF:0, S01E09 - O Homem de uniforme amarelo[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E09%20-%20O%20Homem%20de%20uniforme%20amarelo%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Cs1kv3XfhUQa20lAIONTdgJevaW4_63x
+#EXTINF:0, S01E10 - A Vingança dos Ladrões[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E10%20-%20A%20Vingan%C3%A7a%20dos%20Ladr%C3%B5es%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BnNepYv1dfWNu6vn16PTtfNyH1gezHcu
+#EXTINF:0, S01E11 - O Som da Fúria[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E11%20-%20O%20Som%20da%20F%C3%BAria%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sU7CWw2TV4UW2HTda1EA9EO_wcEMTWuJ
+#EXTINF:0, S01E12 - Louco por Você[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E12%20-%20Louco%20por%20Voc%C3%AA%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Pr-bh_nsoB4mU4bX8qbQU4AAp-yiZg-C
+#EXTINF:0, S01E13 - O Homem Nuclear[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E13%20-%20O%20Homem%20Nuclear%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1y0jhW_pBpZSgqzXmpL3ptbDQ2Iforz1D
+#EXTINF:0, S01E14 - Chuva Radioativa[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E14%20-%20Chuva%20Radioativa%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j1kSwQ9cvsH4rmJNe2IEEcsZexVGnW5H
+#EXTINF:0, S01E15 - Fora do Tempo[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E15%20-%20Fora%20do%20Tempo%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aJeVUiAo1VFXuazvuLnBZVHOB2SJW16H
+#EXTINF:0, S01E16 - O Retorno dos Ladrões[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E16%20-%20O%20Retorno%20dos%20Ladr%C3%B5es%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QfZrpgGMClSudknSby7M0zdh3RDkTMgN
+#EXTINF:0, S01E17 - Os Trapaceiros[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E17%20-%20Os%20Trapaceiros%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-IiFr5Jdto__jYebD_eyd7Sy5SOQC0cx
+#EXTINF:0, S01E18 - Heróis[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E18%20-%20Her%C3%B3is%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HJR9qUtpsnPRBWFcnIgkFD8nQQDZLf4I
+#EXTINF:0, S01E19 - Quem é Harrison Wells[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E19%20-%20Quem%20%C3%A9%20Harrison%20Wells%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1To_B_yjRAU4DpzZhyfjF3szwDFDanmqE
+#EXTINF:0, S01E20 - A Armadilha[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E20%20-%20A%20Armadilha%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tiJx8_rH22o-wlf0b-o6GGeW-JEeDPwY
+#EXTINF:0, S01E21 - Surge Grodd[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E21%20-%20Surge%20Grodd%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ABcljTLpPhC8uoAV1C2z-_4MZR56vmtS
+#EXTINF:0, S01E22 - Acerto de Contas[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E22%20-%20Acerto%20de%20Contas%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UFYASjq6duPlC5O1PG1xFHpnuO3XWunp
+#EXTINF:0, S01E23 - Rápido o Bastante[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E23%20-%20R%C3%A1pido%20o%20Bastante%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VI0op8HImoJV5DshGHtEgtEO2P_wc3Jk

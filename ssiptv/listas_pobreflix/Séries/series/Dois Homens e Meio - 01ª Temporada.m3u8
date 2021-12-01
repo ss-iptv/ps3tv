@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dois Homens e Meio - 01ª Temporada
+#EXTINF:0, 01 - Piloto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Piloto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WhK6PS3uUN0mj_QqFbA6yZNa6M9XXyGL
+#EXTINF:0, 02 - Imbecís De Asas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Imbec%C3%ADs%20De%20Asas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18GSTivWE8-gJLLw6ZDCkk_EF26qQJU_U
+#EXTINF:0, 03 - Vá Para o Inferno.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20V%C3%A1%20Para%20o%20Inferno.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mBbt0jRpTr3RKJERdTk0zvXPZB9TC0y2
+#EXTINF:0, 04 - Se Eu Não Dá Pra Compor, Vou Tirar Uma Soneca.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Se%20Eu%20N%C3%A3o%20D%C3%A1%20Pra%20Compor,%20Vou%20Tirar%20Uma%20Soneca.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wr9A61ndnFhqwM_wa_hr3H7WTowR13tI
+#EXTINF:0, 05 - Quero Acabar Com Uma Corcunda.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Quero%20Acabar%20Com%20Uma%20Corcunda.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f6oSq1SiRp5esNCvpbPR4zFlXtlU7N3i
+#EXTINF:0, 06 - Você Procurou Direito.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Voc%C3%AA%20Procurou%20Direito.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18KMGWiERW62Cpa1SkHvssrmx59uv_CHD
+#EXTINF:0, 07 - Se Vão Para O Mesmo Lado, São Falsos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Se%20V%C3%A3o%20Para%20O%20Mesmo%20Lado,%20S%C3%A3o%20Falsos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ki8wdrnN_Zv01-_Mb2FOAweJeep_1o9d
+#EXTINF:0, 08 - Vinte E Cinco Pré-adolescentes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Vinte%20E%20Cinco%20Pr%C3%A9-adolescentes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sAcgJ0gjxfFMvQoqkxEs1pZd4piFdzml
+#EXTINF:0, 09 - Fase Um, Concluída.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Fase%20Um,%20Conclu%C3%ADda.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T0m00yucTK5VvKDzccy8XA54LNPOUlwv
+#EXTINF:0, 10 - Feliz Ação De Graças.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Feliz%20A%C3%A7%C3%A3o%20De%20Gra%C3%A7as.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ue6kAuemQADL2u5qrD7LAaSRJXcpGA2q
+#EXTINF:0, 11 - Banho de Loja.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Banho%20de%20Loja.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l20GE_KBB97ekN7w_8a2DzbgkmU2akIX
+#EXTINF:0, 12 - Cigarros e Feromônios.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Cigarros%20e%20Ferom%C3%B4nios.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1L7fSQXK_jFQMnH8XWiM2y9XaTiy1US1k
+#EXTINF:0, 13 - Falta de Sorte.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Falta%20de%20Sorte.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i7A7PxBYd4ywzjANEZiUc8-IlBV_HjAc
+#EXTINF:0, 14 - Dureza.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Dureza.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FsfYPL7DlhnXR_Jmj_lhXDshblhvn1bl
+#EXTINF:0, 15 - Um A Zero Pra Doida.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Um%20A%20Zero%20Pra%20Doida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IeIzj83cuzg5cZT70zS5BmN8R6GYZ2_6
+#EXTINF:0, 16 - Era Saliva, Alan.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Era%20Saliva,%20Alan.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GsvlDM-mQctSEeKNiwXgx-sPikVNFOGW
+#EXTINF:0, 17 - Não Tira O Boné.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20N%C3%A3o%20Tira%20O%20Bon%C3%A9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jv02sblF_F8MVUDZ4MIT2Q3cku3AogzM
+#EXTINF:0, 18 - Velhor Amores.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Velhor%20Amores.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kXa7NT1wUYrhCwrGg0LAtTUQRzWfVIMU
+#EXTINF:0, 19 - Não Me Lembre de Você.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20N%C3%A3o%20Me%20Lembre%20de%20Voc%C3%AA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LjQyXU8WfNMAHqhRf2-7chiPmetzuC3a
+#EXTINF:0, 20 - Xixi No Escuro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Xixi%20No%20Escuro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KqPD4BJRiGFjh3ZP6imkemE0OyfbkfTv
+#EXTINF:0, 21 - Sem Gracinhas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Sem%20Gracinhas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nOJ5GZ3vsPbixZd9Qo_nAx5bnA_qkDH6
+#EXTINF:0, 22 - Terapia Familiar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Terapia%20Familiar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uHEKWdO6Ib6BQt6aVuXFFVEx_0IV5TT3
+#EXTINF:0, 23 - Como Búfalos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/23%20-%20Como%20B%C3%BAfalos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_NRkB4RknN8uxZcGfWW4Wjqce8-idFJZ
+#EXTINF:0, 24 - Visita Ao Urologista.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/24%20-%20Visita%20Ao%20Urologista.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13PmdBqONj4__1tZCfA3FttPJTKCOjfBW

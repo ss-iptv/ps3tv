@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 4ª Temporada 2014 Dual Audio 720p
+#EXTINF:0, 01 - Um Conto de Duas Irmãs.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Um%20Conto%20de%20Duas%20Irm%C3%A3s.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bxpp2MIUBORPfxixPyQZWO0EpGsipFXH
+#EXTINF:0, 02 - Dentro do Gelo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Dentro%20do%20Gelo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bYaEDyiEzhk22jrKYMMlCsnX6kECqSd7
+#EXTINF:0, 03 - Estrada Rochosa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Estrada%20Rochosa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1neUPuXM2ds4trBXvRINCtaNOLCp4VQUd
+#EXTINF:0, 04 - O Aprendiz.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Aprendiz.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AcFd1_stG1T2oXD-RHQy_dYsGaEtPBHZ
+#EXTINF:0, 05 - Espelho Quebrado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Espelho%20Quebrado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DhvJMA6DbDaae_xZEZtF7e-Xss0mJUZk
+#EXTINF:0, 06 - Assunto de Família.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Assunto%20de%20Fam%C3%ADlia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OffJNoKf5k-efNRMbIMGsOLGAZ-cIZRd
+#EXTINF:0, 07 - A Rainha da Neve.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20A%20Rainha%20da%20Neve.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1r7O6It-AsEsuCVspi3ZT7dX0b3GA_zuV
+#EXTINF:0, 08 - Quebrar o Espelho.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Quebrar%20o%20Espelho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZX-iyDy78ltqE1ekxJbXkVBS-6_11f31
+#EXTINF:0, 09 - Queda.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Queda.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14LwLsf37uvXhMsoa_iAa6-SIKHq1SL3c
+#EXTINF:0, 10 - Visão Partida.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Vis%C3%A3o%20Partida.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g6ZdCES4QZYlTesOYbIJQdbG-s871lbw
+#EXTINF:0, 11 - Heróis e Vilões.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Her%C3%B3is%20e%20Vil%C3%B5es.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VlhhugMac-6y5UESW4FfhN8oHHTQvTwL
+#EXTINF:0, 12 - Escuridão nos Limites da Cidade.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Escurid%C3%A3o%20nos%20Limites%20da%20Cidade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LsdXH-U_MynLV4WW5qCBiN5c7qFtTE_r
+#EXTINF:0, 13 - Sem Perdão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Sem%20Perd%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GYXfNVxDx48ZQvG_yZfILq3z3Ftl9mw_
+#EXTINF:0, 14 - A Volta do Dragão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20A%20Volta%20do%20Drag%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yHyTV-1lCbY2DIJugYHdVm2H0H_2nJnW
+#EXTINF:0, 15 - Pobre Alma.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Pobre%20Alma.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KzF3pnQdWVQlj_mSUQDOSMroLbln-Ypx
+#EXTINF:0, 16 - Força Maior.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20For%C3%A7a%20Maior.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bdPKHEdZuotWipnUNPeOQ25YEtSatF9_
+#EXTINF:0, 17 - O Coração de Gold.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20O%20Cora%C3%A7%C3%A3o%20de%20Gold.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18LKQRdSWqFgWkaUmEDfH2ui43n8-s74z
+#EXTINF:0, 18 - O Lado Mal.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20O%20Lado%20Mal.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FkpxGUg-onB5MwjqtHbRwCNof4241YsN
+#EXTINF:0, 19 - Lily.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Lily.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pLGX17xAcjTVm__zFEVnqc17e6ulSB5B
+#EXTINF:0, 20 - Mãe.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20M%C3%A3e.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15yq08BNggTjA8s6VjUzqH2K0sQxJEqi_
+#EXTINF:0, 21 - Operação Mangusto parte 1.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Opera%C3%A7%C3%A3o%20Mangusto%20parte%201.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sob5NQnhgvjxC3OTHDo1e5NmfJQScLv5
+#EXTINF:0, 22 - Operação Mangusto parte 2.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Opera%C3%A7%C3%A3o%20Mangusto%20parte%202.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OekZICTBgvyoaZ42oH84M7RZax7MbZNb
+#EXTINF:0, 23.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/23.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kF6cLYUKVk9HlJ0IzQCHvFl86IVugFxY

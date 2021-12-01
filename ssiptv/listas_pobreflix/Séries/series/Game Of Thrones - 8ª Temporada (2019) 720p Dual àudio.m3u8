@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Game Of Thrones - 8ª Temporada (2019) 720p Dual àudio
+#EXTINF:0, 01 - Winterfell.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Winterfell.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wJ5NGaCMLu2Y0JlzV6KL4_hoe6RujTBc
+#EXTINF:0, 02 - Uma Cavaleira dos Sete Reinos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Uma%20Cavaleira%20dos%20Sete%20Reinos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ccbrHZ3j2M5_Ah1QaQ0REhgCD-hzOBuP
+#EXTINF:0, 03 - A Longa Noite.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20A%20Longa%20Noite.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19Eb2tRBdjdlFddqzHkgtprsv9aL6Aki9
+#EXTINF:0, 04 - Os Últimos dos Starks.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Os%20%C3%9Altimos%20dos%20Starks.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mSMnjTBLLqCWpFa4VUlUud0tqZMoZwJ4

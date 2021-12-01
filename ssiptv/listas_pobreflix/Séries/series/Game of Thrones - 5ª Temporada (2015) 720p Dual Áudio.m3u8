@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Game of Thrones - 5ª Temporada (2015) 720p Dual Áudio
+#EXTINF:0, Game of Thrones - S05E01 - The Wars to Come.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E01%20-%20The%20Wars%20to%20Come.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FWD0lVPm2Lx9cugWm6W9XvuH0hFEL397
+#EXTINF:0, Game of Thrones - S05E02 - The House of Black and White.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E02%20-%20The%20House%20of%20Black%20and%20White.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N7UOLZTWPRM5GL-cF-_plopSe-P-jjCm
+#EXTINF:0, Game of Thrones - S05E03 - High Sparrow.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E03%20-%20High%20Sparrow.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1odL3QsUIMH4vDsprWMl2Yv4P45qPpu0D
+#EXTINF:0, Game of Thrones - S05E04 - Sons of the Harpy.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E04%20-%20Sons%20of%20the%20Harpy.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T_10cba7nZ1eSnVCivCTmyBmZT9vI_Ha
+#EXTINF:0, Game of Thrones - S05E05 - Kill the Boy.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E05%20-%20Kill%20the%20Boy.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UKiUcFVqFj5pQnfMFhNaN0Nwy4zvtRKt
+#EXTINF:0, Game of Thrones - S05E06 - Unbowed, Unbent, Unbroken.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E06%20-%20Unbowed,%20Unbent,%20Unbroken.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10YoRip4YqWRCWN4XoybMg1cwVFb5hY6_
+#EXTINF:0, Game of Thrones - S05E07 - The Gift.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E07%20-%20The%20Gift.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1I-GEN-01pBnJI0RtzQ_UgCgaf3MULWSP
+#EXTINF:0, Game of Thrones - S05E08 - Hardhome.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E08%20-%20Hardhome.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iB817e7Bs5qYb08nrPOp_u7rBHAELEJg
+#EXTINF:0, Game of Thrones - S05E09 - The Dance of Dragons.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E09%20-%20The%20Dance%20of%20Dragons.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WEbeJSvrCGGEQGof6LgAsGF8H2yyuJEQ
+#EXTINF:0, Game of Thrones - S05E10 - Mother's Mercy.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Game%20of%20Thrones%20-%20S05E10%20-%20Mother's%20Mercy.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZO3aZXo55tswX3DKQqxdV2eEonu1C5NM

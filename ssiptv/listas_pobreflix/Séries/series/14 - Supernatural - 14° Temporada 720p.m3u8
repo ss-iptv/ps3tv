@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 14 - Supernatural - 14° Temporada 720p
+#EXTINF:0, 01 - Estranho Numa Terra Estranha.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Estranho%20Numa%20Terra%20Estranha.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1A6YUk2jUXRV1Bqsq_U13s-CZTzXpvF8o
+#EXTINF:0, 02 - Deuses e Monstros.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Deuses%20e%20Monstros.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14CIscJvSGUfNDFmKCN-B31DecZG5wTTC
+#EXTINF:0, 03 - A Cicatriz.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20A%20Cicatriz.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14UM6ruDjGAjzzx8hpjMxjv2Qty-EFN3B
+#EXTINF:0, 04 - Ótima Condição.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20%C3%93tima%20Condi%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fkcYxWUBJgQRMzWfNOZ6cFn2wHVDFKrA
+#EXTINF:0, 05 - A Lógica do Pesadelo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20A%20L%C3%B3gica%20do%20Pesadelo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Joqcead2mDvbqEo6lGg14a1h24dJrA93
+#EXTINF:0, 06 - Otimismo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Otimismo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uYTGautG1g66_EPnY0jkIvy7nCI5c8TT
+#EXTINF:0, 07 - Natureza Inumana.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Natureza%20Inumana.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qCaeVKrF2J8hYEov3BSSIEZqHZOS5YwC
+#EXTINF:0, 08 - Bizâncio.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Biz%C3%A2ncio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tqmkfSUNANlYLvhFPhf7uTZ_JERaY-p6
+#EXTINF:0, 09 - A Lança.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20A%20Lan%C3%A7a.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YNnppQECKoqsZTgNqaTk5GbS7vo5FeO9
+#EXTINF:0, 10 - Niilismo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Niilismo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14TgEuFgHYk3EEoZvC3pMOBl_pZXYawnc
+#EXTINF:0, 11 - Mercadoria Danificada.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Mercadoria%20Danificada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ipc8DFDxO88-eX0LAQKOpPZi3L0CIuRb
+#EXTINF:0, 12 - Profeta e Perda.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Profeta%20e%20Perda.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PkMlHY2nvcKEU4OMvZOrMDr9m5YdrcQ-
+#EXTINF:0, 13 - Lebanon.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Lebanon.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1otRBX31FMntl0ghsfOs3kqvrzIpr7PjK
+#EXTINF:0, 14 - Ouroboros.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Ouroboros.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Y175fYjD77oMxeu6eQJGEWSVwSrf-Ezw
+#EXTINF:0, 15 - Paz de Espírito.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Paz%20de%20Esp%C3%ADrito.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u5pezfYrFmdmmm4z8mh6sA1e0B1hS8-_
+#EXTINF:0, 16 - Não Entre na Mata.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20N%C3%A3o%20Entre%20na%20Mata.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V0TWyYQppSoEzkXeryYDPAt903OSqN2G
+#EXTINF:0, 17 - Noite de Jogo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Noite%20de%20Jogo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1suAg9OqJULhOEYR5VhQmaUVfScLGoQBk
+#EXTINF:0, 18 - Ausência.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Aus%C3%AAncia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Do-HrpZKOFCt1xD2XqRJOYtp9USfBwq9
+#EXTINF:0, 19 - Caixa Surpresa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Caixa%20Surpresa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vpuCn9tu6Y_DGMmUpu-4WaZN5_t3Zg_z
+#EXTINF:0, 20 - Moriá.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Mori%C3%A1.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EKD5bOyuq0NiiFr1s4UuQpBMf8usawrH

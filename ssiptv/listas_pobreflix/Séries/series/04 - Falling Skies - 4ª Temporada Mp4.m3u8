@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 04 - Falling Skies - 4ª Temporada Mp4
+#EXTINF:0, 1 - Ghost in the Machine.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Ghost%20in%20the%20Machine.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1d_3DZEWdfjEV_Eahj2TKkgQvw4223RZF
+#EXTINF:0, 10 - Drawing Straws.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Drawing%20Straws.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11jMPR2WS78qD1j927_xjJeR8FRgZbqsw
+#EXTINF:0, 11 - Space Oddity.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Space%20Oddity.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i35mzYkKmTZXhL2AbqZTghVZNLunJlqT
+#EXTINF:0, 12 - Shoot the Moon.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Shoot%20the%20Moon.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NWi3k7MeAFBYWe4JMUJEZ7r3h6cIJfkU
+#EXTINF:0, 2 - The Eye.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20The%20Eye.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BoVY2d4hn3KnIgAAuD-zKd4JwLUOihZh
+#EXTINF:0, 3 - Exodus.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Exodus.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GDKmDgyUG4Ns12D1j7JQnk9DOHjzNHZo
+#EXTINF:0, 4 - Evolve or Die.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Evolve%20or%20Die.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O14WaXQr7ots5qXV9pvjdAQ4IvDNs1Yf
+#EXTINF:0, 5 - Mind Wars.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Mind%20Wars.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NntXJbRNk6j938dEU1AzhljKutVSSCNA
+#EXTINF:0, 6 - Door Number Three.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Door%20Number%20Three.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HNbH74L9HTeaVz3uWd6BqsK59npc7lgJ
+#EXTINF:0, 7 - Saturday Night Massacre.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Saturday%20Night%20Massacre.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14I4FDjPYLaOD7z7ywlW0-gQtvBT2WoYr
+#EXTINF:0, 8 - A Thing with Feathers.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20A%20Thing%20with%20Feathers.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13bLSB0ABesKfmoYpS3Cc6GL_R8352y25
+#EXTINF:0, 9 - Till Death Do Us Part.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Till%20Death%20Do%20Us%20Part.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1apXt8D2t2di2ZDisHnWbOEZgYdydRpPa

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 13 - Supernatural - 13° Temporada 720p
+#EXTINF:0, s13e01.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e01.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T2MJlFDzE_WX5IAZPgm8Za9uDzZa35G-
+#EXTINF:0, s13e02.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e02.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1z_DocrwfxNUjz4sWHKlM0oG0Pl_tV_HD
+#EXTINF:0, s13e03.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e03.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zMK5iAxIFj_p8w77-WjFMTdy_LTOgKLP
+#EXTINF:0, s13e04.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e04.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DNQ2xZQxlm62P1Z_djzK5P4dMmOwenMj
+#EXTINF:0, s13e05.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e05.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13MJXnGeZLijEfKP-YBUYMLInMiZ-30bF
+#EXTINF:0, s13e06.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e06.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=108-En83TZ6KhMZeBr0rvqU3q4kasyhPG
+#EXTINF:0, s13e07.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1avzfzGqIiI4YfW9W3eovKXlS6H1yd605
+#EXTINF:0, s13e08.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10eHk3dyku1JQfzcv_IxTN5OKg8HphBvv
+#EXTINF:0, s13e09.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19BIBQASVNy6mK0bliu3IftJ3po0StJuw
+#EXTINF:0, s13e10.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18du4sbPbmh_yWXZPRpGggdp5g3Ao3oeR
+#EXTINF:0, s13e11.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e11.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-tiq7M_W4I9GX6_Z0ZfdQBOwByKcFMyv
+#EXTINF:0, s13e12.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e12.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vvZLVLonljALwirVxfLmEHQ0nP2EfWQ7
+#EXTINF:0, s13e13.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e13.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MNLNRL-_C27jEynru1XXSoGM4sX9vd-G
+#EXTINF:0, s13e14.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e14.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wnxWwqVrE_i0Xv-kN8ZZVuFhuNO1bfXK
+#EXTINF:0, s13e15.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e15.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Z7yb3V3fz8mHmn6kp3gxrC_k8F-mvsZt
+#EXTINF:0, s13e16.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e16.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QeWS8B74PaCaMEhzUIMXzPYYtuVUTHJB
+#EXTINF:0, s13e17.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e17.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-T2hkkQG9rlp7mDh7TsLm63mhAtnbWLE
+#EXTINF:0, s13e18.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e18.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1erWNWUTBFVg59wRRyu5jc0dFl8IER8GD
+#EXTINF:0, s13e19.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e19.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WShtMh2xAVRKB9hDtQuOKXJLoO9THSsb
+#EXTINF:0, s13e20.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e20.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tsFcoWQSyXPhmpjVV3FkQIbPgtO2-Bc4
+#EXTINF:0, s13e21.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e21.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1trN7RZvf4VZymWZzbEcinLwLN1XBLwxu
+#EXTINF:0, s13e22.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e22.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12ScwzFAPzn-2XlEfC1VrJOwYgehIw-Yp
+#EXTINF:0, s13e23.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/s13e23.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13La4DVVNe8RkG8aA9NYIB0GLRUUbqDoE

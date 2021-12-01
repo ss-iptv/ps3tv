@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Titans 1° Temporada 1080p Mkv
+#EXTINF:0, Titãns S01E01 Titãs.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E01%20Tit%C3%A3s.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aOQtP53tnkv4Ylso9hKb8LBby_7RL9Ll
+#EXTINF:0, Titãns S01E02 Rapina e Columba.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E02%20Rapina%20e%20Columba.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pmVHT_MLo83k7aDoJaYmK5X4aFh79zRi
+#EXTINF:0, Titãns S01E03 Origens.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E03%20Origens.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fgCVs9sxz9oqqroOXv0ASon6MShvGhWv
+#EXTINF:0, Titãns S01E04 Patrulha de Condenados.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E04%20Patrulha%20de%20Condenados.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-BLUEKhdhJQceixNyDJXgqrXrQqWq_rl
+#EXTINF:0, Titãns S01E05 Juntos.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E05%20Juntos.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oToHvxsYWdyLl8AhznGuEtDfW6Cf5_ZP
+#EXTINF:0, Titãns S01E06 Jason Todd.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E06%20Jason%20Todd.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12MbjnAR11DboA1TPpFbXNXE8PglD8BiG
+#EXTINF:0, Titãns S01E07 O hospício.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E07%20O%20hosp%C3%ADcio.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ePCD4LqN7ChioECvOazrlH-WEPWdqcW_
+#EXTINF:0, Titãns S01E08 Donna Troy.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E08%20Donna%20Troy.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-BqT_mYQqQ55FXGlgQIKaAQwr2ykevuq
+#EXTINF:0, Titãns S01E09 Hank e Dawn.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E09%20Hank%20e%20Dawn.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ce1WpxredRRW17rkf5RD8OLsz9O-C3yU
+#EXTINF:0, Titãns S01E10 Koriandr.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E10%20Koriandr.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t7ryj69GXjpMU1n4DmLuRMHW-26aHWAj
+#EXTINF:0, Titãns S01E11 Dick Grayson.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Tit%C3%A3ns%20S01E11%20Dick%20Grayson.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=188wW56VIqY5XcES7w-p-w4TxzNoqii14

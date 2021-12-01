@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - 13 Reasons Why 2° Temporada 720p Mp4
+#EXTINF:0, 13.Reasons.Why.S02E09.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13.Reasons.Why.S02E09.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rFwZC6ug8TJAnzPV03qVuKKOZOEH7ea5
+#EXTINF:0, 13.Reasons.Why.S02E10.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13.Reasons.Why.S02E10.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N8jqEWAC2C3mhlSemWxZ6IMUNlR7HdTJ
+#EXTINF:0, 13.Reasons.Why.S02E11.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13.Reasons.Why.S02E11.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10gCHhF_tNLDAbOrHYaoSBjlCra2EstJM

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Três é demais 7ª Temporada
+#EXTINF:0, 145 – Foi Uma Noite Escura e Tempestuosa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/145%20%E2%80%93%20Foi%20Uma%20Noite%20Escura%20e%20Tempestuosa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ASC3UzaPUt0CA-uL1sHjsa_5_JjPi5Cj
+#EXTINF:0, 146 – O Apartamento.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/146%20%E2%80%93%20O%20Apartamento.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V6Tm73XgLYNgoml25v0MW1asma2Dhx7A
+#EXTINF:0, 147 – Caminho Errado, Tanner.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/147%20%E2%80%93%20Caminho%20Errado,%20Tanner.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XoyLv6gF4NoqdQTwWk26wWdNWZWZsPn_
+#EXTINF:0, 148 – Amor Difícil.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/148%20%E2%80%93%20Amor%20Dif%C3%ADcil.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TFHSRa5k0Dol7wuQvp72CWGdKGiPiq9b
+#EXTINF:0, 149 – Amigos Passageiros.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/149%20%E2%80%93%20Amigos%20Passageiros.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rl_GNzUDvPlicu7MNlMWzLDYEuTisWRQ
+#EXTINF:0, 150 – Smash Club: A Nova Geração.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/150%20%E2%80%93%20Smash%20Club:%20A%20Nova%20Gera%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bvwhs0t4x9q-Yfx7sJ6mmUY0BNd9MjGy
+#EXTINF:0, 151 – Grande Ansiedade.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/151%20%E2%80%93%20Grande%20Ansiedade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HkMPM_nlG0_2GCzlra82qXPH2869SIJZ
+#EXTINF:0, 152 – Outra Abertura.. – Outro Fracasso.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/152%20%E2%80%93%20Outra%20Abertura..%20%E2%80%93%20Outro%20Fracasso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=159JUue3wjvTA4AzZ-plxZ4sZc4Fp0rJG
+#EXTINF:0, 153 – O Dia do Rino.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/153%20%E2%80%93%20O%20Dia%20do%20Rino.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x0B2ni_xCVuSMqwUEnPwK6Ou77oiAu1v
+#EXTINF:0, 154 – Um Jogo Curioso.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/154%20%E2%80%93%20Um%20Jogo%20Curioso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18R3h9EBHsghXq-nYLq5IvTTxXBRsfuy1
+#EXTINF:0, 155 – O Ladrão de Bicicletas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/155%20%E2%80%93%20O%20Ladr%C3%A3o%20de%20Bicicletas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UrjM9YPbrPcMw9M7sGSxzLQ0LX0OPaDS
+#EXTINF:0, 156 – Apoiem Seus Pais Locais.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/156%20%E2%80%93%20Apoiem%20Seus%20Pais%20Locais.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16_Idcd5ZUGSB9yjNsqwkE1s8s1wlFXhO
+#EXTINF:0, 157 – O Casal Perfeito.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/157%20%E2%80%93%20O%20Casal%20Perfeito.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rFVbSoi9mpEUMEd4AyfyTcpJ-CjumVwN
+#EXTINF:0, 158 – É verdade, Stephanie?.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/158%20%E2%80%93%20%C3%89%20verdade,%20Stephanie?.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GPlgJ11rX5HeckhuNbnCDdvZMxViC9J2
+#EXTINF:0, 159 – O Teste.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/159%20%E2%80%93%20O%20Teste.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t2DEmiBTplDQ4mNgYp5pPs8eNMQjuX3V
+#EXTINF:0, 160 – A Namorada de Joey.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/160%20%E2%80%93%20A%20Namorada%20de%20Joey.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kw-Ok0is4FlgGEElNofRUJhDPMveQ6s5
+#EXTINF:0, 161 – A Última Dança.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/161%20%E2%80%93%20A%20%C3%9Altima%20Dan%C3%A7a.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19gYmlPt51OYXu1q_XgtTD_c3kLAJUGP6
+#EXTINF:0, 162 – O Primo de Jesse.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/162%20%E2%80%93%20O%20Primo%20de%20Jesse.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lhxpSXcd1SuGT7RF-WJkaoMcJYwRbzR6
+#EXTINF:0, 163 – Amor nas Rochas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/163%20%E2%80%93%20Amor%20nas%20Rochas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rC1ZWalCHrDvplnnuHTf1rIAJbWDNXTq
+#EXTINF:0, 164 – A Corrida.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/164%20%E2%80%93%20A%20Corrida.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aRWexzhMKoqB43BBd5pmYqvAzNtqRc_M
+#EXTINF:0, 165 – Seja o seu Próprio Melhor Amigo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/165%20%E2%80%93%20Seja%20o%20seu%20Pr%C3%B3prio%20Melhor%20Amigo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iKvnPaD1JEWpdZpJjmID1HfYKp-hqkd_
+#EXTINF:0, 166 – O Encontro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/166%20%E2%80%93%20O%20Encontro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HLREnq42WecZLd40P5MxoreVblN7FHYI
+#EXTINF:0, 167 – Associação de Pais e Mestres.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/167%20%E2%80%93%20Associa%C3%A7%C3%A3o%20de%20Pais%20e%20Mestres.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1r7Lw5-C9UsRAJU8uWFpWDFTlJNkpltQH
+#EXTINF:0, 168 – Uma Casa Dividida.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/168%20%E2%80%93%20Uma%20Casa%20Dividida.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kNXBSziPeuvkUq1OaWCBnJGSKaI3aflx

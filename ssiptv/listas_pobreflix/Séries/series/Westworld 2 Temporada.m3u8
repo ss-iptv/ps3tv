@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Westworld 2 Temporada
+#EXTINF:0, 1.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EbOQYXH-e_xGpVUo5jG-YDf81OK1vAIk
+#EXTINF:0, 10.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1__5TRJX6ju8cpotA5RSSjlXc-1RRY6QG
+#EXTINF:0, 2.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T8cKtgQcOVLrlRgZXrqnaTXQt1SvKC-F
+#EXTINF:0, 3.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oOJBBJW_ZItQDpWVI6Th7dHqBgyru-SH
+#EXTINF:0, 4.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/4.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MpZAJnLgy12IEkwt-JrFnziFn0vTrHwx
+#EXTINF:0, 5.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/5.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17oCscWcVVjiEoy5iAnJ-RcacMI4VdrP1
+#EXTINF:0, 6.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/6.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m_XuhMc55EZuzh1qn8O9uGJ0wBWCKxv-
+#EXTINF:0, 7.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/7.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i-DQItUcxRDWrLUm2Wx1mDRRflTHHMb4
+#EXTINF:0, 8.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JPEGP8XIh4zAk--kc3qImWTfNGoql0fU
+#EXTINF:0, 9.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/9.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KUJU-54qKrvfoBWS-eBscTsft9wGPIFg

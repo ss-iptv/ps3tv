@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1ª Temporada
+#EXTINF:0, The Blacklist - S01E01 - Pilot.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E01%20-%20Pilot.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eApPkPT31O7u3fLEjbWHV0TlH_OgvHka
+#EXTINF:0, The Blacklist - S01E02 - The Freelancer.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E02%20-%20The%20Freelancer.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hb34GeDwLJ6LYqYVHhs-Yd6TKbusPb3g
+#EXTINF:0, The Blacklist - S01E03 - Wujing.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E03%20-%20Wujing.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uRJJTqYb-jlxEAYfgwWAex2CcZn7mamF
+#EXTINF:0, The Blacklist - S01E04 - The Stewmaker.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E04%20-%20The%20Stewmaker.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MhwtGDZXvnlWVunFcCPAcm7ZHslUYaK6
+#EXTINF:0, The Blacklist - S01E05 - The Courier.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E05%20-%20The%20Courier.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n5XNojNpiegTnjNMS9bvx3dIWGtmEazx
+#EXTINF:0, The Blacklist - S01E06 - Gina Zanetakos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E06%20-%20Gina%20Zanetakos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1h1w0aMZmhE-UnO7qp-vkvmiyJnwN4TxW
+#EXTINF:0, The Blacklist - S01E07 - Frederick Barnes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E07%20-%20Frederick%20Barnes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tMTdrXKVX2ob3IxQZX0EbJ25vMf3yvV8
+#EXTINF:0, The Blacklist - S01E08 - General Ludd.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E08%20-%20General%20Ludd.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nKOjMCYL4mG6vikjX6CmepH_rsXfWqbU
+#EXTINF:0, The Blacklist - S01E09 - Anslo Garrick (1).mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E09%20-%20Anslo%20Garrick%20(1).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PinCq8hn1QgRF8FYsTiw3gHXsxBwKJHz
+#EXTINF:0, The Blacklist - S01E10 - Anslo Garrick (2).mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E10%20-%20Anslo%20Garrick%20(2).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bwryc2oMCIzGN1siYJTS9Ff4XkU-slFv
+#EXTINF:0, The Blacklist - S01E11 - The Good Samaritan.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E11%20-%20The%20Good%20Samaritan.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ht0t_fkC02gG6ezV2CC4i9XO9IulPhB5
+#EXTINF:0, The Blacklist - S01E12 - The Alchemist.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E12%20-%20The%20Alchemist.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VmKBqjWL0EKGd4X6IzcR35dt1BCnFR47
+#EXTINF:0, The Blacklist - S01E13 - The Cyprus Agency.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E13%20-%20The%20Cyprus%20Agency.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LyHzb1rwbQW0PKmWr_p0Z432ujzjYW-M
+#EXTINF:0, The Blacklist - S01E14 - Madeline Pratt.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E14%20-%20Madeline%20Pratt.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19gjDHSH_kE2Vn4ZMQo-YvL3gHcUmRayX
+#EXTINF:0, The Blacklist - S01E15 - The Judge.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E15%20-%20The%20Judge.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19KQYWN67jiTyCtyEPrEE-f9Ks3CYBhsy
+#EXTINF:0, The Blacklist - S01E16 - Mako Tanida.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E16%20-%20Mako%20Tanida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RlbPyc4BUOX0b7HAK58PyA6wn31s7wdp
+#EXTINF:0, The Blacklist - S01E17 - Ivan.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E17%20-%20Ivan.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1359RkJcrbjI-ihrkhjhzTjcOJfr_KE3f
+#EXTINF:0, The Blacklist - S01E18 - Milton Bobbit.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E18%20-%20Milton%20Bobbit.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18vBo_h03llvpb3qlVmgmok4dMCkWnXqO
+#EXTINF:0, The Blacklist - S01E19 - The Pavlovich Brothers.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E19%20-%20The%20Pavlovich%20Brothers.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11UcBr6oa1w7CK9b_pMfYWld8Z1hINC6y
+#EXTINF:0, The Blacklist - S01E20 - The Kingmaker.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E20%20-%20The%20Kingmaker.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DFRl8HyImtcUOW-bQ-3aSbGd__dgMs8K
+#EXTINF:0, The Blacklist - S01E21 - Berlin (1).mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E21%20-%20Berlin%20(1).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ppCG9ECrOOreQ0QF8W2KPjqSVQi5Sqci
+#EXTINF:0, The Blacklist - S01E22 - Berlin Conclusion (2).mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Blacklist%20-%20S01E22%20-%20Berlin%20Conclusion%20(2).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mkSKmqA87bTnNR9yGd8G1IZIyXDDf0lj

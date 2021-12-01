@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 03 - Prison Break - 3° Temporada 720p Mp4
+#EXTINF:0, 01 - Orientação.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Orienta%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tflWKmMkD2BkNK87pEY1Sx6txrXFm-oq
+#EXTINF:0, 02 - Fogo e Água.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Fogo%20e%20%C3%81gua.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DK1mAsXZGQTt8zAVn4LDmKb71iTsAI2w
+#EXTINF:0, 03 - O Telefonema.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20O%20Telefonema.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kod38nq02mOkVWqN1oRo_Fww8HsgrLER
+#EXTINF:0, 04 - A Cerca.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20A%20Cerca.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zk7mpcy1r2670C0ndCYgILGParMp7HEV
+#EXTINF:0, 05 - Interferência.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Interfer%C3%AAncia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1boxAkijO4KSOW9Gb-r6jyDB8QHak53ki
+#EXTINF:0, 06 - As Fotos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20As%20Fotos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1W-ENgqmeN7PrxhlixgLyqLLJPylsqUou
+#EXTINF:0, 07 - A Fuga.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20A%20Fuga.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m94w3mAfPV3xvqsN2q8CGfJ4TrQvmdOX
+#EXTINF:0, 08 - Tentativa de Fuga.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Tentativa%20de%20Fuga.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZGWzjBJVUdwnG_US_hyj8rLKxyLZrCw4
+#EXTINF:0, 09 - Tentativa Frustrada.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Tentativa%20Frustrada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1J6_FKhA5zpF2HIoa-8hh-rpexlfmn5hl
+#EXTINF:0, 10 - Por Um Fio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Por%20Um%20Fio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xpc-ERW5O8XwcA58Wu-hMjQY8NgvlN12
+#EXTINF:0, 11 - Fuga Noturna.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Fuga%20Noturna.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LP5Q4HlHw_rUwjbOpEaDXo61o6ZBk-xN
+#EXTINF:0, 12 - Inferno ou Alto-Mar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Inferno%20ou%20Alto-Mar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jLJppCzqLQqjbhVRbEpdMEZ-R3cqw0Cu
+#EXTINF:0, 13 - A Arte de Negociar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20A%20Arte%20de%20Negociar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lLAMmO8K83Dt6lvk4rZybi4zTJIWzmn9

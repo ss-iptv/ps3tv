@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST:  Great News 1° Temporada 1080p MKV 
+#EXTINF:0, Great.News.S01E01.Pilot.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E01.Pilot.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FSiheQj6c9bBWvtjMiwcuj-QDcWRE0td
+#EXTINF:0, Great.News.S01E02.Bear.Attack.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E02.Bear.Attack.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uX-jhn7TFGpoIkLbewI8ZPut0qVk2Qsz
+#EXTINF:0, Great.News.S01E03.Chuck.Pierce.Is.Blind.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E03.Chuck.Pierce.Is.Blind.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ddkHbrTBDEEPlljr7nZtXBN6SGY9KJp0
+#EXTINF:0, Great.News.S01E04.War.Is.Hell.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E04.War.Is.Hell.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JBnh8uXdWpOIHSn4Kiu20TDiJHCpYTho
+#EXTINF:0, Great.News.S01E05.Snowmageddon.of.the.Century.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E05.Snowmageddon.of.the.Century.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Pd_PoKVfpZQkB896kt4PAoUBpjeq5bTu
+#EXTINF:0, Great.News.S01E06.Serial.Arsonist.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E06.Serial.Arsonist.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JemTCcAJPZRnD2WMty94uhIShQbdGQy2
+#EXTINF:0, Great.News.S01E07.The.Red.Door.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E07.The.Red.Door.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_Lftfmqd1i35iaCXPz3dCJUO8MaDhHTR
+#EXTINF:0, Great.News.S01E08.Celebrity.Hacking.Scandal.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E08.Celebrity.Hacking.Scandal.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wjiqT_SUs7wtBMgScSaQNvO6hw39T30Q
+#EXTINF:0, Great.News.S01E09.Carol.Has.a.Bully.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E09.Carol.Has.a.Bully.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16UZIFjbVglc2iW3AmX-BDATejvZ4MPv6
+#EXTINF:0, Great.News.S01E10.Carol's.Eleven.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Great.News.S01E10.Carol's.Eleven.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ldw-jfqKnRaWZIZY9lq_90TQyVK_kwA1

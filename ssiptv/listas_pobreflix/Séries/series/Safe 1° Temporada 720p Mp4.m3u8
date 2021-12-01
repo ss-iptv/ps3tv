@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Safe 1° Temporada 720p Mp4
+#EXTINF:0, Safe.S01E01.720p.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E01.720p.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ALzSQ2hekpseBLXjN_-8uBeMQUCExNR-
+#EXTINF:0, Safe.S01E02.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E02.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DxOk-wtXpPeQng9wKABuNKWkund5PATS
+#EXTINF:0, Safe.S01E03.720p.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E03.720p.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sIakbpw3MVvf102-UE72HmNK0RNvwCeJ
+#EXTINF:0, Safe.S01E04.720p.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E04.720p.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OSQJAkgVEosqyikHFt1-GTA8vCWnD8Pn
+#EXTINF:0, Safe.S01E05.720p.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E05.720p.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YOFUP3RuiCZmecOARxnxca4ewHy7diQY
+#EXTINF:0, Safe.S01E06.720p.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E06.720p.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1up26S1R3AsXfY9d2NyHJSIALXyxZGxsp
+#EXTINF:0, Safe.S01E07.720p.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E07.720p.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1piTAarV2GUf4JmAwCZOHJGtL-JZD4eol
+#EXTINF:0, Safe.S01E08.720p.Dublado FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Safe.S01E08.720p.Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19lmYsMsRLnDNTaGp_ZJH6n2_0IRRfbl0

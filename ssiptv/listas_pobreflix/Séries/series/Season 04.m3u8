@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 04
+#EXTINF:0, Stargate Atlantis S04E01 - Adrift.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E01%20-%20Adrift.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_W1M3O5ZRrnLIJLd6_jFtnys9-X_Xg0o
+#EXTINF:0, Stargate Atlantis S04E02 - Lifeline.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E02%20-%20Lifeline.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xfzhULNuXPDgG_UcxLUtyY1QEPp_RDVk
+#EXTINF:0, Stargate Atlantis S04E03 - Reunion.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E03%20-%20Reunion.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nHxL78PGfOkJw32tUkAEjMM_IYAvbnoI
+#EXTINF:0, Stargate Atlantis S04E04 - Doppelganger.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E04%20-%20Doppelganger.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P6CxN5meQQtWmUzxr9Rx5_VckdZlh5LF
+#EXTINF:0, Stargate Atlantis S04E05 - Travelers.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E05%20-%20Travelers.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f2ZCxybZlkuzynVYoE8e1dA4h4T8c4SY
+#EXTINF:0, Stargate Atlantis S04E06 - Tabula Rasa.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E06%20-%20Tabula%20Rasa.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pgeh7aw_iv2s5slzXLdNeBGyjcPWTfVx
+#EXTINF:0, Stargate Atlantis S04E07 - Missing.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E07%20-%20Missing.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_fqZu21WbJ7Z-3vIV-pGkGmCdhr0is9b
+#EXTINF:0, Stargate Atlantis S04E08 - The Seer.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E08%20-%20The%20Seer.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1c3_o3-YGde1oePiXJx1oQPuajJpUbDJ0
+#EXTINF:0, Stargate Atlantis S04E09 - Miller's Crossing.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E09%20-%20Miller's%20Crossing.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Z0o5lO0Hbbos7Jxh59MIxbOb2TluYfli
+#EXTINF:0, Stargate Atlantis S04E10 - This Mortal Coil.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E10%20-%20This%20Mortal%20Coil.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NrC8KncTuX2W3rl9Tu7OELzfJPKqtHl3
+#EXTINF:0, Stargate Atlantis S04E11 - Be All My Sins Remember'd.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E11%20-%20Be%20All%20My%20Sins%20Remember'd.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RDVdgvSVpqAT_gmDOcOUKsrL4Pl3NM_1
+#EXTINF:0, Stargate Atlantis S04E12 - Spoils Of War.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E12%20-%20Spoils%20Of%20War.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DPjJap1zFL2dz0dPhgSiSb-adPHdHfHc
+#EXTINF:0, Stargate Atlantis S04E13 - Quaratine.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E13%20-%20Quaratine.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YJ1xbk6mKjjUFrbow6icC_QJcb8Pne55
+#EXTINF:0, Stargate Atlantis S04E14 - Harmony.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E14%20-%20Harmony.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_NQ1g0WeNhhhZOdKZIkFjETSI6uRA9j8
+#EXTINF:0, Stargate Atlantis S04E15 - Outcast.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E15%20-%20Outcast.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Tev4YyTSg7iDug_wdRruNVkfEGAbMsgK
+#EXTINF:0, Stargate Atlantis S04E16 - Trio.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E16%20-%20Trio.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tHmgvYzRAMijtvEYfkHQ6nCVvgDZYI4B
+#EXTINF:0, Stargate Atlantis S04E17 - Midway.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E17%20-%20Midway.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SLDFpkks5OA4uSRjY3Jh2KhJ7c103V06
+#EXTINF:0, Stargate Atlantis S04E18 - The Kindred, Part 1.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E18%20-%20The%20Kindred,%20Part%201.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OhOZhw0oGMoGVIGwnkxfGtVpRiSJ_fAH
+#EXTINF:0, Stargate Atlantis S04E19 - The Kindred, Part 2.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E19%20-%20The%20Kindred,%20Part%202.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_KNd7FcwCb5mfjwxwwQXMRVFP7H-fn--
+#EXTINF:0, Stargate Atlantis S04E20 - The Last Man.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S04E20%20-%20The%20Last%20Man.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZtHzs3k4L0Wxp2mRZBoHM_UFnj9s-R5j

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dois Homens e Meio - 03ª Temporada
+#EXTINF:0, 3x01 Chama o Cara.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x01%20Chama%20o%20Cara.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10CJGI11QhhzaliJFgkkONisKepC6iW1H
+#EXTINF:0, 3x02 Que Peitão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x02%20Que%20Peit%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=118VvElJJqUkYik69mgkI2xjzz7Lc5s62
+#EXTINF:0, 3x03 Relembrando o Passado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x03%20Relembrando%20o%20Passado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gr1uK0hpVSRvJ-jFPq3EvcTCEqlYSjXE
+#EXTINF:0, 3x04 Cai Fora.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x04%20Cai%20Fora.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NqRm1VoAKuG5VXplhXZQ5q5DKp1xbIgg
+#EXTINF:0, 3x05 Trauma.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x05%20Trauma.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UkKLUBKVBusEXrGQxnhtXYGeJJ9mTcdq
+#EXTINF:0, 3x06 Oi Senhor Chifrudo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x06%20Oi%20Senhor%20Chifrudo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oQd3vgiBPxUZyy988DewzJjLLrZTqq4b
+#EXTINF:0, 3x07 Dorme Bem Pudinzinho.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x07%20Dorme%20Bem%20Pudinzinho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oKy9LY2dhKmNEj73WcP1pMLHgA7QW1A0
+#EXTINF:0, 3x08 Meu Negócio é Mulher.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x08%20Meu%20Neg%C3%B3cio%20%C3%A9%20Mulher.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LezV96YoB3-6GJ8rJVJx32cS-V2dleu1
+#EXTINF:0, 3x09 O Amigo Especial da Madame.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x09%20O%20Amigo%20Especial%20da%20Madame.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yjJCTrHWPIXY9qQiyWPyycL_4f60EWZz
+#EXTINF:0, 3x19 Seca.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x19%20Seca.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pRldxLKgjsFLMMrNT5s4ZcGadQwQWVIF
+#EXTINF:0, 3x20 Reconciliação.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x20%20Reconcilia%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jyWbb0PBBGGMeZsXRaVJS3lGebTAjPt_
+#EXTINF:0, 3x21 O Musical.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x21%20O%20Musical.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kqyLUwBXBZMa-sWSW6RLXeQq2TW5s1-I
+#EXTINF:0, 3x22 A Primeira Vez.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x22%20A%20Primeira%20Vez.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10qVdQJLZz3G3fI1czCTAzmGR6o7FLS4A
+#EXTINF:0, 3x23 Desculpa Para Uma Rapidinha.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x23%20Desculpa%20Para%20Uma%20Rapidinha.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GjYIaAIHTHa9dTGpB9J1R_QfzAMZHTXe
+#EXTINF:0, 3x24 Casamento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3x24%20Casamento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CF0sEeGLvc1w3rNup1b7ufdEZtOYNEy_

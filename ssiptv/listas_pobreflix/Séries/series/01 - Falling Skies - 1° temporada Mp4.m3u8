@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Falling Skies - 1° temporada Mp4
+#EXTINF:0, 1 - Viver e Aprender.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Viver%20e%20Aprender.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xdlphzFORMCCLzggOXx6aXR2edZeqhnp
+#EXTINF:0, 10 - Oito Horas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Oito%20Horas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vXXZP0u4wRbHkNwI7fUVTP_aSDVkgg_b
+#EXTINF:0, 2 - O Arsenal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20O%20Arsenal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vrR0dF0JWQKcCdRYuF_mmbHmjAT74FmX
+#EXTINF:0, 3 - Prisioneiro de Guerra.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Prisioneiro%20de%20Guerra.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VM6pOyPZOy9zfw1Tm9GUKGklMPfvRe6t
+#EXTINF:0, 4 - Graça.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Gra%C3%A7a.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16jj7I2r8vvhzhSda86gDll-e2F8L6xnY
+#EXTINF:0, 5 - Assassinato Silencioso.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Assassinato%20Silencioso.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SK91OClOtbVHbfVRINJ-miP2AnEr_9RQ
+#EXTINF:0, 6 - O Santuário (Parte 1).mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20O%20Santu%C3%A1rio%20(Parte%201).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Qnd8uvCcDLmlXOc1iWDDZpLOrtjKjkWn
+#EXTINF:0, 7 - O Santuário (Parte 2).mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20O%20Santu%C3%A1rio%20(Parte%202).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kSYjDfhz3eIHKoi88MK6Okab8L1izcZS
+#EXTINF:0, 8 - O Que Está Por Trás.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20O%20Que%20Est%C3%A1%20Por%20Tr%C3%A1s.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V9y9qs3UUp7ivtFqBFJ59e5R7h8lwcAj
+#EXTINF:0, 9 - O Motim.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20O%20Motim.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RfdP-_ZIBHF_QVQvfei7qT0QWpfXREsm

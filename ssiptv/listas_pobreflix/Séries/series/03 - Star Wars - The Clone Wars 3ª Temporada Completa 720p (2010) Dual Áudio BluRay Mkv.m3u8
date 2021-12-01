@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 03 - Star Wars - The Clone Wars 3ª Temporada Completa 720p (2010) Dual Áudio BluRay Mkv
+#EXTINF:0, T03E01 - Clone Cadets.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E01%20-%20Clone%20Cadets.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oE7THPeQ6votOqa2y1sz-9LhRGVkWBZF
+#EXTINF:0, T03E02 - ARC Troopers.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E02%20-%20ARC%20Troopers.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1af3pAo1tj5LAz3T4Sfq5p9XxEECEFFyi
+#EXTINF:0, T03E03 - Linhas de Abastecimento.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E03%20-%20Linhas%20de%20Abastecimento.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-XHEimlG-F9QVMEouE6AjyCaof9yUECd
+#EXTINF:0, T03E04 - Esfera de influência.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E04%20-%20Esfera%20de%20influ%C3%AAncia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11CDQmpFRW14qfjznVxSPOnuJAVdvntgI
+#EXTINF:0, T03E05 - Corrupção.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E05%20-%20Corrup%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NDSjJf2Pp86YGKJkLuGAcFvcoPFW-a5N
+#EXTINF:0, T03E06 - A Academia.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E06%20-%20A%20Academia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SQKktLVneRwz8f9OY9R8lf9erm6sytzb
+#EXTINF:0, T03E07 - Assassino.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E07%20-%20Assassino.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17rEqZ0hIcdvUYimt4qVD9bWw8qI5oarS
+#EXTINF:0, T03E08 - Planos Malignos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E08%20-%20Planos%20Malignos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f0bvfNXz7Qgy6MH4L_3IYxlBNxlG4isE
+#EXTINF:0, T03E09 - Caça para Ziro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E09%20-%20Ca%C3%A7a%20para%20Ziro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TBgzJPc64YTogNtiS7fwSmAbXZtI0dFt
+#EXTINF:0, T03E10 - Os heróis de ambos os lados.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E10%20-%20Os%20her%C3%B3is%20de%20ambos%20os%20lados.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UuV55OOvtQn3UdfDikJMBKTWFBTH4lqB
+#EXTINF:0, T03E11 - Perseguição da Paz.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E11%20-%20Persegui%C3%A7%C3%A3o%20da%20Paz.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OrKoB7tAV7k_ANMSkyAO5VeeDg9ci5CN
+#EXTINF:0, T03E12 - Nightsisters.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E12%20-%20Nightsisters.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-vhclXEEui5ohTvZEvyVYTELLN7Hj-Xn
+#EXTINF:0, T03E13 - Monstro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E13%20-%20Monstro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17f1y5swJii1BwzUXzHf366-xII6UJYqZ
+#EXTINF:0, T03E14 - Bruxas da Névoa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E14%20-%20Bruxas%20da%20N%C3%A9voa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yLp-5a18F1jX-kyHuo-U9RmQ-3qEInro
+#EXTINF:0, T03E15 - Sobre Tudo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E15%20-%20Sobre%20Tudo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HiZI8Q6y3T2PoHB7UNbReRoUXcZUFb0G
+#EXTINF:0, T03E16 - Altar de Mortis.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E16%20-%20Altar%20de%20Mortis.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w6r-lEaf0qSVtkJwUwaDuu3ouDYypE0a
+#EXTINF:0, T03E17 - Fantasma de Mortis.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E17%20-%20Fantasma%20de%20Mortis.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PDff8jBmDqU1FHIGT216TE7uHrgCG1io
+#EXTINF:0, T03E18 - A citadela.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E18%20-%20A%20citadela.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1osgkYHdxBvjQ_F07uWQqK55Sy3AJL5Ym
+#EXTINF:0, T03E19 - Contra ataque.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E19%20-%20Contra%20ataque.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1liOfEO-ftU_4KQbfGhgAH0tEi5yXxj9S
+#EXTINF:0, T03E20 - Resgate da Citadela.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E20%20-%20Resgate%20da%20Citadela.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K8dZ6EqCP8ADyaDvmDkU1JXpoEAIQLe0
+#EXTINF:0, T03E21 - Padawan Perdido.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E21%20-%20Padawan%20Perdido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dFs3vJtUbH2e2W6G5rQLdSikWb8sbtgH
+#EXTINF:0, T03E22 - Caça a Wookiee.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T03E22%20-%20Ca%C3%A7a%20a%20Wookiee.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18d7z9AFyOeSfsoVNO5lfCndcUwH9iT5f

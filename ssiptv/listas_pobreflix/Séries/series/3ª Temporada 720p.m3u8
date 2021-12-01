@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 3ª Temporada 720p
+#EXTINF:0, Ash vs Evil Dead - S03E01 - Family.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E01%20-%20Family.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DlJavGzm9tyd064cCYckhioapa5NxoX-
+#EXTINF:0, Ash vs Evil Dead - S03E02 - Booth Three.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E02%20-%20Booth%20Three.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qQoO-5VZi9OGgadL6PwuLD60QbdiZ3TP
+#EXTINF:0, Ash vs Evil Dead - S03E03 - Apparently Dead.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E03%20-%20Apparently%20Dead.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19jnDQByf8jQiVwj8t6jz0Af7-FbQ-MHQ
+#EXTINF:0, Ash vs Evil Dead - S03E04 - Unfinished Business.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E04%20-%20Unfinished%20Business.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12Ha52dIeyknGKT0kRAg5YmuL3Nx_AgrN
+#EXTINF:0, Ash vs Evil Dead - S03E05 - Baby Proof.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E05%20-%20Baby%20Proof.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14PL02j2lOZqgcIktFLIa0lIkwBsrg8D3
+#EXTINF:0, Ash vs Evil Dead - S03E06 - Tales from the Rift.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E06%20-%20Tales%20from%20the%20Rift.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EOjaTaugGavfi-zhXib5TQ_q7ucMupcg
+#EXTINF:0, Ash vs Evil Dead - S03E07 - Twist and Shout.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E07%20-%20Twist%20and%20Shout.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oMN4YDGN7kAKIWpSVx5uQLamo2p-dBTl
+#EXTINF:0, Ash vs Evil Dead - S03E08 - Rifting Apart.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E08%20-%20Rifting%20Apart.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XNtPv4csQ0R3dvnLwDLDa6AwWnZOcDP7
+#EXTINF:0, Ash vs Evil Dead - S03E09 - Judgement Day.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E09%20-%20Judgement%20Day.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19prfgjBftFDq1UTPmkF1PyLIOnwhapKz
+#EXTINF:0, Ash vs Evil Dead - S03E10 - The Mettle of Man.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Ash%20vs%20Evil%20Dead%20-%20S03E10%20-%20The%20Mettle%20of%20Man.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vV0CpKAVnez66ktsN2ylvZnX8iTfmJTJ

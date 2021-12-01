@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Supergirl 1ª Temporada 1080p Mkv
+#EXTINF:0, S01E01 - Piloto[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E01%20-%20Piloto%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P1EHOZNSh5_FqKxqmc2t4Zsui5kFDSSX
+#EXTINF:0, S01E02 - Fortes Juntos[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E02%20-%20Fortes%20Juntos%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=146X5SoZfJUp9M8n4KrcZzGSc1r9CQZ0x
+#EXTINF:0, S01E03 - Lutar ou Fugir[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E03%20-%20Lutar%20ou%20Fugir%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xUmi8ajCNDlLANHeJtgPGUvMbrhduWuX
+#EXTINF:0, S01E04 - Como Ela Consegue[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E04%20-%20Como%20Ela%20Consegue%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j5o7Ll_AofdLIqAm8gBEUlBeYTVtilvL
+#EXTINF:0, S01E05 - Curto-Circuito[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E05%20-%20Curto-Circuito%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1d42TImJ1EGjGPp0IAhErXrQ9mdKLZ_VC
+#EXTINF:0, S01E06 - Combate a Fúria[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E06%20-%20Combate%20a%20F%C3%BAria%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uzLpVYzHkF_Rx1CDPeJXv7DF88Bt8nNf
+#EXTINF:0, S01E07 - Humana Por Um Dia[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E07%20-%20Humana%20Por%20Um%20Dia%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qQPAx3prto0PNBQk-rqk5gjH6ZPZBgj2
+#EXTINF:0, S01E08 - Conquista Inimiga[1080][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E08%20-%20Conquista%20Inimiga%5B1080%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kO8yA_05D55Q_YQBXSYbQ5tK31UHEVMm
+#EXTINF:0, S01E09 - O Sangue nos Conecta[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E09%20-%20O%20Sangue%20nos%20Conecta%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G-bTFhNvBrNpRikEa7FLK4mcAgFuqkuM
+#EXTINF:0, S01E10 - Coisa de Criança[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E10%20-%20Coisa%20de%20Crian%C3%A7a%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B51FbsQ8ZDCjcB66C8Eb4IvcY9kVo3dW
+#EXTINF:0, S01E11 - Visitantes de Outro Planeta[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E11%20-%20Visitantes%20de%20Outro%20Planeta%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1z7NhyMG4kwRQS_HCm15mdc_ErUK-E-Yw
+#EXTINF:0, S01E12 - Bizarra[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E12%20-%20Bizarra%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oEOSkn32Ses4WaRCB5f2CSMf3bvKvN0W
+#EXTINF:0, S01E13 - Para Menina que Tem Tudo[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E13%20-%20Para%20Menina%20que%20Tem%20Tudo%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YArFuPAa3aL7Sgn2K1Fi2phN_J-J9NAR
+#EXTINF:0, S01E14 - Verdade, Justiça e o Método Americano[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E14%20-%20Verdade,%20Justi%C3%A7a%20e%20o%20M%C3%A9todo%20Americano%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YX2mB5mYNuqDydY8bjp86ce_PH-OKEyn
+#EXTINF:0, S01E15 - Solidão[1080p][dual] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E15%20-%20Solid%C3%A3o%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=112kVmtdtLP0iOFqT5RRXEuC4mQsfu69C
+#EXTINF:0, S01E16 - Decadente[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E16%20-%20Decadente%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kqry8phM7D5i_w_nQ4pqdBNmGsf17WpG
+#EXTINF:0, S01E17 - Caçador de Homen[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E17%20-%20Ca%C3%A7ador%20de%20Homen%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gm61ef1k9yLgiIO3MInhKzjukIMa4jgh
+#EXTINF:0, S01E18 - Os Melhores do Mundo[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E18%20-%20Os%20Melhores%20do%20Mundo%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Qdsq4CnPosCmVXMHVha165Y11PiexAzl
+#EXTINF:0, S01E19 - Myriad[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E19%20-%20Myriad%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lf8OwM0IHaFjhyeg912ZlWeSLpadhqPJ
+#EXTINF:0, S01E20 - A Essência do Bem[1080p][Trial] FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E20%20-%20A%20Ess%C3%AAncia%20do%20Bem%5B1080p%5D%5BTrial%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kMe7HEUxJqfO5kRRrGtWRIsMBt3dhPGM

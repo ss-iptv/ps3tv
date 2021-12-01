@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 -  Marlon - 1° Temporada 1080p Mkv
+#EXTINF:0, Marlon.S01E01.Pilot.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E01.Pilot.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rU9OuFj0WzGMNc4S5y6lbSczlACc-qaS
+#EXTINF:0, Marlon.S01E02.Cleaning.Out.the.Closet.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E02.Cleaning.Out.the.Closet.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EaGpMfjVo4rdoxrmdUyv8KtRePY_GO0q
+#EXTINF:0, Marlon.S01E03.Boys.Only.Want.One.Thing.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E03.Boys.Only.Want.One.Thing.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OwPZf27qJxDDwPFmy00rxkLWdRLMkDt4
+#EXTINF:0, Marlon.S01E04.Exes.With.Benefits.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E04.Exes.With.Benefits.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jSKQdaIgc6SBF7FLmBCc8im62hJUY3NV
+#EXTINF:0, Marlon.S01E05.Project.Kids.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E05.Project.Kids.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g0y8wFqbR5bOBkbmW1h0mvFXX4GTbXYQ
+#EXTINF:0, Marlon.S01E06.Surprises.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E06.Surprises.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uiUBObZ14wvYN4DTu-R_-v6-TnrN74Ig
+#EXTINF:0, Marlon.S01E07.Hospital.Party.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E07.Hospital.Party.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GOIKeJ5S8sRjZ9hFtBGLBSQPu_pV4c_R
+#EXTINF:0, Marlon.S01E08.Coach.Marlon.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E08.Coach.Marlon.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hu5UCpe9hPfDjAw94j5CHy69ZE0t6b44
+#EXTINF:0, Marlon.S01E09.Appropriate.Marlon.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E09.Appropriate.Marlon.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pGSVTnTRSTLL-IsRVdFOBV2WAUSE3bVj
+#EXTINF:0, Marlon.S01E10.End.of.the.Road.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/Marlon.S01E10.End.of.the.Road.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Bb4r_Vs1BhIikX-TvBFekaNC--4c2_8m

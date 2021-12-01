@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - Brooklyn Nine-Nine 2° Temporada 1080p MKV 
+#EXTINF:0, S02E01.Undercover.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E01.Undercover.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T_CqYT02TcE1cY-hK7s5MYsAtW9kEecb
+#EXTINF:0, S02E02.Chocolate.Milk.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E02.Chocolate.Milk.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UATUQR-LT4HcRbADUsVeIuAmOEyJKhCb
+#EXTINF:0, S02E03.The.Jimmy.Jab.Games.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E03.The.Jimmy.Jab.Games.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xHLv88U-7aNr_z-ZrC48wGOKBNCUuH3L
+#EXTINF:0, S02E04.Halloween.II.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E04.Halloween.II.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sXWiQ3hAvSKU_jzcdf7uiuKmdAtP0LRk
+#EXTINF:0, S02E05.The.Mole.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E05.The.Mole.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NrpIlGyXC9Q7F0Mf6ieg1VsicFlQ59m0
+#EXTINF:0, S02E06.Jake.and.Sophia.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E06.Jake.and.Sophia.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19QehK104n0iosNqEbuRsVV_h6fCxcvxk
+#EXTINF:0, S02E07.Lockdown.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E07.Lockdown.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rGAhPINQklUBQnnXwQzBkPbIxsTq8MWH
+#EXTINF:0, S02E08.USPIS.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E08.USPIS.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16S6ycskrPoAtRKan9Kw5bOgfXDkaFona
+#EXTINF:0, S02E09.The.Road.Trip.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E09.The.Road.Trip.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QxUsOJlu9P2Kc_kBLW3WfiG8xQonYsR3
+#EXTINF:0, S02E10.The.Pontiac.Bandit.Returns.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E10.The.Pontiac.Bandit.Returns.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15lF2N1OK4DXcLwfRpE87xv4whRQygK2m
+#EXTINF:0, S02E11.Stakeout.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E11.Stakeout.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zQY9ja4SPFYZkQSwW6HGA62phEW-5BcB
+#EXTINF:0, S02E12.Beach.House.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E12.Beach.House.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12yqKmRqkRHZgwBAyc2ifpxCKzcxSTtby
+#EXTINF:0, S02E13.Payback.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E13.Payback.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tMinmOKTSvlIdxDt4am_A4Qw-l0RzHBD
+#EXTINF:0, S02E14.The.Defense.Rests.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E14.The.Defense.Rests.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VLVVcuGkIpz8slZ6kapxKNcv7qTZOQxP
+#EXTINF:0, S02E15.Windbreaker.City.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E15.Windbreaker.City.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lSIADDGoYBOO9b-l2YMigXpy_RKFhnz2
+#EXTINF:0, S02E16.The.Wednesday.Incident.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E16.The.Wednesday.Incident.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ezEOgjcWLy8_i0I5uERZx-0A_RQzqle5
+#EXTINF:0, S02E17.Boyle-Linetti.Wedding.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E17.Boyle-Linetti.Wedding.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1va3BKrW8SufnFjVrHlkE1twTNRweU2oe
+#EXTINF:0, S02E18.Captain.Peralta.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E18.Captain.Peralta.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1M1saXqyXnX3bDLPjipiABuVGz-V2Zpdh
+#EXTINF:0, S02E19.Sabotage.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E19.Sabotage.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dx0BayZrqjSdz5DtYA5hZSlvdaqAbzZp
+#EXTINF:0, S02E20.AC-DC.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E20.AC-DC.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-aufRNbwu3pQ11f8hPWrKOYK7JJ88DLE
+#EXTINF:0, S02E21.Det..Dave.Majors.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E21.Det..Dave.Majors.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WleERauhXiucd_qoWNy9r6LRWpWbloLS
+#EXTINF:0, S02E22.The.Chopper.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E22.The.Chopper.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Zr5KdiKc-YJZzOZKuGntbE0G_JYFaJMJ
+#EXTINF:0, S02E23.Johnny.and.Dora.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02E23.Johnny.and.Dora.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w37tBPBpUdCZWrCoq3Hrud-du0lVauSh

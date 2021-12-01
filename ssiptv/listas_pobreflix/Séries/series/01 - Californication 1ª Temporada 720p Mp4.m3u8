@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Californication 1ª Temporada 720p Mp4
+#EXTINF:0, T01E01 - Piloto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E01%20-%20Piloto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MN4xAQo1rZAlQuAq5ypLoeOal-vK-wQs
+#EXTINF:0, T01E02 - Um diabo de mulher.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E02%20-%20Um%20diabo%20de%20mulher.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HNLRawYsgAGZQE3cJ1v9jdq-Z6HL5vGu
+#EXTINF:0, T01E03 - A prostituta da babilonia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E03%20-%20A%20prostituta%20da%20babilonia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tJZOX_C1DVJhhTY0NkEtbKOLtZ3ROckJ
+#EXTINF:0, T01E04 - Temor e Relutância na arrecadação.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E04%20-%20Temor%20e%20Relut%C3%A2ncia%20na%20arrecada%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1M4MDYiyLJ5tvKdd9BoZrWSx0xsXRiGtj
+#EXTINF:0, T01E05 - MR.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E05%20-%20MR.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tCHEWFq42rI79t20wA2Lg-2a1HWYDpeJ
+#EXTINF:0, T01E06 - O álcool faz o coração refletir.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E06%20-%20O%20%C3%A1lcool%20faz%20o%20cora%C3%A7%C3%A3o%20refletir.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14tBd17Pw6M8ATu_pSQTNt-y7zNnrNjjU
+#EXTINF:0, T01E07 - As garotas interrompidas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E07%20-%20As%20garotas%20interrompidas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NWFydc2FmUraU9dles00IQF8oOnjAb0q
+#EXTINF:0, T01E08 - O filho da Califórnia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E08%20-%20O%20filho%20da%20Calif%C3%B3rnia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OHVMNQQG6AR9wcUewdErOukBW8JU6vQy
+#EXTINF:0, T01E09 - Podre de rico.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E09%20-%20Podre%20de%20rico.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17L6ZYqZOxXCV9oJU0ev9Q1pnA3DiMri3
+#EXTINF:0, T01E10 - Ménage à trois.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E10%20-%20M%C3%A9nage%20%C3%A0%20trois.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YD_XO3Zzdz3RW2OwLMch3ZFCtSeo7juO
+#EXTINF:0, T01E11 - Virando a página.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E11%20-%20Virando%20a%20p%C3%A1gina.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jTMnaMDgdF0-VPC30j3n2scVB3AvH16V
+#EXTINF:0, T01E12 - A última valsa.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E12%20-%20A%20%C3%BAltima%20valsa.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13602pxm_TDl8aFpBrcYSUuZ4iJxTlnGr

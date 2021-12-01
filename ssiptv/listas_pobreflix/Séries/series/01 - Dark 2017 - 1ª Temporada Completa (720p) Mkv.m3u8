@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Dark 2017 - 1ª Temporada Completa (720p) Mkv
+#EXTINF:0, S01E01.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E01.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PI9wYNDNHkgyuFLzULEzotPdrOxiNBWS
+#EXTINF:0, S01E02.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E02.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11nKlTL7F2p9-bJ9dCZstvov_BYk5l3Fb
+#EXTINF:0, S01E03.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E03.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FJiK6JFMWux31k1w4u5wdr1mx2s2AXGF
+#EXTINF:0, S01E04.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E04.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mMD5VDzrSP_0190sCWTRXUwPDrP72JaD
+#EXTINF:0, S01E05.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E05.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18Qrn30PuMCzTsKr14tySztpUZTHmHWDD
+#EXTINF:0, S01E06.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E06.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yUiT_uZiZ-6oEvIPw00yvDUPkMesBuhB
+#EXTINF:0, S01E07.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E07.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tjVf0CI5rLifMHctYHfyco085xetVdPv
+#EXTINF:0, S01E08.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E08.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1neqnFH7n5wYIm1PWLh1xvMlUNuQ3EL7G
+#EXTINF:0, S01E09.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E09.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HoVxMUNlJ-tGhthOyoag7WhToMmYnu_a
+#EXTINF:0, S01E10.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E10.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BeNvGurN48_udogW9GtRPI6C_Y0AKtG7

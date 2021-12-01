@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 05 - Star Wars - The Clone Wars 5ª Temporada Completa 720p (2011) Dual Áudio BluRay Mkv
+#EXTINF:0, 01 - Renascimento.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Renascimento.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gqGef3qZWQmoVsyph1zaMptrQIoDfTWv
+#EXTINF:0, 02 - A Guerra em Duas Frentes.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20A%20Guerra%20em%20Duas%20Frentes.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uYakAe5pvnQ5aEVWaSy2RziZcIgRGQcx
+#EXTINF:0, 03 - Os Corredores da Frente.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Os%20Corredores%20da%20Frente.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17K-gxF8qax-1FgO55BM1QDCVoeAPkZWL
+#EXTINF:0, 04 - A Simples Guerra.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20A%20Simples%20Guerra.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D03HzRNWOEsFuRG45y4VgTQKDpauUvI0
+#EXTINF:0, 05 - Momentos Críticos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Momentos%20Cr%C3%ADticos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kiGfJMutZyZgkmPv7tiRMm9MvsczLZnF
+#EXTINF:0, 06 - A Coleta.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20A%20Coleta.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RdEFaUekO9VBQQXNQNZYPiOaNkI6oV_-
+#EXTINF:0, 07 - Um Teste de Força.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Um%20Teste%20de%20For%C3%A7a.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t2B0Sp8uo8Noq_-ueCWewFNHi0MOcudP
+#EXTINF:0, 08 - Limites para um Resgate.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Limites%20para%20um%20Resgate.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fh6W1980azqL6oTp4rJlNEbheE_6mVnN
+#EXTINF:0, 09 - O Elo Necessário.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20O%20Elo%20Necess%C3%A1rio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qu35toPYO_nubf4ynu1kzc5zLGbCQHTb
+#EXTINF:0, 10 - Armas Secretas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Armas%20Secretas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1C-C5arwDvIW0SCJkd3XXiUhll_0F2afK
+#EXTINF:0, 11 - Um Dia ensolarado no Vazio.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Um%20Dia%20ensolarado%20no%20Vazio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12S5nYOOGZiUzhRHoHaK6MG9MhJ8VjgqF
+#EXTINF:0, 12 - Desaparecido em Combate.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Desaparecido%20em%20Combate.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l0tFBcJWqq1ExyWYof9U56a93LVTa7pa
+#EXTINF:0, 13 - Ponto Sem Retorno.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Ponto%20Sem%20Retorno.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TYR1A_oVc0_PyrCSU-717h7CiE3_DyAq
+#EXTINF:0, 14 - Eminência.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Emin%C3%AAncia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1czhaVKQKTS7R7NA4KuK-RaUExQKMaXa7
+#EXTINF:0, 15 - Sombras da Razão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Sombras%20da%20Raz%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZhACDOfXY2A1D-_PpKZAHSAy_SEPwS_g
+#EXTINF:0, 16 - Sem Lei.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Sem%20Lei.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JnpGOeJlN86UJzG6A3VQW4VCE3mx7yw8
+#EXTINF:0, 17 - Sabotagem.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Sabotagem.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SMOS-9mkczGasA68F6b6MZ_IrwMzlrxm
+#EXTINF:0, 18 - O Jedi que Sabia Demais.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20O%20Jedi%20que%20Sabia%20Demais.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ueqWXFnDwRFyUIL4e-aQewjYGgXCHUTE
+#EXTINF:0, 19 - Para pegar um Jedi.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Para%20pegar%20um%20Jedi.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1F0gWP92sbw4-AI_QOtrualvK3VBluQL6
+#EXTINF:0, 20 - O Jedi Errado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20O%20Jedi%20Errado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wKt3eVf-bxCk8n8QPsZUFbxdaoSI6CAr

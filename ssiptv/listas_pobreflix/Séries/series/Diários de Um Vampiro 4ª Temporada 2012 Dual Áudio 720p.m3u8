@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diários de Um Vampiro 4ª Temporada 2012 Dual Áudio 720p
+#EXTINF:0, 01 - Dores crescentes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Dores%20crescentes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1F3I0c6yDToIiUUIsdatWMU6boOD_24nA
+#EXTINF:0, 02- Memorial.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02-%20Memorial.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V7pbahDjUIyeTJGInmH1ItHMJ95DCdY1
+#EXTINF:0, 03 - Ira.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Ira.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g0_d8nb87bIshiiuh6oPUyW8RFr4wm9m
+#EXTINF:0, 04 - Os Cinco.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Os%20Cinco.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iuLhTSWQZnVWAV07l9Wx-nVF4XG7JiUV
+#EXTINF:0, 05 - O Matador.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Matador.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YV9xC-J_MHcpxTtvZ8T0Au-deoKkHqTK
+#EXTINF:0, 06 - Todo Mundo se Zanga ás Vezes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Todo%20Mundo%20se%20Zanga%20%C3%A1s%20Vezes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kn8ihbNUGmC-oQ8dOY50SBrDZesBTV2N
+#EXTINF:0, 07 - O Guardião do Meu Irmão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20O%20Guardi%C3%A3o%20do%20Meu%20Irm%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T40SO5IMpXjiwV5lXo7KGO-yUrqMCNmM
+#EXTINF:0, 08 - Sempre Teremos Bourbon Street.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Sempre%20Teremos%20Bourbon%20Street.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uv18-PQYPoekqVoX3gV9zzjB4b1TZ2XB
+#EXTINF:0, 09 - Vinde os que Tem Fé.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Vinde%20os%20que%20Tem%20F%C3%A9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QVuQw4XDX2nKezHpHZHOpG5AEmEKVpDB
+#EXTINF:0, 10 - Reunião Escolar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Reuni%C3%A3o%20Escolar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pTKqesAlgFTcqsiGce1I4ikjAkjo7k5R
+#EXTINF:0, 11 - Vem me Pegar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Vem%20me%20Pegar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YLu923EGw4YFRMtUNaK-Wl9L8ahRBG4v
+#EXTINF:0, 12 - Vista Para Morte.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Vista%20Para%20Morte.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Xc8SAdL-8Y3eiyumGKwvPGTYvYODcSbV
+#EXTINF:0, 13 - Selva.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Selva.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1acvi-IPRIe7cD3RI0zUaIt6a4aKSd2bO
+#EXTINF:0, 14 - Na Toca do Coelho.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Na%20Toca%20do%20Coelho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OyTtNBVawwnC9PA2zK57RJoU--_71IAS
+#EXTINF:0, 15 - Fica do meu Lado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Fica%20do%20meu%20Lado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w093o4kmm4EbJzBNidXbLmFbsbAKPgJ9
+#EXTINF:0, 16 - Pro que Der e Vier.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Pro%20que%20Der%20e%20Vier.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XbwvOXHqaYAA6OnPGSk0B65OkUvsq4dl
+#EXTINF:0, 17 - Porque à Noite.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Porque%20%C3%A0%20Noite.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aRuVmIICl9J-xBSombN7ie8Dn_22a4ZD
+#EXTINF:0, 18 - Gótico Americano.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20G%C3%B3tico%20Americano.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Y8PkwaHFJUia2pVJTSNrp5rcNmXfSzCh
+#EXTINF:0, 19 - Fotos Suas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Fotos%20Suas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IukzRWdoGZq5LwstUWJyK9vAywwmiBmr
+#EXTINF:0, 20 - Os Originais.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Os%20Originais.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V2kWkwnfNSN-dX_EmcRW8yy2qbTMHDlk
+#EXTINF:0, 21 - Ela Se Desfez.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Ela%20Se%20Desfez.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ihmOBW9wpaNjRGpRrNTVO70LrWqzIeBs
+#EXTINF:0, 22 - Os Mortos-Vivos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Os%20Mortos-Vivos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jUImKulNZYGKtydvy8QC8FV4BngGrzoR
+#EXTINF:0, 23 - Formatura.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/23%20-%20Formatura.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K0qUuT3EWMSw59dnlfy_VGYz5ZEHg8TA

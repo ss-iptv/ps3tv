@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 09 - Smallville - 9ª Temporada 720p Mp4
+#EXTINF:0, Cópia de Smallville S09E05 - Roleta 720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%20Smallville%20S09E05%20-%20Roleta%20720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O1ldegssKXq47JkPZUmV8fAw6g9r1MZU
+#EXTINF:0, Cópia de Smallville S09E07 - Kandor 720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/C%C3%B3pia%20de%20Smallville%20S09E07%20-%20Kandor%20720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-A7vWNaZLHdRrigZP4GoNHV7murIADIw
+#EXTINF:0, Smallville S09E01 - Salvador 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E01%20-%20Salvador%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IGmS5VloSfz3oSMOgGA8rPKmmL4ATXZD
+#EXTINF:0, Smallville S09E02 - Metallo 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E02%20-%20Metallo%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t5DhTrxjX53Pd4uDpF9fOJDsY7zcEJwJ
+#EXTINF:0, Smallville S09E03 - Raiva  720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E03%20-%20Raiva%20%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UTVetyDLvqAYUf5B4CiKqflyojicZN_V
+#EXTINF:0, Smallville S09E04 - Eco 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E04%20-%20Eco%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PL38LgSC6wL_gN5_-eK9U9iIcSMcL1Id
+#EXTINF:0, Smallville S09E06 - Fogo Cruzado 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E06%20-%20Fogo%20Cruzado%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=119Hdq2KfgsnhKvg0JmDPp8ThQJYkc8wY
+#EXTINF:0, Smallville S09E08 - Ídolo 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E08%20-%20%C3%8Ddolo%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B1tfbrfCHK8pY5xwGkuFn8NRQJOU0ALh
+#EXTINF:0, Smallville S09E09 - Pandora 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E09%20-%20Pandora%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15s7Kz72d0Rk-3IxTxDKJByxhDDOCSsOM
+#EXTINF:0, Smallville S09E10 - Discípulo 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E10%20-%20Disc%C3%ADpulo%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=156X6rCUUTuNkHeFbtsJapKTEq4fzcFBn
+#EXTINF:0, Smallville S09E11 - Sociedade 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E11%20-%20Sociedade%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17v9v0nDV8jYC92fs95sRsO-pQmysJy4V
+#EXTINF:0, Smallville S09E12 - Guerreiro 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E12%20-%20Guerreiro%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1a-Ld-raJCjiC6w4CTrpNT9CgplFvJOOA
+#EXTINF:0, Smallville S09E13 - Persuasão 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E13%20-%20Persuas%C3%A3o%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10QW-E7qHuwLC8DCRyR8HMZqap3MJtRXF
+#EXTINF:0, Smallville S09E14 - Conspiração 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E14%20-%20Conspira%C3%A7%C3%A3o%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ljahrqhxVLSUybbaHxiNeVEO4Jc7NKxv
+#EXTINF:0, Smallville S09E15 - Fuga Romântica  720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E15%20-%20Fuga%20Rom%C3%A2ntica%20%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14E1BMfRCrN1KUCMMpyFjQFTlXaUk-R4b
+#EXTINF:0, Smallville S09E15 - Xeque-Mate 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E15%20-%20Xeque-Mate%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KHgQOayH2jvzrqQLd_4YhMQsdaDJMJCT
+#EXTINF:0, Smallville S09E17 - Atualização  720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E17%20-%20Atualiza%C3%A7%C3%A3o%20%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13ZzKxQ5ZGtQjKOq-nHxx9Lra6F6efQXw
+#EXTINF:0, Smallville S09E18 - Charada 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E18%20-%20Charada%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Cjw904EEvvCHVKYYasJjXwt6mEX6oh7G
+#EXTINF:0, Smallville S09E19 - Sacrificio 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E19%20-%20Sacrificio%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-7Ji_XAjXSVbYsHYCPWOQvawfknmqYXZ
+#EXTINF:0, Smallville S09E20 - Refém 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E20%20-%20Ref%C3%A9m%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Y64RI8uBBMPM1VOsgaz_0Os9q3-_tidX
+#EXTINF:0, Smallville S09E21 - Salvação 720p.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Smallville%20S09E21%20-%20Salva%C3%A7%C3%A3o%20720p.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17WGq4_6faMJ6G2KOQXgQxu9ykXcYhJJF

@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2ª Temporada 2012 Dual Audio 720p
+#EXTINF:0, 01 - Maldição Quebrada.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Maldi%C3%A7%C3%A3o%20Quebrada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15jAHaslS9CJVplU1VTvoDe7uLTj2T4NQ
+#EXTINF:0, 02 - Nós Somos os Dois.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20N%C3%B3s%20Somos%20os%20Dois.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1W5HCkErSMBB1hv-MjDnC31TvFSSANNYN
+#EXTINF:0, 03 - A Dama do Lago.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20A%20Dama%20do%20Lago.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G0xjWkRRahSlIEAOyzU-c4AfUMFpCcZe
+#EXTINF:0, 04 - O Crocodilo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Crocodilo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YhGp4467C12zFGUtm7afCCSZ0j9HwHsf
+#EXTINF:0, 05 - O Doutor.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Doutor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xN-4VN5kN2bbn_85jwucdFfZxwkZqkA1
+#EXTINF:0, 06 - Tallahassee.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Tallahassee.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xdMnRqeWZWYEbBbcZ6EuhlSYEDPECshH
+#EXTINF:0, 07 - Filha da Lua.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Filha%20da%20Lua.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1loFk7TpqkeG5VWpQhfOrTp8oEXpIsKQx
+#EXTINF:0, 08 - Nas Profundezas do Sono.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Nas%20Profundezas%20do%20Sono.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g3B7lmWlTwQm362OxWOj818GPYMP17O1
+#EXTINF:0, 09 - Rainha de Copas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Rainha%20de%20Copas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S7Iux7ipT24bvgTxos7-kbmLLTrd6IGM
+#EXTINF:0, 10 - A Trama do Grilo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20A%20Trama%20do%20Grilo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gum-F_IFQ_Qe2NDSwYLFbvH-ZreLYi9d
+#EXTINF:0, 11 - O Forasteiro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20O%20Forasteiro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12xj54bZ2e2hdiMY3JZOi0JNyfmqgPnZF
+#EXTINF:0, 12 - Em Nome do Irmão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Em%20Nome%20do%20Irm%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13BmrqhKLKOn5TddvS3j4T4f3ECqJ4WCh
+#EXTINF:0, 13 - Pequenino.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Pequenino.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LB6ca_6UUa8OrLixDOcOQKpsueL_W7_i
+#EXTINF:0, 14 - Manhattan.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Manhattan.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZfHQMifM3KSRzCPviO4aSl2s9iUnT0DR
+#EXTINF:0, 15 - A Rainha Está Morta.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20A%20Rainha%20Est%C3%A1%20Morta.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hMpCsHKoeHNGdxqOMgnzTLHJG7C76ea3
+#EXTINF:0, 16 - A Filha do Moleiro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20A%20Filha%20do%20Moleiro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hqEFt2QtW6G_YBsRN6BsQcAsU5zEr_cg
+#EXTINF:0, 17 - Bem-Vindos à Storybrooke.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Bem-Vindos%20%C3%A0%20Storybrooke.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HbciB2Myyz8ifH0rW6Rvyp9WrAjWpQmW
+#EXTINF:0, 18 - Altruísta, Corajoso e Sincero.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Altru%C3%ADsta,%20Corajoso%20e%20Sincero.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zD05a5KUHfVtg9JVxGGOFWHI4Agax0Lh
+#EXTINF:0, 19 - Lacey.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Lacey.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mhn0nxQ1ITBmUhFAuHbCXHiajLN6Zyn7
+#EXTINF:0, 20 - A Rainha Má.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20A%20Rainha%20M%C3%A1.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZXrmbib1cVFyv0cjuoErhEt6GNEPh8V1
+#EXTINF:0, 21 - Segunda Estrela à Direita.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Segunda%20Estrela%20%C3%A0%20Direita.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Lv-3l4L-7B-iTJ9YES1RdFoeO4EIPMh1
+#EXTINF:0, 22 - Seguindo Até o Amanhecer.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Seguindo%20At%C3%A9%20o%20Amanhecer.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1c05aa2CklhJYCgMcTmP05mw_zeyaKrml

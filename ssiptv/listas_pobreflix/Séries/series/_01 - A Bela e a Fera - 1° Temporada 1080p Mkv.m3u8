@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST:  01 - A Bela e a Fera - 1° Temporada 1080p Mkv
+#EXTINF:0, S01E01.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E01.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18t-kWD26mOqjE5A0sdSuoI4dLRk3BDT9
+#EXTINF:0, S01E02.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E02.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AX8ZiSnZtLqjxGf32iP7YBKbTubKH9OK
+#EXTINF:0, S01E03.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E03.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MNReEW8iRC-CM9-s03pgyBCocBOu1nxs
+#EXTINF:0, S01E04.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E04.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aKchPbDBAGfCpW-O1L5rkpsvaFIzA2r5
+#EXTINF:0, S01E05.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E05.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eF1KnobuGD_aUDhPoc8HXSoxH6s4TM6a
+#EXTINF:0, S01E06.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E06.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=145AnjzsCRPe1gtjJmVu2cmr68oxdlBQr
+#EXTINF:0, S01E07.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E07.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hFoTAxTizh2UFur9vsVhyEEB0Z6zvdqf
+#EXTINF:0, S01E08.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E08.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1isQsfM3fsnKQCAE3O0UfFRZVGHLzSUZ0
+#EXTINF:0, S01E09.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E09.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UL9P6ZI4rP4cYs3-Qjw96S-bmPFBQV60
+#EXTINF:0, S01E10.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E10.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=135tidGQl05jhtv1LsIzh5tcmb3ozht-3
+#EXTINF:0, S01E11.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E11.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KWRX5DwCVUWOHyBTnOj69ava2YzL-d_H
+#EXTINF:0, S01E12.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E12.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f2LuYTS4wutF4M1OCb88ipuAUaSxm35h
+#EXTINF:0, S01E13.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E13.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ezx8LJhk3QiU8dpklwfk8e4MCOCwkmmk
+#EXTINF:0, S01E14.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E14.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mGjpFQq453ijoyt1yiJNmlFX44KnKHgN
+#EXTINF:0, S01E15.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E15.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hoVnjhk2ZmUII4EvzBEpyXUmXJH-RsGd
+#EXTINF:0, S01E16.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E16.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aj-v15MWZjqe_MCFQamsOxwVS945wXdV
+#EXTINF:0, S01E17.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E17.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K-Zjl4A2mTCBLhaT466DWjlEhJeovkCf
+#EXTINF:0, S01E18.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E18.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FG_4L_OAcr3lJsyEh11tRJUUsNhTq-Xk
+#EXTINF:0, S01E19.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E19.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jmxOgZLoZOtQ-081ptocgYU78VQgLfN2
+#EXTINF:0, S01E20.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E20.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TLxbv2ZVh7WSorbyaJYBFp4PsfRg0MA_
+#EXTINF:0, S01E21.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E21.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZHL4NZ1HAC1GddtX_5N192dFtItElFRD
+#EXTINF:0, S01E22.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E22.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ihysvV-EZRNbONlx8zrKu_HKFdewh8rm

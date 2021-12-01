@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: O Negócio 3° Temporada 720p Mkv
+#EXTINF:0, O.Negócio.S03E00.720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E00.720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jS6Ba_NSYD7czIoy8MTJpN91K5QrNQz4
+#EXTINF:0, O.Negócio.S03E01.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E01.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12MAxgVHMwXzX0lRMxIRld91m1YcGCx0u
+#EXTINF:0, O.Negócio.S03E02.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E02.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_8eW5Z_znGy4yAxS_ErdfQsU-Fb7aBgr
+#EXTINF:0, O.Negócio.S03E03.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E03.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JTkDaWfFBSkjCgIwQAPfoj26lN_02VTi
+#EXTINF:0, O.Negócio.S03E04.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E04.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ojJWtG-C_qY-fDByiZLMIhez4YUCQfJI
+#EXTINF:0, O.Negócio.S03E05.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E05.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OZYjnnjBCQ3VLHj7ydndsDvKOar0M_m-
+#EXTINF:0, O.Negócio.S03E06.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E06.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V7UjIJ6u-XG50B0Uk72UT7k6sB8JlhSt
+#EXTINF:0, O.Negócio.S03E07.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E07.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kAxXkYRPlPjjEEpHAmavCiJFiE1fkC_k
+#EXTINF:0, O.Negócio.S03E08.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E08.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tqMWuMuHeNLEY6gzszOFx3og0AzKltmr
+#EXTINF:0, O.Negócio.S03E09.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E09.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1umfd8HAseGmYizPvziMaUBQLOViEUMpq
+#EXTINF:0, O.Negócio.S03E10.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E10.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e08sxjJc3C4a8y7Mql9VymHEkkT4zNsZ
+#EXTINF:0, O.Negócio.S03E11.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E11.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ln2QzzO1QwNaPts6lLmHmN-9ACmfxJN2
+#EXTINF:0, O.Negócio.S03E12.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E12.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-LB4KIyD4DSpnQleYc7etfTG6H3AO_X4
+#EXTINF:0, O.Negócio.S03E13.720p.MKV
+http://m3u.herokuapp.com/api/v1/redirectdownload/O.Neg%C3%B3cio.S03E13.720p.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LaE1VALzixPZMU5fmd7Jjb77H-zYxo3K

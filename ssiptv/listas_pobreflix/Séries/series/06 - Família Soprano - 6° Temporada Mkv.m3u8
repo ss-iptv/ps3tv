@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 06 - Família Soprano - 6° Temporada Mkv
+#EXTINF:0, S06x01.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x01.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Xo3hDQinlSiHKSTwgUNENc8wa6ajvljK
+#EXTINF:0, S06x02.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x02.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hIk7vX4zi-r-FG46-yhzl6_Am-WahfZC
+#EXTINF:0, S06x02.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x02.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1y82FmDYkcvdnATZMoFXyXA0a0tiY_GNi
+#EXTINF:0, S06x03.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x03.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NOdVkfO72sz-JXpoVqbwMnM83iVCx9CF
+#EXTINF:0, S06x03.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x03.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VTnyNboIWbD4B7S_WaPYTogMelsAfKhX
+#EXTINF:0, S06x04.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x04.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jJNDHsoD_4-Zm3DPtBEtsIVp3sjx4BYi
+#EXTINF:0, S06x05.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x05.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l5Si5DxfaC2_ZkqPNpdIfjsg6xxs0Ha7
+#EXTINF:0, S06x05.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x05.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15VUzhgkILub4UhnOT3SuXC1l2cWN_l0o
+#EXTINF:0, S06x06.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x06.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NZPA3GuAFCtcH2Y96TqT73jd6zKxyzRz
+#EXTINF:0, S06x06.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x06.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AsZoGCg-MlmZqhvbDVDqoPYs-ID6a5Jm
+#EXTINF:0, S06x07.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x07.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wu6OJwZjsS0Q-vY3UHHn9JbChxxFQZnC
+#EXTINF:0, S06x07.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x07.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-KxTsXjzz2_0W6Au3H9hY-YjRGkV8sHz
+#EXTINF:0, S06x08.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x08.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12ToYngi3ZelKuqoz9v5GYk1MFcanFdkh
+#EXTINF:0, S06x09.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x09.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OWSQ5bJbxuL3Dfzf9y8QFUxttIsJS9QE
+#EXTINF:0, S06x09.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x09.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1miS6XJGY8NYbbhCKWS-rA07btXKT8PJR
+#EXTINF:0, S06x10.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15lBJP75H7oThT2ITlTDZZfNO9NDKzXAv
+#EXTINF:0, S06x11.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x11.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14T8lxKrJffKmxZIclUGI0kvAQ4zuy4VT
+#EXTINF:0, S06x11.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x11.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gekvEYstePFoiJBHDidMpcRWtk53yVnM
+#EXTINF:0, S06x12.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x12.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UOrWxpLvQ30xETbuZF-Xqq7Vew1e8M8s
+#EXTINF:0, S06x12.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x12.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KmdGrOLcL_XmAUnsVzL_wyNiSI--kW5R
+#EXTINF:0, S06x13.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x13.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FtohyidttYS8maWyu8QRVkFsWzLnzNma
+#EXTINF:0, S06x13.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x13.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XiL5Myx02cJ_CNVVBxkMHgPYQ6Q9Jr-I
+#EXTINF:0, S06x14.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x14.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sKhEi6wF_8BS73nkS_oExw_0FcAVCSzm
+#EXTINF:0, S06x14.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x14.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MC5kQvc_9CrE3mjQVTevVywOqhtriRDK
+#EXTINF:0, S06x15.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x15.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bb1ZpRAaTgA7DX_KoXLReSwh9G_b-hgX
+#EXTINF:0, S06x16.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x16.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D-jN3OFCrbEdMnmqGOUX4kgHWAdYwO4e
+#EXTINF:0, S06x16.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x16.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Bo8O_OK1kgkPGfnAqR3zGA3tucb6FkMJ
+#EXTINF:0, S06x17.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x17.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qNv-gbZli8B7doUdniBx4XGYSvuNLPAO
+#EXTINF:0, S06x18.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x18.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Dv6kvvdkhfb1Jp6xF8pDDCBKGzvsiUG6
+#EXTINF:0, S06x19.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x19.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12wxmFQuCxaWsnzLM0-PYzwQIzyfCYWCE
+#EXTINF:0, S06x19.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x19.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Si88uaQvOSfrSmGIMMNaMNm67jlNPwbQ
+#EXTINF:0, S06x20.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x20.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VRxJ4ifsqFLa5UU2SdhFFXZU1a39aImS
+#EXTINF:0, S06x20.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x20.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BPmnQsJgNo6xK_03sRfl8It6bcVUWJ9J
+#EXTINF:0, S06x21.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x21.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=103qGX29q9V-LkEehQrDBITRaL9T3njLh
+#EXTINF:0, S06x21.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x21.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=129CbWZsYyd7EDljCRnSMijCDOkHhFamE

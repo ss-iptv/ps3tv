@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 7ª Temporada 2017 Dual Audio 720p
+#EXTINF:0, 01 - Hyperion Heights.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Hyperion%20Heights.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qiH5J-camlMNkZiCoLkCQATnlg98yq8U
+#EXTINF:0, 02 - A Vida de um Pirata.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20A%20Vida%20de%20um%20Pirata.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DIXttaoeiy57RPq5T2OsT9f4Fm4GV48C
+#EXTINF:0, 03 - O Jardim de Bifurcações.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20O%20Jardim%20de%20Bifurca%C3%A7%C3%B5es.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15VAqWklUNogEC6a2Jw9ooXIBd_T59lWO
+#EXTINF:0, 04 - Bela.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Bela.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15gJANu7tK4nY65NarTTjDbHnn0OJxLjQ
+#EXTINF:0, 05 - Dólares.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20D%C3%B3lares.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16iOCwF3EOhSpkSJR-6UQ74xgxvPJDG3E
+#EXTINF:0, 06 - O Despertador.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20O%20Despertador.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NZJB30WbV_vKBvNlYHE--MnQPDHfn6aK
+#EXTINF:0, 07 - Eloise Gardener.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Eloise%20Gardener.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CBQXG_CIUASrJPFcSgw0KV69Ej9MOokm
+#EXTINF:0, 08 - Linda de Azul.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Linda%20de%20Azul.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qCaBczjdspbK5cJkrw_U-By8oceYXPmj
+#EXTINF:0, 09 - Uma Pequena Lágrima.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Uma%20Pequena%20L%C3%A1grima.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JKEfT2u74iXAMbeJE3ObFK09u_NbyCE0
+#EXTINF:0, 10 - A Oitava Bruxa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20A%20Oitava%20Bruxa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Y_muhTvY-52nsyMqfuuz_Wcf2k-gaVlm
+#EXTINF:0, 11 - O Jardim Secreto.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20O%20Jardim%20Secreto.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vMdLGlYzG8gFYlJ9_WMqQj-tcqyGIbQT
+#EXTINF:0, 12 - Sabor de Heights.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Sabor%20de%20Heights.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KSIkwIftp4M2zbE6NNGpnKo-jJ8Z97O9
+#EXTINF:0, 13 - A Queda do Cavaleiro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20A%20Queda%20do%20Cavaleiro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-f0R5V-TvdbvdYlek6JnC8JJuId4anFI
+#EXTINF:0, 14 - A Garota da Torre.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20A%20Garota%20da%20Torre.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JBOvAelnNuMK5a9nwd0BiCIrqpruGl6n
+#EXTINF:0, 15 - Irmandade.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Irmandade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N64WoWpIMQzh_mbMvcyw5tgy0rvwDirD
+#EXTINF:0, 16 - Migalhas de Pão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Migalhas%20de%20P%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LHWH3gI1-Of046v63eGRnlcwClc5AX3a
+#EXTINF:0, 17 - A Escolhida.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20A%20Escolhida.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Dzz_Ns6hPlo1uZCdQ-EHQcWOOKFdPEAZ
+#EXTINF:0, 18 - A Guardiã.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20A%20Guardi%C3%A3.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Jgjx5lkgDXkzCblPkEPK7nvzfYL-GwTZ
+#EXTINF:0, 19 - Filha das Flores.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Filha%20das%20Flores.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zUuwP7Nt59JITG_Z-GzQUrLZTyuHy3WD
+#EXTINF:0, 20 - É o Henry Mills?.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20%C3%89%20o%20Henry%20Mills?.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pl-fTWQJxRTmUsFEq4hm7aXXPtkwwnsx
+#EXTINF:0, 21 - Volta Para Casa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Volta%20Para%20Casa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1r_xemPwlbSwskcbJWsmi8MdcyHG0PgqY
+#EXTINF:0, 22 - Saindo de Storybrooke.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Saindo%20de%20Storybrooke.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kkUXNtPa-uLDc3lvMqKu0n0lnDS5d26z

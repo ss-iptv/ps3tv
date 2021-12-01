@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1ª Temporada 2011 Dual Audio 720p
+#EXTINF:0, 01 - Piloto.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Piloto.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GmogADsohwkVH-JlBGSCDPrFhXQCO_Rw
+#EXTINF:0, 02 - Aquilo Que Você Mais Ama.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Aquilo%20Que%20Voc%C3%AA%20Mais%20Ama.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N7DCMvFOtq7E2Jqu9IybPHBefPVVVz-u
+#EXTINF:0, 03 - Neve e Paixão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Neve%20e%20Paix%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JhN3WIUrYLjCEPmQOmdLlZAi5KbMnQUR
+#EXTINF:0, 04 - O Preço da Magia.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Pre%C3%A7o%20da%20Magia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iMKrEO_lVq2KNWEWdv-Nb7_Gycwghpj9
+#EXTINF:0, 05 - A Voz Interior.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20A%20Voz%20Interior.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cEwzZ9JE4aFo3VVTnEe1ctkZUXFn0TIK
+#EXTINF:0, 06 - O Pastor.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20O%20Pastor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1agk9EKQ4Y7ufINHba25dASPk-nulBFSq
+#EXTINF:0, 07 - O Coração é um Caçador Solitário.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20O%20Cora%C3%A7%C3%A3o%20%C3%A9%20um%20Ca%C3%A7ador%20Solit%C3%A1rio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B0UsNWh4bdWQCgvJzJyAy6DKY8eCHXaw
+#EXTINF:0, 08 - Almas Desesperadas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Almas%20Desesperadas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PaQZ3Y8EWRldTp8YU0FWyBS-4SYyg-s7
+#EXTINF:0, 09 - O Verdadeiro Norte.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20O%20Verdadeiro%20Norte.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eJ3rIemTBNKalXkzkzb5HbcSFO7zLPwK
+#EXTINF:0, 10 - O Café da Manhã.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20O%20Caf%C3%A9%20da%20Manh%C3%A3.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Q0SDn6gyR1kmw_w7AUvUigALueQ1Lgee
+#EXTINF:0, 11 - O Fruto da Árvore Venenosa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20O%20Fruto%20da%20%C3%81rvore%20Venenosa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g9Dj1agXeDr1UNCXlYHlnTTxVvET3K8R
+#EXTINF:0, 12 - Beleza Externa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Beleza%20Externa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18R29_AePOF5tlmHb1vQFLqI9IbExm3WA
+#EXTINF:0, 13 - O Que Aconteceu com Frederick.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20O%20Que%20Aconteceu%20com%20Frederick.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NxNATCJlpoM8sz6MqDq6R5THi81uRBuf
+#EXTINF:0, 14 - Sonhador.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Sonhador.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rruTJU-w6OCCRt_cxi18BZQu_l0HYkZR
+#EXTINF:0, 15 - A Capa Vermelha.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20A%20Capa%20Vermelha.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rhIAkk5YLrrUDb8c3VberS5KpYLvk1dE
+#EXTINF:0, 16 - O Coração das Trevas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20O%20Cora%C3%A7%C3%A3o%20das%20Trevas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YE4wYvukZilWTLA6iISsgv2GjaYKhpf9
+#EXTINF:0, 17 - O Chapéu Mágico.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20O%20Chap%C3%A9u%20M%C3%A1gico.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13743vSHBzQeY16VVFMQfUIYg3F136c3e
+#EXTINF:0, 18 - O Homem do Estábulo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20O%20Homem%20do%20Est%C3%A1bulo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l32aEKgJ8fo0MnnmbqQ5HtleaxMPI8gy
+#EXTINF:0, 19 - O Retorno.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20O%20Retorno.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_ESQ1hkjWuNXuaVguYqGYndl76ytzDm5
+#EXTINF:0, 20 - O Estranho.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20O%20Estranho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QKhNKGRzt2uxQC3egn4CYYIuLy11UFNz
+#EXTINF:0, 21 - Uma Maçã Vermelha Como Sangue.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Uma%20Ma%C3%A7%C3%A3%20Vermelha%20Como%20Sangue.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Wg6MMez-I5uK6TO1cEZXspmKfGYrMddb
+#EXTINF:0, 22 - Uma Terra Sem Magia.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Uma%20Terra%20Sem%20Magia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PnuFUBRJQoypXwevaIt-l8RfFdBmvfM3

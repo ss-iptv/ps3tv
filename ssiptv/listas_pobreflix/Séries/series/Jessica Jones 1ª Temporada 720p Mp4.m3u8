@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Jessica Jones 1ª Temporada 720p Mp4
+#EXTINF:0, Jessica Jones S01E01 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E01%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BcBNcbGeWKCnhDFBaNEv1KrWNeF-r7rC
+#EXTINF:0, Jessica Jones S01E02 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E02%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1inm_zHGBT8t_Wgoi_OLj2Qg6fqhPlF5s
+#EXTINF:0, Jessica Jones S01E03 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E03%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Tn39JUMbIjLAQww_PJp1IFi4xxLP5gLi
+#EXTINF:0, Jessica Jones S01E04 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E04%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ME9NdSbp0CWRyUGErMdUg4duO9XdZHzz
+#EXTINF:0, Jessica Jones S01E05 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E05%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lBOrOWcp48umL_n4Xwl32qw6B9aWrccD
+#EXTINF:0, Jessica Jones S01E06 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E06%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BOAPXxa-CxB6LSBfJ6lQMmuvCeEnxQgX
+#EXTINF:0, Jessica Jones S01E07 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E07%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JcVHuX9GqAxafqc-ahq7QNqdtt0tgck9
+#EXTINF:0, Jessica Jones S01E08 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E08%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_QMEZBxmjlmIA-YVkUscUz8gazhLZjb_
+#EXTINF:0, Jessica Jones S01E09 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E09%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JYdML7E2kqscX1Od0wRXJHMsAP6wBevY
+#EXTINF:0, Jessica Jones S01E10 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E10%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WpmzSvgmej8NrOj3YKtusXTKyc_WgabG
+#EXTINF:0, Jessica Jones S01E11 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E11%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14nweDLTP7LEwyS3Iil-8eJmWiFQHK8RD
+#EXTINF:0, Jessica Jones S01E12 720p.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E12%20720p.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FXUbyyxyAhJGPZ1zmrAFU_B7-PEI5tAv
+#EXTINF:0, Jessica Jones S01E13 720p.FilmesRocklex.Mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Jessica%20Jones%20S01E13%20720p.FilmesRocklex.Mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=177nc0FYjcrNj_0EaiRCqiQdwA4ZmaUH5

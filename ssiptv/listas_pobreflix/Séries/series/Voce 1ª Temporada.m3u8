@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Voce 1ª Temporada
+#EXTINF:0, 1. Piloto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.%20Piloto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HZlqESHzqs8aMpD6ekYl3lh9zuQ-ULMY
+#EXTINF:0, 10. O castelo do Barba Azul.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10.%20O%20castelo%20do%20Barba%20Azul.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UQE0uonr-UkQZDgn_GIUZJFQVjhaAR9C
+#EXTINF:0, 2. O último cara legal em Nova York.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.%20O%20%C3%BAltimo%20cara%20legal%20em%20Nova%20York.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rj7DCa2_SwM-DLEo5YBOl2BjNcDJIojy
+#EXTINF:0, 3. Talvez.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.%20Talvez.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O1C31sA4ZZ2CU0IPBknOdVBvreny3q_G
+#EXTINF:0, 4. O Capitão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4.%20O%20Capit%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RkvYk86c5zyNw-9PTGudpyZdC1WvWmuP
+#EXTINF:0, 5. Vivendo com o inimigo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5.%20Vivendo%20com%20o%20inimigo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MuumTdbqU_mRr0sFOnaEbELthpdRJ3mf
+#EXTINF:0, 6. Amour fou.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6.%20Amour%20fou.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N0OmDEX41WQrug8SgwsGbyIep-7zvuKc
+#EXTINF:0, 7. Um relacionamento especial.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7.%20Um%20relacionamento%20especial.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oHSp-Td1ujqqqKKaQhlpOH9BgZ3i-FpZ
+#EXTINF:0, 8. Eu sou seu, meu bem!.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/8.%20Eu%20sou%20seu,%20meu%20bem!.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jBXyvMQRSUnAVG-WK4q4eOFRXeVxVjbs
+#EXTINF:0, 9. Candace.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9.%20Candace.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Z9iKHlzbjPk-asSJ03hIvO4SjxlRQ4Hz

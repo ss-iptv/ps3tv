@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diários de um Vampiro 5ª Temporada 2014 Dual Áudio 720p
+#EXTINF:0, S05E01 - I Know What You Did Last Summer.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E01%20-%20I%20Know%20What%20You%20Did%20Last%20Summer.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12855i3KU-WGIn7VKGaP7FFkafMDXmnme
+#EXTINF:0, S05E02 - True Lies.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E02%20-%20True%20Lies.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TpGHppcNIfftM_tjv_M-U2opRxEVmJrU
+#EXTINF:0, S05E03 - Original Sin.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E03%20-%20Original%20Sin.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kcdz0I9PU14lscah-KNmhLyAKa85pz85
+#EXTINF:0, S05E04 - For Whom The Bell Tolls.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E04%20-%20For%20Whom%20The%20Bell%20Tolls.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Bf5ydFPgooDKexk8Y-yhBLOeMVS_xmaa
+#EXTINF:0, S05E05 - Monster's Ball.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E05%20-%20Monster's%20Ball.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D8zv9-HXOFJbUoFosHxgsIdF5H7g_hXo
+#EXTINF:0, S05E06 - We All Go a Little Mad Sometimes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E06%20-%20We%20All%20Go%20a%20Little%20Mad%20Sometimes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KSySINnRM8zyf7rKNqN6cCGReZjvJ8BM
+#EXTINF:0, S05E07 - My Brother's Keeper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E07%20-%20My%20Brother's%20Keeper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sK8argQryzgPUGZFmXmmOgt7NDWTZ2E-
+#EXTINF:0, S05E08 - We'll Always Have Bourbon Street.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E08%20-%20We'll%20Always%20Have%20Bourbon%20Street.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uJQw6x8uAeutNN5jZpH74TABaGoPSUBm
+#EXTINF:0, S05E09 - O Come, All Ye Faithful.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E09%20-%20O%20Come,%20All%20Ye%20Faithful.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bVg9dj9rQsMAHNtQE8lbaXSvBYcY0drn
+#EXTINF:0, S05E10 - After School Special.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E10%20-%20After%20School%20Special.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NKGLvFpKSLUWmoPj9F63_1E6lmLD2BfE
+#EXTINF:0, S05E11 - 500 Years of Solitude.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E11%20-%20500%20Years%20of%20Solitude.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XVYvPZH-Ir5DqbOY0ecegxWZcYrTL1yn
+#EXTINF:0, S05E12 - The Devil Inside.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E12%20-%20The%20Devil%20Inside.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14xqY4ibkjcAn6mrPIL-GcVoLfz1y4v_f
+#EXTINF:0, S05E13 - Total Eclipse of the Heart.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E13%20-%20Total%20Eclipse%20of%20the%20Heart.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mZf1upGQfa3rS_Yns5XeON3BPukbSk3B
+#EXTINF:0, S05E14 - No Exit.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E14%20-%20No%20Exit.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yaG12XZ21tS5Fb3dTFjXmjcsqBbL6c-5
+#EXTINF:0, S05E15 - Gone Girl.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E15%20-%20Gone%20Girl.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sn8tdTJcEovf-5o9jEpYiJK6tOYrCjv6
+#EXTINF:0, S05E16 - While You Were Sleeping.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E16%20-%20While%20You%20Were%20Sleeping.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1s1i3uA2OykUkvbAqznRTEL4e_f5u71zq
+#EXTINF:0, S05E17 - Rescue Me.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E17%20-%20Rescue%20Me.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SZPy6rlaIg-MCubymArNxWxKgU-kkoq7
+#EXTINF:0, S05E18 - Resident Evil.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E18%20-%20Resident%20Evil.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-entUDWzBH7C4dM8R4Zjsr_DENEkxH8k
+#EXTINF:0, S05E19 - Man on Fire.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E19%20-%20Man%20on%20Fire.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kFbDRnq4dqFJdLWbBc2DC9tg2etXOo3v
+#EXTINF:0, S05E20 - What Lies Beneath.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E20%20-%20What%20Lies%20Beneath.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UpkXsuTA6y60wOGvS-n85MMSMFocT7UD
+#EXTINF:0, S05E21 - Promised Land.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E21%20-%20Promised%20Land.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GjcT5DoFZqMwYF0nXYXP6ub8dZmYtkOr
+#EXTINF:0, S05E22 - Home.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S05E22%20-%20Home.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yDXoPPujIKvqP91nCuZ8N49MmmZiAPyE

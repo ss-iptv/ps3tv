@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Carmen Sandiego 1ª temporada Completa (2019) 720p Mkv
+#EXTINF:0, 1. Quem é Carmen Sandiego? - Parte I.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.%20Quem%20%C3%A9%20Carmen%20Sandiego?%20-%20Parte%20I.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vyLiTN1YpSosG0lwMBYkjOI5kFjZU8KK
+#EXTINF:0, 2. Quem é Carmen Sandiego? - Parte II.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.%20Quem%20%C3%A9%20Carmen%20Sandiego?%20-%20Parte%20II.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m11QZ8OGA8bbq3UPyykXm6CWw9rkd1Sj
+#EXTINF:0, 3. Missão Arroz Grudento.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.%20Miss%C3%A3o%20Arroz%20Grudento.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BYAFtHlzt20tBNYQr1r011fuhID6970k
+#EXTINF:0, 4. Missão Peixe Recheado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/4.%20Miss%C3%A3o%20Peixe%20Recheado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1astRsCBNZ8MmJKJmyLZmmGcT9sWdOeII
+#EXTINF:0, 5. Missão Duque de Vermeer.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/5.%20Miss%C3%A3o%20Duque%20de%20Vermeer.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11lHEegWLqqpXclSTMdaNlWNkYcs1lkZn
+#EXTINF:0, 6. Missão Ópera no Outback.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/6.%20Miss%C3%A3o%20%C3%93pera%20no%20Outback.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kL5CbAEY51Fmh8MtenjEFD6hASRLyvX-
+#EXTINF:0, 7. Missão Cata Papel.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/7.%20Miss%C3%A3o%20Cata%20Papel.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hPpBhftyKx45DRQsxXkX5EVJVP57St9U
+#EXTINF:0, 8. Missão Gato da Sorte.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8.%20Miss%C3%A3o%20Gato%20da%20Sorte.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SV9fy0Cwi1gNFMdxr8P0L2OGhTEDk9lr
+#EXTINF:0, 9. Missão Conexão Francesa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/9.%20Miss%C3%A3o%20Conex%C3%A3o%20Francesa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1A85vq0LEcoIzYmeuAXF5ns35FXJXNyhM

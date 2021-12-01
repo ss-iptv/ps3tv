@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Game of Thrones - 7ª Temporada (2017) 720p Dual Áudio
+#EXTINF:0, 01 - Pedra do Dragão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Pedra%20do%20Drag%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yWwwDcdtBP-7TBBnMQQT4hLgw0c3AzJ2
+#EXTINF:0, 02 - Nascida da Tormenta.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Nascida%20da%20Tormenta.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m9eGmcD0juOvepyemo3MbqY8cRSQFo4X
+#EXTINF:0, 03 - A Justiça da Rainha.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20A%20Justi%C3%A7a%20da%20Rainha.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v1qEFkcbFC1PjtS8SP7jKJhWnmBGhDBw
+#EXTINF:0, 04 - Os Despojos da Guerra.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Os%20Despojos%20da%20Guerra.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16GDl83AYYd8ltKQQCpNlWF3CZO1NfGSL
+#EXTINF:0, 05 - Atalaialeste.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Atalaialeste.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16U3N_6poRI-r45XwxNeJfXADjz92wlsQ
+#EXTINF:0, 06 - Além da Muralha.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Al%C3%A9m%20da%20Muralha.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_en6xzHad2WbXskgIleWWaXBxcJ9NmQa
+#EXTINF:0, 07 - O Dragão e o Lobo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20O%20Drag%C3%A3o%20e%20o%20Lobo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14t_6i7S1tS3A4mu_SETPC8KfovYDBv5X

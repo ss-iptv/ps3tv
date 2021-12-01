@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diarios de um Vampiro 6ª Temporada 720p
+#EXTINF:0, 01 - Vou Me Lembrar.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Vou%20Me%20Lembrar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1X5Oi1XIEd1zQbJLjvV_2Zizt9yCvn30N
+#EXTINF:0, 02 - Carta Amarela.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Carta%20Amarela.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1csM3sS7w4cgSI-Ega6Ey2mS2Hfuk4L1j
+#EXTINF:0, 03 - Boas Vindas Ao Paraíso.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Boas%20Vindas%20Ao%20Para%C3%ADso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tENUGdnHRHCv0l_ob8OhPv0N-GYElQqd
+#EXTINF:0, 04 - O Sol Do Buraco Negro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Sol%20Do%20Buraco%20Negro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18iIoX9Ah1C152xU-MtiZUoOlU4b77eeN
+#EXTINF:0, 05 - O Mundo Girou E Me Deixou Aqui.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Mundo%20Girou%20E%20Me%20Deixou%20Aqui.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mp_HDkkE68GUAD-pnftsOe-aYobzSadZ
+#EXTINF:0, 06 - Quando Mais Você Me Ignora, Mais Perto Eu Chego.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Quando%20Mais%20Voc%C3%AA%20Me%20Ignora,%20Mais%20Perto%20Eu%20Chego.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BA4j5fLaW7g0-ZkWKHK-1grPQ6vzrEQT
+#EXTINF:0, 07 - Você Se Lembra Da Primeira Vez.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Voc%C3%AA%20Se%20Lembra%20Da%20Primeira%20Vez.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17Yev1grmMngWIhbWNN5ZD4OouyyUBLuR
+#EXTINF:0, 08 - Mergulho Em Você.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Mergulho%20Em%20Voc%C3%AA.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rJnB6POnyTzWRIDZobdjo8RVWS0O8NEe
+#EXTINF:0, 09 - Eu Sozinha.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Eu%20Sozinha.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1F65GFNq_Go2R1LmCJgEXiSGndwA4atam
+#EXTINF:0, 10 - Natal Através De Seus Olhos.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Natal%20Atrav%C3%A9s%20De%20Seus%20Olhos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1is2No3Ym_yeD1VgO2ktQHS4rwygOFnf5
+#EXTINF:0, 11 - Acordei Com Um Monstro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Acordei%20Com%20Um%20Monstro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Lw-VWMDwiFdSUo4bbM1VtRzrsj3qtIo7
+#EXTINF:0, 12 - Oração Pela Morte.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Ora%C3%A7%C3%A3o%20Pela%20Morte.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LRqA3Qqw99FIAy57fjsJ1yQY1lkM2II8
+#EXTINF:0, 13 - O Dia Que Eu Tentei Viver.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20O%20Dia%20Que%20Eu%20Tentei%20Viver.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jxWuSlhXafwu1nJF0K-KdEQeuRp2J5Qn
+#EXTINF:0, 14 - Fique.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Fique.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15VPL9A8kyuln8W2CxyMwubqV8su5a7MK
+#EXTINF:0, 15 - Deixe Ela Ir.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Deixe%20Ela%20Ir.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TlcTMDbTj0JPEkCmOVPBcJXimEXKSHbf
+#EXTINF:0, 16 - A Decrescente Espiral.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20A%20Decrescente%20Espiral.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wHXbjIsRcae8V-PRs3Q23a9K-IiqaU_W
+#EXTINF:0, 17 - Um Pássaro Em Uma Gaiola Dourada.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Um%20P%C3%A1ssaro%20Em%20Uma%20Gaiola%20Dourada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ph7ITiM9-JftOf7hm2xj13Q3sqaz_DsL
+#EXTINF:0, 18 - Eu Nunca Poderia Amar Assim.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Eu%20Nunca%20Poderia%20Amar%20Assim.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i0cpX9YKmLomDjjgEVmiYEPzXPI7fEhS
+#EXTINF:0, 19 - Porque.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Porque.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JhCIsKEsGKwINP_NicZULCCrJIie0Jsf
+#EXTINF:0, 20 - Eu Deixaria Minha Casa Feliz Por Você.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Eu%20Deixaria%20Minha%20Casa%20Feliz%20Por%20Voc%C3%AA.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FhzXZwom0x5o6N5ptLRJRuBFtJvfiT82
+#EXTINF:0, 21 - Eu Vou Casar Com Você No Verão Dourado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Eu%20Vou%20Casar%20Com%20Voc%C3%AA%20No%20Ver%C3%A3o%20Dourado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oKp7b7RM-gmd4-N8wt4vvTyGgHWWfUkJ
+#EXTINF:0, 22 - Eu Estou Pensando Em Você O Tempo Todo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Eu%20Estou%20Pensando%20Em%20Voc%C3%AA%20O%20Tempo%20Todo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1c8ogK2x0PR7TqnxjPJsCoYzcu3Yk5qIP

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dois Homens e Meio - 02ª Temporada
+#EXTINF:0, 01 - Já Chega Mary Poppins.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20J%C3%A1%20Chega%20Mary%20Poppins.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dmTGRXpDHjnDIZt8xJ5JCqDGywKhdfRQ
+#EXTINF:0, 02 - Aproveita as Bolinhas de Alho.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Aproveita%20as%20Bolinhas%20de%20Alho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15gs6O-HesmKGUOxCj3xkN04V-NiFZmUD
+#EXTINF:0, 03 - Fazendo Sinais.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Fazendo%20Sinais.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EEALs5PCG-4YCXH871m-gt_A4CDohOM2
+#EXTINF:0, 04 - Devolve o Sutiã da Mamãe.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Devolve%20o%20Suti%C3%A3%20da%20Mam%C3%A3e.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n8hSsw7uiE867o568z7p5Yj7a4GEDcJy
+#EXTINF:0, 05 - Notícias Ruim.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Not%C3%ADcias%20Ruim.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tCO3auaJxSLg2wMavfstQewa_AXCHTpC
+#EXTINF:0, 06 - Revelações do passado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Revela%C3%A7%C3%B5es%20do%20passado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PhrvWcwcbh2TsdQmIRZlwJgrwUrAhQ_a
+#EXTINF:0, 07 - Mãe, Te Amamos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20M%C3%A3e,%20Te%20Amamos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1M9S-ZvV33cBGWI4103gMSWrcli5LBpO7
+#EXTINF:0, 08 - Tirando o Atraso.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Tirando%20o%20Atraso.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=192fNCDDV_iyJfT7FzXG1lWZ0oRfamNEC
+#EXTINF:0, 09 - Surpresa Desagradável.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Surpresa%20Desagrad%C3%A1vel.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13cnv4037UeFG9CrVkuPEZAn55EfknYj5
+#EXTINF:0, 10 - Cinemas e Músicas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Cinemas%20e%20M%C3%BAsicas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1C6uqKAYdDFWoZFKAtAh-ZSUy9TTlXIH5
+#EXTINF:0, 11 - Novidades do Computador.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Novidades%20do%20Computador.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=130WcF7ldXo956CQIfmpjMG6IGubTyeZV
+#EXTINF:0, 12 - Fica com o Alan.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Fica%20com%20o%20Alan.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19BkbNloR9zevD51g7O9sDF2hlPxUMHyE
+#EXTINF:0, 13 - Visitas Indesejáveis.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Visitas%20Indesej%C3%A1veis.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E1HqE-dS2ysgzxs-sWtpf1CMVl0PWJa0
+#EXTINF:0, 14 - Chantagem Emocional.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Chantagem%20Emocional.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wgWkFTe5t2NY-1ubgme1Mh54Vo6H0QVr
+#EXTINF:0, 15 - Mal Estar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Mal%20Estar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=117njDfiaP99vdrKYJaVAjapLl23sFegX
+#EXTINF:0, 16 - Memória Fraca.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Mem%C3%B3ria%20Fraca.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fa9MuS2dVMBRHrUI_uEtyTCHvM8UdPsx
+#EXTINF:0, 17 - Oba! Exame.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Oba!%20Exame.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rlPWFAS22KIurZa4BKXrC1D67qcMdndf
+#EXTINF:0, 18 - Opção Sexual.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Op%C3%A7%C3%A3o%20Sexual.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EWHRiPr1M0nwfAdlhsluC91r5DDSi2Nu
+#EXTINF:0, 19 - Entre Irmãos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Entre%20Irm%C3%A3os.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-zJR3ATEUOJTif2Tb4xCWGCGBPq3hF-S
+#EXTINF:0, 20 - Sempre quis um macaquinho.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Sempre%20quis%20um%20macaquinho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zEBRhw60hAoT9CDfs9hYxyGWbNZSd4zb
+#EXTINF:0, 21 - Ombro Amigo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Ombro%20Amigo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1q9rMCoQA2bFZeImhZe3z3a9pp9zplk2s
+#EXTINF:0, 22 - Meu Carro Novo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Meu%20Carro%20Novo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CM8gMQ116E0WrAhtkMZ87LvWKwwDkVug
+#EXTINF:0, 23 - Pombo, Pombo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/23%20-%20Pombo,%20Pombo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KBy8HDWaQ183iID2Hb0ad3CrViIOtepQ
+#EXTINF:0, 24 - Qual é a Graça.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/24%20-%20Qual%20%C3%A9%20a%20Gra%C3%A7a.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1s4mCfZAhZPTw7ZNM9Vs2daFvJVBKChuh

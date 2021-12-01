@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - Falling Skies 2° temporada Mp4
+#EXTINF:0, 1 - Worlds Apart.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Worlds%20Apart.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13D9H5nzdmufZFmPgONXht4pUebW-CFpM
+#EXTINF:0, 10 - A More Perfect Union.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20A%20More%20Perfect%20Union.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NlxHXcaFhMREyn9nE-1dMB9xHEzTlyaB
+#EXTINF:0, 2 - Shall We Gather at the River.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Shall%20We%20Gather%20at%20the%20River.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gKWr4g33LTMhZMXS8kUBvwQR36xQWsoc
+#EXTINF:0, 3 - Compass.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Compass.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ljHF-pz-bURtkLODaC262vmi7H4NISmn
+#EXTINF:0, 4 - Young Bloods.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Young%20Bloods.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13imDAW2SiBeu_jhNTmwFD50kprDp65NQ
+#EXTINF:0, 5 - Love and Other Acts of Courage.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Love%20and%20Other%20Acts%20of%20Courage.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15QZfyveugNJ19U51ICwqQPzTlS85zcEs
+#EXTINF:0, 6 - Homecoming.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Homecoming.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gx0N66D6Ixtuu5RxYRgWXUxf3iLGy8rc
+#EXTINF:0, 7 - Molon Labe.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Molon%20Labe.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CIZY9fHM7eKECxS8yjzOwZMYy9T2Pf6V
+#EXTINF:0, 8 - Death March.mp4.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Death%20March.mp4.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yU63STfA3-aqtNCxt0NDdUPwEdI2-g9X
+#EXTINF:0, 9 - The Price of Greatness.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20The%20Price%20of%20Greatness.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lI3Pu8GXvtafkeYu6I2-ABgilratjkHM

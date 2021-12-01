@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Prison Break - 1° Temporada 720p Mp4
+#EXTINF:0, T01E01 - Em Busca da Verdade.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E01%20-%20Em%20Busca%20da%20Verdade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JizfIanbY9ttkKQVKOFC_C7TvNrFLzhH
+#EXTINF:0, T01E02 - Acerto de Contas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E02%20-%20Acerto%20de%20Contas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1l2Xh3HLYFDmU53xw046v75krsMlToYvt
+#EXTINF:0, T01E03 - Teste do Celular.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E03%20-%20Teste%20do%20Celular.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ggEDctVyysScgKxnZhskJYMIgimyqcIf
+#EXTINF:0, T01E04 - A Volta de Sucre.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E04%20-%20A%20Volta%20de%20Sucre.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eNLuNJ2r0QGwnVQEoQWuqlhEDpYQfKMN
+#EXTINF:0, T01E05 - A Transferência.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E05%20-%20A%20Transfer%C3%AAncia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16migT35u5mpnnezPEsghthEIGtkCfpif
+#EXTINF:0, T01E06 - A Rebelião Parte 1.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E06%20-%20A%20Rebeli%C3%A3o%20Parte%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-Mzb8ST97tN9c6f_AqsVRTaF_QZSvJIP
+#EXTINF:0, T01E07 - A Rebelião Parte 2.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E07%20-%20A%20Rebeli%C3%A3o%20Parte%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gTIHjr2NFBDW4vlkKhmQAby7jt3t-gWL
+#EXTINF:0, T01E08 - Perseguição.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E08%20-%20Persegui%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yblzHxxnGBUY-EC-7ePjVAq4fnnKq1Gg
+#EXTINF:0, T01E09 - Um Novo Chefe.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E09%20-%20Um%20Novo%20Chefe.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uqVe-97Ft_iYkMX24qfdUhLBbs4Z1e8f
+#EXTINF:0, T01E10 - De Volta ao Plano de Fuga.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E10%20-%20De%20Volta%20ao%20Plano%20de%20Fuga.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JClVQ4V_ntnWfCq-G5BLvrromDdjpS1P
+#EXTINF:0, T01E11 - Sete é Demais.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E11%20-%20Sete%20%C3%A9%20Demais.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nrSVbIdS4yregNkvVVnUy8Lf04lbgm15
+#EXTINF:0, T01E12 - Perdão Fatal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E12%20-%20Perd%C3%A3o%20Fatal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16H1zvbWv6HJij1m5WtW0NWH27jXGgULa
+#EXTINF:0, T01E13 - O Fim do Tunel.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E13%20-%20O%20Fim%20do%20Tunel.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RAzMD6DVECkKpyUElQtraCArxWFx8MUK
+#EXTINF:0, T01E14 - O Rato.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E14%20-%20O%20Rato.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hhBz3VbWFKMny_WIdR5FMZjwe863PpEl
+#EXTINF:0, T01E15 - O Adiamento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E15%20-%20O%20Adiamento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KQGPy1B4cvURBipSmT_T0y1qpRSQOQ1a
+#EXTINF:0, T01E16 - O Guardião do Irmão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E16%20-%20O%20Guardi%C3%A3o%20do%20Irm%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_JZtA3WnMG2pDyxbRXTyJC9do_QWWonh
+#EXTINF:0, T01E17 - O Surto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E17%20-%20O%20Surto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1neLuzLh_iWhsddcAOtgSfJLJWxBW9Rdp
+#EXTINF:0, T01E18 - O Blefe.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E18%20-%20O%20Blefe.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uJQuypS1-3IvYOCr5Gzs-eKTjDCy1kdy
+#EXTINF:0, T01E19 - A Chave.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E19%20-%20A%20Chave.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GsrhqUlklRKVrNPiiM6iZC64yTaVpCd-
+#EXTINF:0, T01E20 - A Segunda Fuga.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E20%20-%20A%20Segunda%20Fuga.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qcFrm5TLu3THdsD0A1dBMbn2ExEzC-py
+#EXTINF:0, T01E21 - A Noite da Fuga.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E21%20-%20A%20Noite%20da%20Fuga.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_CCwfh99b4GVoC79aI0woeOR6oEBDbNy
+#EXTINF:0, T01E22 - A Reta Final.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E22%20-%20A%20Reta%20Final.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=113zY4z32ElBxPhTuzRMiRS7xW8ygkgQ_

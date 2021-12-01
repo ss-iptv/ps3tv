@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Três é Demais 1ª Temporada
+#EXTINF:0, 1 – Piloto – Nosso Primeiro Encontro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20%E2%80%93%20Piloto%20%E2%80%93%20Nosso%20Primeiro%20Encontro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ts4x8QBaa7RkPxqYLoGEKl0PUU-X0vxj
+#EXTINF:0, 10 – O Lugar do Joey.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20%E2%80%93%20O%20Lugar%20do%20Joey.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nWrP4DBtASeKdJ_q4oBNw2FJXOh-LJVR
+#EXTINF:0, 11 – O Grande Trinta.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20%E2%80%93%20O%20Grande%20Trinta.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RRwUweKtdfE3Z04PDW3tmXIdfVu7jWV4
+#EXTINF:0, 12 – Nossa Primeira Promoção.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20%E2%80%93%20Nossa%20Primeira%20Promo%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1k_8OyPR1weVVDAcfoz7K64tODIy0bCtr
+#EXTINF:0, 13 – Amor Fraternal.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20%E2%80%93%20Amor%20Fraternal.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jcNLR31jMjWsCWzWzzPgD9cRt8ej-WMM
+#EXTINF:0, 14 – Meia História de Amor.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20%E2%80%93%20Meia%20Hist%C3%B3ria%20de%20Amor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Lz91WyZFTnq5APvxXfl9JxMIB6jRlULo
+#EXTINF:0, 15 – Catapora Em Casa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20%E2%80%93%20Catapora%20Em%20Casa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WpysYkd0IrAXOufEYDHLSdko8NQZaKgi
+#EXTINF:0, 16 – O Comediante.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20%E2%80%93%20O%20Comediante.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17byMYDYdrE7GLzCN9CtJMb2U7gQdpznw
+#EXTINF:0, 17 – O Primeiro Encontro de Danny.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20%E2%80%93%20O%20Primeiro%20Encontro%20de%20Danny.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kO-qxioka4BvGnZB7CTNxf3hp7NE6qq9
+#EXTINF:0, 18 – Apenas Um Dos Rapazes.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20%E2%80%93%20Apenas%20Um%20Dos%20Rapazes.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14g4bSgETZ_T05FjmkwvwNnOkK8wKhnMJ
+#EXTINF:0, 19 – Comemoração do Sétimo Mês (Parte 1).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20%E2%80%93%20Comemora%C3%A7%C3%A3o%20do%20S%C3%A9timo%20M%C3%AAs%20(Parte%201).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rd0uUuOS-ZIkv1j79sfh0iPxZnxs3f8U
+#EXTINF:0, 2 – Nossa Primeira Noite.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20%E2%80%93%20Nossa%20Primeira%20Noite.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11YlC-7TLmPYR23xXj7P6--DImUT0bQjz
+#EXTINF:0, 20 – Comemoração do Sétimo Mês (Parte 2).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20%E2%80%93%20Comemora%C3%A7%C3%A3o%20do%20S%C3%A9timo%20M%C3%AAs%20(Parte%202).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JcqityNg2ICzDuu_KX0dmKTJoZoNpKQL
+#EXTINF:0, 21 – Dinheiro Louco.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20%E2%80%93%20Dinheiro%20Louco.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1es4XW62C8eT8F86QFW1LnBTO8yHwMB98
+#EXTINF:0, 22 – O Dia Livre de D.J..mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20%E2%80%93%20O%20Dia%20Livre%20de%20D.J..mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qD_cxaPHntfO93Dk547x-BvCa4xDwQvT
+#EXTINF:0, 3 – O Primeiro Dia de Aula.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20%E2%80%93%20O%20Primeiro%20Dia%20de%20Aula.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-7AOwcKzK8H0tDadJEnEuSN15xOOKpUN
+#EXTINF:0, 4 – O Retorno da Vovó.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20%E2%80%93%20O%20Retorno%20da%20Vov%C3%B3.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1d0en-M84a_sI86GE_xSsICdWm06KWXeV
+#EXTINF:0, 5 – Cruzeiro Marítimo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20%E2%80%93%20Cruzeiro%20Mar%C3%ADtimo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xE5zrhp-xvzxfSKXZVWnPbf3uygvmKLI
+#EXTINF:0, 6 – Quem é Meu Papai?.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20%E2%80%93%20Quem%20%C3%A9%20Meu%20Papai?.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14kDLMvg1BWO_BLxvrfH8sQtHzGhptaKO
+#EXTINF:0, 7 – Nocauteado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20%E2%80%93%20Nocauteado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1L-lLCmy7Bvedgf4Zf_a7lkJXUiVF8tTY
+#EXTINF:0, 8 – Garota do Jesse.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20%E2%80%93%20Garota%20do%20Jesse.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qPr6IPwTOhFsDI0i__oGlqdW1OVNjtjg
+#EXTINF:0, 9 – O Milagre de Ação de Graças.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20%E2%80%93%20O%20Milagre%20de%20A%C3%A7%C3%A3o%20de%20Gra%C3%A7as.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SGnvW8Qq10inWcyZoA8_Cj4aO_zU4aQR

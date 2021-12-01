@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1º Temporada
+#EXTINF:0, S01E01-A Rotina.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E01-A%20Rotina.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U2crFy4vK6XL0OQjJqzjRzE-X-nvPJIS
+#EXTINF:0, S01E02-Visitas Conjugais ou Não.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E02-Visitas%20Conjugais%20ou%20N%C3%A3o.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GECykuUJP-FaJAgH53xbwEGFWSNp32Yw
+#EXTINF:0, S01E03-Deus esta se Afastando.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E03-Deus%20esta%20se%20Afastando.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jyTuqjqDrIATvLZbDt2eE7SJ9ySWvMJ8
+#EXTINF:0, S01E04-Pena Capital.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E04-Pena%20Capital.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1luupJiAqBA-jh_zSjP1k1cPpyxIPk58d
+#EXTINF:0, S01E05-Uma Vida Correta.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E05-Uma%20Vida%20Correta.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f6egHPpN_qm27bh4mdG-usvXZdRXWCAO
+#EXTINF:0, S01E06-Viva a Saúde.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E06-Viva%20a%20Sa%C3%BAde.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fFZ4nKRkec0_FFea5oBd0oYl45wuzbrw
+#EXTINF:0, S01E07-Plano B.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E07-Plano%20B.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B_ulblC2E44f0JwbINi2O94mKV3g056Y
+#EXTINF:0, S01E08-Um Jogo de Damas.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/S01E08-Um%20Jogo%20de%20Damas.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MMm01XBKbNGWzGMLEI8c1mNWMuy4r5_I

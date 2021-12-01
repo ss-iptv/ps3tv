@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 04 - Brooklyn Nine-Nine 4° Temporada 1080p MKV 
+#EXTINF:0, S04E01.Coral.Palms,.Pt..1.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E01.Coral.Palms,.Pt..1.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=129DZz4Qr9R9HjVpOfAksPevdCZfrUOt_
+#EXTINF:0, S04E02.Coral.Palms,.Pt..2.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E02.Coral.Palms,.Pt..2.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ib2ZXR93MRgNBPZ3FA4KZljZMqC_KGIc
+#EXTINF:0, S04E03.Coral.Palms,.Pt..3.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E03.Coral.Palms,.Pt..3.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ggI-SxPjbmWLVYScmikVEwnG8jctkpOl
+#EXTINF:0, S04E04.The.Night.Shift.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E04.The.Night.Shift.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xWQxcWZIdFeRr3IlSfkYN8-yHuPibsZH
+#EXTINF:0, S04E05.Halloween.IV.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E05.Halloween.IV.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-FsyZp9x-XlBQ9kDAmubwR97HiIRrcVJ
+#EXTINF:0, S04E06.Monster.in.the.Closet.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E06.Monster.in.the.Closet.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15hV3b-kn9KMVNhTOMlmefAPNOgI4fcna
+#EXTINF:0, S04E07.Mr..Santiago.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E07.Mr..Santiago.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1noBtexjdnOzBx9VGPVSoUr8te4SG9Lsu
+#EXTINF:0, S04E08.Skyfire.Cycle.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E08.Skyfire.Cycle.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YLj54usW15NpMFkVpS2PZz2jXXXEn5-e
+#EXTINF:0, S04E09.The.Overmining.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E09.The.Overmining.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-ko0t6ARAbz2HTqyC0Mdjlo3f3Ni3X91
+#EXTINF:0, S04E10.Captain.Latvia.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E10.Captain.Latvia.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1o0DvWR59AmwL2jzf1ilNEpb_QNJbimUu
+#EXTINF:0, S04E11.Fugitive,.Pt..1.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E11.Fugitive,.Pt..1.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tnTVYDQYcpJMeHEvmA9d2_bIE8yEekbC
+#EXTINF:0, S04E12.Fugitive,.Pt..2.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E12.Fugitive,.Pt..2.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u6TD4qmhIz9XUxhgiP9f8rTChphfSNE5
+#EXTINF:0, S04E13.The.Audit.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E13.The.Audit.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hXKxTqGCgkou_M2bLt32tlx4vrWTbncQ
+#EXTINF:0, S04E14.Serve.&.Protect.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E14.Serve.&.Protect.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1W1PKyo_UWupuiHxO9yR3Z80zuU0CEreb
+#EXTINF:0, S04E15.The.Last.Ride.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E15.The.Last.Ride.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Nteiin3wvZmAkVxhEg89ijdKiPFjeECn
+#EXTINF:0, S04E16.Moo.Moo.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E16.Moo.Moo.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CWIo3MTdZ_U4XHQ7bEbrqWjTpSEwBtHO
+#EXTINF:0, S04E17.Cop-Con.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E17.Cop-Con.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=190hXOQyprXMe1KK3Eirp__IB3cwZA63k
+#EXTINF:0, S04E18.Chasing.Amy.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E18.Chasing.Amy.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IsXTamdHi5QnDsvKPJqqwaohdH5VQO83
+#EXTINF:0, S04E19.Your.Honor.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E19.Your.Honor.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G7whefto7jxZAN4xiOhxQWMqn8DZYqYu
+#EXTINF:0, S04E20.The.Slaughterhouse.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E20.The.Slaughterhouse.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IJ3-skO8B-mf13yxK5XqTz1cNnZmBGzt
+#EXTINF:0, S04E21.The.Bank.Job.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E21.The.Bank.Job.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1piMrSfAO9yTJ6pC39mS2r41jXrMx5YjG
+#EXTINF:0, S04E22.Crime.&.Punishment.1080p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S04E22.Crime.&.Punishment.1080p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19JZaW5kzdXzxS_n-B4xcOdd8ETscM-7j

@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - Star Wars - The Clone Wars 2ª Temporada 720p (2009) Dual Áudio BluRay Mkv
+#EXTINF:0, T02E01 - O Roubo do Holocron.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E01%20-%20O%20Roubo%20do%20Holocron.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SYOQJ3bDfpabEXFKPZMZNnjRWUWAIuoO
+#EXTINF:0, T02E02 - Cargo de Doom.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E02%20-%20Cargo%20de%20Doom.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15kU5NBtbE-YcYWCycmg0E4kmLOYab-cS
+#EXTINF:0, T02E03 - Crianças da Força.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E03%20-%20Crian%C3%A7as%20da%20For%C3%A7a.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WwjHHQAgg7lJVeCsPdltXvZashzEWFTI
+#EXTINF:0, T02E04 - Espião do Senado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E04%20-%20Espi%C3%A3o%20do%20Senado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZOLG7P3Dc0bop93-Z2aHe0OwF_W7kAcS
+#EXTINF:0, T02E05 - Desembarque no ponto de chuva.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E05%20-%20Desembarque%20no%20ponto%20de%20chuva.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iPLPvQMUcsi8V44-wvMj48vQLTlIMcnb
+#EXTINF:0, T02E06 - Fábrica De Armas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E06%20-%20F%C3%A1brica%20De%20Armas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13_Rcw5iZWMVMHdxBH0uaMinya76kieBQ
+#EXTINF:0, T02E07 - Legado De Terror.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E07%20-%20Legado%20De%20Terror.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PpmO7pR3Hel3fPTtKliLLfr8uT69t-B2
+#EXTINF:0, T02E08 - Invasores De Cérebro.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E08%20-%20Invasores%20De%20C%C3%A9rebro.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Mgl0TkiKwLuPvNXr1PBAvR45oD5RR-aj
+#EXTINF:0, T02E09 - Grievous Intrigue (Inglês).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E09%20-%20Grievous%20Intrigue%20(Ingl%C3%AAs).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bRZSlfAxc0Ca_y8xnMycfNTYtPD-RXRJ
+#EXTINF:0, T02E10 - O Desertor.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E10%20-%20O%20Desertor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eznEhoHHRIb0FcMzIanXK0fBnXGHVAQq
+#EXTINF:0, T02E11 - Sabre De Luz Perdido.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E11%20-%20Sabre%20De%20Luz%20Perdido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qrKTaVk3zXjmFmBNu39Y-IoACCP8smQU
+#EXTINF:0, T02E12 - O Enredo Mandalore.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E12%20-%20O%20Enredo%20Mandalore.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T99Aae075Tz8nqHQB8_II396hgX6z20H
+#EXTINF:0, T02E13 - Viagem De Tentação.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E13%20-%20Viagem%20De%20Tenta%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tGqoLqPepATxVelTJ2l0UTLkZ-yG8m4J
+#EXTINF:0, T02E14 - Duquesa De Mandalore.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E14%20-%20Duquesa%20De%20Mandalore.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1a58WtvYPq533mpJR71wEQ-LISsbqouNc
+#EXTINF:0, T02E15 - Assassinatos Do Senado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E15%20-%20Assassinatos%20Do%20Senado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vXW-pqbqe2hLrEMRV-V3G4mhxQOVsX_u
+#EXTINF:0, T02E16 - Gato E Rato.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E16%20-%20Gato%20E%20Rato.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QOFUzRqfl9ntrygwVBeJ9VEwTG0Kq7nJ
+#EXTINF:0, T02E17 - Caçadores De Recompensas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E17%20-%20Ca%C3%A7adores%20De%20Recompensas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZWN-iwNcWtTymijSYVZ3TBpS1lkVL50O
+#EXTINF:0, T02E18 - O Monstro Zillo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E18%20-%20O%20Monstro%20Zillo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pxe-IPUrQk34PrtRKJaMdNuHhlZsw6ai
+#EXTINF:0, T02E19 - The Zillo Beast Strikes Back (Inglês).mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E19%20-%20The%20Zillo%20Beast%20Strikes%20Back%20(Ingl%C3%AAs).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17IoSu6n0v8DBKmvou7dZEQxFZmbCPiTi
+#EXTINF:0, T02E20 - Armadilha Mortal.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E20%20-%20Armadilha%20Mortal.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g6JZV5JKPc1Kh3kzw8yQq21-8axb9ZfS
+#EXTINF:0, T02E21 - R2 Vai Pra Casa.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E21%20-%20R2%20Vai%20Pra%20Casa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cvbPEKWbPz31C2lUk7958TxYoDbMmI5M
+#EXTINF:0, T02E22 - Trackdown Letal.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T02E22%20-%20Trackdown%20Letal.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Mqw3Emf6s7ZwHFi702G0J3wxJ_DfQC0r

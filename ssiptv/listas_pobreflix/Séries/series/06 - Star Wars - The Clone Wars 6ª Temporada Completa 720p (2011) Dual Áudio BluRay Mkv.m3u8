@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 06 - Star Wars - The Clone Wars 6ª Temporada Completa 720p (2011) Dual Áudio BluRay Mkv
+#EXTINF:0, 01 - O Desconhecido.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Desconhecido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eB1fW_JW8sQBb0TqbIjvAs9gjMPPbVaP
+#EXTINF:0, 02 - Conspiração.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Conspira%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eVtYovl89oe19VWvhWs4jEaMO7LLkBk-
+#EXTINF:0, 03 - Fugitivo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Fugitivo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1auA4YmrUXbPQewjK6PjgIINrqfpjgaY1
+#EXTINF:0, 04 - Encomendas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Encomendas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x9nyrn2yxj3Wr0aW5eotjdIOL-j3r-g0
+#EXTINF:0, 05 - Um velho Amigo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Um%20velho%20Amigo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nZOuzMsEbBsHzzrUIc6l1acBzViu-A3t
+#EXTINF:0, 06 - A Ascenssão de Clovis.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20A%20Ascenss%C3%A3o%20de%20Clovis.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RZqmm1LUU7DYxxV8Dat4k3JmpxkjFuzK
+#EXTINF:0, 07 - Crise no Coração.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Crise%20no%20Cora%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wAHFpZnw2eptzxxLmVOtCd39QBnO8SbQ
+#EXTINF:0, 08 - A Desaparacida - Parte 1.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20A%20Desaparacida%20-%20Parte%201.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JEYgRtU9ezb5NhMtr0hKSd39pwNZtrrt
+#EXTINF:0, 09 - A Desaparecida - Parte 2.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20A%20Desaparecida%20-%20Parte%202.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VFcvk8w7gWG4RmcZe245pJWZudRbNjgx
+#EXTINF:0, 10 - O Único Perdido.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20O%20%C3%9Anico%20Perdido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1awlCjkLLpRYG7mjqhbNChz-HPFkdtOXg
+#EXTINF:0, 11 - Vozes.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Vozes.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18dlb2fboe1iFntfjT7naplbCRS6hkza2
+#EXTINF:0, 12 - Destino.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Destino.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vgeOqsfsbsDrKYGBO1KDSGFWAPNmuqH9
+#EXTINF:0, 13 - Sacrifício.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Sacrif%C3%ADcio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dzDAI-RvvoDoVoEBMYG0v6SqmgtjP1JN

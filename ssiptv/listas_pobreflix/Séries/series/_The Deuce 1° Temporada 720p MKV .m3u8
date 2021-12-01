@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST:  The Deuce 1° Temporada 720p MKV 
+#EXTINF:0, The.Deuce.S01E01.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E01.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19b2zWI2TFY0RcqiCwCGk1pcCIiEwlrgL
+#EXTINF:0, The.Deuce.S01E02.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E02.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zmT1R7RgqDNoVF3yRnK0EpUZh3gqledK
+#EXTINF:0, The.Deuce.S01E03.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E03.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17yQ3XPpegU9hyY7u_QKbclSeBptLFgTb
+#EXTINF:0, The.Deuce.S01E04.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E04.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dm2ulbUGmaf4uMJ4zPlaO-3F8J5Dp-eA
+#EXTINF:0, The.Deuce.S01E05.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E05.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qYu3c9U_8eA3b2YaPbXx5DFzbtORAf6k
+#EXTINF:0, The.Deuce.S01E06.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E06.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Thn8MI7VvQf4fqs4dWL8NAdk0S-PGm_E
+#EXTINF:0, The.Deuce.S01E07.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E07.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GKXE3B-9x6J6FSeTJDWKJd2Cb7RM1qwb
+#EXTINF:0, The.Deuce.S01E08.720p FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Deuce.S01E08.720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nKX0t74setujrGGkLOMhrIVHAzr5F-N5

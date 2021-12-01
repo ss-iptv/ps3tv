@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST:  02 - A Bela e a Fera - 1° Temporada 1080p Mkv
+#EXTINF:0, 02x01.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x01.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=169LbjT_mcC6ocrhhr8YZrg-wyWso2BpQ
+#EXTINF:0, 02x02.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x02.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vmbcPQ46q_xYR4VlPXG2CjglyLHaE8p1
+#EXTINF:0, 02x03.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x03.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qUNW4DIx22y-wL0b_yl39QSVCuN9jGAo
+#EXTINF:0, 02x04.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x04.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dvM04ArhRm55n8D9sbkYrhiiizJROgiG
+#EXTINF:0, 02x05.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x05.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D5xwrdssj8Puf0RIygd7YfyNctx5HiYi
+#EXTINF:0, 02x06.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x06.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1chhbDTxFCQm1IwvFfzoWs6zq2LoeU21S
+#EXTINF:0, 02x07.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x07.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QE8TGA1oUqvvDtohAa3X5-la4FpKjAAr
+#EXTINF:0, 02x08.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x08.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1M0UK5g3Gq_TAPs-b6mTIY_lxt57oY5Ng
+#EXTINF:0, 02x09.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x09.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19be_095Z-IJirMVV-9LnX45lOiFR_IRH
+#EXTINF:0, 02x10.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x10.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lXsdqWNUOcRf3UcJrku3Hl2c2-azlNag
+#EXTINF:0, 02x11.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x11.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13pDhjyVJW-6YciVft05Lg8lt8lyz6lTU
+#EXTINF:0, 02x12.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x12.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15uKSHwQT1jBklTuRSsxQ3HNttbsjQWc4
+#EXTINF:0, 02x13.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x13.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WnsSKjaGwEtMlXTRssm2EAfiz4X5vyB8
+#EXTINF:0, 02x14.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x14.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_sAKwes8lQzkFm50IWIVvZvTH2j6wAPG
+#EXTINF:0, 02x15.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x15.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19RVNUPJEGwAwhOcSSBs5PDkWHHcyk2gu
+#EXTINF:0, 02x16.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x16.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19_ChPl4A8U6A2yAphw_dq9mvXhygcWlt
+#EXTINF:0, 02x17.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x17.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lg3VlxMRuF17QL5DobZfRG7o8HnI2bRx
+#EXTINF:0, 02x18.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x18.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rUYYIlwtHyELu35AbEToX9ezdOXMl_XA
+#EXTINF:0, 02x19.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x19.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wHEoPCODuTVeLovvEY6jlgMJRy1BVvIp
+#EXTINF:0, 02x20.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x20.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PQd0qQMq1RHkLpMnLVmgfWKLevhc22N3
+#EXTINF:0, 02x21.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x21.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pE6u3UoDWTGiPOWF9HFjeCz7ln5AQQKO
+#EXTINF:0, 02x22.1080p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/02x22.1080p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZzgYW6YzGMi0nXR3k5H7gvBIkmBmgoCH

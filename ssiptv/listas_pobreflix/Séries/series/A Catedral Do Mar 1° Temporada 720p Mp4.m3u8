@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: A Catedral Do Mar 1° Temporada 720p Mp4
+#EXTINF:0, A.Catedral.Do.Mar.s01e01.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e01.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cG2NF2fQxdKVnCk5eXkfLKnlm5T3dqhF
+#EXTINF:0, A.Catedral.Do.Mar.s01e02.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e02.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jGm3yVgSeVKJYMW-i6MOD0jHzzVtZfsP
+#EXTINF:0, A.Catedral.Do.Mar.s01e03.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e03.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hoq3aGuQcuuu72YB368BANxwfSCUo56p
+#EXTINF:0, A.Catedral.Do.Mar.s01e04.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e04.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17wQCNSbK2j5J5B22pgQ-V75YyxucqTiO
+#EXTINF:0, A.Catedral.Do.Mar.s01e05.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e05.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1o5Bms2LUGWBEgzZEwtM7e3oI3qyjjHOB
+#EXTINF:0, A.Catedral.Do.Mar.s01e06.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e06.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=178oOdEj8p9mq1GRVLKqgeguNXwdF-WG1
+#EXTINF:0, A.Catedral.Do.Mar.s01e07.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e07.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WUDNLI0XkYUlAC262XhT9E2GVCpBH0j0
+#EXTINF:0, A.Catedral.Do.Mar.s01e08.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/A.Catedral.Do.Mar.s01e08.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U1XvLRIXigDof3NRhMqRlyM_IxMdFjeo

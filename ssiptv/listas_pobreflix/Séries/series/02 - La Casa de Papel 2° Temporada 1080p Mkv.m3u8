@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - La Casa de Papel 2° Temporada 1080p Mkv
+#EXTINF:0, La Casa de Papel 2-01 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-01%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tjrdL764MMUC-zFADJRb5u9cP1jTePjC
+#EXTINF:0, La Casa de Papel 2-02 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-02%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1alIT4erWmSYhdJXmB1YqRl06v5_ZzQkS
+#EXTINF:0, La Casa de Papel 2-03 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-03%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=129uWNBxapMyllQSo1DVshIpNX_ScKm3S
+#EXTINF:0, La Casa de Papel 2-04 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-04%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ykZmi_3rlmh5Z2kfnkmmJtIbghiSrzzu
+#EXTINF:0, La Casa de Papel 2-05 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-05%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ifxXNmIaqyHV_2Y8O-WmkECqLPggLFC4
+#EXTINF:0, La Casa de Papel 2-06 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-06%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bY-HzSzRWMaZvAwG7THcll3px2_O_xgc
+#EXTINF:0, La Casa de Papel 2-07 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-07%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ewdAlqUNc22kx-kjLHFTvDRs_WOKPvtV
+#EXTINF:0, La Casa de Papel 2-08 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-08%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HVLDDiHV4VtaEGetLf9LCGUHk6PTUAJS
+#EXTINF:0, La Casa de Papel 2-09 (Dual-1080p) FilmesRocklex.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/La%20Casa%20de%20Papel%202-09%20(Dual-1080p)%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=125269bnpWnSB9CohQECe5TS3dssQofdr

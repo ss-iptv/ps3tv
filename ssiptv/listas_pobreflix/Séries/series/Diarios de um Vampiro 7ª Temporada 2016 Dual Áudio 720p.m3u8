@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diarios de um Vampiro 7ª Temporada 2016 Dual Áudio 720p
+#EXTINF:0, S07E01 - Dia Um De Vinte e Dois Mil, Mais ou Menos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E01%20-%20Dia%20Um%20De%20Vinte%20e%20Dois%20Mil,%20Mais%20ou%20Menos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aymbB-w_da8vSaIAy9wth5OtQ3ghzg9Q
+#EXTINF:0, S07E02 - Nunca Me Deixe Ir.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E02%20-%20Nunca%20Me%20Deixe%20Ir.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cQAflXE5TyQ1hybF4ZAjfxK4Dhffa9KW
+#EXTINF:0, S07E03 - Idade Da Inocência.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E03%20-%20Idade%20Da%20Inoc%C3%AAncia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EY7Sj5GbFH7eIVwNA7OdyQ_PeN_mAjn8
+#EXTINF:0, S07E04 - Levo Seu Coração Comigo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E04%20-%20Levo%20Seu%20Cora%C3%A7%C3%A3o%20Comigo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pqmy1_iTiXu3F1G3_7b-deKoTUd-uH31
+#EXTINF:0, S07E05 - Sobreviva.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E05%20-%20Sobreviva.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EQ9aEz_AyDkc9p-a_6w_JIDLPKzfFTcY
+#EXTINF:0, S07E06 - Prato Que Se Come Frio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E06%20-%20Prato%20Que%20Se%20Come%20Frio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kTWm6E188KzPLP1oTxlavCFoTuZMpmSV
+#EXTINF:0, S07E07 - Mamãezinha Querida.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E07%20-%20Mam%C3%A3ezinha%20Querida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R3tTrlB_jCd4gmsE66Lq-yq2yZfJRtBz
+#EXTINF:0, S07E08 - Me Abrace, Me Emocione, Me Beije, Me Mate.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E08%20-%20Me%20Abrace,%20Me%20Emocione,%20Me%20Beije,%20Me%20Mate.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rWE91FUZo_4WWKdu8MH_QHQ1NrHPkBHl
+#EXTINF:0, S07E09 - Frio Como Gelo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E09%20-%20Frio%20Como%20Gelo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16ddNaqFJX_2yL98k2Zn78Y5AVm1aohpc
+#EXTINF:0, S07E10 - O Inferno São Os Outros.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E10%20-%20O%20Inferno%20S%C3%A3o%20Os%20Outros.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KnAUudrd2zs-QigTdoFiXNdtn91vT0Dy
+#EXTINF:0, S07E11 - As Perdas do Incêndio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E11%20-%20As%20Perdas%20do%20Inc%C3%AAndio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CwEHweL9e2KZS7_t-ow4gEwUBAAHQY4z
+#EXTINF:0, S07E12 - Postais do Limite.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E12%20-%20Postais%20do%20Limite.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CtYOhQiYsbfuGocMcNuqaCmC10Tv3ddz
+#EXTINF:0, S07E13 - O Trabalho Dessa Mulher.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E13%20-%20O%20Trabalho%20Dessa%20Mulher.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ICQIqUDD8CxwvLVSgr-Y7STUHKELTXb0
+#EXTINF:0, S07E14 - Luar Sobre o Bayou.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E14%20-%20Luar%20Sobre%20o%20Bayou.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WOFJjcaGt5JTQl1rGhCXJLZA3OzmAyrf
+#EXTINF:0, S07E15 - Eu Faria Por Você.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E15%20-%20Eu%20Faria%20Por%20Voc%C3%AA.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jUF-8K13VBttUjaGxq29sRgUZ3Mph5p_
+#EXTINF:0, S07E16 - Dias De Um Futuro Passado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E16%20-%20Dias%20De%20Um%20Futuro%20Passado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hAs_Lj-SsWasf9u_tEAVe2T5BYRHxWyz
+#EXTINF:0, S07E17 - Eu Fui À Floresta.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E17%20-%20Eu%20Fui%20%C3%80%20Floresta.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zc2fINdYwYSwmn29jcxxMg8qX9rN9KIR
+#EXTINF:0, S07E18 - De Um Jeito Ou De Outro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E18%20-%20De%20Um%20Jeito%20Ou%20De%20Outro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oVVHDA5aTkhbHSWe9Z8XvreJi6k8fhbp
+#EXTINF:0, S07E19 - Alguém Que Conhecia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E19%20-%20Algu%C3%A9m%20Que%20Conhecia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13Sv-BCWo4cjfeP8LkFsFfENOJx8EWZ48
+#EXTINF:0, S07E20 - Matar a Todos.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E20%20-%20Matar%20a%20Todos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16qmw39V5Zv--uES3q1JfXYQWWX2twErD
+#EXTINF:0, S07E21 - Réquiem Para Um Sonho.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E21%20-%20R%C3%A9quiem%20Para%20Um%20Sonho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nX6fgb9rtTdVBmez3vsv2s8ji9XumNLu
+#EXTINF:0, S07E22 - Deuses & Monstros.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S07E22%20-%20Deuses%20&%20Monstros.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R8MHY1KCYjK1iUGAanJkAEreyCa1kaeT

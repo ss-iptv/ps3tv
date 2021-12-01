@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2ª Temporada Completa 2017
+#EXTINF:0, 1. Culpa nas veias.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1.%20Culpa%20nas%20veias.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11fa9H_QnqZVDxNnIs6cXDSHwSN3Ak-Co
+#EXTINF:0, 10. A luz do amanhecer.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10.%20A%20luz%20do%20amanhecer.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1b8ZMU0y9WeuXf78ONzmxFwpAbMzWOLBN
+#EXTINF:0, 11. Minha máxima culpa.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11.%20Minha%20m%C3%A1xima%20culpa.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ePEy99wubcWqN9bQoB3q1YzTEgexIpEL
+#EXTINF:0, 12. Você não pertence a si mesmo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12.%20Voc%C3%AA%20n%C3%A3o%20pertence%20a%20si%20mesmo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_xB-vBE4IRWTNe4o0l4kbE2poGwzbaMu
+#EXTINF:0, 13. Sangue de demônio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13.%20Sangue%20de%20dem%C3%B4nio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19f52bn9ZHrMi7u36qH8Lbna6Ozh5MZRy
+#EXTINF:0, 14. Alianças improváveis.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14.%20Alian%C3%A7as%20improv%C3%A1veis.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vGIzVLOvvinkBKbwOFsMo8YzBkIRd01y
+#EXTINF:0, 15. Problema de memória.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15.%20Problema%20de%20mem%C3%B3ria.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T8boju10Ely74JgdGHWM3YDGov1hX1Uo
+#EXTINF:0, 16. Dia do Perdão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16.%20Dia%20do%20Perd%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16KEmhfIImaXVyav-8duSSjbpZJbjiZ5j
+#EXTINF:0, 17. Reflexo sombrio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17.%20Reflexo%20sombrio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HPXTv_gewBEQhU2nD6h7ry22vdtmt6rQ
+#EXTINF:0, 18. Desperte ou desapareça para sempre.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18.%20Desperte%20ou%20desapare%C3%A7a%20para%20sempre.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yOyG51lNTSI4BWjvFW6eDP--nDM3oJng
+#EXTINF:0, 19. Saudações e adeus.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19.%20Sauda%C3%A7%C3%B5es%20e%20adeus.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DaDcFuvkWBp2m8KLq-Zr-p8g5IlYWxql
+#EXTINF:0, 2. Uma porta na escuridão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2.%20Uma%20porta%20na%20escurid%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w84zDs5aoeWLG_GpG4XPb13ueLVSMbA1
+#EXTINF:0, 20. Águas calmas.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20.%20%C3%81guas%20calmas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FhJw0LaZyWeUQIQIuS1_mua5umwPScUf
+#EXTINF:0, 3. Adeus ligação parabatai.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3.%20Adeus%20liga%C3%A7%C3%A3o%20parabatai.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14t8rVGS-C82EwQELNzWerqGJjeBCdtSi
+#EXTINF:0, 4. Dia de fúria.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4.%20Dia%20de%20f%C3%BAria.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VB3QJhpeL5YCcy3_TRjJ3ubvnwVFkEcV
+#EXTINF:0, 5. Pó e sombras.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5.%20P%C3%B3%20e%20sombras.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=171mxOQeF0VhtMjsGymBztNg0wYJz3-A1
+#EXTINF:0, 6. As irmãs de ferro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6.%20As%20irm%C3%A3s%20de%20ferro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ya-r4nk1DQusZ1wav-bPBcrabvxwepyU
+#EXTINF:0, 7. Como você sucumbiu.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7.%20Como%20voc%C3%AA%20sucumbiu.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JW59Pw82I2i1kuc8PWXR0fof2X2Zs8DT
+#EXTINF:0, 8. O amor é um demônio.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/8.%20O%20amor%20%C3%A9%20um%20dem%C3%B4nio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NbZN5EMMnAek1t-N1tU2Ayr7nH5Eq1sy
+#EXTINF:0, 9. Laços de sangue.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9.%20La%C3%A7os%20de%20sangue.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HhI31BthT3OrY3U_vVa4nB_Zxsu8WwL3

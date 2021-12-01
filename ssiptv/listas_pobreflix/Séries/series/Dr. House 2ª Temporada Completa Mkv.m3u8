@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dr. House 2ª Temporada Completa Mkv
+#EXTINF:0, House.S02E01.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E01.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FP-EMYsDvxKulTD6NOs8BsmnmGpsHeYH
+#EXTINF:0, House.S02E02.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E02.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Mq2br-faMy7edC2kj0z4nqD1g7uRgDYH
+#EXTINF:0, House.S02E03.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E03.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AxrCD_kDHJEMMOb0ziDFbYLK_5qL8tzA
+#EXTINF:0, House.S02E04.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E04.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wecLhBfjDZk1bC4bk9rt5ZSWd9nmKyv9
+#EXTINF:0, House.S02E05.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E05.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KQKNsmsXD-XwXet3N7beL3CHxSmUFVd3
+#EXTINF:0, House.S02E06.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E06.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XPvoe7aBYJejMEtfACAFH9A21sRQWS90
+#EXTINF:0, House.S02E07.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E07.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CT92zMZ9ur7YPHg0wdwWpJg2BcqZZAel
+#EXTINF:0, House.S02E08.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E08.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P-B6vETzjo_9I2joBxHqEbugMLj0H_kY
+#EXTINF:0, House.S02E09.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E09.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SXlTWJPzVFdGWExHS_NTmqHM8jWFiTpN
+#EXTINF:0, House.S02E10.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E10.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16p4Xm-aVtJNuV_84MHu5J-q0noJg1KJC
+#EXTINF:0, House.S02E11.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E11.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10x2CdiECuVVJpO4foRuGOW7Mpp0yfQzL
+#EXTINF:0, House.S02E12.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E12.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GF1S2Vl7TfcsKmi4XeznjNGyndzuXpld
+#EXTINF:0, House.S02E13.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E13.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZAY0eOUXirip9zaaXqdU1Ql2oIREeyNe
+#EXTINF:0, House.S02E14.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E14.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YxbXn-SoYI5fDext2wr_siJ-Vah6EQss
+#EXTINF:0, House.S02E15.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E15.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rUzSRHljjX3GoZY1G8CF5IjZnxW3sSvN
+#EXTINF:0, House.S02E16.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E16.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XzoIoIQr_RCgzLLjKnbk9A56a04QhtBQ
+#EXTINF:0, House.S02E17.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E17.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x_MO_79DyB4T2xj8AvZ3u75oY34QPUTr
+#EXTINF:0, House.S02E18.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E18.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f3WwYAXkKCfD4rbjABhM2LI6rqQv2xWz
+#EXTINF:0, House.S02E19.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E19.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1q-XAvqQeESmikoHncA0WylHEGaivcsJi
+#EXTINF:0, House.S02E20.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E20.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dI3L6FFIH1ECXot_CMYPNluMSu67LrLv
+#EXTINF:0, House.S02E21.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E21.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ouLA4WMUpa_UlQCarcoFT-6co2UD0OZD
+#EXTINF:0, House.S02E22.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E22.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oFw7nSik0ItDWLhKO79I0EM3Kbu26kGg
+#EXTINF:0, House.S02E23.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E23.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hXyMvdrAGN0E4Lt3nrgI96bbGm55FqP-
+#EXTINF:0, House.S02E24.720p.Dual.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/House.S02E24.720p.Dual.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xeRpZloRhe6pAZjc4sDnyEDiASZIje3K

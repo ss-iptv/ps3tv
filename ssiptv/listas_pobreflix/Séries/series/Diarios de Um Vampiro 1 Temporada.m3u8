@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diarios de Um Vampiro 1 Temporada
+#EXTINF:0, 1 - Pilot.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Pilot.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1r3Pc9DLbWuiDCQD4x7OZtK8dBFK-BVO7
+#EXTINF:0, 10 - The Turning Point.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20The%20Turning%20Point.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S1Z_K9rBEr60VOCVtdqzfLcfLj1VR85h
+#EXTINF:0, 11 - Bloodlines.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Bloodlines.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LvOL7am95oFakvfJRev3bxEzRpdRrWME
+#EXTINF:0, 12 - Unpleasantville.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Unpleasantville.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BqwxSfzC_uBLToUY5A7Ns76DVMTgNwFX
+#EXTINF:0, 13 - Children of the Damned.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Children%20of%20the%20Damned.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bHPt_yqiqTj25hUKVPwMkBxtsdjZMElW
+#EXTINF:0, 14 - Fool Me Once.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Fool%20Me%20Once.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jSA0uUPAPWKPNkrW5pi0BbD5oJeR1m7F
+#EXTINF:0, 15 - A Few Good Men.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20A%20Few%20Good%20Men.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T9LbsduFnHMXNVVWLtywWugAqCQI7_sm
+#EXTINF:0, 16 - There Goes the Neighborhood.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20There%20Goes%20the%20Neighborhood.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17fcUFaW32zqrSmZ0mcZdEKIdlJ2fZXll
+#EXTINF:0, 17 - Let the Right One In.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Let%20the%20Right%20One%20In.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wYBI8nlLSA5Qnrvmtn3kgf3taWE-auAc
+#EXTINF:0, 18 - Under Control.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Under%20Control.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17MoD5mAnIvebGGwwgQtBrz0AZWC2_ea_
+#EXTINF:0, 19 - Miss Mystic Falls.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Miss%20Mystic%20Falls.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AtnI7ojAMkKDvkeG4AxB-XKvjvgAuqbB
+#EXTINF:0, 2 - The Night of the Comet.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20The%20Night%20of%20the%20Comet.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HekM8-7IuluC_bpXhvGoe2S-sU3O1Aub
+#EXTINF:0, 20 - Blood Brothers.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Blood%20Brothers.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_wqOPRiEs-XEosGyn4TPoFMttF-0IJB-
+#EXTINF:0, 21 - Isobel.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Isobel.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Nu9Ph2XIw76N18MqE2RJnJ6d88eJl2Mp
+#EXTINF:0, 22 - Founder's Day.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Founder's%20Day.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1a8GaHSa4KxN1oYUJpaNIrpwqwPyHu8Xv
+#EXTINF:0, 3 - Friday Night Bites.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Friday%20Night%20Bites.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13m25MHQH72Qs9SUNW56yoDslFveF9Et8
+#EXTINF:0, 4 - Family Ties.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Family%20Ties.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ybkRbWHVMWGei_AwNynKDTRAjVwVk7Ur
+#EXTINF:0, 5 - You're Undead to Me.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20You're%20Undead%20to%20Me.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-jk_zvpz44JY2aAmkL3TuRe0zsJi-W3T
+#EXTINF:0, 6 - Lost Girls.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Lost%20Girls.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n2YoCpFE4ADGqa0S5YHHQ-tE4ojUS7_m
+#EXTINF:0, 7 - Haunted.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Haunted.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_gjMIEZrqeahmvb101KN8_SN1mngK_aF
+#EXTINF:0, 8 - 162 Candles.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20162%20Candles.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rmuu_eqIs-Ts__DsANKEMRvYTT2hre6r
+#EXTINF:0, 9 - History Repeating.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20History%20Repeating.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Sw01wiKkAqCf9rmuyw5d6lADQAgDHUmw

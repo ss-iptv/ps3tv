@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: The Terror – 1ª Temporada
+
+720p Mp4
+#EXTINF:0, The.Terror.S01E01.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E01.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kdWkRNcqjo9AvkU_m_ZscS-zj-bE1FBJ
+#EXTINF:0, The.Terror.S01E02.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E02.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n8LQOiPcv45b0LcnKiFrrjmuUsg2Hbys
+#EXTINF:0, The.Terror.S01E03.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E03.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lxW6uBSXIo-acup14h9xsi5wxiXq-vGY
+#EXTINF:0, The.Terror.S01E04.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E04.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ti_90-PRBhLnipYVDMFUmb8d13NcFUZ6
+#EXTINF:0, The.Terror.S01E05.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E05.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jY2AEShPGelcK26xzPAc50cwhZKZe6Cu
+#EXTINF:0, The.Terror.S01E06.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E06.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1silAyoR1aklO1flegu6AhSLcX92zbmyo
+#EXTINF:0, The.Terror.S01E07.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E07.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GDGiK1w_0lg9LLp_YmAFyPvNTkDrHmjK
+#EXTINF:0, The.Terror.S01E08.Dublado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E08.Dublado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CJ7bJST3Ki_HVHp_Xi8_UOuaBYkTl8O8
+#EXTINF:0, The.Terror.S01E09.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E09.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_Crx5yDnVFSvQ4oN8GbIV2OgIwZQefsm
+#EXTINF:0, The.Terror.S01E10.Dublado.FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/The.Terror.S01E10.Dublado.FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LslFDalwHGbiAl6vefYA2CItJnZe5n-h

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Season 02
+#EXTINF:0, Stargate Atlantis S02E01 - The Siege, Part 3.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E01%20-%20The%20Siege,%20Part%203.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j75Vv1EZbamAEik_pdVQ04b8ROtws9xW
+#EXTINF:0, Stargate Atlantis S02E02 - The Intruder.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E02%20-%20The%20Intruder.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V3GCw1UBAfp3iWwIP90ZGrbSkEGbWxQe
+#EXTINF:0, Stargate Atlantis S02E03 - Runner.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E03%20-%20Runner.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EA_sqDqeTlaI-YzjNKkhqZZK43MLKvpE
+#EXTINF:0, Stargate Atlantis S02E04 - Duet.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E04%20-%20Duet.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1o6kiLl2tTfhc3iCUFu4TgY4XZw7MGx7T
+#EXTINF:0, Stargate Atlantis S02E05 - Condemned.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E05%20-%20Condemned.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nRj2AGqPPwsQnynhoyrGxT_d35u68dz1
+#EXTINF:0, Stargate Atlantis S02E06 - Trinity.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E06%20-%20Trinity.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ye5qIuXRKSExhR-26s9V3Tlzbr71QfRb
+#EXTINF:0, Stargate Atlantis S02E07 -  Instinct.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E07%20-%20%20Instinct.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Wm-wc4q4d2GtwqSwJTphxaHA4TqmoOel
+#EXTINF:0, Stargate Atlantis S02E08 - Conversion.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E08%20-%20Conversion.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1T51pDNXV2QW_egZ9iqmHGAKi2R_NnkmP
+#EXTINF:0, Stargate Atlantis S02E09 - Aurora.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E09%20-%20Aurora.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e_TfKdqW8z7WNdpigAFgUyjK0JsLWXqR
+#EXTINF:0, Stargate Atlantis S02E10 - The Lost Boys.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E10%20-%20The%20Lost%20Boys.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=179p3tr984iGF7133adxQI-QMfRzV3Ww_
+#EXTINF:0, Stargate Atlantis S02E11 - The Hive.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E11%20-%20The%20Hive.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aC0vle1jj73Vxf7q7SRDEOsPiEtXfezN
+#EXTINF:0, Stargate Atlantis S02E12 - Epiphany.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E12%20-%20Epiphany.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qtW5qK_eE7zqX05UUW66MZLo6kJqbPm5
+#EXTINF:0, Stargate Atlantis S02E13 - Critical Mass.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E13%20-%20Critical%20Mass.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VNL0DEDG0nQ55W56LFKDYMD_ebfH2aQL
+#EXTINF:0, Stargate Atlantis S02E14 - Grace Under Presure.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E14%20-%20Grace%20Under%20Presure.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eNYLfOpba8L1A1Et5inB5UE4Ojd49Qkp
+#EXTINF:0, Stargate Atlantis S02E15 - The Tower.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E15%20-%20The%20Tower.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KsBlaKgQAthHdBCkBROmjxcrkBUQgz4w
+#EXTINF:0, Stargate Atlantis S02E16 - The Long Goodbye.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E16%20-%20The%20Long%20Goodbye.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iXyKbi3DSgmuYTEIxYF_FUpoII3uRCtE
+#EXTINF:0, Stargate Atlantis S02E17 - Coup D'Etat.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E17%20-%20Coup%20D'Etat.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GtyK07sROVhWfv5i2J6iEJBExBx2Daqs
+#EXTINF:0, Stargate Atlantis S02E18 -  Michael.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E18%20-%20%20Michael.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v44IngpNHpzoAlQ3_rB97ZhgCxMDurpG
+#EXTINF:0, Stargate Atlantis S02E19 - Inferno.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E19%20-%20Inferno.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Q06_YC0fGJPy8m6y2BzOKNaem9I0Pv-5
+#EXTINF:0, Stargate Atlantis S02E20 - Allies.avi
+http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20Atlantis%20S02E20%20-%20Allies.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pok-dgVyVZyWNu3Jdkv18N4vmDnDLuDl

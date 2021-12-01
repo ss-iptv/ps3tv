@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Star Wars - The Clone Wars 1ª Temporada Completa 720p (2008) Dual Áudio BluRay Mkv
+#EXTINF:0, T01E01 - Emboscada.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E01%20-%20Emboscada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1b_-DzmAGftw9e7b3AwF9WAe2q1-ASDDA
+#EXTINF:0, T01E02 - A Subida da Malevolência.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E02%20-%20A%20Subida%20da%20Malevol%C3%AAncia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S3f6MOPlLZzOhxPd_KGgNjTYQ1neCeoB
+#EXTINF:0, T01E03 - A Sombra da Malevolência.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E03%20-%20A%20Sombra%20da%20Malevol%C3%AAncia.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VyYdXSk4-howM5-vunLD1iGpKD63W54y
+#EXTINF:0, T01E04 - Destruir Malevolence.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E04%20-%20Destruir%20Malevolence.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15xORb5vqSkAd1iboSN5U-6vsDEU-1Blx
+#EXTINF:0, T01E05 - Rookies.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E05%20-%20Rookies.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15hbahnlHbCd6zoYPrURQ_pX84_nMGOUg
+#EXTINF:0, T01E06 - Queda de um Droid.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E06%20-%20Queda%20de%20um%20Droid.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1niW2cHPCB87tE5h5Ig3Af2_BZ4vJmbub
+#EXTINF:0, T01E07 - Duelo dos Droids.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E07%20-%20Duelo%20dos%20Droids.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kEJLfB0Ev-AG4bQPalDIvuyl9_hfWPSd
+#EXTINF:0, T01E08 - Bombad Jedi.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E08%20-%20Bombad%20Jedi.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bi31wJq0WCM6EmQm77nZZOPNUmILHypz
+#EXTINF:0, T01E09 - Manto da escuridão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E09%20-%20Manto%20da%20escurid%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jAePQEzrgnMheV6YJ4IvRVZmK0F8H0cO
+#EXTINF:0, T01E10 - Caverna do Grevious.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E10%20-%20Caverna%20do%20Grevious.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nP_MUKTBktB2yf3X2lY4K2LsyPbN6lJu
+#EXTINF:0, T01E11 - Dooku Capturado.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E11%20-%20Dooku%20Capturado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1k-iUe8uZM3SbJGVHmn5KZxP6RpSrG8_2
+#EXTINF:0, T01E12 - Gungan General.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E12%20-%20Gungan%20General.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UE4NaHWymVHZQnnkzp09FDviDO3DdRFq
+#EXTINF:0, T01E13 - Batendo no Jedi.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E13%20-%20Batendo%20no%20Jedi.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ImgwSS3fVhIqoibojTh1cTVbTw-MQfqn
+#EXTINF:0, T01E14 - Defensores da Paz.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E14%20-%20Defensores%20da%20Paz.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Tv7B4yuod2sAhwR8dhp_KuoLyxzW8HWX
+#EXTINF:0, T01E15 - Transgressão.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E15%20-%20Transgress%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1J6ukPB_Vehz6g2vDorah0d5L6SM2Pxc3
+#EXTINF:0, T01E16 - O Hiden Inimigo.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E16%20-%20O%20Hiden%20Inimigo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1q_UR25D058ePH0-gKb_2i1uKHLHYeC3U
+#EXTINF:0, T01E17 - A Volta do Virus Azul.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E17%20-%20A%20Volta%20do%20Virus%20Azul.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vzjkZOGCHk3ojDZeZEiW_Iczk39cVMRN
+#EXTINF:0, T01E18 - O Mistério das Mil Luas.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E18%20-%20O%20Mist%C3%A9rio%20das%20Mil%20Luas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-QsQ9Gd2RCPOWHrWhwb8ITO5VOmNe7c5
+#EXTINF:0, T01E19 - Tempestade sobre Ryloth.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E19%20-%20Tempestade%20sobre%20Ryloth.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_Mrq-MLBVoTbyxG8ODePiCf3JYp-VSK9
+#EXTINF:0, T01E20 - Inocentes de Ryloth.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E20%20-%20Inocentes%20de%20Ryloth.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IfGhhvBRU3saXqWPOBnWJYQOMTbQNXU4
+#EXTINF:0, T01E21 - Libertando Ryloth.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E21%20-%20Libertando%20Ryloth.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ulrog97-z97NS-hgdXjJEEa_d6Ju1O_Q
+#EXTINF:0, T01E22 - Crise de reféns.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/T01E22%20-%20Crise%20de%20ref%C3%A9ns.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13jhpBii38tKSuw7q7haOSY1pQHG2hG0P

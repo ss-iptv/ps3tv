@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 03 - Falling Skies 3 temporada Mp4
+#EXTINF:0, 1 - On Thin Ice.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20On%20Thin%20Ice.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17j9EdrHfAJ_Qi5NLh8Z3jELWc2atyZF-
+#EXTINF:0, 10 - Brazil.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Brazil.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1z7gdWf9SaJcem34zbZm8o-kkqj9HyTDQ
+#EXTINF:0, 2 - Collateral Damage.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Collateral%20Damage.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kmi39Ia3UOcmnP3gZ9aTtXtlRZsQo6_k
+#EXTINF:0, 3 - Badlands.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Badlands.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DKB0QYkHdkJWDdI1Dq0Jv6LpYB7mnJZA
+#EXTINF:0, 4 - At All Costs.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20At%20All%20Costs.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1efG09OsYceTqjv4o9ZEaWjjxg_sMBr2v
+#EXTINF:0, 5 - Search and Recovery.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Search%20and%20Recovery.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-y5f5gU9bfCR-mezLgGYF8y0-NqGgy-l
+#EXTINF:0, 6 - Be Silent and Come Out.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Be%20Silent%20and%20Come%20Out.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Wh0yANYjArLUHo4uzzeVTuPGEGewu9VQ
+#EXTINF:0, 7 - The Pickett Line.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20The%20Pickett%20Line.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1S_EFKJ53N-GOS9ZbIOD8pd9rkKX3ceE2
+#EXTINF:0, 8 - Strange Brew.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Strange%20Brew.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mEFeolqpzv6qTPeOwpSCrGZNeIYUHgg5
+#EXTINF:0, 9 - Journey to Xibalba.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Journey%20to%20Xibalba.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O8McSL8ngLLDBXa0B8Ve-c8z8meozIx1

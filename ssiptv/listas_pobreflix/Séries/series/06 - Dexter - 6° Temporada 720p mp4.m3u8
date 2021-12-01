@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 06 - Dexter - 6° Temporada 720p mp4
+#EXTINF:0, S06x01.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x01.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AWLHW7Uak5JdWD4JKJai-vIJpx-YXfn_
+#EXTINF:0, S06x012.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x012.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XMQCyCGHoxZFtGy7e1e2Zb0Vrp4ppTQc
+#EXTINF:0, S06x012.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x012.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14ACH2zzjYtCixgztcPMKSD2RWgHDK70Z
+#EXTINF:0, S06x02.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x02.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E4ZKY72WF71squKRV86u1D12od_0eKfJ
+#EXTINF:0, S06x03.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x03.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BsFuu-1ivh9eZaEd7ce1RVeu1hsy4Tba
+#EXTINF:0, S06x04.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x04.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pmM_1irAI7DU_KLPlFs0KgF22AlcOtKz
+#EXTINF:0, S06x05.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x05.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oM4rtKBXzqqZJF5Rxcj2mtracsOWDnWM
+#EXTINF:0, S06x06.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x06.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13DwLgtC6HSzwJxvbpn19aKhEFBe863ho
+#EXTINF:0, S06x07.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12vDCdUaDtsEJS-Namgr9a1Q9G7rz6zrM
+#EXTINF:0, S06x08.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HrDXhtK3opt4A8vrUq-jjAr55RLN-Zpt
+#EXTINF:0, S06x09.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1067byyoujgvhy7iFeF5SziU0cAFEbFBh
+#EXTINF:0, S06x10.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12SSuMrK3Yj7S6OBgpbFHfhjFqvrSSHfw
+#EXTINF:0, S06x11.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/S06x11.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gor75oeh2zWXBHO5GjEPG6hOPL9OU5C3

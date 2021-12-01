@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 02 - Família Soprano - 2° Temporada Mkv
+#EXTINF:0, S02x01.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x01.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Wzwxt8ByeDpaXbHR6so6HuHJTVF3Am3h
+#EXTINF:0, S02x02.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x02.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bdkbEmQjPl1bREfHOxGvVzCv3Rt6qwkm
+#EXTINF:0, S02x03.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x03.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fFp6KOOM38QqU3o6TTImGWCwpaXAzb1N
+#EXTINF:0, S02x03.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x03.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PfJ8a3n0VTOwEvxarIOLsQ0oxUQdKKG2
+#EXTINF:0, S02x04.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x04.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dtWfJbMR6nZUBJ2fHwRTjD4dVWdVoYxu
+#EXTINF:0, S02x04.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x04.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tCCSOLpHk2aCkMwiLXgnk2eHbiflGB86
+#EXTINF:0, S02x05.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x05.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16dd-SdK8H1GNdNGLcrBd8D9_oYPWfOxB
+#EXTINF:0, S02x06.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x06.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GB8qjTQQvj-n2u18afcLAUiju_46xTKt
+#EXTINF:0, S02x07.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x07.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tAqpvS1SPIq4jgXMxqB3qwWA-DNphn3I
+#EXTINF:0, S02x08.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x08.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DIa1jhDWwhQdXEVHyUvtrDnyGGG0LRd9
+#EXTINF:0, S02x08.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x08.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_RFkTDjsI0LsgZOtVKje3QT21-RM9twC
+#EXTINF:0, S02x09.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x09.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hBV0nGN0Hl1U90YStTbrlAKH4tHRTXjQ
+#EXTINF:0, S02x09.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x09.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bdbGhFw7cLGwZwL6RWtD-PkxP4_g1Tgf
+#EXTINF:0, S02x10.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K4VOGOOkEOJXVrdh5tCFW6r_dKsoDKdV
+#EXTINF:0, S02x11.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x11.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bQEhF-AAhJC5b2HBGontdh9_XnU6odhp
+#EXTINF:0, S02x12.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x12.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oOzl2fKSpBT4UclSaeTd6aB0QPQSkjdV
+#EXTINF:0, S02x30.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x30.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18i-eB8rcUZd2zfPqqMg8eFtllQeXTyyx
+#EXTINF:0, S02x30.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/S02x30.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OjJuCeq6CLexsjXA8myLe8sbBmyzxR1G

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - 3% 2016 - 1ª Temporada Completa Nacional Mkv
+#EXTINF:0, 3%.S01E01.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E01.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1__XnEf5uQF43XOgkyBRt-UHxyxig-JFR
+#EXTINF:0, 3%.S01E02.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E02.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VPG4VpfkpOEY4mqFTjZO2A9OBtcou2xX
+#EXTINF:0, 3%.S01E03.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E03.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11nwYU_UuoxyN99C02nkjSKPCOaEEkNJC
+#EXTINF:0, 3%.S01E04.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E04.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_bDGMlUUaHugI0_Tf2q6QRMWCHlzP3dN
+#EXTINF:0, 3%.S01E05.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E05.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BfBPEXaM4TZn_kGns0692BmXj5pw7Wkj
+#EXTINF:0, 3%.S01E06.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E06.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CAJG22r659F1AFMODJqbxn_508FVBNyl
+#EXTINF:0, 3%.S01E07.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E07.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gGBTx1xP13jIjerCVUKeEkmJVGHsp5Vn
+#EXTINF:0, 3%.S01E08.720p.WEBRip.Nacional - TPF.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/3%25.S01E08.720p.WEBRip.Nacional%20-%20TPF.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bmlXBugRMAAriq054JzHAIh4papiPlE_

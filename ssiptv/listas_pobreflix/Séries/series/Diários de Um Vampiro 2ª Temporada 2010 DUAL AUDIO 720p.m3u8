@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Diários de Um Vampiro 2ª Temporada 2010 DUAL AUDIO 720p
+#EXTINF:0, 01 - O Retorno.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Retorno.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RBpWPkbbmVcSpV6mcR8my-AhBJ4YVf--
+#EXTINF:0, 02 - Bravo Novo Mundo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Bravo%20Novo%20Mundo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rbi5N9tnzocMl0VUentAvGodF7lufCnq
+#EXTINF:0, 03 - Lua do Mal.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Lua%20do%20Mal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PdFNWpuHiQnIK17kyymHmLfd2j1gEL_F
+#EXTINF:0, 04 - Lembranças.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Lembran%C3%A7as.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fBX2XcvOgI7yDzMM6U1Z4Fiss8roZPAP
+#EXTINF:0, 05 - Matar ou Morrer.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Matar%20ou%20Morrer.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sgytZ6Lo2Slv7CaOUOiX4dWnfX0Six8X
+#EXTINF:0, 06 - Plano B.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Plano%20B.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AFBO0GtmNfDrHJR-74Fuyqi7r976n-ye
+#EXTINF:0, 07 - Baile de Máscaras.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Baile%20de%20M%C3%A1scaras.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gLoMuCgNH_5cuAiebkeezQLPhdSaZNco
+#EXTINF:0, 08 - Rose.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Rose.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Df_IO6Affhw77G7Sw7uq1znPa_PfG5L9
+#EXTINF:0, 09 - Katerina.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Katerina.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1s8Z76lG6aqiii4sjIdZAxNCvxuG7aviT
+#EXTINF:0, 10 - O Sacrifício.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20O%20Sacrif%C3%ADcio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U-lnTjU2ZuJknjZV-HX8RnaypeZXcLAn
+#EXTINF:0, 11 - À Luz da Lua.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20%C3%80%20Luz%20da%20Lua.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uR9KBAgIWniH34M7ldVBapgArbTOJUJd
+#EXTINF:0, 12 - Descendência.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Descend%C3%AAncia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CK-xN1PUFneE9DYgsroUupwtVtTQGE2Q
+#EXTINF:0, 13 - Problemas Com o Papai.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Problemas%20Com%20o%20Papai.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1N0Sm-lupzYYxzfPGLjLFK5TdYRflYkfO
+#EXTINF:0, 14 - O Uivo do Lobo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20O%20Uivo%20do%20Lobo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ggNcKwC1SyFCU-zk4fyvQJB-YLrmMC24
+#EXTINF:0, 15 - O Jantar.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20O%20Jantar.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Eymd9RmnG4QG26SxusFh_pzU0QVanYYu
+#EXTINF:0, 16 - A Hóspede.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20A%20H%C3%B3spede.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qycKvPSmwefMb4yB6m8vnDKqFh2xHZQV
+#EXTINF:0, 17 - Conheça Teu Inimigo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Conhe%C3%A7a%20Teu%20Inimigo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QyV33_g3LaaIfZW65q3B0YK-z9BhdUBf
+#EXTINF:0, 18 - A Última Dança.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20A%20%C3%9Altima%20Dan%C3%A7a.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1foLUngYI-pCM5Rj-0ZS0RHoi7z_PMtof
+#EXTINF:0, 19 - Klaus.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Klaus.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YgVWSHbU4qzAltuyGAZ_XoeDemPDspnr
+#EXTINF:0, 20 - O Último Dia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20O%20%C3%9Altimo%20Dia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cU2L9UP56dpf-g0Kr93fos4sRdPG2nOf
+#EXTINF:0, 21 - O Sol Também Nasce.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20O%20Sol%20Tamb%C3%A9m%20Nasce.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vS1DJLI5VNPWNzxte7ZrTPCnIUkePABj
+#EXTINF:0, 22 - Enquanto Morro.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Enquanto%20Morro.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xKYD2gFyi-rBdIjXEk0aq0oqJZauCGu_

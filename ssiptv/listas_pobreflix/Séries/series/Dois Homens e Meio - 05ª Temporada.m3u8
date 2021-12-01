@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dois Homens e Meio - 05ª Temporada
+#EXTINF:0, 5x01 - Medo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x01%20-%20Medo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ucWYSOoSzF_suDP9pPv_B84sZjC0-kTz
+#EXTINF:0, 5x02 - Saindo Com A Mamãe.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x02%20-%20Saindo%20Com%20A%20Mam%C3%A3e.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14VawdHOrel9Ufaccoo0JPRkUJnNA_HfV
+#EXTINF:0, 5x03 - Mulheres Inteligentes.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x03%20-%20Mulheres%20Inteligentes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VmiZr6EbGtw8BCaf3LEGXPDJS4BePaZF
+#EXTINF:0, 5x04 - Cidade De Angústia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x04%20-%20Cidade%20De%20Ang%C3%BAstia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m74MyK6O4cf3_xGQp1eksytS1PiPwT6H
+#EXTINF:0, 5x05 - Nadadeira Em Gato.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x05%20-%20Nadadeira%20Em%20Gato.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QtsjW2Yphqa69_BJxtEgHn_urzj3EpeT
+#EXTINF:0, 5x06 - Adolescente Rebelde.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x06%20-%20Adolescente%20Rebelde.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aZ2Xvbj9t8USe8rW4nl4x4ALBj6dGg2C
+#EXTINF:0, 5x07 - Hóspede Indesejado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x07%20-%20H%C3%B3spede%20Indesejado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DrlG_5u5nvL6-QlFfAS27m3G36xBO63-
+#EXTINF:0, 5x08 - Ídolo Das Crianças.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x08%20-%20%C3%8Ddolo%20Das%20Crian%C3%A7as.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vXhznQPlwrIJQRtVl3XpgS-fRg8BiRTO
+#EXTINF:0, 5x09 - A Irmã.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x09%20-%20A%20Irm%C3%A3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11225y1eBMUfgV-l3p9w0_bOl4fSrx3R5
+#EXTINF:0, 5x10 - Parece Necrofilia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x10%20-%20Parece%20Necrofilia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_tSvN82tGMgFI-08vfxz7_9uEXaGEEiQ
+#EXTINF:0, 5x11 - Chegando Ao Ponto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x11%20-%20Chegando%20Ao%20Ponto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zRvjnJIYijq9NmyRoHTL7BSgylNQu8jL
+#EXTINF:0, 5x12 - Probleminha De Saúde.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x12%20-%20Probleminha%20De%20Sa%C3%BAde.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HwkS0m5oArkSWZqu0zlmBT7d-VC06Khv
+#EXTINF:0, 5x13 - Solo Úmido.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x13%20-%20Solo%20%C3%9Amido.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1qHXhM8MyCpGxPc4EkFJp89Xmtk3GX_eY
+#EXTINF:0, 5x14 - Tempo Contado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x14%20-%20Tempo%20Contado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10WJGCjIos4UTfeTNF1NoGfkidg8FViB6
+#EXTINF:0, 5x15 - Noite Difícil.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x15%20-%20Noite%20Dif%C3%ADcil.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dRtfqi2rVKnoPsEzt7sFAvFJ-LE9D0MJ
+#EXTINF:0, 5x16 - O Casamento.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x16%20-%20O%20Casamento.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yDhHnP5YMnRHLrCiBf9BDN7S-SqEglv3
+#EXTINF:0, 5x17 - Peixe No Armário.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x17%20-%20Peixe%20No%20Arm%C3%A1rio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15JbJFaSa5M53LaZBg2a1XXMlBkkQTXhp
+#EXTINF:0, 5x18 - Se Meu Buraco Falasse.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x18%20-%20Se%20Meu%20Buraco%20Falasse.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mvA6CJRgVw33ZGYjUsmJJz93Ee_2ngOC
+#EXTINF:0, 5x19 - Esperando O Homem Certo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/5x19%20-%20Esperando%20O%20Homem%20Certo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sMNp0MuG3cd0bJn_4T1xvp_Dkb6qafJD

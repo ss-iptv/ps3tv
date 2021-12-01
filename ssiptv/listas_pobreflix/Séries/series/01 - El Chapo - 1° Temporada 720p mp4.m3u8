@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - El Chapo - 1° Temporada 720p mp4
+#EXTINF:0, El Chapo 01X01.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X01.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P_pjYUuSzon6ktG1Os5jZ4BKVDsEUCv5
+#EXTINF:0, El Chapo 01X02.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X02.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gNeeduvXIkCUoN_w_Tp5qmA_21k7kwaK
+#EXTINF:0, El Chapo 01X03.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X03.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xR0P81OrGubCTY4RnaOUcEWIUKoJdjwa
+#EXTINF:0, El Chapo 01X04.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X04.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EvBZBfTYFByU8QLYc1JxoIGD4zoN4Czt
+#EXTINF:0, El Chapo 01X05.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X05.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13pVxJ112HugjyB4xBhDk1DUqfy-KkG_Z
+#EXTINF:0, El Chapo 01X06.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X06.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dvg1mxOTXtsmeViqNY8yQ3_uF4Y-q6Ys
+#EXTINF:0, El Chapo 01X07.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GBwFoyDSuO1hoQtHL_rvJGXk1vzlXWZG
+#EXTINF:0, El Chapo 01X08.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MdFwcSdpa6ZQt29QFXp98_oe2AyftGIr
+#EXTINF:0, El Chapo 01X09.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/El%20Chapo%2001X09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vzrTexrR9BGH_31rBXkl-Q1f7zYxm5FQ

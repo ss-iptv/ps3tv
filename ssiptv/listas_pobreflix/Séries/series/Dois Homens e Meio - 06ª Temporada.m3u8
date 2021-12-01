@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dois Homens e Meio - 06ª Temporada
+#EXTINF:0, 6x01 - Filho do Nosso Amor.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x01%20-%20Filho%20do%20Nosso%20Amor.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Joi5B-6bgk8rBz-K2nLeu2sNIloc6f7v
+#EXTINF:0, 6x02 - Fecha o Bico.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x02%20-%20Fecha%20o%20Bico.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1t_GmZ46lCSJ4xllRLjWotL-Ssw0okiUf
+#EXTINF:0, 6x03 - Malditos Ovos.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x03%20-%20Malditos%20Ovos.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mxJtcQ22UfTqS2ElrblGdbUk7bGE0PrB
+#EXTINF:0, 6x04 - Paixonite.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x04%20-%20Paixonite.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eq8vTWvyxnVT87w4ggZJoGpqT5lQf1FI
+#EXTINF:0, 6x05 - Inferno.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x05%20-%20Inferno.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Fi8e8lDcEcobDWiu1cFmN8-eqJkJcmPa
+#EXTINF:0, 6x06 - Sempre é a Semana dos Nazistas.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x06%20-%20Sempre%20%C3%A9%20a%20Semana%20dos%20Nazistas.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16JfNw3wxb-SMeAFzYbL-uwFZqkEUwQQI
+#EXTINF:0, 6x07 - O Melhor Que O Dinheiro Pode Comprar.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x07%20-%20O%20Melhor%20Que%20O%20Dinheiro%20Pode%20Comprar.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZC-LxjWDxijfKYb77TLeJBW0yXdhcXS3
+#EXTINF:0, 6x08 - Boca De Pinóquio.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x08%20-%20Boca%20De%20Pin%C3%B3quio.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1m4zernr1WXNBcwvvLnvhaeTsWZvIanGr
+#EXTINF:0, 6x09 - Em Malibu.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x09%20-%20Em%20Malibu.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vjlh4w-c9UlWKR9VesZOGSc3gsCWwfwd
+#EXTINF:0, 6x10 - Cheirou Queijo, Ficou Excitado.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x10%20-%20Cheirou%20Queijo,%20Ficou%20Excitado.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pzdDm_4i3WClpMyiUNX4Z11xHmgmZAJ_
+#EXTINF:0, 6x11 - Lubrificante Do Diabo.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x11%20-%20Lubrificante%20Do%20Diabo.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hSwGgs4roiqDNV3FQyybbsM_ckqHC9y4
+#EXTINF:0, 6x12 - Graças A Deus Pela Escoliose.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x12%20-%20Gra%C3%A7as%20A%20Deus%20Pela%20Escoliose.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Bn8SFlR6xBUs_61axmIzO8VRGlONVFIh
+#EXTINF:0, 6x13 - Acho Que Você Ofendeu O Don.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x13%20-%20Acho%20Que%20Voc%C3%AA%20Ofendeu%20O%20Don.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18DH9zBbfGsUfxMMFR7IKWXmMAEfB4TJa
+#EXTINF:0, 6x14 - David Copperfield Me Passou Um Sonífero.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x14%20-%20David%20Copperfield%20Me%20Passou%20Um%20Son%C3%ADfero.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16G-8BHzm33ItULnUpkcelToYqHwq_mCJ
+#EXTINF:0, 6x15 - Eu Quero Começar Pelo Gato.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x15%20-%20Eu%20Quero%20Come%C3%A7ar%20Pelo%20Gato.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FWspetsUXGrtT0dCEyijDrQbbx93HMxM
+#EXTINF:0, 6x16 - Ela Vai Continuar Morta No Intervalo.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x16%20-%20Ela%20Vai%20Continuar%20Morta%20No%20Intervalo.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aGEQb6dnLw5Fuw_1-55cX6mtDhHRr0dG
+#EXTINF:0, 6x17 - O “Ocu” Ou O “pado”.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x17%20-%20O%20%E2%80%9COcu%E2%80%9D%20Ou%20O%20%E2%80%9Cpado%E2%80%9D.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U5GN-DyOvsGi8kYCgNkvR1zhV-eoado_
+#EXTINF:0, 6x18 - O Cabeção Do Meu Filho.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x18%20-%20O%20Cabe%C3%A7%C3%A3o%20Do%20Meu%20Filho.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Smshhud-uFU0PRJLgPMaNjUaWd-8Xqlb
+#EXTINF:0, 6x19 - A Regra Dos Dois Dedos.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x19%20-%20A%20Regra%20Dos%20Dois%20Dedos.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hPkYwCTnwjNEqSzFWWf-svYKSY96qpIh
+#EXTINF:0, 6x20 - Olá, Eu Sou Alan Cousteau.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x20%20-%20Ol%C3%A1,%20Eu%20Sou%20Alan%20Cousteau.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HeyKlajq6N5JXfm6LWIzgmliO1Knoy-F
+#EXTINF:0, 6x21 - Acima De Ciclopes Exaltados.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x21%20-%20Acima%20De%20Ciclopes%20Exaltados.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1phziWdZ2eeRCcCC3Fy6UV8xba7ww-Zp7
+#EXTINF:0, 6x22 - A Caixa de Areia do Sir Lancelot.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x22%20-%20A%20Caixa%20de%20Areia%20do%20Sir%20Lancelot.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13i3pt5h9JuC-YZnmdMPFHu0K6b2Wx7QI
+#EXTINF:0, 6x23 - Bom Dia, Sra. Butterworth.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x23%20-%20Bom%20Dia,%20Sra.%20Butterworth.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jtddECHKajrYJ3LkH-QOYw5Cw8CrTiTj
+#EXTINF:0, 6x24 - Beisebol Era Melhor com Esteroides.720p - By-LuanHarper.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/6x24%20-%20Beisebol%20Era%20Melhor%20com%20Esteroides.720p%20-%20By-LuanHarper.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wXhTB98tP3X1rcWNjI6jlyNRxWsQ9737

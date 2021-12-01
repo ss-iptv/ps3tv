@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Smallville - 1° Temporada 720p Mp4
+#EXTINF:0, 1x01 - Piloto.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x01%20-%20Piloto.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cFWizAnYVyoPTQfuKMQnmy1eBnTLUZR8
+#EXTINF:0, 1x02 - Metamorfose.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x02%20-%20Metamorfose.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pUyehtl7KWnaQmB5MAhKLX1nsLd8Tkxd
+#EXTINF:0, 1x03 - Cabeça Quente.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x03%20-%20Cabe%C3%A7a%20Quente.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GJHzx3Q0fbE2j-do26Fb56ogveKJVG24
+#EXTINF:0, 1x04 - Raios X.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x04%20-%20Raios%20X.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13B5gW1dHa50Xu0ZVB6bfGCtl9lqsA0Nd
+#EXTINF:0, 1x05 - Encontros.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x05%20-%20Encontros.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xsydrRz6M7grb0i07D1iyCtpK6JyuRb6
+#EXTINF:0, 1x06 - Destino.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x06%20-%20Destino.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P0R_BBAl5Clp0bbJbfJrhMUJx0rkyKMm
+#EXTINF:0, 1x07 - Desejo.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x07%20-%20Desejo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MuIDYOi-Za-NzOgx92AZYX87w_jgnkO1
+#EXTINF:0, 1x08 - No Limite.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x08%20-%20No%20Limite.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jHjZzWUm1f-ixNkeHR6lw2IpTrkYqj-d
+#EXTINF:0, 1x09 - O Mau-Caráter.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x09%20-%20O%20Mau-Car%C3%A1ter.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wI-LoO6gw3lNK8s9lzButOsCwhxNXP6y
+#EXTINF:0, 1x10 - O Mistério.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x10%20-%20O%20Mist%C3%A9rio.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cTwgr3Jx9SpG2OtXiHgPhnzfSYTcC4mY
+#EXTINF:0, 1x11 - O Aperto de Mão.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x11%20-%20O%20Aperto%20de%20M%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R7jK9PhgPeyLvZsw3RNcGb5UcoqUUd-B
+#EXTINF:0, 1x12 - O Sanguessuga.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x12%20-%20O%20Sanguessuga.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pzQWR6YUeYE-LIypDRQ26OrOMnCOZPw-
+#EXTINF:0, 1x13 - Cinético.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x13%20-%20Cin%C3%A9tico.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13CyoUXrydagRBgri55d3OV8RhLjhvyzV
+#EXTINF:0, 1x14 - Volta do Passado.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x14%20-%20Volta%20do%20Passado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vxzcygwCvjH-IvIatjVEoXE30UOytbm6
+#EXTINF:0, 1x15 - A Flor.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x15%20-%20A%20Flor.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FgnyIEKU6i4oawXc1FBgWlGL3Jghq-xj
+#EXTINF:0, 1x16 - Perdido.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x16%20-%20Perdido.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UMb18t98fi_AP7U6mVE_o--aDk9exGDF
+#EXTINF:0, 1x17 - O Anjo da Morte.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x17%20-%20O%20Anjo%20da%20Morte.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vZUJu-vWUvjzsBBvofahNflF-v1yxxs7
+#EXTINF:0, 1x18 - A Eleição.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x18%20-%20A%20Elei%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12vt_ZL3_28p0n3DojuZd_PcTyfMpZ0fh
+#EXTINF:0, 1x19 - Telecinésia.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x19%20-%20Telecin%C3%A9sia.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11xFqnPkP9CJR-ILaeHZI30-oMVxfL2Or
+#EXTINF:0, 1x20 - Obscura.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x20%20-%20Obscura.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bsmD4w5TA51UztwcmjGkTpDmA0Gwx_dU
+#EXTINF:0, 1x21 - Tempestade.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/1x21%20-%20Tempestade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B-UJzskwxtwIC2wyld-dGsVaSET0McJV

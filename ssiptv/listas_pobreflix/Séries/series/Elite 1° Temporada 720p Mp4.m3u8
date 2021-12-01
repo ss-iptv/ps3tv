@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Elite 1° Temporada 720p Mp4
+#EXTINF:0, Elite.s01e01.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e01.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17qGa2gfev0LfZGBOEIONuJlaY1fdDq7O
+#EXTINF:0, Elite.s01e02.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e02.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_5_bD-pmW6D6NgRHGRDCt8tdH-9Got6s
+#EXTINF:0, Elite.s01e03.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e03.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rWFr4flJDRK9mxpz2TFqTBJcqJIVqZMD
+#EXTINF:0, Elite.s01e04.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e04.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B9KHbaKKb_70d1rIig4rU8ck_hpVbIIu
+#EXTINF:0, Elite.s01e05.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e05.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1J1xR_zoP_UgZXNuHbcO8tY4KHQNSlNJR
+#EXTINF:0, Elite.s01e06.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e06.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ojQzm21mruLu1zvQnrTPIobqwYojzHkG
+#EXTINF:0, Elite.s01e07.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e07.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19W85sKcwNoW-Ysd-eTBvFS3bDjufkf5Z
+#EXTINF:0, Elite.s01e08.720p FilmesRocklex.mp4
+http://m3u.herokuapp.com/api/v1/redirectdownload/Elite.s01e08.720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1o7pVNyIanHGqyYjT5MForASlTxgjHtI0

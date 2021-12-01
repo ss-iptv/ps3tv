@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: O Negócio 2° Temporada 720p Mkv
+#EXTINF:0, O Negócio S02E01 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E01%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TEcRvYSKAwifWRgW5nFY-koqE0z3sOOc
+#EXTINF:0, O Negócio S02E02 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E02%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w8Av6ApSo3Rb_MobKIVPxILAUTcFiKen
+#EXTINF:0, O Negócio S02E03 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E03%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G1Z5uKqdLm99OyvrQ-JExtBJHdfeiHuw
+#EXTINF:0, O Negócio S02E04 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E04%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1luGM5a319Ngypg4YhnOAPeKqMwIWCT3S
+#EXTINF:0, O Negócio S02E05 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E05%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YO1ifAYZ6qh2eOnjQSf8uHxLYtM6vWt8
+#EXTINF:0, O Negócio S02E06 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E06%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xMDGerU_QPgpxzN7dB75wCGDCUo5hbbh
+#EXTINF:0, O Negócio S02E07 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E07%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jfTFAjmH1XeUtvUufbeW-G1x4IvvtRpu
+#EXTINF:0, O Negócio S02E08 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E08%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g80VPpDmu54xJGXurqdxX59TR9na0NCe
+#EXTINF:0, O Negócio S02E09 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E09%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VV5hmW82CF2iPyeCRtvCOglRB5rMEtV7
+#EXTINF:0, O Negócio S02E10 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E10%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dOMULjNW0O5edc-Q0MTsAAbegKawCgvd
+#EXTINF:0, O Negócio S02E11 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E11%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lophNyL3K-4uYgXPyMhqyXpnZykPytGf
+#EXTINF:0, O Negócio S02E12 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E12%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17RubWGksegBt7oerDTgJqLE2Zz5mnxg9
+#EXTINF:0, O Negócio S02E13 720p.mkv
+http://m3u.herokuapp.com/api/v1/redirectdownload/O%20Neg%C3%B3cio%20S02E13%20720p.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VtOiKRXw1EED-mpRpVqneUL8z75g3Mtm
