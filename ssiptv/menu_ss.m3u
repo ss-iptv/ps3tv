@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Bem Vindo" tvg-logo="" group-title="Selecione o Canal Abaixo",Bem Vindo
+https://playstationtv.herokuapp.com/ssiptv/canais/menu_canais.m3u
 
 #EXTINF:1 type="playlist" tvg-logo="",SERIES
 https://playstationtv.herokuapp.com/ssiptv/series/menu_series.m3u
