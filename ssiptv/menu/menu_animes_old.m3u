@@ -1,4 +1,4 @@
- #EXTM3U size="big"
+﻿ #EXTM3U size="big"
 
 #EXTINF:0 type="playlist" tvg-logo="",Naruto Completo
 m3u:https://playstationtv.herokuapp.com/ssiptv//animes/naruto/menu_naruto.m3u
