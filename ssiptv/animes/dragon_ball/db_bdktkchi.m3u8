@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2- Saga do Budokai Tenkaichi 014-028 (1986)
+#EXTINF:0, 14.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/14.mkv?a=0&id=1TugYVgJqz3sHENbhEQkfzEifWARC3r88
+#EXTINF:0, 15.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/15.mkv?a=0&id=1WUfUQFV_r9aqcutgkhDTuRzhqmNksiuY
+#EXTINF:0, 16.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/16.mkv?a=0&id=1Aqwn5zKtgFl9ZRQnXmFD5V-0cWO_wlc8
+#EXTINF:0, 17.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/17.mkv?a=0&id=1Sh0FVtY8SBPxeojdl9WyX_mrwkczuMP_
+#EXTINF:0, 18.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/18.mkv?a=0&id=1C_SYiMOT-Xv5ev7VSWC4milN63A148Pb
+#EXTINF:0, 19.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/19.mkv?a=0&id=1_lyxSb6CGAHOqsqqiVR-geKTCPWilikj
+#EXTINF:0, 20.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/20.mkv?a=0&id=14lxiX0hLj3yyGOPU4BSevGHgCyRY4_2S
+#EXTINF:0, 21.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/21.mkv?a=0&id=1dXwuVxjRpZ4jUyLZwuFpmBuAu5oHFvcR
+#EXTINF:0, 22.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/22.mkv?a=0&id=1gfo6OgfD6Nv5a_vrjosZ269yVRW90jMW
+#EXTINF:0, 23.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/23.mkv?a=0&id=1PE06WyIkeMCK7in2YZycW28wjBEW5rIq
+#EXTINF:0, 24.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/24.mkv?a=0&id=1M7-wv4743tUm7Dbm6Ajqo_Mc1zlbFbOO
+#EXTINF:0, 25.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/25.mkv?a=0&id=1x6RWSfqeTXIhT6NcdHrnfV6dcloMZBvq
+#EXTINF:0, 26.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/26.mkv?a=0&id=1GGIbssNmCzOHnaB6ifJrPxN9oS-RuFoH
+#EXTINF:0, 27.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/27.mkv?a=0&id=1vZC0jShSGbY4R-p_w_V_zzfm36Ah-yyr
+#EXTINF:0, 28.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/28.mkv?a=0&id=1yNsN7LZXS9chKLscQUI_BbGKEMdgzy0Q

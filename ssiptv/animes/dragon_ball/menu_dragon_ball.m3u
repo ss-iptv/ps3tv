@@ -1,0 +1,62 @@
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Filmes
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/db_filmes.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Saga Pilaf
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/db_saga_pilaf.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Saga do Budokai Tenkaichi
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/db_bdktkchi.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Saga de Red Ribbon
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/db_red.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Saga de piccolo Daimaoh
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/db_picolo.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Saga de Tenshinhan
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/db_teinchin.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Super
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbs.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Sayajins
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_ss.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Freeza
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_sf.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Garlic
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_sg.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Androides
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_sa.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Cell
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_sc.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Outro Mundo
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_so.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - MajinBoo
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_smb.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Z - Outro Mundo
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbz_so.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball GT - Viagem pelo Universo
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbgt_universo.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball GT - Baby
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbgt_baby.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball GT - Super 17
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbgt_super_17.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball GT - Dragões
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/dbgt_dragoes.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball Classico
+m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/db_classico.m3u8
+

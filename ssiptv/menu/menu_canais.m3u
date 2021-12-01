@@ -1,0 +1,8 @@
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",CANAIS - EM BREVE
+m3u:https://playstationtv.herokuapp.com/ssiptv/animes/naruto/nar_ship_leg.m38u
+
+#EXTINF:0 type="playlist" tvg-logo="",CANAIS - TESTE
+m3u:https://playstationtv.herokuapp.com/ssiptv/canais/canais.m3u
+
