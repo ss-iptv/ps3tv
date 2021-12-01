@@ -27,7 +27,7 @@ https://playstationtv.herokuapp.com/ssiptv/series/familia_dinossauro/familia_din
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
 https://playstationtv.herokuapp.com/ssiptv/series/american_horror/menu_ahh.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",American Horror Story
+#EXTINF:0 type="playlist" tvg-logo="",Euphoria
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
 https://playstationtv.herokuapp.com/ssiptv/series/american_horror/menu_euphoria.m3u
 
@@ -37,4 +37,4 @@ https://playstationtv.herokuapp.com/ssiptv/series/lost/menu_lost.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",Good Doctor
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
-https://playstationtv.herokuapp.com/ssiptv/series/good_doctor/good_doctor_2.m3u
+https://playstationtv.herokuapp.com/ssiptv/series/good_doctor/menu_good_doctor.m3u
