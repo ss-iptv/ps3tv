@@ -1,0 +1,15 @@
+ #EXTM3U size="medium"
+
+#EXTINF:1 type="video" tvg-logo="",SERIES
+https://playstationtv.herokuapp.com/ssiptv/series/menu_series.m3u
+
+#EXTINF:1 type="video" tvg-logo="",FILMES - Em Breve
+https://playstationtv.herokuapp.com/ssiptv/filmes/menu_filmes.m3u
+
+#EXTINF:1 type="video" tvg-logo="",ANIMES - Em Breve
+https://playstationtv.herokuapp.com/ssiptv/animes/menu_animes.m3u
+
+#EXTINF:1 type="video" tvg-logo="",CANAIS - Em Breve
+https://playstationtv.herokuapp.com/ssiptv/canais/menu_canais.m3u
+
+ 
