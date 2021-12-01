@@ -1,4 +1,4 @@
- #EXTM3U size="medium"
+ #EXTM3U size="big"
 
 #EXTINF:1 type="playlist" tvg-logo="",SERIES
 https://playstationtv.herokuapp.com/ssiptv/series/menu_series.m3u
