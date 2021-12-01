@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-id="" tvg-name="Bem Vindo" tvg-logo="" group-title="Selecione o Canal Abaixo",Bem Vindo
 
 #EXTINF:0 type="playlist" tvg-logo="",SERIES
-m3u:https://playstationtv.herokuapp.com/ssiptv/series/menu_series.m3u
+m3u:https://playstationtv.herokuapp.com/ssiptv/menu/menu_series.m3u
 
 
 #EXTINF:0 type="playlist" tvg-logo="",FILMES - Em Breve
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/menu_filmes.m3u
+m3u:https://playstationtv.herokuapp.com/ssiptv/menu/menu_filmes.m3u
 
 
 #EXTINF:0 type="playlist" tvg-logo="",ANIMES - Em Breve
-m3u:https://playstationtv.herokuapp.com/ssiptv/animes/menu_animes.m3u
+m3u:https://playstationtv.herokuapp.com/ssiptv/menu/menu_animes.m3u
 
 
 #EXTINF:0 type="playlist" tvg-logo="",CANAIS - Em Breve
-m3u:https://playstationtv.herokuapp.com/ssiptv/canais/menu_canais.m3u
+m3u:https://playstationtv.herokuapp.com/ssiptv/menu/menu_canais.m3u
 
