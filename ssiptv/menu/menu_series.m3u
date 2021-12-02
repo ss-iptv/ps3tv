@@ -55,3 +55,6 @@ https://playstationtv.herokuapp.com/ssiptv/series/ash_vs_evil/menu_ash_vs_evil.m
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
 https://playstationtv.herokuapp.com/ssiptv/series/dr_house/menu_dr_house.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="",American Gods
+#EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
+https://playstationtv.herokuapp.com/ssiptv/series/american_gods/menu_american_gods.m3u
