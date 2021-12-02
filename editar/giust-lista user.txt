@@ -1,5 +1,10 @@
 #EXTM3U 
 #EXTINF:-1,MEGAPIX SD
+
+http://vipeiptv.com:8080/get.php?username=123456789&password=123456789&type=m3u
+http://vipeiptv.com:8080/get.php?username=123456789&password=123456789&type=m3u_plus
+
+
 http://vipeiptv.com:25461/tel123/tel123/856119
 876543 - 876543
 andre2:::w:::andre2
