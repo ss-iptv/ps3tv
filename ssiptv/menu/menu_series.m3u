@@ -38,3 +38,7 @@ https://playstationtv.herokuapp.com/ssiptv/series/lost/menu_lost.m3u
 #EXTINF:0 type="playlist" tvg-logo="",Good Doctor
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
 https://playstationtv.herokuapp.com/ssiptv/series/good_doctor/menu_good_doctor.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",V - Visitantes
+#EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
+https://playstationtv.herokuapp.com/ssiptv/series/visitantes/menu_visitantes.m3u
