@@ -1,0 +1,34 @@
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 1
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_1.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 2
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_2.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 3
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_3.m3u8
+ 
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 4
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_4.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 5
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_5.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 6
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_6.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 7
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_7.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 8
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_8.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 9
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_9.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 10 - Indisponivel
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_10.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 11 - Indisponivel
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/walking_dead_11.m3u8
