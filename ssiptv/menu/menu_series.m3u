@@ -47,3 +47,6 @@ https://playstationtv.herokuapp.com/ssiptv/series/visitantes/menu_visitantes.m3u
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
 https://playstationtv.herokuapp.com/ssiptv/series/south_park/menu_south_park.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="",Ash Vs Evil Death
+#EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stargate_Atlantis_2004_logo.svg/260px-Stargate_Atlantis_2004_logo.svg.png
+https://playstationtv.herokuapp.com/ssiptv/series/ash_vs_evil/menu_ash_vs_evil.m3u
