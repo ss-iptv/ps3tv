@@ -1,0 +1,65 @@
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 1
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_1.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 2
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_2.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 3
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_3.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 4
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_4.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 5
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_5.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 6
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_6.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 7
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_7.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 8
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_8.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 9
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_9.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 10
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_10.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 11
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_11.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_13.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_14.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_15.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_16.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_17.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_18.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_19.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_20.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_21.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 12
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/south_park/south_park_22.m3u8
+
