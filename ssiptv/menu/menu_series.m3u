@@ -62,6 +62,10 @@ https://playstationtv.herokuapp.com/ssiptv/series/american_gods/menu_american_go
 #EXTBG: #414141
 https://playstationtv.herokuapp.com/ssiptv/series/westworld/menu_westworld.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="",Tres é Demais
+#EXTBG: #414141
+https://playstationtv.herokuapp.com/ssiptv/series/tres_e_demais/menu_tres_e_demais.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="",Walking Dead
 #EXTBG: #414141
 https://playstationtv.herokuapp.com/ssiptv/series/walking_dead/menu_walking_dead.m3u
