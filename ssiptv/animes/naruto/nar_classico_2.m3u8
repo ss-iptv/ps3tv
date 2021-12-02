@@ -1,53 +1,57 @@
 #EXTM3U
 #EXTENC: UTF-8
-#PLAYLIST: 01 - Naruto Clássico - 1º Temporada 720p Mkv
-#EXTINF:0, Naruto Classico 01.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2001.mkv?a=0&id=1qjDozGlIg7PJqcJup9UCw9JCw2eLiyAO
-#EXTINF:0, Naruto Classico 02.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2002.mkv?a=0&id=1o1XGE_Zs0YVAq74U_YINDqdaVyor2Pjw
-#EXTINF:0, Naruto Classico 03.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2003.mkv?a=0&id=1DcPaRgYOhrBnYo31GowYSm9IP5HRoxbC
-#EXTINF:0, Naruto Classico 04.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2004.mkv?a=0&id=1AGYVpErVr3jvo5M2E1Fi80jb5GvpLPw2
-#EXTINF:0, Naruto Classico 05.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2005.mkv?a=0&id=15_568-6Q8wn3TbBEqjLJVHbSdMjPL-Nz
-#EXTINF:0, Naruto Classico 06.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2006.mkv?a=0&id=1AQaDTZm3_CoICBPhxo0fMlZNWqGvUwvN
-#EXTINF:0, Naruto Classico 07.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2007.mkv?a=0&id=1rSgN9mU1RODwEU_IHBS4ieLXRjywuUw-
-#EXTINF:0, Naruto Classico 08.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2008.mkv?a=0&id=1tVNnR7zCY0CasJbbv4vir4qndX07Kx78
-#EXTINF:0, Naruto Classico 09.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2009.mkv?a=0&id=1Eojqqgx51aUFiyn9jpM5oqwmnJyl5IF5
-#EXTINF:0, Naruto Classico 10.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2010.mkv?a=0&id=177Lqp8ecA-w_Vtois0t4jj2Xu7jUoTL7
-#EXTINF:0, Naruto Classico 11.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2011.mkv?a=0&id=1XfTn40V0trCPjPRtDjoRgn6740lk30xf
-#EXTINF:0, Naruto Classico 12.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2012.mkv?a=0&id=1LmdiOGJB1oYKat6L9vbOcXIcJPe8rcNl
-#EXTINF:0, Naruto Classico 13.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2013.mkv?a=0&id=1TsgEQMeUVzeoGnlLyKCXqMTZRY2y1bhg
-#EXTINF:0, Naruto Classico 14.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2014.mkv?a=0&id=1EaG4O9OOzVatFf3ihadLQiBxTCL-KKLs
-#EXTINF:0, Naruto Classico 15.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2015.mkv?a=0&id=14HLZDJwwm8-EsON_iAUDGSikqebw0dZV
-#EXTINF:0, Naruto Classico 16.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2016.mkv?a=0&id=1dj-fv7GqjjmusFnhLSMEGl_iUE2Au6nS
-#EXTINF:0, Naruto Classico 17.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2017.mkv?a=0&id=1IpDtM2ybY45LrFb3c8TTzAPXBP8HLcfx
-#EXTINF:0, Naruto Classico 18.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2018.mkv?a=0&id=1Z84SEsOD8AxrAJ9yteciByD2UeIwhbyj
-#EXTINF:0, Naruto Classico 19.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2019.mkv?a=0&id=157_8lF29V-Y2WAd1pKqqdt3ls_YkM3A_
-#EXTINF:0, Naruto Classico 20.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2020.mkv?a=0&id=1587g-fgEJ41wA7Cjd0IRrO3qSV8_npRV
-#EXTINF:0, Naruto Classico 21.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2021.mkv?a=0&id=1hYNE84hyCmE77Y828fkwmObW2G9CaNk9
-#EXTINF:0, Naruto Classico 22.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2022.mkv?a=0&id=12-Be4hBonY6uyeXAdT06KeXWLjkeoljG
-#EXTINF:0, Naruto Classico 23.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2023.mkv?a=0&id=11m5tfeBIIRZVXC_JjMgYfactiL7Pm-dg
-#EXTINF:0, Naruto Classico 24.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2024.mkv?a=0&id=1YXu0JK6TvZUxc1tGRLBv5FXWJnNRgZYC
-#EXTINF:0, Naruto Classico 25.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2025.mkv?a=0&id=10jn53F5WWqsjmhNlRyrgRroQn4U5AfaL
+#PLAYLIST: 02 - Naruto Clássico - 2º Temporada 720p Mkv
+#EXTINF:0, Naruto Classico 26mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2026mkv?a=0&id=1yEwQGoLrlJQTSUPP_unZBn-1o6uqSzVY
+#EXTINF:0, Naruto Classico 27.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2027.mkv?a=0&id=1o-3tpT6QIPoPMAQfz2FopKIAcM4RY5-Y
+#EXTINF:0, Naruto Classico 28.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2028.mkv?a=0&id=1d30yiTYc2U1rvlKOCjDDC4SW7T_dFs8K
+#EXTINF:0, Naruto Classico 29.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2029.mkv?a=0&id=1vWRDUoO-_6EJIoQmjad6V47mEubmvluF
+#EXTINF:0, Naruto Classico 30.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2030.mkv?a=0&id=1N1jP9nNCbc0pYv-pHFs06jnVaCyrR2rm
+#EXTINF:0, Naruto Classico 31.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2031.mkv?a=0&id=1mNsBCIywsHbvtJKeG8KM63ktVSnCXrWW
+#EXTINF:0, Naruto Classico 32.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2032.mkv?a=0&id=13OxSRVZhRvN3qXq7zJu-OdNfn6sfZ1Z1
+#EXTINF:0, Naruto Classico 33.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2033.mkv?a=0&id=1j1BGWne7l1vUufdLzszD6tI-ugs3Whd5
+#EXTINF:0, Naruto Classico 34.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2034.mkv?a=0&id=18c6nGEDgNcATUsFRNVjMSR5Kp4bvtHgF
+#EXTINF:0, Naruto Classico 35.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2035.mkv?a=0&id=1D_z56EvqQjJ7tDFuwIF6GVtMyra-P7i6
+#EXTINF:0, Naruto Classico 36.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2036.mkv?a=0&id=1O5pLy7tsvM0Zw0G5ksT0-ILgfkmfcfLW
+#EXTINF:0, Naruto Classico 37.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2037.mkv?a=0&id=1japrrwp7PZNQHOjZ6KDYDDrV_fM1J74X
+#EXTINF:0, Naruto Classico 38.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2038.mkv?a=0&id=17dR16MxQQlbDJadtED7vuKy2maV6giZ6
+#EXTINF:0, Naruto Classico 39.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2039.mkv?a=0&id=10foktKml3dDLbAQXs57qYEUsruaXrzrA
+#EXTINF:0, Naruto Classico 40.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2040.mkv?a=0&id=1VeBfNevC4hkDJYmEgKfq3aVx1mXM6UhC
+#EXTINF:0, Naruto Classico 41.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2041.mkv?a=0&id=1k2CaNHRIQrzc0R_c8ZiIVUeGraz2jfH_
+#EXTINF:0, Naruto Classico 42.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2042.mkv?a=0&id=1Cs_t8YAV7BkS4a5plU1pcnAj9_yBnpKm
+#EXTINF:0, Naruto Classico 43.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2043.mkv?a=0&id=15iHtj0qcW5ufzP4WmP2Me3qkAuoCTU4T
+#EXTINF:0, Naruto Classico 44.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2044.mkv?a=0&id=1mssIothbZ4JT5NDoyw5FUqkoyMq0jP6w
+#EXTINF:0, Naruto Classico 45.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2045.mkv?a=0&id=1vIHQX2JgCltxW76DpBclb3mfLm2uNeFz
+#EXTINF:0, Naruto Classico 46.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2046.mkv?a=0&id=1Y7k_-24QAaMa5QMm24r6HynVfe-RXT6k
+#EXTINF:0, Naruto Classico 47.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2047.mkv?a=0&id=1f1b2uziGHYEJed9m3WA1BTETCM9HVTZE
+#EXTINF:0, Naruto Classico 48.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2048.mkv?a=0&id=1k0h_MuN6yrLIgjbLPhTgtv-v-4qMWPZ0
+#EXTINF:0, Naruto Classico 49.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2049.mkv?a=0&id=18IlLhCWctbMz5BJHJXI1ukgmaobeAIMF
+#EXTINF:0, Naruto Classico 50.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2050.mkv?a=0&id=1wrMEt1mkL62BB54AmwudP3tOMa677gKO
+#EXTINF:0, Naruto Classico 51.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2051.mkv?a=0&id=1yEufeeS5HokJoMeNSDIJN1fLGRf7a4T7
+#EXTINF:0, Naruto Classico 52.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Naruto%20Classico%2052.mkv?a=0&id=1K1mw6c58Ot5Vbb9I2a0HmjnegcM2Lr88
