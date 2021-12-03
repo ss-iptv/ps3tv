@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: K
+#EXTINF:0, Kick-Ass, Quebrando Tudo (2010).mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/Kick-Ass,%20Quebrando%20Tudo%20(2010).mp4?a=0&id=1so8RAzNCb2HpNj-ZGjzRgTwFHrlnf_Sf
+#EXTINF:0, Kin.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Kin.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=1oTTOCXst7trWqiSFdEf-b0j2BpTvQsdg
+#EXTINF:0, Kingsman - O Círculo Dourado [2017] 1080p Dual Áudio 5.1.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Kingsman%20-%20O%20C%C3%ADrculo%20Dourado%20%5B2017%5D%201080p%20Dual%20%C3%81udio%205.1.mkv?a=0&id=1SN6HDB1DZYVU4l1C5R5Ax2arPOhezPIj
+#EXTINF:0, Kingsman - Serviço Secreto [2014] [Sem Corte] 1080p Dual Áudio 5.1.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Kingsman%20-%20Servi%C3%A7o%20Secreto%20%5B2014%5D%20%5BSem%20Corte%5D%201080p%20Dual%20%C3%81udio%205.1.mkv?a=0&id=1Lv2OsRuJQSC6p7x6SyU2HBnlIDDRyp01
+#EXTINF:0, Kong.A.Ilha.da.Caveira.2017.1080p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Kong.A.Ilha.da.Caveira.2017.1080p.BluRay.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=13Z-NVRhPR-uGemkuqr_Gm21REykVKKJ1
+#EXTINF:0, Kubo.e.as.Cordas_Mágicas.2017.1080p.BluRay.5.1.x264.Dual-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Kubo.e.as.Cordas_M%C3%A1gicas.2017.1080p.BluRay.5.1.x264.Dual-WWW.BLUDV.COM.mkv?a=0&id=1fmBs80dAta2yNLeiDxt92tdOC1g14Jfk

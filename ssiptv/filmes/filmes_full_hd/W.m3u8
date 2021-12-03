@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: W
+#EXTINF:0, WALL-E (2008).mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/WALL-E%20(2008).mp4?a=0&id=1Yf9Pi2tffngCdL7g10dkjIg7kLOC3cbp
+#EXTINF:0, Watchmen.O.Filme.2009.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Watchmen.O.Filme.2009.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1t5QD8cDSd17uhWFU-BU1o-ovYTzDfHs2
+#EXTINF:0, Watchmen_Contos_do_Cargueiro_Negro (2009).mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/Watchmen_Contos_do_Cargueiro_Negro%20(2009).mp4?a=0&id=1q01CYC3wFICEwB9wKEEfiH2Fc3MdgGS7
+#EXTINF:0, Whindersson.Nunes.Adulto.2019.1080p.WEB-DL.6CH.x264.NACIONAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Whindersson.Nunes.Adulto.2019.1080p.WEB-DL.6CH.x264.NACIONAL-WWW.BLUDV.TV.mkv?a=0&id=1wuRkUUSpPFQevvdvZCX8_uOBA3vqpphJ
+#EXTINF:0, WiFi Ralph - Quebrando a Internet (2019) 1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/WiFi%20Ralph%20-%20Quebrando%20a%20Internet%20(2019)%201080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=1Xqy-1XK8DRbEUu4ka-6f4ZJxNZ-qCwdn
+#EXTINF:0, Wolverine - Imortal [2013] 1080p Dual Áudio 5.1 [Estendido].mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Wolverine%20-%20Imortal%20%5B2013%5D%201080p%20Dual%20%C3%81udio%205.1%20%5BEstendido%5D.mkv?a=0&id=1o2rGHQmRB-sa_gm54qjtbPtx3qcX8tIQ

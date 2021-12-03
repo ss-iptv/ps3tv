@@ -1,5 +1,5 @@
  #EXTM3U size="big"
 
-#EXTINF:0 type="playlist" tvg-logo="",FILMES - EM BREVE
-m3u:https://playstationtv.herokuapp.com/ssiptv/animes/naruto/nar_ship_leg.m38u
+#EXTINF:0 type="playlist" tvg-logo="",FILMES FULL HD
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/menu_filmes_full_hd.m38u
 

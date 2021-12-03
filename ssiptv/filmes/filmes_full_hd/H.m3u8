@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: H
+#EXTINF:0, Halloween.2019.1080p.BluRay.x264.DUAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Halloween.2019.1080p.BluRay.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=183zWR3jrSdfEH_D0E_PMGd7a2yCvHVeY
+#EXTINF:0, Hamlet.1990.rmz.1080p.BluRay.jefspfc.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hamlet.1990.rmz.1080p.BluRay.jefspfc.mkv?a=0&id=14HsNulHrtKJjySHWmyYetUqMIdijyNvO
+#EXTINF:0, Harry Potter e a Câmara Secreta (2002) (Dual-1080p) Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20a%20C%C3%A2mara%20Secreta%20(2002)%20(Dual-1080p)%20Vers%C3%A3o%20Extendida.mkv?a=0&id=1Xy8M5dSRB1L9z6ySSRFCg9J4_byfIj-S
+#EXTINF:0, Harry Potter e a Ordem da Fênix (2007) (Dual-1080p) Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20a%20Ordem%20da%20F%C3%AAnix%20(2007)%20(Dual-1080p)%20Vers%C3%A3o%20Extendida.mkv?a=0&id=1-plKdZTSorkjoLwwAgRCFAo-Cws6pA6A
+#EXTINF:0, Harry Potter e a Pedra Filosofal (2001) Dual-1080p Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20a%20Pedra%20Filosofal%20(2001)%20Dual-1080p%20Vers%C3%A3o%20Extendida.mkv?a=0&id=10s5CSlqvIwLpC8otJjGitvJQ59dnXsYZ
+#EXTINF:0, Harry Potter e as Relíquias da Morte Parte 1 (2010) (Dual-1080p) Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20as%20Rel%C3%ADquias%20da%20Morte%20Parte%201%20(2010)%20(Dual-1080p)%20Vers%C3%A3o%20Extendida.mkv?a=0&id=1oyMoAqR6PgWSpvT2J6V8AnZQaDzfaj5d
+#EXTINF:0, Harry Potter e as Relíquias da Morte Parte 2 (2011) (Dual-1080p) Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20as%20Rel%C3%ADquias%20da%20Morte%20Parte%202%20(2011)%20(Dual-1080p)%20Vers%C3%A3o%20Extendida.mkv?a=0&id=1cNkAHceqAGP-4oZ6_oecOPhXUH-UsYPC
+#EXTINF:0, Harry Potter e o Cálice de Fogo (2005) (Dual-1080p) Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20o%20C%C3%A1lice%20de%20Fogo%20(2005)%20(Dual-1080p)%20Vers%C3%A3o%20Extendida.mkv?a=0&id=16Hr2y37B4YGgCNk2CJLrjKPtolY-NMpj
+#EXTINF:0, Harry Potter e o Enigma do Príncipe (2009) (Dual-1080p) Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20o%20Enigma%20do%20Pr%C3%ADncipe%20(2009)%20(Dual-1080p)%20Vers%C3%A3o%20Extendida.mkv?a=0&id=1zbGqfKDi1IM2LlOr6G0y0EdMEDpo6dfX
+#EXTINF:0, Harry Potter e o Prisioneiro de Azkaban (2004) (Dual-1080p) Versão Extendida.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Harry%20Potter%20e%20o%20Prisioneiro%20de%20Azkaban%20(2004)%20(Dual-1080p)%20Vers%C3%A3o%20Extendida.mkv?a=0&id=1F8hrMpkstNryLl33i9ricmK18DDoFez3
+#EXTINF:0, Hellboy.2019.1080p.BluRay.UHD.6CH.x264.DUAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hellboy.2019.1080p.BluRay.UHD.6CH.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=1ITvOdRx6Xs8HElcZVFdbYXgEE2KPHq8u
+#EXTINF:0, Hellboy.Versão.do.Diretor.2004.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hellboy.Vers%C3%A3o.do.Diretor.2004.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1lNsu1QDRlQLoHOssCcNkibIR6rLmXCZG
+#EXTINF:0, Hellboy_2_-_O_Excírcito_Dourado.2008.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hellboy_2_-_O_Exc%C3%ADrcito_Dourado.2008.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=18iL7bDp3O8hnDJzlvXodSa-lPPWa2mY_
+#EXTINF:0, Herói [2002] 1080p Dual Áudio 5.1 [ Jet-Li ].mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Her%C3%B3i%20%5B2002%5D%201080p%20Dual%20%C3%81udio%205.1%20%5B%20Jet-Li%20%5D.mkv?a=0&id=18bxVd22o7NUHY-5LRzooERJsVwUSDHbB
+#EXTINF:0, Hollywoodland.2006.rmz.Dual.6666kbps.Bluray.1080p.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hollywoodland.2006.rmz.Dual.6666kbps.Bluray.1080p.mkv?a=0&id=13d2Hg9I1AynPzsj1viqxwoKqcQ1xlFIu
+#EXTINF:0, Homem De Ferro & Hulk - Heróis Unidos (2013).mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem%20De%20Ferro%20&%20Hulk%20-%20Her%C3%B3is%20Unidos%20(2013).mp4?a=0&id=1GMwhM5MBZ_SKZNQ4Xno-Xc4_hyMOxceU
+#EXTINF:0, Homem De Ferro - A Batalha contra Ezekiel Stane (2013).mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem%20De%20Ferro%20-%20A%20Batalha%20contra%20Ezekiel%20Stane%20(2013).mp4?a=0&id=14-BXL9xEQVXU_QvG2WeOIu0-DwGxo32m
+#EXTINF:0, Homem de Ferro e Capitão América - Super-Heróis Unidos [2014] 1080p Dual Áudio.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem%20de%20Ferro%20e%20Capit%C3%A3o%20Am%C3%A9rica%20-%20Super-Her%C3%B3is%20Unidos%20%5B2014%5D%201080p%20Dual%20%C3%81udio.mkv?a=0&id=1EVgo6ajVlKhkze2zqn6SlGMmrcEXynLS
+#EXTINF:0, Homem-Aranha 2.1 verção estendida 1080p.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem-Aranha%202.1%20ver%C3%A7%C3%A3o%20estendida%201080p.mkv?a=0&id=1J82oYDlRHTh5UmpejqWse8NrTPoJR7fR
+#EXTINF:0, Homem-Aranha.2002.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem-Aranha.2002.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1p8FmCwcRP65A7FGv20x93Ely4dlgRjHS
+#EXTINF:0, Homem-Aranha.3.2007.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem-Aranha.3.2007.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=13wzY6shCG_HUmbOwjTFJ2NPkEgWAW7BU
+#EXTINF:0, Homem-Aranha.no.Aranhaverso.2019.1080p.UHD.BluRay.x264.DUAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem-Aranha.no.Aranhaverso.2019.1080p.UHD.BluRay.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=1ICK46kRdQhxf_GT0InWdfk1MkLDLG7lH
+#EXTINF:0, Homem-Formiga.e.a.Vespa.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem-Formiga.e.a.Vespa.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=1aGdjPrXsdwkDXWQyenVDDwBaI3Ge3DC7
+#EXTINF:0, Homem.Aranha.De.Volta.ao.Lar.2017.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem.Aranha.De.Volta.ao.Lar.2017.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=13Ye3PhnCk4hYcWClTUGWRLsP7Z4jFyDU
+#EXTINF:0, Homem.de.Ferro.2.2010.1080p.BluRay.5.1.x264.DUAL-WWWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem.de.Ferro.2.2010.1080p.BluRay.5.1.x264.DUAL-WWWW.BLUDV.COM.mkv?a=0&id=1P2364nBWRnxL_BV3nWb_GCM5JjnZFm6v
+#EXTINF:0, Homem.de.Ferro.2008.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem.de.Ferro.2008.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=18RZiP2AioiSl8ES_pJbV3_5hNoJPkeMf
+#EXTINF:0, Homem.de.Ferro.3.2014.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem.de.Ferro.3.2014.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1FkgYtgVTZD2_lClrZunIoayFvR28nD3z
+#EXTINF:0, Homem.Formiga.2015.1080p.BluRay.5.1.x264.DUAL-BLUDV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homem.Formiga.2015.1080p.BluRay.5.1.x264.DUAL-BLUDV.mkv?a=0&id=1Bsw6ZrqedXVys1KxufRBZn0JLTPuIeGn
+#EXTINF:0, Homens.de.Preto.2.2002.1080p.BluRay.6CH.x264.DUAL-BLUDV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homens.de.Preto.2.2002.1080p.BluRay.6CH.x264.DUAL-BLUDV.mkv?a=0&id=1IXomS_kgvBU8m4boU6izKa046TRTDTic
+#EXTINF:0, Homens.de.Preto.3.2012.1080p.BluRay.6CH.x264.DUAL-BLUDV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Homens.de.Preto.3.2012.1080p.BluRay.6CH.x264.DUAL-BLUDV.mkv?a=0&id=1i-EOSBpkZ8HojCDc0Ek4koLRtUMuoi2I
+#EXTINF:0, Hooligans-Green.Street.Hooligans.HDTV.WWW.TELECINETORRENT.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hooligans-Green.Street.Hooligans.HDTV.WWW.TELECINETORRENT.COM.mkv?a=0&id=1qfuTcrWqz5oGuJp78wUy_Wq8trXOkTAa
+#EXTINF:0, Horror.Em.Amityville.2005.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Horror.Em.Amityville.2005.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1DyEnSNuke3uM3BpyfYqPC10azlBAtmG_
+#EXTINF:0, Hotel.Artemis.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hotel.Artemis.2018.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=1K8fOiFc3DQTfk3l6wU1nAtzAt_Ab3Y3V
+#EXTINF:0, Hulk (2003)_BrRip_1080p_Dual_Audio_-_1046.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hulk%20(2003)_BrRip_1080p_Dual_Audio_-_1046.mkv?a=0&id=1Wc8Lk26JV3cXK4Mmq_hxITQj7C3TnlOh
+#EXTINF:0, Hulk vs Thor (2009) BluRay_1080p.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hulk%20vs%20Thor%20(2009)%20BluRay_1080p.mkv?a=0&id=11GbakJaNzN_pAFsfwVDwWDGEvLbzMOvR
+#EXTINF:0, Hulk vs Wolverine (2009) BluRay_1080p.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hulk%20vs%20Wolverine%20(2009)%20BluRay_1080p.mkv?a=0&id=1FzAK5Auo3oic8dIxKAOL3bvShIivg6WJ
+#EXTINF:0, Hulk: Onde os Monstros Habitam (2016) 1080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/Hulk:%20Onde%20os%20Monstros%20Habitam%20(2016)%201080p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.mkv?a=0&id=1gf8vPEBUWwT9PsYVR9UJdVyTkqbV8JBW
+#EXTINF:0, Hércules (1997).mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/H%C3%A9rcules%20(1997).mp4?a=0&id=1A5V2hCCnVfJVvM64yMH8xKVtz71Pn5QD
+#EXTINF:0, Hérois (2009) BluRay 1080p Dual Áudio.mkv
+https://m3u.herokuapp.com/api/v1/redirectdownload/H%C3%A9rois%20(2009)%20BluRay%201080p%20Dual%20%C3%81udio.mkv?a=0&id=1LYgw-JKdm2gxDVslO_f9o3TiDGFRha6-
