@@ -3,32 +3,18 @@
 #EXTINF:0 type="playlist" tvg-logo="",Letras A/B/C  
 m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/a_b_c.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",Letra 
+#EXTINF:0 type="playlist" tvg-logo="",Letra D/E/F/G/H
 m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/d_e_f_g_h.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",Letra 
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_3.m3u8
+#EXTINF:0 type="playlist" tvg-logo="",Letra I/J/K/L
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/i_j_k_l.m3u8
  
-#EXTINF:0 type="playlist" tvg-logo="",Letra 
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_4.m3u8
+#EXTINF:0 type="playlist" tvg-logo="",Letra M/N/O/P
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/m_n_o_p.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",Letra 
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_5.m3u8
+#EXTINF:0 type="playlist" tvg-logo="",Letra Q/R/S/T
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/q_r_s_t.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",Letra 
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_6.m3u8
+#EXTINF:0 type="playlist" tvg-logo="",Letra U/V/W/X/Y/Z
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/u_v_w_x_y_z.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",Letra 7
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_7.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",Letra 8
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_8.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",Letra 9
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_9.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",Letra 10
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_10.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",Letra 11
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/x_files_11.m3u8

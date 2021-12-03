@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: Z
-#EXTINF:0, Zhang - O Bárbaro [1993] 1080p Dual Áudio [ Jet-Li ].mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Zhang%20-%20O%20B%C3%A1rbaro%20%5B1993%5D%201080p%20Dual%20%C3%81udio%20%5B%20Jet-Li%20%5D.mkv?a=0&id=15xh18F258T6l0705Nao565PhZmfKWix1
-#EXTINF:0, Zodiaco.2007.BluRay.1080p.x264.AC3.2.0.Dual-BLUDV.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Zodiaco.2007.BluRay.1080p.x264.AC3.2.0.Dual-BLUDV.mkv?a=0&id=1ovaLQcZIFkKOBIivFg6gjjfq6x1bfGJv
-#EXTINF:0, Zootopia Essa Cidade é o Bicho (2016).mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/Zootopia%20Essa%20Cidade%20%C3%A9%20o%20Bicho%20(2016).mp4?a=0&id=14QcR9pkidQRqzMUH04XTkyviD0Cx6FyK
