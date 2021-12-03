@@ -15,6 +15,6 @@ m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/comedia.
 #EXTINF:0 type="playlist" tvg-logo="",FICÇÃO
 m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/ficcao.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",U/V/W/X/Y/Z
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/u_v_w_x_y_z.m3u8
+#EXTINF:0 type="playlist" tvg-logo="",DIVERSOS
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/diversos.m3u8
 
