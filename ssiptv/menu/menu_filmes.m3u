@@ -3,3 +3,5 @@
 #EXTINF:0 type="playlist" tvg-logo="",FILMES FULL HD
 m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/menu_filmes_full_hd.m38u
 
+#EXTINF:0 type="playlist" tvg-logo="",FILMES  POR GÊNERO
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/menu_filmes_por_genero.m3u8
