@@ -1,0 +1,10 @@
+ #EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",Dr. WHO - Classico
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/dr_who/classico/dr_who_classico.m3u
+
+
+#EXTINF:0 type="playlist" tvg-logo="",Dr. WHO - Moderno
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/dr_who/moderno/.m3u
+
+
