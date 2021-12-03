@@ -30,6 +30,9 @@ m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/nacional
 #EXTINF:0 type="playlist" tvg-logo="",TERROR
 m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/terror.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="",ROMANCE
+m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/romance.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="",DIVERSOS
 m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/diversos.m3u8
 
