@@ -1,15 +1,15 @@
 #EXTM3U size="small"
 
-#EXTINF:1 size="small" type="playlist" tvg-logo="",SERIES
+#EXTINF:1 size="medium" type="playlist" tvg-logo="",SERIES
 https://playstationtv.herokuapp.com/ssiptv/menu/menu_series.m3u
 
-#EXTINF:1 size="small" type="playlist" tvg-logo="",FILMES
+#EXTINF:1 size="medium" type="playlist" tvg-logo="",FILMES
 https://playstationtv.herokuapp.com/ssiptv/menu/menu_filmes.m3u
 
-#EXTINF:1 size="small" type="playlist" tvg-logo="",ANIMES
+#EXTINF:1 size="medium" type="playlist" tvg-logo="",ANIMES
 https://playstationtv.herokuapp.com/ssiptv/menu/menu_animes.m3u
 
-#EXTINF:1 size="small" type="playlist" tvg-logo="",CANAIS
+#EXTINF:1 size="medium" type="playlist" tvg-logo="",CANAIS
 https://playstationtv.herokuapp.com/ssiptv/menu/menu_canais.m3u
 
 #EXTM3U size="medium"
