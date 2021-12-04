@@ -1,16 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES de A-Z
+#EXTBG: #000000
+#EXTSIZE: Medium
+https://playstationtv.herokuapp.com/ssiptv/menu_ss/menu_filmes_ss.m3u
+
+#EXTINF:-1 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES de AÇAO
+#EXTBG: #000000
+#EXTSIZE: Medium
+https://playstationtv.herokuapp.com/ssiptv/menu_ss/menu_filmes_acao.m3u8
+
+#EXTINF:-1 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES de FICÇAO E FANTASIA
+#EXTBG: #000000
+#EXTSIZE: Medium
+https://playstationtv.herokuapp.com/ssiptv/menu_ss/menu_filmes_ss.m3u
+
+#EXTINF:-1 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES de ROMANCE
+#EXTBG: #000000
+#EXTSIZE: Medium
+https://playstationtv.herokuapp.com/ssiptv/menu_ss/menu_filmes_ss.m3u
+
  #EXTINF:-1 tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png", Series
 #EXTBG: #000000
 #EXTSIZE: Medium
 https://playstationtv.herokuapp.com/ssiptv/menu_ss/menu_series_ss.m3u
 
- #EXTINF:-1 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES
-#EXTBG: #000000
-#EXTSIZE: Medium
-https://playstationtv.herokuapp.com/ssiptv/menu_ss/menu_filmes_ss.m3u
-
- #EXTINF:-1 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",ANIMES
+  #EXTINF:-1 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",ANIMES
 #EXTBG: #000000
 #EXTSIZE: Medium
 https://playstationtv.herokuapp.com/ssiptv/menu_ss/menu_animes_ss.m3u
