@@ -1,6 +1,7 @@
 #EXTM3U size="small"
 
-#EXTINF:0 type="playlist", size="medium" tvg-logo="",SERIES
+#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Canais de TV
+#EXTBG: #000000
 https://playstationtv.herokuapp.com/ssiptv/menu/menu_series_ss.m3u
 
 #EXTINF:0 type="playlist",  size="medium" tvg-logo="",FILMES
