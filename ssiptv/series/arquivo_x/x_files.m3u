@@ -1,6 +1,6 @@
 #EXTM3U size="small"
 
-#EXTINF:1, SERIES size="medium" SERIES
+ #EXTINF:0, SERIES, size="medium"
 https://playstationtv.herokuapp.com/ssiptv/menu/menu_series_ss.m3u
 
 #EXTINF:1 size="medium" type="playlist" tvg-logo="",FILMES
