@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",SERIES
+#EXTINF:0 tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png", Series
 #EXTBG: #000000
 #EXTSIZE: Medium
 https://playstationtv.herokuapp.com/ssiptv/menu/menu_series_ss.m3u
@@ -8,17 +8,17 @@ https://playstationtv.herokuapp.com/ssiptv/menu/menu_series_ss.m3u
 #EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",FILMES
 #EXTBG: #000000
 #EXTSIZE: Medium
-https://playstationtv.herokuapp.com/ssiptv/menu/menu_filmes.m3u
+https://playstationtv.herokuapp.com/ssiptv/menu/menu_filmes_ss.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",ANIMES
 #EXTBG: #000000
 #EXTSIZE: Medium
-https://playstationtv.herokuapp.com/ssiptv/menu/menu_animes.m3u
+https://playstationtv.herokuapp.com/ssiptv/menu/menu_animes_ss.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",CANAIS DE TV
 #EXTBG: #000000
 #EXTSIZE: Medium
-https://playstationtv.herokuapp.com/ssiptv/menu/menu_canais.m3u
+https://playstationtv.herokuapp.com/ssiptv/menu/menu_canais_ss.m3u
 
 
 
