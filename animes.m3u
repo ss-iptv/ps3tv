@@ -1,7 +1,7 @@
 #EXTM3U
 
 EXTINF:-1,DESENHOS/ANIMES
-m3u:https://playstationtv.herokuapp.com/listas/desenhoseanimes.m3u
+m3u:https://elthondsaraujo.github.io/meu//listas/desenhoseanimes.m3u
 
 #EXTINF:0, Filme 1 - Devolvam-me Gohan.mkv
 https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%201%20-%20Devolvam-me%20Gohan.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x7hw7G0nkDz2jOUeyT7HSV2I4NhHQwva
