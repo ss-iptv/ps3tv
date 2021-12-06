@@ -8,9 +8,9 @@ http://vipeiptv.com:8080/get.php?username=flavio001&password=flavio001&type=m3u_
 
 
 http://vipeiptv.com:25461/tel123/tel123/856119
-876543 - 876543
+123456789 - 123456789
 123456789:::w:::123456789
-876543:::w:::876543
+123456789:::w:::123456789
 123456789:::w:::123456789
 flavio001:::w:::flavio001
 Miguel:::w:::123456
