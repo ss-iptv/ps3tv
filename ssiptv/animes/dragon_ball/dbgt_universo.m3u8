@@ -2,46 +2,46 @@
 #EXTENC: UTF-8
 #PLAYLIST: 1- Saga da Viagem pelo Universo 01-021 (1996)
 #EXTINF:0, DBGT Abertura (Brasil).avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT%20Abertura%20(Brasil).avi?a=0&id=1YCyeSIrW1Clk2LPXGLfP5w-gzyRztlT-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT%20Abertura%20(Brasil).avi?a=0&id=1YCyeSIrW1Clk2LPXGLfP5w-gzyRztlT-
 #EXTINF:0, DBGT.ep01.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep01.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1a8u_MxLqxDTHnq8XypjqLf8SzZJZ_gBa
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep01.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1a8u_MxLqxDTHnq8XypjqLf8SzZJZ_gBa
 #EXTINF:0, DBGT.ep02.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep02.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1R9LgZFsydIsSaZpDXFVoYiBCetrVMDaC
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep02.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1R9LgZFsydIsSaZpDXFVoYiBCetrVMDaC
 #EXTINF:0, DBGT.ep03.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep03.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1Rsw7YHh4k4D52Y5vEO0qNQvCJFtoLJv3
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep03.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1Rsw7YHh4k4D52Y5vEO0qNQvCJFtoLJv3
 #EXTINF:0, DBGT.ep04.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep04.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1-I2IVNoYID_M0fAT9WGKu0BJWJzTk288
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep04.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1-I2IVNoYID_M0fAT9WGKu0BJWJzTk288
 #EXTINF:0, DBGT.ep05.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep05.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1GK1Y9e3Jq7jHc5jQL597ztlS-eUvQqgr
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep05.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1GK1Y9e3Jq7jHc5jQL597ztlS-eUvQqgr
 #EXTINF:0, DBGT.ep06.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep06.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1hvbVBedJJ_89yMxVIAGoBx7cLYi5SwHp
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep06.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1hvbVBedJJ_89yMxVIAGoBx7cLYi5SwHp
 #EXTINF:0, DBGT.ep07.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep07.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1NoefiKCbgI9Mz1Y3Kt1fhImLXHQ_UMzf
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep07.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1NoefiKCbgI9Mz1Y3Kt1fhImLXHQ_UMzf
 #EXTINF:0, DBGT.ep08.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep08.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1VoS6VaKI_d8RsNFax3Jj6V6_clWIHwKm
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep08.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1VoS6VaKI_d8RsNFax3Jj6V6_clWIHwKm
 #EXTINF:0, DBGT.ep09.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep09.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=11-LMWA-jqD5Rz4ZK4mDIn6NXu_kCKuo0
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep09.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=11-LMWA-jqD5Rz4ZK4mDIn6NXu_kCKuo0
 #EXTINF:0, DBGT.ep10.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep10.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1YJoahxet5RBKVRfVoCQvl4mMmTzgzwbu
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep10.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1YJoahxet5RBKVRfVoCQvl4mMmTzgzwbu
 #EXTINF:0, DBGT.ep11.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep11.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1S47H3pgLgr8nq41i3nqvgQ_ZIsv-vyvr
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep11.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1S47H3pgLgr8nq41i3nqvgQ_ZIsv-vyvr
 #EXTINF:0, DBGT.ep12.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep12.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1IFSOuXPZGu2pecC1QRKHJ0Guxcol18x-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep12.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1IFSOuXPZGu2pecC1QRKHJ0Guxcol18x-
 #EXTINF:0, DBGT.ep13.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep13.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=13E1wTbtS5U4JHWNE4Xkxsf95ycrQnce2
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep13.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=13E1wTbtS5U4JHWNE4Xkxsf95ycrQnce2
 #EXTINF:0, DBGT.ep14.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep14.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1zKny1zPPlZi_nr098GuoZvHuhfKNTKWH
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep14.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1zKny1zPPlZi_nr098GuoZvHuhfKNTKWH
 #EXTINF:0, DBGT.ep15.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep15.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=11rW1aVnFWkltbd0c7ETZFfhUDQtU9mqS
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep15.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=11rW1aVnFWkltbd0c7ETZFfhUDQtU9mqS
 #EXTINF:0, DBGT.ep16.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep16.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1RU1dsG10NuU1dsBXGGceJPKc_FSSZW8q
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep16.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1RU1dsG10NuU1dsBXGGceJPKc_FSSZW8q
 #EXTINF:0, DBGT.ep17.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep17.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=12nVWoUgz1qsYcosLdX_gZHdvrNYOJYjf
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep17.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=12nVWoUgz1qsYcosLdX_gZHdvrNYOJYjf
 #EXTINF:0, DBGT.ep18.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep18.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1k1CVSlienC0PmSOgPCRN1sqHOAFR0dqv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep18.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1k1CVSlienC0PmSOgPCRN1sqHOAFR0dqv
 #EXTINF:0, DBGT.ep19.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep19.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1UWlP8hZTl46aWhxz1ss4jgpWtme92KbW
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep19.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1UWlP8hZTl46aWhxz1ss4jgpWtme92KbW
 #EXTINF:0, DBGT.ep20.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep20.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1QH9VUjoMwOaZzQZT3VhUzMdB3DcPxLE0
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep20.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1QH9VUjoMwOaZzQZT3VhUzMdB3DcPxLE0
 #EXTINF:0, DBGT.ep21.DVDRip.Divx [Dub PT BR].avi
-https://m3u.herokuapp.com/api/v1/redirectdownload/DBGT.ep21.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1b2eSzJD0C4xD43MXSxj4Sx_lWd_2rMIm
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/DBGT.ep21.DVDRip.Divx%20%5BDub%20PT%20BR%5D.avi?a=0&id=1b2eSzJD0C4xD43MXSxj4Sx_lWd_2rMIm

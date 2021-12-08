@@ -2,32 +2,32 @@
 #EXTENC: UTF-8
 #PLAYLIST: Dragon Ball - Filmes 1080p Mkv
 #EXTINF:0, Filme 1 - Devolvam-me Gohan.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%201%20-%20Devolvam-me%20Gohan.mkv?a=0&id=1Tz8UuqJ7n3E25UDH5I6WPBoNNFmHrHyo
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%201%20-%20Devolvam-me%20Gohan.mkv?a=0&id=1Tz8UuqJ7n3E25UDH5I6WPBoNNFmHrHyo
 #EXTINF:0, Filme 10 - Broly, O Retorno Do Guerreiro Lendário .mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%2010%20-%20Broly,%20O%20Retorno%20Do%20Guerreiro%20Lend%C3%A1rio%20.mkv?a=0&id=1hVdAPO0ZJuud0Zj7BRzCOofbNmMHnKYl
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%2010%20-%20Broly,%20O%20Retorno%20Do%20Guerreiro%20Lend%C3%A1rio%20.mkv?a=0&id=1hVdAPO0ZJuud0Zj7BRzCOofbNmMHnKYl
 #EXTINF:0, Filme 11 - O Combate Final, Bio-Broly.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%2011%20-%20O%20Combate%20Final,%20Bio-Broly.mkv?a=0&id=1AjCxNFton1k1xBsW8P1Ym7HSMsC8qloj
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%2011%20-%20O%20Combate%20Final,%20Bio-Broly.mkv?a=0&id=1AjCxNFton1k1xBsW8P1Ym7HSMsC8qloj
 #EXTINF:0, Filme 12 - O Renascimento Da Fusão! Goku e Vegeta!.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%2012%20-%20O%20Renascimento%20Da%20Fus%C3%A3o!%20Goku%20e%20Vegeta!.mkv?a=0&id=1G4-lsnxdp8oDdyWZLb8GKVAJbq6gYde-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%2012%20-%20O%20Renascimento%20Da%20Fus%C3%A3o!%20Goku%20e%20Vegeta!.mkv?a=0&id=1G4-lsnxdp8oDdyWZLb8GKVAJbq6gYde-
 #EXTINF:0, Filme 13 - A Explosão Do Punho Do Dragão.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%2013%20-%20A%20Explos%C3%A3o%20Do%20Punho%20Do%20Drag%C3%A3o.mkv?a=0&id=1WNu6LVOuf4K1NnyfCzhRuHzhP5CCcxrp
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%2013%20-%20A%20Explos%C3%A3o%20Do%20Punho%20Do%20Drag%C3%A3o.mkv?a=0&id=1WNu6LVOuf4K1NnyfCzhRuHzhP5CCcxrp
 #EXTINF:0, Filme 14 - Bardock, O Pai de Goku.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%2014%20-%20Bardock,%20O%20Pai%20de%20Goku.mkv?a=0&id=18t0BtEtjcXxTSWKTJmHPLy0D68lidjV3
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%2014%20-%20Bardock,%20O%20Pai%20de%20Goku.mkv?a=0&id=18t0BtEtjcXxTSWKTJmHPLy0D68lidjV3
 #EXTINF:0, Filme 15 - Gohan e Trunks, Guerreiros do futuro.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%2015%20-%20Gohan%20e%20Trunks,%20Guerreiros%20do%20futuro.mkv?a=0&id=1PkNubPkbPOo_3Pg7OXzwQNFToPgBCEZi
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%2015%20-%20Gohan%20e%20Trunks,%20Guerreiros%20do%20futuro.mkv?a=0&id=1PkNubPkbPOo_3Pg7OXzwQNFToPgBCEZi
 #EXTINF:0, Filme 2 - O Homem Mais Forte Do Mundo.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%202%20-%20O%20Homem%20Mais%20Forte%20Do%20Mundo.mkv?a=0&id=1_6jlt6scujHvBHyK2N1bMsWE5hsALERx
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%202%20-%20O%20Homem%20Mais%20Forte%20Do%20Mundo.mkv?a=0&id=1_6jlt6scujHvBHyK2N1bMsWE5hsALERx
 #EXTINF:0, Filme 3 - A Árvore Do Poder.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%203%20-%20A%20%C3%81rvore%20Do%20Poder.mkv?a=0&id=1mz_905ZRZG9OTOAhXsdD9kz-rbKLiBFR
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%203%20-%20A%20%C3%81rvore%20Do%20Poder.mkv?a=0&id=1mz_905ZRZG9OTOAhXsdD9kz-rbKLiBFR
 #EXTINF:0, Filme 4 - Goku, O Super Saiyajin.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%204%20-%20Goku,%20O%20Super%20Saiyajin.mkv?a=0&id=10YHTEFhfcqLZaieqk6JrdUTCXJXYDzFC
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%204%20-%20Goku,%20O%20Super%20Saiyajin.mkv?a=0&id=10YHTEFhfcqLZaieqk6JrdUTCXJXYDzFC
 #EXTINF:0, Filme 5 - Uma Vingança Para Freeza.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%205%20-%20Uma%20Vingan%C3%A7a%20Para%20Freeza.mkv?a=0&id=1iLe1Ax32sF9P2p6oQlPpUigoLvPzM1fC
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%205%20-%20Uma%20Vingan%C3%A7a%20Para%20Freeza.mkv?a=0&id=1iLe1Ax32sF9P2p6oQlPpUigoLvPzM1fC
 #EXTINF:0, Filme 6 - O Ataque De 1 Milhão De Guerreiros.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%206%20-%20O%20Ataque%20De%201%20Milh%C3%A3o%20De%20Guerreiros.mkv?a=0&id=13LfdMmyXAQeAr-jQ2AZpS6eOJ-Q1Vk70
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%206%20-%20O%20Ataque%20De%201%20Milh%C3%A3o%20De%20Guerreiros.mkv?a=0&id=13LfdMmyXAQeAr-jQ2AZpS6eOJ-Q1Vk70
 #EXTINF:0, Filme 7 - O Super Andróide 13.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%207%20-%20O%20Super%20Andr%C3%B3ide%2013.mkv?a=0&id=1oxUZIRfNgvXeYqRtaIGNyhMon85fZ2A2
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%207%20-%20O%20Super%20Andr%C3%B3ide%2013.mkv?a=0&id=1oxUZIRfNgvXeYqRtaIGNyhMon85fZ2A2
 #EXTINF:0, Filme 8 - Broly, O Lendário Super Sayajin.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%208%20-%20Broly,%20O%20Lend%C3%A1rio%20Super%20Sayajin.mkv?a=0&id=1QxXGRbOa35X4Q2nmFNq0ru_vMh2RCRe-
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%208%20-%20Broly,%20O%20Lend%C3%A1rio%20Super%20Sayajin.mkv?a=0&id=1QxXGRbOa35X4Q2nmFNq0ru_vMh2RCRe-
 #EXTINF:0, Filme 9 - A Batalha Nos Dois Mundos.mkv
-https://m3u.herokuapp.com/api/v1/redirectdownload/Filme%209%20-%20A%20Batalha%20Nos%20Dois%20Mundos.mkv?a=0&id=1qirrRwJuZIxTxP4wQ4USDKIoYuUCzkQq
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Filme%209%20-%20A%20Batalha%20Nos%20Dois%20Mundos.mkv?a=0&id=1qirrRwJuZIxTxP4wQ4USDKIoYuUCzkQq
