@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Temporada 1
+#EXTINF:0, The.Mandalorian.S01E01.720p.WEB-DL.DD5.1.H264.DUAL-LAPUMiA.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E01.720p.WEB-DL.DD5.1.H264.DUAL-LAPUMiA.mkv?a=0&id=10sx-yW5246NBeDikRGdIhGbHrBWYfrAk
+#EXTINF:0, The.Mandalorian.S01E02.720p.WEB-DL.DD5.1.H264.DUAL-LAPUMiA.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E02.720p.WEB-DL.DD5.1.H264.DUAL-LAPUMiA.mkv?a=0&id=11QJR6vp1nQO-lOjWGb9DDmbbhj2V4V8D
+#EXTINF:0, The.Mandalorian.S01E03.720p.WEB..DD5.1.H264.DUAL-LAPUMiA.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E03.720p.WEB..DD5.1.H264.DUAL-LAPUMiA.mkv?a=0&id=12xWBlUWFBsLwAw27ykRMcvcZ-woX0Ntl
+#EXTINF:0, The.Mandalorian.S01E04.720p.WEB-DL.DUAL.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E04.720p.WEB-DL.DUAL.mkv?a=0&id=12Joi2XtutI1-v0evNLvYB7Hi0fA4fvhV
+#EXTINF:0, The.Mandalorian.S01E05.720p.WEB.DUAL.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E05.720p.WEB.DUAL.mkv?a=0&id=119FZ9h85gjnb7Ob7umotzEs1rcbD1zkg
+#EXTINF:0, The.Mandalorian.S01E06.720p.WEB-DL.DDP5.1.H.264-G4RiS.DUAL.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E06.720p.WEB-DL.DDP5.1.H.264-G4RiS.DUAL.mkv?a=0&id=132YRwWxLga3Ofjm2kMLp4Uxms-8Ao99U
+#EXTINF:0, The.Mandalorian.S01E07.720p.WEB-DL.DDP5.1.H264.DUAL-LAPUMiA.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E07.720p.WEB-DL.DDP5.1.H264.DUAL-LAPUMiA.mkv?a=0&id=12-Bz5xFdE9JVMtf-8P6--qfhewNRuv5A
+#EXTINF:0, The.Mandalorian.S01E08.720p.WEB-DL.DDP5.1.H264.DUAL-LAPUMiA.mkv
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/The.Mandalorian.S01E08.720p.WEB-DL.DDP5.1.H264.DUAL-LAPUMiA.mkv?a=0&id=12jhU55rSGKb6zDywuslLQy8Pn2JQvIPN

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Lendas Da Marvel 1° Temporada/@drivefilmesz_chat
+#EXTINF:0, 1.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/1.mp4?a=0&id=18y2sUMiU9yta2m6ECRY9kc8RdQEqR5D5
+#EXTINF:0, 10.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/10.mp4?a=0&id=17vMzD-sPr0uAzFOQvSkGw-w_FPQrhdI4
+#EXTINF:0, 11.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/11.mp4?a=0&id=18n-ZFtaXCWWlv8VAKH5Y7lMDafTRbrE8
+#EXTINF:0, 12.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/12.mp4?a=0&id=18yD_fDzLc-Hq17CPKaMCyVEayNWE3Ivs
+#EXTINF:0, 13.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/13.mp4?a=0&id=18ARqrM83LxGdz6WORsF9xeihtkOhPr-x
+#EXTINF:0, 2.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/2.mp4?a=0&id=18IugSYag37-J2JJ6Iv9agTGh6KrGp0pk
+#EXTINF:0, 3.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/3.mp4?a=0&id=17lNjR0GTD6lcjwiADiJxScB7lo3iTLJx
+#EXTINF:0, 4.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/4.mp4?a=0&id=17ozT85WwYU-xrhH-4wBh3l-NTLm8rOAt
+#EXTINF:0, 5.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/5.mp4?a=0&id=17f2dkTo7C7C3xrp3J8L9dLYQlLmJjGUv
+#EXTINF:0, 6.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/6.mp4?a=0&id=17fR5o_Elh9ar2s-2Tpm1S6xysbY2DrcN
+#EXTINF:0, 7.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/7.mp4?a=0&id=17zs2W0F1m0Eu7VYwsrQNU4Sa_ab0YwLs
+#EXTINF:0, 8.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/8.mp4?a=0&id=181-q09Mmc-sHKyeRVIuBFPWi5XZ6aI8f
+#EXTINF:0, 9.mp4
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/9.mp4?a=0&id=17v0l6A9VLQHwW-XVFEm4afBdJV_PALNh
