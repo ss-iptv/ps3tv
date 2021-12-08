@@ -20,4 +20,3 @@ m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/q_r_s_t.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",Letra U/V/W/X/Y/Z
 m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_full_hd/u_v_w_x_y_z.m3u8
-
