@@ -2,18 +2,18 @@
 #EXTENC: UTF-8
 #PLAYLIST: 1 TEMPORADA
 #EXTINF:0, Euphoria.Us.Ep01
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.Us.Ep01?a=0&id=1-7MGyb-e5gKhpBiLgLgYkVYonvxpLWDv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.Us.Ep01?a=0&id=1-7MGyb-e5gKhpBiLgLgYkVYonvxpLWDv
 #EXTINF:0, Euphoria.US.Ep02
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep02?a=0&id=1o0vl_ar8Kg4Pk_bFM217xLJ8zFo9YEOh
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep02?a=0&id=1o0vl_ar8Kg4Pk_bFM217xLJ8zFo9YEOh
 #EXTINF:0, Euphoria.US.Ep03
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep03?a=0&id=1QvXDAw_fJH9zKWRW-09ElPGBKPK1qPqj
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep03?a=0&id=1QvXDAw_fJH9zKWRW-09ElPGBKPK1qPqj
 #EXTINF:0, Euphoria.US.Ep04
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep04?a=0&id=1IDIpp06S0DsypWmzeZOUTKwgXGISCMlk
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep04?a=0&id=1IDIpp06S0DsypWmzeZOUTKwgXGISCMlk
 #EXTINF:0, Euphoria.US.Ep05
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep05?a=0&id=1neWw7nfh1gACLXVQCfTVwvhzVRfajJh_
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep05?a=0&id=1neWw7nfh1gACLXVQCfTVwvhzVRfajJh_
 #EXTINF:0, Euphoria.US.Ep06
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep06?a=0&id=1G3kNvgFUXhRvyKQOQFYwMhplTkbZaOh8
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep06?a=0&id=1G3kNvgFUXhRvyKQOQFYwMhplTkbZaOh8
 #EXTINF:0, Euphoria.US.Ep07
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep07?a=0&id=1g_Cojyl5tnt7rI5wQQalOIze5HllYgqB
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep07?a=0&id=1g_Cojyl5tnt7rI5wQQalOIze5HllYgqB
 #EXTINF:0, Euphoria.US.Ep08
-https://m3u.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep08?a=0&id=1VccBwZF5eypc9WksXLy_Tk1s0c9WfsnJ
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria.US.Ep08?a=0&id=1VccBwZF5eypc9WksXLy_Tk1s0c9WfsnJ

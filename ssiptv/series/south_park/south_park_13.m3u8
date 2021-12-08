@@ -2,36 +2,36 @@
 #EXTENC: UTF-8
 #PLAYLIST: 13 Temporada Completa
 #EXTINF:0, 01 - O Anel-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Anel-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PyFHlnnBzh8GeyLNY84hRrDewtvHJhsc
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Anel-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PyFHlnnBzh8GeyLNY84hRrDewtvHJhsc
 #EXTINF:0, 02 - O Guaxinim-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20O%20Guaxinim-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G1vt5Jpr5QI2EDi3m6Xck9r5Rpt165Ic
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/02%20-%20O%20Guaxinim-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1G1vt5Jpr5QI2EDi3m6Xck9r5Rpt165Ic
 #EXTINF:0, 03 - Margaritaville-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Margaritaville-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1meq8EMKy1oP7VCnR3P8Y1lHwGHq45iAR
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/03%20-%20Margaritaville-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1meq8EMKy1oP7VCnR3P8Y1lHwGHq45iAR
 #EXTINF:0, 04 - Comer, Rezar, Peidar-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Comer,%20Rezar,%20Peidar-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yuUMr3hqrkSPAO0GBDWJgO9I5gW_1wHL
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/04%20-%20Comer,%20Rezar,%20Peidar-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yuUMr3hqrkSPAO0GBDWJgO9I5gW_1wHL
 #EXTINF:0, 05 - Palitos De Peixe-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Palitos%20De%20Peixe-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YESRBk-kP-pGf4ZyjNi1HQdPke-jg0Jf
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/05%20-%20Palitos%20De%20Peixe-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YESRBk-kP-pGf4ZyjNi1HQdPke-jg0Jf
 #EXTINF:0, 06 - Duelo Do Pinheiro-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Duelo%20Do%20Pinheiro-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DhGemLmonzb3Q-1DH-pavie9YHu-PaCa
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/06%20-%20Duelo%20Do%20Pinheiro-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DhGemLmonzb3Q-1DH-pavie9YHu-PaCa
 #EXTINF:0, 07 - Barba Gorda-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Barba%20Gorda-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R3fmG8FzH13ZiPWg-QGftLKpzpTByWzK
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/07%20-%20Barba%20Gorda-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R3fmG8FzH13ZiPWg-QGftLKpzpTByWzK
 #EXTINF:0, 08 - Celebridades Mortas-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Celebridades%20Mortas-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XxTboYn1LffMGGzAbH4sxQJHBwHm-dko
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/08%20-%20Celebridades%20Mortas-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XxTboYn1LffMGGzAbH4sxQJHBwHm-dko
 #EXTINF:0, 09 - As Vadias Do Butters-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20As%20Vadias%20Do%20Butters-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EL5hTZwCQBdDpGH_Gssfr3wL-C_jT8vN
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/09%20-%20As%20Vadias%20Do%20Butters-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EL5hTZwCQBdDpGH_Gssfr3wL-C_jT8vN
 #EXTINF:0, 10 - Que Porra É Essa-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Que%20Porra%20%C3%89%20Essa-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17R6GdgoqP28s7NslnPjj0aSEZAYXASMQ
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20-%20Que%20Porra%20%C3%89%20Essa-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17R6GdgoqP28s7NslnPjj0aSEZAYXASMQ
 #EXTINF:0, 11 - Defensores De Baleias-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Defensores%20De%20Baleias-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O0TliJIOi1Jua9s6Z0d4pvao0JDYJBsW
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/11%20-%20Defensores%20De%20Baleias-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O0TliJIOi1Jua9s6Z0d4pvao0JDYJBsW
 #EXTINF:0, 12 - A Verdadeira Palavra Com V-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20A%20Verdadeira%20Palavra%20Com%20V-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YMBZdihZjWDJLL67hQhL7tE9FQ8PiBtS
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/12%20-%20A%20Verdadeira%20Palavra%20Com%20V-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YMBZdihZjWDJLL67hQhL7tE9FQ8PiBtS
 #EXTINF:0, 13 - Dança Com Smurfs-1 (1).mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1%20(1).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uhvFHb9iHCsVk-g9L6vEpe9eLzc776uy
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1%20(1).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uhvFHb9iHCsVk-g9L6vEpe9eLzc776uy
 #EXTINF:0, 13 - Dança Com Smurfs-1 (2).mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1%20(2).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vZwYzt_nDuq6F9rIQnhFyx9qAJteY_3m
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1%20(2).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vZwYzt_nDuq6F9rIQnhFyx9qAJteY_3m
 #EXTINF:0, 13 - Dança Com Smurfs-1 (3).mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1%20(3).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PQICGrCJMKW7g6jnxKAInZZXUiM02H44
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1%20(3).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PQICGrCJMKW7g6jnxKAInZZXUiM02H44
 #EXTINF:0, 13 - Dança Com Smurfs-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZlDJ_Za9xK_OySTnMxWy9afbJTpwJtrz
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Dan%C3%A7a%20Com%20Smurfs-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZlDJ_Za9xK_OySTnMxWy9afbJTpwJtrz
 #EXTINF:0, 14 - Xixi-1.mp4
-https://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Xixi-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eMIF3jfSZBXDGaykLt0ieodLWHzl9TV_
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/14%20-%20Xixi-1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eMIF3jfSZBXDGaykLt0ieodLWHzl9TV_
