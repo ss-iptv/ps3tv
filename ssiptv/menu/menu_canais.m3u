@@ -18,4 +18,5 @@ m3u:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 #EXTINF:0 type="playlist" tvg-logo="",CANAIS - TV ABERTA
 m3u:http://lib.bz
 
-
+#EXTINF:0 type="playlist" tvg-logo="",CANAIS E FILMES TUGA
+m3u:https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u
