@@ -1,8 +1,11 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Animação
+
+#EXTINF:0, Ratatouille - Dublado
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ratatouille%20-%20Dublado%20https://assistirfilmesnocelular.blogspot.com.br/?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=0B7h6w2STaJk6Uy1xWml0TWk4bDA
 #EXTINF:0, Soul - Uma Aventura com Alma
-http://podreflix.herokuapp.com/api/v1/redirectdownload/Soul%20-%20Uma%20Aventura%20com%20Alma?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v3chbclI96qIpz70eK14fu4fFGer1mdj
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Soul%20-%20Uma%20Aventura%20com%20Alma?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v3chbclI96qIpz70eK14fu4fFGer1mdj
 #EXTINF:0, 9 - A Salvação 1080p- Filmes Beta.mp4
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/9%20-%20A%20Salva%C3%A7%C3%A3o%201080p-%20Filmes%20Beta.mp4?a=0&id=1giMOmPIKc5TQsL-wCQYd3bxjcWKHzJkC
 #EXTINF:0, Como.Treinar.o.Seu.Dragão.3.2019.1080p.BluRay.6CH.x264.DUAL.mkv
