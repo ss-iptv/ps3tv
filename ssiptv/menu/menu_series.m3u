@@ -92,6 +92,10 @@ m3u:https://playstationtv.herokuapp.com/ssiptv/series/fringe/menu_fringe.m3u
 #EXTBG: #11609E
 m3u:https://playstationtv.herokuapp.com/ssiptv/series/eu_patroa/menu_eu_patroa.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="",HOTEL TRANSILVANIA
+#EXTBG: #11609E
+m3u:https://playstationtv.herokuapp.com/ssiptv/series/hotel_transilvania/transilvania.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="",FAMÍLIA DINOSSAURO
 #EXTBG: #11609E
 m3u:https://playstationtv.herokuapp.com/ssiptv/series/familia_dinossauro/familia_dinossauro.m3u

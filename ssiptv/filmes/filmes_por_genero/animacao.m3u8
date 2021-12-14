@@ -180,3 +180,110 @@ https://lib-drive.herokuapp.com/api/v1/redirectdownload/Wallace%20e%20Gromit%20A
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/WiFi.Ralph.Quebrando.a.Internet.2019.1080p.BluRay.6CH.x264.DUAL-WWW.BLUDV.TV.mkv?a=0&id=1iB3QAck-U3tQs3GYUP0dFAG_GmCaqFm0
 #EXTINF:0, Zootopia.Essa.Cidade.é.o.Bicho.2016.1080p.BluRay.5.1.DUAL-WWW.BLUDV.COM.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zootopia.Essa.Cidade.%C3%A9.o.Bicho.2016.1080p.BluRay.5.1.DUAL-WWW.BLUDV.COM.mkv?a=0&id=13uqnc-7CqlNr_iWUzyvaNBZjeaw9tsqp
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: COLEÇÃO: Princess Disney
+#EXTINF:0, A Bela E A Fera.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/A%20Bela%20E%20A%20Fera.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1czOFmaIsi7yj2OiIXYPCIXLL63ITQ2XK
+#EXTINF:0, A Braca Neve e os sete anoes.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/A%20Braca%20Neve%20e%20os%20sete%20anoes.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1e3cLTFWqYmLU0a6Lm0j9Z5hrhigpA0c6
+#EXTINF:0, A Pequena Sereia 1.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/A%20Pequena%20Sereia%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mBmkahylZ27RAEkGVGRvQQrxEkaYLwEn
+#EXTINF:0, A Pequena Sereia 2.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/A%20Pequena%20Sereia%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ah5_Wg9xTAn6C4bDZiOdZfX3sRIMce1w
+#EXTINF:0, A Princesa e o Sapo.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/A%20Princesa%20e%20o%20Sapo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K5g5rMey-_Jjrw7s4GGI_0tH7ZPbY89x
+#EXTINF:0, Cinderela.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Cinderela.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1w2ANEPqIUdhH28509m6cSKmVUsmLaygC
+#EXTINF:0, Enrolados.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Enrolados.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BWRQ1jkKNOaMZ_wbuRsIXZlzMLVTEc-g
+#EXTINF:0, Frozen 2.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Frozen%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1II3lg_5ViHgMLHFRUG0hVRrLE5U9pF59
+#EXTINF:0, Frozen Uma Aventura Congelante.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Frozen%20Uma%20Aventura%20Congelante.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RqIb-JVF0S2HuvdvWOJH8EJ1bIjO92cN
+#EXTINF:0, Moana Um Mar De Aventuras.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Moana%20Um%20Mar%20De%20Aventuras.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hsja27ImQNRJWnKzerEwGb0Ho_xrlKBC
+#EXTINF:0, Valente.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Valente.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11-XHvUBxMZgvPXfk9e3tD20RVMl2F7Pq
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: EM BUSCA DO VALE ENCANTADO
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 01 - A AVENTURA - ONDE TUDO COMEÇOU.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2001%20-%20A%20AVENTURA%20-%20ONDE%20TUDO%20COME%C3%87OU.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CeGhY0HNSW351vgnarksoL2JVzIfH5JC
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 02 - VIAGEM AO GRANDE VALE.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2002%20-%20VIAGEM%20AO%20GRANDE%20VALE.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uZ06HKLpFF5-92fV71iGtS9oCvqJPJdK
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 03 - A ÉPOCA DA GRANDE PARTILHA.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2003%20-%20A%20%C3%89POCA%20DA%20GRANDE%20PARTILHA.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i2qFrfgpBr21H907H3Iwwg3qEj56NiSC
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 04 - VIAGEM ATRAVÉS DA NÉVOA.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2004%20-%20VIAGEM%20ATRAV%C3%89S%20DA%20N%C3%89VOA.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1as51KljdUQhcW_8vVGBA7oozZYVTYv1h
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 05 - A ILHA MISTERIOSA.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2005%20-%20A%20ILHA%20MISTERIOSA.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RZFKG32UU3GC1CzBb9fT0-7yrEA-k-7v
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 06 - O SEGREDO DO ROCHEDO.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2006%20-%20O%20SEGREDO%20DO%20ROCHEDO.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wvGQ7N2F98A2qyCp3EKGKeN2YGcL0cd7
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 07 - A PEDRA DO FOGO GELADO.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2007%20-%20A%20PEDRA%20DO%20FOGO%20GELADO.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Xur6PCenBehLTbA-KY2K2oNR966Q9Twv
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 08 - A GRANDE NEVASCA.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2008%20-%20A%20GRANDE%20NEVASCA.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1617Tv0Y-k3UfGCfvNof_CUOihGLioqne
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 09 - VIAGEM AOS OCEANOS.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2009%20-%20VIAGEM%20AOS%20OCEANOS.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GxEc9mqG-ZZcw8Nl7KGQ0Vfo08W_Wdtl
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 10 - A GRANDE MIGRAÇÃO.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2010%20-%20A%20GRANDE%20MIGRA%C3%87%C3%83O.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MhZY3SOttZ8kI4o3LgwQawtIem1bmpxh
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 11 - A INVASÃO DOS MINISSAUROS.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2011%20-%20A%20INVAS%C3%83O%20DOS%20MINISSAUROS.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i5ZYEMUy7RH4psmSJqsf5httSBsi7OUi
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 12 - O GRANDE DIA DOS VOADORES.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2012%20-%20O%20GRANDE%20DIA%20DOS%20VOADORES.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oSvyDg5kO5BIBxmB6xyNnpTXPVp25N2F
+#EXTINF:0, EM BUSCA DO VALE ENCANTADO 13 - A SABEDORIA DOS AMIGOS.avi
+http://podreflix.herokuapp.com/api/v1/redirectdownload/EM%20BUSCA%20DO%20VALE%20ENCANTADO%2013%20-%20A%20SABEDORIA%20DOS%20AMIGOS.avi?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_v5rVyPGsJDX3ZJyms8dDMyJJlIZu4Ta
+
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: dESENHOS
+#EXTINF:0, 01 #Meu Malvado Favorito 720p FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20#Meu%20Malvado%20Favorito%20720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nKyNyLimHJEpK8o4KLlPgXfoaINJz8C5
+#EXTINF:0, 01 - #Carros BluRay [720p] FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20#Carros%20BluRay%20%5B720p%5D%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZIXWr3o9CC3hDj_50_PFdh3sAGMaoEXE
+#EXTINF:0, 01 - #RIO 720p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20#RIO%20720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NPn15lBupUMnryK-aPrXx_-lSBXG4E8i
+#EXTINF:0, 01 - #Shrek [1080p][dual] FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20#Shrek%20%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x-5cWCEyZQgOsgdToN0g6a-jenn2P9M1
+#EXTINF:0, 01 - #Tá dando onda 1080p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20#T%C3%A1%20dando%20onda%201080p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EXY_9yfMxPr8AdMGcgJxdimxo1Myo6-q
+#EXTINF:0, 01 - Hotel Transilvânia (2012) Dublado 1080p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20Hotel%20Transilv%C3%A2nia%20(2012)%20Dublado%201080p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AdFXw72xlQUXsifsOZrusikL_Mg4d9Tz
+#EXTINF:0, 01 - Os Incríveis (2004) 5.1 BluRay Dublado 1080p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20Os%20Incr%C3%ADveis%20(2004)%205.1%20BluRay%20Dublado%201080p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11p0s5ImFvcet_e9VkVk6j9Y8E5Sd_Bbk
+#EXTINF:0, 01 - Ta.Chovendo.Hamburguer Dual.Audio.1080p.2009 FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20Ta.Chovendo.Hamburguer%20Dual.Audio.1080p.2009%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OmE8GPzw6Xf0exuxcxXzZUOxBROi7k6E
+#EXTINF:0, 01 - Toy Story (1995) BluRay [720p] Dublado FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/01%20-%20Toy%20Story%20(1995)%20BluRay%20%5B720p%5D%20Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bXNUo9ka1zjoAd0_bnFZXe_uzZ_33WvF
+#EXTINF:0, 02 #RIO 2 720p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20#RIO%202%20720p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R2V3xKQ3BAe8-TPl2UQQqOF64eTK1kPO
+#EXTINF:0, 02 - #Carros 2 BluRay [720p] FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20#Carros%202%20BluRay%20%5B720p%5D%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dXD8sriUWDl_ExXvetoR1GPdnY00cSIE
+#EXTINF:0, 02 - #Meu Malvado Favorito 2 720p FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20#Meu%20Malvado%20Favorito%202%20720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1V9gn2M08nBaKmx-2XnMNi16cEY7NIjol
+#EXTINF:0, 02 - #Shrek 2 [1080p][dual] FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20#Shrek%202%20%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IbXh3VUrHoFGzi5yNfBIt3ip0J5vX5Vv
+#EXTINF:0, 02 - Hotel Transilvânia 2 (2015) Dublado 1080p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20Hotel%20Transilv%C3%A2nia%202%20(2015)%20Dublado%201080p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14IX4KxjU7iiUu-xYRnCERiSDW8uFJgzM
+#EXTINF:0, 02 - Os Incriveis 2 (2018) 1080p Dublado - FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20Os%20Incriveis%202%20(2018)%201080p%20Dublado%20-%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XoMxzKp0di1zAxCyGpiDDMYh69Lf0PIv
+#EXTINF:0, 02 - Ta.Chovendo.Hamburguer.2.Dual.Audio.1080p.2013 FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20Ta.Chovendo.Hamburguer.2.Dual.Audio.1080p.2013%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fAvFPThrsAjlpTL4tW8jIWP0Yu-Kijdo
+#EXTINF:0, 02 - Toy Story 2 (1999) BluRay [720p] Dublado FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20Toy%20Story%202%20(1999)%20BluRay%20%5B720p%5D%20Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tCzgqY3X_ezT7TXWEc3vYKfCgQBreUXK
+#EXTINF:0, 02 - Tá Dando Onda 2 (2017) 1080p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/02%20-%20T%C3%A1%20Dando%20Onda%202%20(2017)%201080p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_ZW-ns_FMm97wXfKUnva0CnnpCn7I65g
+#EXTINF:0, 03 - #Carros 3 (2017) BluRay [720p] Dublado FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/03%20-%20#Carros%203%20(2017)%20BluRay%20%5B720p%5D%20Dublado%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rZWsWb1xs1nsHTt4lRcLu4XqSPZ6ecVI
+#EXTINF:0, 03 - Hotel Transilvânia 3 - Férias Monstruosas (2018) 1080p FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/03%20-%20Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas%20(2018)%201080p%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dWxN1GeDwZi0QqaU-220sx6rDNl-zG9c
+#EXTINF:0, Asterix.entre.os.Bretoes.Dublado.1080p.1986 FilmesRocklex.mp4
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Asterix.entre.os.Bretoes.Dublado.1080p.1986%20FilmesRocklex.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cPIIq54DNhfLgzvmwS88yynh221H7KZH
+#EXTINF:0, Asterix.o.Gaules.Dublado.720p.1967 FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Asterix.o.Gaules.Dublado.720p.1967%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TVqAK5dwkuBIR_q_eemMfWhZKNLWDNNX
+#EXTINF:0, Astérix e o Domínio dos Deuses 1080p (2016) Dual Áudio BluRay 5.1 FilmesRocklex.mkv
+http://podreflix.herokuapp.com/api/v1/redirectdownload/Ast%C3%A9rix%20e%20o%20Dom%C3%ADnio%20dos%20Deuses%201080p%20(2016)%20Dual%20%C3%81udio%20BluRay%205.1%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ESo8RvAoar3WuGu25oq-m5877tiLFMeU
+
