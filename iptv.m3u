@@ -8,6 +8,3 @@ m3u:https://elthondsaraujo.github.io/meu//listas/plutotv.m3u
 
 #EXTINF:-1,Canais de TV
 m3u:https://elthondsaraujo.github.io/meu//listas/iptv-link.m3u
-
-#EXTINF:-1,Canais 24H - Lite
-m3u:https://elthondsaraujo.github.io/meu//listas/iptv-24-limpa.m3u
