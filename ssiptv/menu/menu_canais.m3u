@@ -3,20 +3,17 @@
 #EXTINF:0 type="playlist" tvg-logo="",PLUTO TV MUNDO
 m3u:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="",CANAIS - TESTE
-m3u:https://playstationtv.herokuapp.com/ssiptv/canais/canais.m3u
+#EXTINF:0 type="playlist" tvg-logo="",FREEMIUM TV
+m3u:http://168.205.87.198:8555/get.php?username=1111&password=123456&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="",Pluto TV - Brasil
 m3u:https://playstationtv.herokuapp.com/ssiptv/canais/pluto_tv.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="",CANAIS - BITLY
-m3u:http://bit.ly/Gleydson_Canais
+#EXTINF:0 type="playlist" tvg-logo="",FREEMIUM ALTERNATIVA
+m3u:http://168.205.87.198:8555/get.php?username=1113&password=123456&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="",CANAIS - IPTV-FREE
 m3u:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="",CANAIS - TV ABERTA
-m3u:http://lib.bz
 
 #EXTINF:0 type="playlist" tvg-logo="",CANAIS E FILMES TUGA
 m3u:https://raw.githubusercontent.com/leandro-brandao96/leandro-brandao96_Playlist/main/leandro-brandao96_Playlist_Public.m3u
