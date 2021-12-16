@@ -1,7 +1,0 @@
-﻿#EXTM3U size="medium"
-
-#EXTINF:0 type="playlist" tvg-logo="",Naruto Completo
-m3u:https://playstationtv.herokuapp.com/ssiptv//animes/naruto/menu_naruto.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="",Dragon Ball - Completo
-m3u:https://playstationtv.herokuapp.com/ssiptv//animes/dragon_ball/menu_dragon_ball.m3u
