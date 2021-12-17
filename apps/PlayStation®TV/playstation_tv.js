@@ -1400,7 +1400,7 @@ new page.Route(plugin.id + ":start", function(page) {
 
 	if (!service.disableSampleXMLList) {
 			page.model.contents = 'grid';
-        var item = page.appendItem('m3u:https://playstationtv.herokuapp.com//animes.m3u:Animes', "directory", {
+        var item = page.appendItem('m3u:https://ss-iptv.github.io///animes.m3u:Animes', "directory", {
             title: 'Animes',
 			icon: 'http://dl.dropboxusercontent.com/s/l6g1eh6u7pum2ms/animes.png'
         });
@@ -1408,7 +1408,7 @@ new page.Route(plugin.id + ":start", function(page) {
 	
 	if (!service.disableSampleXMLList) {
 			page.model.contents = 'grid';
-        var item = page.appendItem('m3u:https://playstationtv.herokuapp.com//cartoons.m3u:Cartoons', "directory", {
+        var item = page.appendItem('m3u:https://ss-iptv.github.io///cartoons.m3u:Cartoons', "directory", {
             title: 'Desenhos',
 			icon: 'http://dl.dropboxusercontent.com/s/nrkibjnqp30z916/cartoons.png'
         });
@@ -1416,7 +1416,7 @@ new page.Route(plugin.id + ":start", function(page) {
 	
     if (!service.disableSampleList) {
 			page.model.contents = 'grid';
-		var item = page.appendItem('m3u:https://playstationtv.herokuapp.com//movies.m3u:Movies', "directory", {
+		var item = page.appendItem('m3u:https://ss-iptv.github.io///movies.m3u:Movies', "directory", {
             title: 'Filmes',
 			icon: 'http://dl.dropboxusercontent.com/s/keslqtvsuk2kjkm/movies.png'
         });
@@ -1424,21 +1424,21 @@ new page.Route(plugin.id + ":start", function(page) {
 
     if (!service.disableSampleXMLList) {
 			page.model.contents = 'grid';
-        var item = page.appendItem('m3u:https://playstationtv.herokuapp.com//series.m3u:Series', "directory", {
+        var item = page.appendItem('m3u:https://ss-iptv.github.io///series.m3u:Series', "directory", {
             title: 'Séries',
 			icon: 'http://dl.dropboxusercontent.com/s/jbhusj3sabsbrkg/series.png'
         });
     }
 	if (!service.disableSampleXMLList) {
 	 	page.model.contents = 'grid';
-        var item = page.appendItem('m3u:https://playstationtv.herokuapp.com//music.m3u:Music', "directory", {
+        var item = page.appendItem('m3u:https://ss-iptv.github.io///music.m3u:Music', "directory", {
             title: 'Música',
 			icon: 'http://dl.dropboxusercontent.com/s/xurt6f48tevby43/music.png'
         });
     }    
 	if (!service.disableSampleList) {
 			page.model.contents = 'grid';
-        var item = page.appendItem('m3u:https://playstationtv.herokuapp.com//iptv.m3u:IPTV', "directory", {
+        var item = page.appendItem('m3u:https://ss-iptv.github.io///iptv.m3u:IPTV', "directory", {
             title: 'TV',
 			icon: 'http://dl.dropboxusercontent.com/s/2j82223y4mqxcw3/iptv.png'
         });

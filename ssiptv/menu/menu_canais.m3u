@@ -7,7 +7,7 @@ m3u:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 m3u:http://168.205.87.198:8555/get.php?username=1111&password=123456&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="",Pluto TV - Brasil
-m3u:https://playstationtv.herokuapp.com/ssiptv/canais/pluto_tv.m3u
+m3u:https://ss-iptv.github.io//ssiptv/canais/pluto_tv.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",FREEMIUM ALTERNATIVA
 m3u:http://168.205.87.198:8555/get.php?username=1113&password=123456&type=m3u_plus

@@ -1,38 +1,38 @@
  #EXTM3U size="big"
 
 #EXTINF:0 type="playlist" tvg-logo="",AÇÃO  
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/acao.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/acao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",ANIMAÇÃO
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/animacao.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/animacao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",CLÁSSICOS
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/classicos.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/classicos.m3u8
  
 #EXTINF:0 type="playlist" tvg-logo="",COMÉDIA
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/comedia.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/comedia.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",FICÇÃO
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/ficcao.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/ficcao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",BIOGRAFIA
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/biografia.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/biografia.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Filmes de 2020
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/2020.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/2020.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",DOCUMENTÁRIOS
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/documentarios.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/documentarios.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",NACIONAL
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/nacional.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/nacional.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",TERROR
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/terror.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/terror.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",ROMANCE
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/romance.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/romance.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",DIVERSOS
-m3u:https://playstationtv.herokuapp.com/ssiptv/filmes/filmes_por_genero/diversos.m3u8
+m3u:https://ss-iptv.github.io//ssiptv/filmes/filmes_por_genero/diversos.m3u8
 
