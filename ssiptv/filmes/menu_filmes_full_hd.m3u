@@ -1,22 +1,22 @@
  #EXTM3U size="big"
  
 #EXTINF:0 type="playlist" tvg-logo="",Filmes 0-9  
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/filmes/filmes_full_hd/0-9.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/filmes/filmes_full_hd/0-9.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Letras A/B/C  
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/filmes/filmes_full_hd/a_b_c.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/filmes/filmes_full_hd/a_b_c.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Letra D/E/F/G/H
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/filmes/filmes_full_hd/d_e_f_g_h.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/filmes/filmes_full_hd/d_e_f_g_h.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Letra I/J/K/L
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/filmes/filmes_full_hd/i_j_k_l.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/filmes/filmes_full_hd/i_j_k_l.m3u8
  
 #EXTINF:0 type="playlist" tvg-logo="",Letra M/N/O/P
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/filmes/filmes_full_hd/m_n_o_p.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/filmes/filmes_full_hd/m_n_o_p.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Letra Q/R/S/T
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/filmes/filmes_full_hd/q_r_s_t.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/filmes/filmes_full_hd/q_r_s_t.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",Letra U/V/W/X/Y/Z
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/filmes/filmes_full_hd/u_v_w_x_y_z.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/filmes/filmes_full_hd/u_v_w_x_y_z.m3u8

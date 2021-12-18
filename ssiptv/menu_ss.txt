@@ -6,16 +6,16 @@
 m3u:http://ftpinterno.alfaconcursos.com.br/videos_censurados_professores/apagador%20voador.mp4
 
 #EXTINF:0 type="playlist" tvg-logo="",SERIES
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/menu/menu_series.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_series.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",FILMES
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/menu/menu_filmes.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_filmes.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",ANIMES
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/menu/menu_animes.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_animes.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",CANAIS
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/menu/menu_canais.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_canais.m3u
 
 #EXTINF:-1, FODA_SE
 m3u:http://ftpinterno.alfaconcursos.com.br/videos_censurados_professores/Lustosa%20-%20FODA-SE.MOV

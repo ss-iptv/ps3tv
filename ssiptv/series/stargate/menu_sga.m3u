@@ -1,10 +1,10 @@
  #EXTM3U size="big"
 
 #EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 1
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/series/stargate/sgu_1.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/stargate/sgu_1.m3u8
 
 
 #EXTINF:0 type="playlist" tvg-logo="",TEMPORADA 2
-m3u:https://ss-iptv.github.io/ps3tv/ssiptv/series/stargate/sgu_2.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/stargate/sgu_2.m3u8
 
 
