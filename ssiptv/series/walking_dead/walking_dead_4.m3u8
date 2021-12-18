@@ -2,34 +2,34 @@
 #EXTENC: UTF-8
 #PLAYLIST: The Walking Dead - 4 Temporada
 #EXTINF:0, 1 - 30 Days Without an Accident.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%2030%20Days%20Without%20an%20Accident.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FcRCE9LQcrzNSAgAYkJ3TlvVDWXKoodL
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/1%20-%2030%20Days%20Without%20an%20Accident.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FcRCE9LQcrzNSAgAYkJ3TlvVDWXKoodL
 #EXTINF:0, 10 - Os presos.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Os%20presos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uo4322qV_G23tf8FvrjXJr0HgXZRnzL8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20-%20Os%20presos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1uo4322qV_G23tf8FvrjXJr0HgXZRnzL8
 #EXTINF:0, 11 - Alegou.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Alegou.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vUkmCYL-vrApdN2XzcDUYBvYCMWW6J7l
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/11%20-%20Alegou.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vUkmCYL-vrApdN2XzcDUYBvYCMWW6J7l
 #EXTINF:0, 12 - Ainda.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Ainda.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1098_Z4R5ujd6XFzPc7WZRCrNxYklALTg
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/12%20-%20Ainda.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1098_Z4R5ujd6XFzPc7WZRCrNxYklALTg
 #EXTINF:0, 13 - Sozinho.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Sozinho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tIBf7JpxPYoG5qo9N2SuX6FNF5TlBDyP
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Sozinho.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tIBf7JpxPYoG5qo9N2SuX6FNF5TlBDyP
 #EXTINF:0, 14 - O bosque.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20O%20bosque.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n8TN17Ny2vA6MZEuI5nxA74loJZPg2ZC
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/14%20-%20O%20bosque.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n8TN17Ny2vA6MZEuI5nxA74loJZPg2ZC
 #EXTINF:0, 15 - Nós.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20N%C3%B3s.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HiT4vJdj-IhMR5Tg3u4b9hV007jUvh9d
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/15%20-%20N%C3%B3s.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HiT4vJdj-IhMR5Tg3u4b9hV007jUvh9d
 #EXTINF:0, 16 - A.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20A.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1atWrKiU2pWH9nTZi0mttCDIgzMdqNrT8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/16%20-%20A.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1atWrKiU2pWH9nTZi0mttCDIgzMdqNrT8
 #EXTINF:0, 2 - Infected.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Infected.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NqQel00QvMTPwaxcFcAgXnBhqdxhxT4h
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/2%20-%20Infected.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NqQel00QvMTPwaxcFcAgXnBhqdxhxT4h
 #EXTINF:0, 3 - Isolation.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Isolation.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SIpILksZPzT5L7zBWZPCVj5EIpXU_9QK
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/3%20-%20Isolation.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SIpILksZPzT5L7zBWZPCVj5EIpXU_9QK
 #EXTINF:0, 4 - Indifference.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Indifference.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QZ9AiQuaxAUiFbdrLq6poQa81-qU_3s5
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/4%20-%20Indifference.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QZ9AiQuaxAUiFbdrLq6poQa81-qU_3s5
 #EXTINF:0, 5 - Internment.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Internment.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ve2t85O-XgXc7JFajDLgiiowQgEjQ4-N
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/5%20-%20Internment.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ve2t85O-XgXc7JFajDLgiiowQgEjQ4-N
 #EXTINF:0, 6 - Live Bait.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Live%20Bait.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15NRI8wdgWfUBm_E72kyLFwUXrxTYWFw4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/6%20-%20Live%20Bait.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15NRI8wdgWfUBm_E72kyLFwUXrxTYWFw4
 #EXTINF:0, 7 - Dead Weight.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Dead%20Weight.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OkjuHomWywEPMWuCj6YAdBfd04Vl32ns
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/7%20-%20Dead%20Weight.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OkjuHomWywEPMWuCj6YAdBfd04Vl32ns
 #EXTINF:0, 8 - Too Far Gone.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Too%20Far%20Gone.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sGOINHJwmSh-roXSKsstPdlpWdzBrvLo
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/8%20-%20Too%20Far%20Gone.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sGOINHJwmSh-roXSKsstPdlpWdzBrvLo
 #EXTINF:0, 9 - Depois.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Depois.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TkqHVNd4caATa1X0YeiCghqZTaYGyCxp
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/9%20-%20Depois.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TkqHVNd4caATa1X0YeiCghqZTaYGyCxp

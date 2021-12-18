@@ -2,28 +2,28 @@
 #EXTENC: UTF-8
 #PLAYLIST: Doctor Who 9° Temporada
 #EXTINF:0, MBS - Doctor Who 9x01.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x01.mp4?a=0&id=1y2lL3XE3i00Z5mHvpCF9O2n5Tb4f3tn9
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x01.mp4?a=0&id=1y2lL3XE3i00Z5mHvpCF9O2n5Tb4f3tn9
 #EXTINF:0, MBS - Doctor Who 9x02.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x02.mp4?a=0&id=111svlrGrG4J7_ERSmxlg6zulJdeMk3AP
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x02.mp4?a=0&id=111svlrGrG4J7_ERSmxlg6zulJdeMk3AP
 #EXTINF:0, MBS - Doctor Who 9x03.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x03.mp4?a=0&id=1ARaX6Bzbm67Ejqovjeb0z-U2-6-CiVaa
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x03.mp4?a=0&id=1ARaX6Bzbm67Ejqovjeb0z-U2-6-CiVaa
 #EXTINF:0, MBS - Doctor Who 9x04.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x04.mp4?a=0&id=1fEyt7evBP3P1EZ-uQN8YJdUU5pqhe3m2
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x04.mp4?a=0&id=1fEyt7evBP3P1EZ-uQN8YJdUU5pqhe3m2
 #EXTINF:0, MBS - Doctor Who 9x05.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x05.mp4?a=0&id=1t-GkcHlcxvMw8djNM5dYfo2Wi49u8oXO
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x05.mp4?a=0&id=1t-GkcHlcxvMw8djNM5dYfo2Wi49u8oXO
 #EXTINF:0, MBS - Doctor Who 9x06.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x06.mp4?a=0&id=1KmalG8LeuhIvx8CYjpgItCHlSP5ZQ6jt
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x06.mp4?a=0&id=1KmalG8LeuhIvx8CYjpgItCHlSP5ZQ6jt
 #EXTINF:0, MBS - Doctor Who 9x07.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x07.mp4?a=0&id=1AtYd31nnppK6w1JJ9lQMHBDE6TMs5KTV
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x07.mp4?a=0&id=1AtYd31nnppK6w1JJ9lQMHBDE6TMs5KTV
 #EXTINF:0, MBS - Doctor Who 9x08.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x08.mp4?a=0&id=1NI331b4Kt9BIW6BwI-ba7K13LWpWyiwL
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x08.mp4?a=0&id=1NI331b4Kt9BIW6BwI-ba7K13LWpWyiwL
 #EXTINF:0, MBS - Doctor Who 9x09.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x09.mp4?a=0&id=1QXWMApKj6rrSg5q1SawqgtSIN_4V19Rc
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x09.mp4?a=0&id=1QXWMApKj6rrSg5q1SawqgtSIN_4V19Rc
 #EXTINF:0, MBS - Doctor Who 9x10.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x10.mp4?a=0&id=1gsVzesmE_R8G3H8q4W_q_XMfd8PL2rUr
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x10.mp4?a=0&id=1gsVzesmE_R8G3H8q4W_q_XMfd8PL2rUr
 #EXTINF:0, MBS - Doctor Who 9x11.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x11.mp4?a=0&id=1kJJmCrSiH9SF-aFYDYduuaFbWEM1cFib
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x11.mp4?a=0&id=1kJJmCrSiH9SF-aFYDYduuaFbWEM1cFib
 #EXTINF:0, MBS - Doctor Who 9x12.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x12.mp4?a=0&id=18AvUlguxJuRIpSrGoCgcnJbZemZPc26m
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x12.mp4?a=0&id=18AvUlguxJuRIpSrGoCgcnJbZemZPc26m
 #EXTINF:0, MBS - Doctor Who 9x13.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x13.mp4?a=0&id=1ONMVy94G8BtiajH0SuoEl1gsNWyUVWe7
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%209x13.mp4?a=0&id=1ONMVy94G8BtiajH0SuoEl1gsNWyUVWe7

@@ -2,30 +2,30 @@
 #EXTENC: UTF-8
 #PLAYLIST: Doctor Who 6° Temporada
 #EXTINF:0, MBS - Doctor Who 6x00.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x00.mp4?a=0&id=1qSuA3cMm7YvMgV0xTo5JyMnhu_U4omA9
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x00.mp4?a=0&id=1qSuA3cMm7YvMgV0xTo5JyMnhu_U4omA9
 #EXTINF:0, MBS - Doctor Who 6x01.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x01.mp4?a=0&id=1tCMT8cEfQpanFqp8wFMnBUN6svAapaxm
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x01.mp4?a=0&id=1tCMT8cEfQpanFqp8wFMnBUN6svAapaxm
 #EXTINF:0, MBS - Doctor Who 6x02.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x02.mp4?a=0&id=1Kbp4r7UeoAhIMEzwjEiEOCEGvEhNIqWI
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x02.mp4?a=0&id=1Kbp4r7UeoAhIMEzwjEiEOCEGvEhNIqWI
 #EXTINF:0, MBS - Doctor Who 6x03.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x03.mp4?a=0&id=1c6bVYPXOUqcNVPYm-S7NvCd51TWYH6F0
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x03.mp4?a=0&id=1c6bVYPXOUqcNVPYm-S7NvCd51TWYH6F0
 #EXTINF:0, MBS - Doctor Who 6x04.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x04.mp4?a=0&id=1ufNsYKL7VTfE6rb3VsTnafIIt9Qoordr
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x04.mp4?a=0&id=1ufNsYKL7VTfE6rb3VsTnafIIt9Qoordr
 #EXTINF:0, MBS - Doctor Who 6x05.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x05.mp4?a=0&id=12YASh2so0gwf8fsfQGgSE3xU6364_3Oh
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x05.mp4?a=0&id=12YASh2so0gwf8fsfQGgSE3xU6364_3Oh
 #EXTINF:0, MBS - Doctor Who 6x06.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x06.mp4?a=0&id=1OPeKTmAkB2rUxB2n8lg5__CJKe4Q-dhC
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x06.mp4?a=0&id=1OPeKTmAkB2rUxB2n8lg5__CJKe4Q-dhC
 #EXTINF:0, MBS - Doctor Who 6x07.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x07.mp4?a=0&id=16Fu-Jrs4dF1EhfYufL-0K9MOytOE2I0B
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x07.mp4?a=0&id=16Fu-Jrs4dF1EhfYufL-0K9MOytOE2I0B
 #EXTINF:0, MBS - Doctor Who 6x08.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x08.mp4?a=0&id=1QgNocgBHYpNjAPpfq_MQax2B8yGtBI7M
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x08.mp4?a=0&id=1QgNocgBHYpNjAPpfq_MQax2B8yGtBI7M
 #EXTINF:0, MBS - Doctor Who 6x09.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x09.mp4?a=0&id=1uZaAdu0h9sbPDzm2XElxn3Nw-c1CjZSJ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x09.mp4?a=0&id=1uZaAdu0h9sbPDzm2XElxn3Nw-c1CjZSJ
 #EXTINF:0, MBS - Doctor Who 6x10.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x10.mp4?a=0&id=1lKyCHZt4hAChq0oqImqyR1hBxi84qDk8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x10.mp4?a=0&id=1lKyCHZt4hAChq0oqImqyR1hBxi84qDk8
 #EXTINF:0, MBS - Doctor Who 6x11.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x11.mp4?a=0&id=1yTVWp572BBqwy2bUHZw2TfBunggZ-ltz
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x11.mp4?a=0&id=1yTVWp572BBqwy2bUHZw2TfBunggZ-ltz
 #EXTINF:0, MBS - Doctor Who 6x12.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x12.mp4?a=0&id=19wffLpgWgFNP2_Sc53wYnKIZhY-Lq-IX
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x12.mp4?a=0&id=19wffLpgWgFNP2_Sc53wYnKIZhY-Lq-IX
 #EXTINF:0, MBS - Doctor Who 6x13.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x13.mp4?a=0&id=1BUMohUOQcJx4VgKoVsepy9I76DXeVebi
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%206x13.mp4?a=0&id=1BUMohUOQcJx4VgKoVsepy9I76DXeVebi

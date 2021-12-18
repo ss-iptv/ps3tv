@@ -2,48 +2,48 @@
 #EXTENC: UTF-8
 #PLAYLIST: 5ª Temporada 2015 Dual Audio 720p
 #EXTINF:0, 01 - Emma das Trevas.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Emma%20das%20Trevas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IXpnsriVsmXv2wtwyBeubjKzSa5-ZvlN
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/01%20-%20Emma%20das%20Trevas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IXpnsriVsmXv2wtwyBeubjKzSa5-ZvlN
 #EXTINF:0, 02 - O Preço.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20O%20Pre%C3%A7o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ySoAsBIx7hZnys9_51oIll0Vj1iajwlA
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/02%20-%20O%20Pre%C3%A7o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ySoAsBIx7hZnys9_51oIll0Vj1iajwlA
 #EXTINF:0, 03 - Assento Perigoso.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Assento%20Perigoso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R3jYEl7O6-cI3MwdJR1ofgc2NzHqbEFI
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/03%20-%20Assento%20Perigoso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R3jYEl7O6-cI3MwdJR1ofgc2NzHqbEFI
 #EXTINF:0, 04 - O Reino Partido.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Reino%20Partido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QIXKb6O4eQ5xLMSfzqWPyPecEJR63nkX
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/04%20-%20O%20Reino%20Partido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QIXKb6O4eQ5xLMSfzqWPyPecEJR63nkX
 #EXTINF:0, 05 - O Apanhador de Sonhos.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Apanhador%20de%20Sonhos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hrWxk7udMKu7h3jM9ZmsYeXgu0zMB6Nv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/05%20-%20O%20Apanhador%20de%20Sonhos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hrWxk7udMKu7h3jM9ZmsYeXgu0zMB6Nv
 #EXTINF:0, 06 - O Urso e o Arco.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20O%20Urso%20e%20o%20Arco.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GjxcoHjGz8KbKNPhtrh8-lvn_4R_yLDJ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/06%20-%20O%20Urso%20e%20o%20Arco.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GjxcoHjGz8KbKNPhtrh8-lvn_4R_yLDJ
 #EXTINF:0, 07 - Nimue.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Nimue.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zJduziBqZdhdxJJhMtkL8L9fDRC3ixaO
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/07%20-%20Nimue.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zJduziBqZdhdxJJhMtkL8L9fDRC3ixaO
 #EXTINF:0, 08 - Nascimento.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Nascimento.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XXEQQCm-7D64V7qbOdAEzyV9pZP0X_87
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/08%20-%20Nascimento.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XXEQQCm-7D64V7qbOdAEzyV9pZP0X_87
 #EXTINF:0, 09 - O Rei Urso.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20O%20Rei%20Urso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EKPVCqJ7dxv8iM4LmMJ4e8b6uX245oWi
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/09%20-%20O%20Rei%20Urso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EKPVCqJ7dxv8iM4LmMJ4e8b6uX245oWi
 #EXTINF:0, 10 - Coração Partido.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Cora%C3%A7%C3%A3o%20Partido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DIgLsy95F0Dg3TXtPjiWaekrRTjOwh2w
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20-%20Cora%C3%A7%C3%A3o%20Partido.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DIgLsy95F0Dg3TXtPjiWaekrRTjOwh2w
 #EXTINF:0, 11 - O Canto do Cisne.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20O%20Canto%20do%20Cisne.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18vUptDD5pZCSYpuDO9Z6-ZLzUvPF3-c0
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/11%20-%20O%20Canto%20do%20Cisne.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18vUptDD5pZCSYpuDO9Z6-ZLzUvPF3-c0
 #EXTINF:0, 12 - Almas dos Que Partiram.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Almas%20dos%20Que%20Partiram.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hSHCvRckTsHW_LodSxFtsYF-D-cI3uwx
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/12%20-%20Almas%20dos%20Que%20Partiram.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hSHCvRckTsHW_LodSxFtsYF-D-cI3uwx
 #EXTINF:0, 13 - Obra de Amor.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Obra%20de%20Amor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tWw52ea1LPVhLFN9YLU9T9rMm-3CbG2m
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Obra%20de%20Amor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tWw52ea1LPVhLFN9YLU9T9rMm-3CbG2m
 #EXTINF:0, 14 - Dever do Diabo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Dever%20do%20Diabo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yG2kAe3LAGcxLQ82fmb49V1udAEi1M1e
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/14%20-%20Dever%20do%20Diabo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yG2kAe3LAGcxLQ82fmb49V1udAEi1M1e
 #EXTINF:0, 15 - Os Irmãos Jones.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Os%20Irm%C3%A3os%20Jones.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sT2BOdARsgbx8IWzpagqvolkaJH8GoLt
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/15%20-%20Os%20Irm%C3%A3os%20Jones.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sT2BOdARsgbx8IWzpagqvolkaJH8GoLt
 #EXTINF:0, 16 - A Nossa Ruína.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20A%20Nossa%20Ru%C3%ADna.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TYpbOAI9Kye9TDovmyUvFaS6fEHbUgnp
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/16%20-%20A%20Nossa%20Ru%C3%ADna.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TYpbOAI9Kye9TDovmyUvFaS6fEHbUgnp
 #EXTINF:0, 17 - Seu Belo Herói.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Seu%20Belo%20Her%C3%B3i.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pcD0zeFjaRpI6uggxnVPRos6oEbtrArw
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/17%20-%20Seu%20Belo%20Her%C3%B3i.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pcD0zeFjaRpI6uggxnVPRos6oEbtrArw
 #EXTINF:0, 18 - Sapatos de Viagem.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Sapatos%20de%20Viagem.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B0qeThGQOjQ2YJsaaoKH4HRhRXn7xtZ-
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/18%20-%20Sapatos%20de%20Viagem.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B0qeThGQOjQ2YJsaaoKH4HRhRXn7xtZ-
 #EXTINF:0, 19 - Irmãs.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20Irm%C3%A3s.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kRJKvaMrfrx0vUieF9Ft9hDvd1-XcB6O
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/19%20-%20Irm%C3%A3s.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kRJKvaMrfrx0vUieF9Ft9hDvd1-XcB6O
 #EXTINF:0, 20 - Cabeça de Fogo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Cabe%C3%A7a%20de%20Fogo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-GVGQwcE7swfzNDzWrsrJEv6OTUCTQq8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/20%20-%20Cabe%C3%A7a%20de%20Fogo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-GVGQwcE7swfzNDzWrsrJEv6OTUCTQq8
 #EXTINF:0, 21 - Ritos Finais.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Ritos%20Finais.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FBYcGSp-sCtvobdyEUxqqo1AzVOrKxeR
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/21%20-%20Ritos%20Finais.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FBYcGSp-sCtvobdyEUxqqo1AzVOrKxeR
 #EXTINF:0, 22 - Somente Você.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Somente%20Voc%C3%AA.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yk6YDBjIsNk0Pyfwlnun387XCCPnfTp1
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/22%20-%20Somente%20Voc%C3%AA.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yk6YDBjIsNk0Pyfwlnun387XCCPnfTp1
 #EXTINF:0, 23 - Uma História Não Contada.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/23%20-%20Uma%20Hist%C3%B3ria%20N%C3%A3o%20Contada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XiJl98taC_4q7SF7q6ONJF6Z-qCr8yb1
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/23%20-%20Uma%20Hist%C3%B3ria%20N%C3%A3o%20Contada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XiJl98taC_4q7SF7q6ONJF6Z-qCr8yb1

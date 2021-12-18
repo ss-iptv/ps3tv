@@ -2,4 +2,4 @@
 #EXTENC: UTF-8
 #PLAYLIST: Doctor Who 12° Temporada
 #EXTINF:0, MBS - Doctor Who 12x00 Dublado.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%2012x00%20Dublado.mp4?a=0&id=1wLWREo7fIEDld4dI_-F7WxdQikgrx9GK
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%2012x00%20Dublado.mp4?a=0&id=1wLWREo7fIEDld4dI_-F7WxdQikgrx9GK

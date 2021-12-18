@@ -2,4 +2,4 @@
 #EXTENC: UTF-8
 #PLAYLIST: Season 01
 #EXTINF:0, Stargate SG-1 [01x21] Within the Serpent's Grasp.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20%5B01x21%5D%20Within%20the%20Serpent's%20Grasp.mp4?a=0&id=1JLn6j1k11xaag9aFUZSghR1B8QZ7ZbDJ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Stargate%20SG-1%20%5B01x21%5D%20Within%20the%20Serpent's%20Grasp.mp4?a=0&id=1JLn6j1k11xaag9aFUZSghR1B8QZ7ZbDJ

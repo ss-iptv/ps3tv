@@ -2,46 +2,46 @@
 #EXTENC: UTF-8
 #PLAYLIST: 6ª Temporada 2016 Dual Audio 720p
 #EXTINF:0, 01 - O Salvador.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Salvador.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14xReMWFU9yhr5PKTOnhO0nVrIsM7p1l6
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/01%20-%20O%20Salvador.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14xReMWFU9yhr5PKTOnhO0nVrIsM7p1l6
 #EXTINF:0, 02 - Remédio Amargo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20Rem%C3%A9dio%20Amargo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yau1mOslD9dmrUE3nOqBqoQxEahgvbj6
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/02%20-%20Rem%C3%A9dio%20Amargo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yau1mOslD9dmrUE3nOqBqoQxEahgvbj6
 #EXTINF:0, 03 - O Outro Sapato.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20O%20Outro%20Sapato.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15vtVRHfvzP9kw4Fm2DFVyMTZYMW-e-6e
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/03%20-%20O%20Outro%20Sapato.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15vtVRHfvzP9kw4Fm2DFVyMTZYMW-e-6e
 #EXTINF:0, 04 - Um Caso Estranho.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Um%20Caso%20Estranho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bIdc9D12-qkdto61KcR61w0ywsqsZRzo
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/04%20-%20Um%20Caso%20Estranho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bIdc9D12-qkdto61KcR61w0ywsqsZRzo
 #EXTINF:0, 05 - Ratos de Rua.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Ratos%20de%20Rua.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TNnAnrf6sq_nUtORA3NwtU9SA-IIDXXG
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/05%20-%20Ratos%20de%20Rua.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TNnAnrf6sq_nUtORA3NwtU9SA-IIDXXG
 #EXTINF:0, 06 - Águas Escuras.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20%C3%81guas%20Escuras.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WPJ4L2aForjfpTd7hrXrqc_ZLbngV3-F
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/06%20-%20%C3%81guas%20Escuras.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1WPJ4L2aForjfpTd7hrXrqc_ZLbngV3-F
 #EXTINF:0, 07 - Sem Coração.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Sem%20Cora%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mv8bLzbfz_LShWtfiWvqEkssOkVF4trt
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/07%20-%20Sem%20Cora%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mv8bLzbfz_LShWtfiWvqEkssOkVF4trt
 #EXTINF:0, 08 - Serei o Seu Espelho.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Serei%20o%20Seu%20Espelho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RwydWNkKgtMGAza_1oXvStzVo6svsiLP
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/08%20-%20Serei%20o%20Seu%20Espelho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RwydWNkKgtMGAza_1oXvStzVo6svsiLP
 #EXTINF:0, 09 - Bebês Trocados.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/09%20-%20Beb%C3%AAs%20Trocados.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xkej-ZYdULf_SMrX1DFkIRfM6qL-rnmt
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/09%20-%20Beb%C3%AAs%20Trocados.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xkej-ZYdULf_SMrX1DFkIRfM6qL-rnmt
 #EXTINF:0, 10 - Gostaria Que Você Estivesse Aqui.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Gostaria%20Que%20Voc%C3%AA%20Estivesse%20Aqui.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CJM9kMwYTbmt_ENnINEu6n7L1WnLASkh
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20-%20Gostaria%20Que%20Voc%C3%AA%20Estivesse%20Aqui.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CJM9kMwYTbmt_ENnINEu6n7L1WnLASkh
 #EXTINF:0, 11 - Mais Resistente do Que o Resto.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Mais%20Resistente%20do%20Que%20o%20Resto.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QjErK0QYDoAKuQIGFpXh3uYEQNCVffub
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/11%20-%20Mais%20Resistente%20do%20Que%20o%20Resto.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QjErK0QYDoAKuQIGFpXh3uYEQNCVffub
 #EXTINF:0, 12 - Crime Sujo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Crime%20Sujo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12XaOiI0vG-nLjVzPmQ06B4VPkjnpQsGi
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/12%20-%20Crime%20Sujo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12XaOiI0vG-nLjVzPmQ06B4VPkjnpQsGi
 #EXTINF:0, 13 - Padrões Agourentos.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Padr%C3%B5es%20Agourentos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Zg-gsxNvfqXP05GBGvbBnx_9oYzAtcYs
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Padr%C3%B5es%20Agourentos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Zg-gsxNvfqXP05GBGvbBnx_9oYzAtcYs
 #EXTINF:0, 14 - Página 23.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20P%C3%A1gina%2023.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zhjvO6eHZGuqyYL-6wm-zViZdynJUcTO
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/14%20-%20P%C3%A1gina%2023.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zhjvO6eHZGuqyYL-6wm-zViZdynJUcTO
 #EXTINF:0, 15 - Um Lugar Extraordinário.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Um%20Lugar%20Extraordin%C3%A1rio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19TjoFQWMSbYBY2dIpMa2kT3ZCvWY166M
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/15%20-%20Um%20Lugar%20Extraordin%C3%A1rio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19TjoFQWMSbYBY2dIpMa2kT3ZCvWY166M
 #EXTINF:0, 16 - O Pequeno Ajudante da Mamãe.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20O%20Pequeno%20Ajudante%20da%20Mam%C3%A3e.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EC778Oo0Rcr-R5K0zyF_4LNaMRzFE8FA
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/16%20-%20O%20Pequeno%20Ajudante%20da%20Mam%C3%A3e.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EC778Oo0Rcr-R5K0zyF_4LNaMRzFE8FA
 #EXTINF:0, 17 - Despertar.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Despertar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15TyItK7ds5-GGhzq3wQuEsv-unM6KRbX
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/17%20-%20Despertar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15TyItK7ds5-GGhzq3wQuEsv-unM6KRbX
 #EXTINF:0, 18 - Onde os Pássaros Azuis Voam.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Onde%20os%20P%C3%A1ssaros%20Azuis%20Voam.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BFlZLaCQv1ZCs_3M_oHWl2_k2WE_LPQJ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/18%20-%20Onde%20os%20P%C3%A1ssaros%20Azuis%20Voam.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BFlZLaCQv1ZCs_3M_oHWl2_k2WE_LPQJ
 #EXTINF:0, 19 - A Fada Negra.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20A%20Fada%20Negra.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OzzpngtP0A2WXYW4eLfaMXCGVheFH112
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/19%20-%20A%20Fada%20Negra.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OzzpngtP0A2WXYW4eLfaMXCGVheFH112
 #EXTINF:0, 20 - A Música em Seu Coração.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20A%20M%C3%BAsica%20em%20Seu%20Cora%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D6ksdMmtNqK6eB-K7obJOHJRhQJRFMIn
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/20%20-%20A%20M%C3%BAsica%20em%20Seu%20Cora%C3%A7%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1D6ksdMmtNqK6eB-K7obJOHJRhQJRFMIn
 #EXTINF:0, 21 - A Batalha Final Parte 1.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20A%20Batalha%20Final%20Parte%201.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cL9iwhotk4_qAsyLV1Dhtmifoeq_HAko
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/21%20-%20A%20Batalha%20Final%20Parte%201.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cL9iwhotk4_qAsyLV1Dhtmifoeq_HAko
 #EXTINF:0, 22 - A Batalha Final Parte 2.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20A%20Batalha%20Final%20Parte%202.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QuGqPLi1TGKAB-bexlPr7zH0_bF_2uDu
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/22%20-%20A%20Batalha%20Final%20Parte%202.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QuGqPLi1TGKAB-bexlPr7zH0_bF_2uDu

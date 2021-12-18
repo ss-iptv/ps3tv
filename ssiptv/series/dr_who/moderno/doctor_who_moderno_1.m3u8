@@ -2,28 +2,28 @@
 #EXTENC: UTF-8
 #PLAYLIST: Doctor Who 1° Temporada
 #EXTINF:0, Doctor.Who.1x01..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x01..mp4?a=0&id=1sexK6xBv2n5Ox6NnysbWd561uZpH4Nkk
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x01..mp4?a=0&id=1sexK6xBv2n5Ox6NnysbWd561uZpH4Nkk
 #EXTINF:0, Doctor.Who.1x02..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x02..mp4?a=0&id=1s83NZg2nFubysBDeWRbiOTl_WmRigO1n
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x02..mp4?a=0&id=1s83NZg2nFubysBDeWRbiOTl_WmRigO1n
 #EXTINF:0, Doctor.Who.1x03..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x03..mp4?a=0&id=1JttHuigteODDxoAhXMLy5ZAFMUhzAh0w
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x03..mp4?a=0&id=1JttHuigteODDxoAhXMLy5ZAFMUhzAh0w
 #EXTINF:0, Doctor.Who.1x04..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x04..mp4?a=0&id=12dQcCd7FAusMjiCkI-PqC3ovu04B-9hE
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x04..mp4?a=0&id=12dQcCd7FAusMjiCkI-PqC3ovu04B-9hE
 #EXTINF:0, Doctor.Who.1x05..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x05..mp4?a=0&id=1--w8YRv3KlcLHHM3HMLOlPkrMcm6WLkU
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x05..mp4?a=0&id=1--w8YRv3KlcLHHM3HMLOlPkrMcm6WLkU
 #EXTINF:0, Doctor.Who.1x06..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x06..mp4?a=0&id=1C1bXUakgUBurBS1qKJ8K9nc9qpVlXOhI
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x06..mp4?a=0&id=1C1bXUakgUBurBS1qKJ8K9nc9qpVlXOhI
 #EXTINF:0, Doctor.Who.1x07..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x07..mp4?a=0&id=1VxRYra14RtjzZot2r8iJTSU5yoNWSUcu
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x07..mp4?a=0&id=1VxRYra14RtjzZot2r8iJTSU5yoNWSUcu
 #EXTINF:0, Doctor.Who.1x08..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x08..mp4?a=0&id=1EBicWLLEd5SQG0-E2ep9OHWx3U1N8syV
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x08..mp4?a=0&id=1EBicWLLEd5SQG0-E2ep9OHWx3U1N8syV
 #EXTINF:0, Doctor.Who.1x09..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x09..mp4?a=0&id=1w7Pp7ON6YSdHIJADpvvodnUJvHg44dJ8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x09..mp4?a=0&id=1w7Pp7ON6YSdHIJADpvvodnUJvHg44dJ8
 #EXTINF:0, Doctor.Who.1x10..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x10..mp4?a=0&id=17ifqKb4R2ndkHjGpOKp2w0zEraKqtSlk
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x10..mp4?a=0&id=17ifqKb4R2ndkHjGpOKp2w0zEraKqtSlk
 #EXTINF:0, Doctor.Who.1x11..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x11..mp4?a=0&id=1LqvRbgf-5PgzS36GHXbSPE17KSS0bMYF
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x11..mp4?a=0&id=1LqvRbgf-5PgzS36GHXbSPE17KSS0bMYF
 #EXTINF:0, Doctor.Who.1x12..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x12..mp4?a=0&id=1uJstLCbGUnha0KGSIPTiN131tEbsN83Y
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x12..mp4?a=0&id=1uJstLCbGUnha0KGSIPTiN131tEbsN83Y
 #EXTINF:0, Doctor.Who.1x13..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x13..mp4?a=0&id=1JnOaIjEA4TY6jNZa9GZ4jRt3vjLjEnrp
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Doctor.Who.1x13..mp4?a=0&id=1JnOaIjEA4TY6jNZa9GZ4jRt3vjLjEnrp

@@ -2,28 +2,28 @@
 #EXTENC: UTF-8
 #PLAYLIST: The Walking Dead - 2ª Temporada
 #EXTINF:0, S02E01 - What Lies Ahead.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E01%20-%20What%20Lies%20Ahead.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-vwwzLop6QEWG5WVmMNOyK_Em83BloqQ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E01%20-%20What%20Lies%20Ahead.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-vwwzLop6QEWG5WVmMNOyK_Em83BloqQ
 #EXTINF:0, S02E02 - Bloodletting.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E02%20-%20Bloodletting.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HxAjAPJl4pDpFgh675Y_26JhZzy2cJCj
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E02%20-%20Bloodletting.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1HxAjAPJl4pDpFgh675Y_26JhZzy2cJCj
 #EXTINF:0, S02E03 - Save The Last One.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E03%20-%20Save%20The%20Last%20One.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17baUeUKRt7XtcGWDG2fKfL2SJC-ggw-0
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E03%20-%20Save%20The%20Last%20One.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17baUeUKRt7XtcGWDG2fKfL2SJC-ggw-0
 #EXTINF:0, S02E04 - Cherokee Rose.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E04%20-%20Cherokee%20Rose.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LckkDtb5NmExreLWOqGYwzERAOeN1fZr
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E04%20-%20Cherokee%20Rose.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LckkDtb5NmExreLWOqGYwzERAOeN1fZr
 #EXTINF:0, S02E05 - Chupacabra.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E05%20-%20Chupacabra.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zjYmq-js1OykLcp35-F5khwpsfoikbQz
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E05%20-%20Chupacabra.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zjYmq-js1OykLcp35-F5khwpsfoikbQz
 #EXTINF:0, S02E06 - Secrets.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E06%20-%20Secrets.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-ixpM9rOfCdbGb2U04VPzSKOKmQDbmy2
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E06%20-%20Secrets.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-ixpM9rOfCdbGb2U04VPzSKOKmQDbmy2
 #EXTINF:0, S02E07 - Pretty Much Dead Already.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E07%20-%20Pretty%20Much%20Dead%20Already.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pHdraM6OQa__key_xu-MeHZG5z2WVq6A
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E07%20-%20Pretty%20Much%20Dead%20Already.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pHdraM6OQa__key_xu-MeHZG5z2WVq6A
 #EXTINF:0, S02E08 - Nebraska.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E08%20-%20Nebraska.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IM2H7_EqPlYLKXXnCDhHRFL585xazEof
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E08%20-%20Nebraska.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IM2H7_EqPlYLKXXnCDhHRFL585xazEof
 #EXTINF:0, S02E09 - Triggerfinger.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E09%20-%20Triggerfinger.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-SHHCncg_CF104jbKhti7bJxQS5xc6q8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E09%20-%20Triggerfinger.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-SHHCncg_CF104jbKhti7bJxQS5xc6q8
 #EXTINF:0, S02E10 - 18 Miles Out.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E10%20-%2018%20Miles%20Out.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1H1Cv2aLevBqBEseElHzlRpLTdY59JjGT
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E10%20-%2018%20Miles%20Out.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1H1Cv2aLevBqBEseElHzlRpLTdY59JjGT
 #EXTINF:0, S02E11 - Judge, Jury, Executioner.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E11%20-%20Judge,%20Jury,%20Executioner.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RWziIe7yBqmEsQA9Z4YpvRYYugw5JaeZ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E11%20-%20Judge,%20Jury,%20Executioner.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1RWziIe7yBqmEsQA9Z4YpvRYYugw5JaeZ
 #EXTINF:0, S02E12 - Better Angels.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E12%20-%20Better%20Angels.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OvNcrNuuGMB1HuX09-uRz6VBgI6tseYF
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E12%20-%20Better%20Angels.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OvNcrNuuGMB1HuX09-uRz6VBgI6tseYF
 #EXTINF:0, S02E13 - Beside The Dying Fire.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S02E13%20-%20Beside%20The%20Dying%20Fire.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YTSEj0czCQffu9s8e7WSqLAPhPWlTJoe
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S02E13%20-%20Beside%20The%20Dying%20Fire.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YTSEj0czCQffu9s8e7WSqLAPhPWlTJoe

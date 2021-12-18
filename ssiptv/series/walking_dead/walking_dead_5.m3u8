@@ -2,34 +2,34 @@
 #EXTENC: UTF-8
 #PLAYLIST: The Walking Dead - 5ª Temporada
 #EXTINF:0, The Walking Dead s05e01.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e01.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yclWR06JIYUyIb42t7HUmBSlCkiOJyHD
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e01.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yclWR06JIYUyIb42t7HUmBSlCkiOJyHD
 #EXTINF:0, The Walking Dead s05e02.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e02.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LxGVW9v7WKPIxxc0mUculRYcTJ37xXoE
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e02.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LxGVW9v7WKPIxxc0mUculRYcTJ37xXoE
 #EXTINF:0, The Walking Dead s05e03.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e03.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f3Cp3Xh3KBb-qLgtGDkPxmiMLIQwkEFP
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e03.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f3Cp3Xh3KBb-qLgtGDkPxmiMLIQwkEFP
 #EXTINF:0, The Walking Dead s05e04.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e04.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xRzUjDCUVOo4MZdqBoEr22OkGzjeoC11
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e04.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xRzUjDCUVOo4MZdqBoEr22OkGzjeoC11
 #EXTINF:0, The Walking Dead s05e05.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e05.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1keCu6YiTwq1uOLs7mbosiJpdRIihOmfC
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e05.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1keCu6YiTwq1uOLs7mbosiJpdRIihOmfC
 #EXTINF:0, The Walking Dead s05e06.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e06.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1StIufk-s83Dbf7iR8QUXBkXWeRdyTXlV
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e06.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1StIufk-s83Dbf7iR8QUXBkXWeRdyTXlV
 #EXTINF:0, The Walking Dead s05e07.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19H3gEUW26AzYAMGoq19hc_7bWal3ZZVX
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e07.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19H3gEUW26AzYAMGoq19hc_7bWal3ZZVX
 #EXTINF:0, The Walking Dead s05e08.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15eZnJTWRo6RRvG7kGSwKGdfqMsRvynoH
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15eZnJTWRo6RRvG7kGSwKGdfqMsRvynoH
 #EXTINF:0, The Walking Dead s05e09.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JW5EAk7V-LvWscni8hRf_g4G07jNFKOC
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JW5EAk7V-LvWscni8hRf_g4G07jNFKOC
 #EXTINF:0, The Walking Dead s05e10.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n9yfT8o2QMnZPS5LBJltv76drE21Prgj
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1n9yfT8o2QMnZPS5LBJltv76drE21Prgj
 #EXTINF:0, The Walking Dead s05e11.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e11.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XTderwSzxD9t7oZzjrRggis6lsdnvmem
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e11.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1XTderwSzxD9t7oZzjrRggis6lsdnvmem
 #EXTINF:0, The Walking Dead s05e12.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e12.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aw44OwP3sdtA5g5AU0vUQqwZhrkK2HSo
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e12.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aw44OwP3sdtA5g5AU0vUQqwZhrkK2HSo
 #EXTINF:0, The Walking Dead s05e13.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e13.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Onq2VqOuSz-GCxqCD3AOnB4dU4R3uVex
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e13.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Onq2VqOuSz-GCxqCD3AOnB4dU4R3uVex
 #EXTINF:0, The Walking Dead s05e14.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e14.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KbilHLHMoaG4zn0JNZmqL4SsLkbUkTuZ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e14.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KbilHLHMoaG4zn0JNZmqL4SsLkbUkTuZ
 #EXTINF:0, The Walking Dead s05e15.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e15.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kka7zGpT_8brFz9Syk7zN7f8kJPK-9eV
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e15.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Kka7zGpT_8brFz9Syk7zN7f8kJPK-9eV
 #EXTINF:0, The Walking Dead s05e16.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e16.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15ckQGsUWqZnAptxM3oLnhTBxvjOYpW_y
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20s05e16.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15ckQGsUWqZnAptxM3oLnhTBxvjOYpW_y

@@ -2,30 +2,30 @@
 #EXTENC: UTF-8
 #PLAYLIST: Lost 4ª Temporada
 #EXTINF:0, S04E01 - The Beginning of the End.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E01%20-%20The%20Beginning%20of%20the%20End.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sXHF22ZzkFajHinbhRqwK_jo2z_XeTm_
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E01%20-%20The%20Beginning%20of%20the%20End.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sXHF22ZzkFajHinbhRqwK_jo2z_XeTm_
 #EXTINF:0, S04E02 - Confirmed Dead.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E02%20-%20Confirmed%20Dead.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kXC6_facGreRiSRuW1oZW3sJThRtE3rH
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E02%20-%20Confirmed%20Dead.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kXC6_facGreRiSRuW1oZW3sJThRtE3rH
 #EXTINF:0, S04E03 - The Economist.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E03%20-%20The%20Economist.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rt4M8w3SkxIRQLAxtj8LW_0bDxkRnDRF
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E03%20-%20The%20Economist.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rt4M8w3SkxIRQLAxtj8LW_0bDxkRnDRF
 #EXTINF:0, S04E04 - Eggtown.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E04%20-%20Eggtown.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sSsmrrwskbiPJZ6fr3xIzki8bSLHTp8N
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E04%20-%20Eggtown.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1sSsmrrwskbiPJZ6fr3xIzki8bSLHTp8N
 #EXTINF:0, S04E05 - The Constant.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E05%20-%20The%20Constant.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12tpojj3amRmWpoT9ReDp2SzUNC88PvnK
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E05%20-%20The%20Constant.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12tpojj3amRmWpoT9ReDp2SzUNC88PvnK
 #EXTINF:0, S04E06 - The Other Woman.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E06%20-%20The%20Other%20Woman.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xtClQ1JoppDWevXKBXM2XOb4gtfLM6dX
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E06%20-%20The%20Other%20Woman.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xtClQ1JoppDWevXKBXM2XOb4gtfLM6dX
 #EXTINF:0, S04E07 - Ji Yeon.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E07%20-%20Ji%20Yeon.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hWhGZNZmCUSCw-Zdzgo3dNFXcw-JvKqj
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E07%20-%20Ji%20Yeon.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hWhGZNZmCUSCw-Zdzgo3dNFXcw-JvKqj
 #EXTINF:0, S04E08 - Meet Kevin Johnson.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E08%20-%20Meet%20Kevin%20Johnson.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hYCkL0_l6m1i1lmhcLP1tQvd8OMQC36B
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E08%20-%20Meet%20Kevin%20Johnson.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1hYCkL0_l6m1i1lmhcLP1tQvd8OMQC36B
 #EXTINF:0, S04E09 - The Shape of Things To Come.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E09%20-%20The%20Shape%20of%20Things%20To%20Come.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pKXmC5ZBrHkKfAxRZiOArFur_JR-7cdO
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E09%20-%20The%20Shape%20of%20Things%20To%20Come.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pKXmC5ZBrHkKfAxRZiOArFur_JR-7cdO
 #EXTINF:0, S04E10 - Something Nice Back Home.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E10%20-%20Something%20Nice%20Back%20Home.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rOWtBejf6tQv5O0DNy6JP8OCeejt7DPb
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E10%20-%20Something%20Nice%20Back%20Home.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rOWtBejf6tQv5O0DNy6JP8OCeejt7DPb
 #EXTINF:0, S04E11 - Cabin Fever.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E11%20-%20Cabin%20Fever.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IVXzd1yVuYGcNxmVen6C6dQul6hrNw4m
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E11%20-%20Cabin%20Fever.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1IVXzd1yVuYGcNxmVen6C6dQul6hrNw4m
 #EXTINF:0, S04E12 - There's No Place Like Home Part 1.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E12%20-%20There's%20No%20Place%20Like%20Home%20Part%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1d2bNP7UmqVvErPu4Chbv1LoGZryM3LaT
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E12%20-%20There's%20No%20Place%20Like%20Home%20Part%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1d2bNP7UmqVvErPu4Chbv1LoGZryM3LaT
 #EXTINF:0, S04E13 - There's No Place Like Home Part 2.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E13%20-%20There's%20No%20Place%20Like%20Home%20Part%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nAVs3wzsQMncgIrZEC9ielX6uJVOEnKj
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E13%20-%20There's%20No%20Place%20Like%20Home%20Part%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nAVs3wzsQMncgIrZEC9ielX6uJVOEnKj
 #EXTINF:0, S04E14 - There's No Place Like Home Part 3.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S04E14%20-%20There's%20No%20Place%20Like%20Home%20Part%203.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EBRbrsloQ0CqdFrup8EUqX-iBvMZegY3
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S04E14%20-%20There's%20No%20Place%20Like%20Home%20Part%203.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EBRbrsloQ0CqdFrup8EUqX-iBvMZegY3

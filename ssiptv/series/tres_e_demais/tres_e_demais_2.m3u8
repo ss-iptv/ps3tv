@@ -2,46 +2,46 @@
 #EXTENC: UTF-8
 #PLAYLIST: Três é Demais 2ª Temporada
 #EXTINF:0, 23 – Cortando a Sorte.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/23%20%E2%80%93%20Cortando%20a%20Sorte.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19Jjud8GFwQKPNQ-q51IlFTNVgTqZBBRk
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/23%20%E2%80%93%20Cortando%20a%20Sorte.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19Jjud8GFwQKPNQ-q51IlFTNVgTqZBBRk
 #EXTINF:0, 24 – A Festa Surpresa.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/24%20%E2%80%93%20A%20Festa%20Surpresa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13SqtfsXsfOEHGkoj3osTC-BWqPG7e1fU
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/24%20%E2%80%93%20A%20Festa%20Surpresa.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13SqtfsXsfOEHGkoj3osTC-BWqPG7e1fU
 #EXTINF:0, 25 – Não é Meu Trabalho.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/25%20%E2%80%93%20N%C3%A3o%20%C3%A9%20Meu%20Trabalho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vTih5jx_fXAPy8bjDuR9UxSYFr0HbEie
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/25%20%E2%80%93%20N%C3%A3o%20%C3%A9%20Meu%20Trabalho.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vTih5jx_fXAPy8bjDuR9UxSYFr0HbEie
 #EXTINF:0, 26 – Primeiro Cavalo de D.J..mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/26%20%E2%80%93%20Primeiro%20Cavalo%20de%20D.J..mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UvccCCCWKDQ_zmJK2Nh2Ef0ggBDCyHud
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/26%20%E2%80%93%20Primeiro%20Cavalo%20de%20D.J..mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UvccCCCWKDQ_zmJK2Nh2Ef0ggBDCyHud
 #EXTINF:0, 27 – A Dupla Publicitária.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/27%20%E2%80%93%20A%20Dupla%20Publicit%C3%A1ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CaRFkh8U_lLSzJ8XZp083VIN2NQ4jNrP
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/27%20%E2%80%93%20A%20Dupla%20Publicit%C3%A1ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CaRFkh8U_lLSzJ8XZp083VIN2NQ4jNrP
 #EXTINF:0, 28 – O Grande Prêmio.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/28%20%E2%80%93%20O%20Grande%20Pr%C3%AAmio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U_EQLpCU4EksBRYg-I5x-klkRkZsqfRf
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/28%20%E2%80%93%20O%20Grande%20Pr%C3%AAmio.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1U_EQLpCU4EksBRYg-I5x-klkRkZsqfRf
 #EXTINF:0, 29 – Joey Fica Com a Responsabilidade.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/29%20%E2%80%93%20Joey%20Fica%20Com%20a%20Responsabilidade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iXW6SBguAfJagDdC-i6EOouicAng1Hlo
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/29%20%E2%80%93%20Joey%20Fica%20Com%20a%20Responsabilidade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1iXW6SBguAfJagDdC-i6EOouicAng1Hlo
 #EXTINF:0, 30 – Encontro Triplo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/30%20%E2%80%93%20Encontro%20Triplo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1plTzYxu1JW8xjSC3q3fgYwlWdAOAuAus
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/30%20%E2%80%93%20Encontro%20Triplo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1plTzYxu1JW8xjSC3q3fgYwlWdAOAuAus
 #EXTINF:0, 31 – Nosso Primeiro Natal.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/31%20%E2%80%93%20Nosso%20Primeiro%20Natal.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u-SGObkEV2q24K93NJ6yhdvO1KotzztF
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/31%20%E2%80%93%20Nosso%20Primeiro%20Natal.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1u-SGObkEV2q24K93NJ6yhdvO1KotzztF
 #EXTINF:0, 32 – Conflitos da Idade.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/32%20%E2%80%93%20Conflitos%20da%20Idade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GSFQwdf3yZKaIxgGxoJhWeEWqlRbwDPA
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/32%20%E2%80%93%20Conflitos%20da%20Idade.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GSFQwdf3yZKaIxgGxoJhWeEWqlRbwDPA
 #EXTINF:0, 33 – Um Pequeno Romance.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/33%20%E2%80%93%20Um%20Pequeno%20Romance.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_qkfr9kfyVasj2SZyIlvMyYCRwnfOo1g
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/33%20%E2%80%93%20Um%20Pequeno%20Romance.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_qkfr9kfyVasj2SZyIlvMyYCRwnfOo1g
 #EXTINF:0, 34 – A Neblina.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/34%20%E2%80%93%20A%20Neblina.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ve9NuBHIlKE8CME8j33-0o3BNxF4fMrD
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/34%20%E2%80%93%20A%20Neblina.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ve9NuBHIlKE8CME8j33-0o3BNxF4fMrD
 #EXTINF:0, 35 – Mães Trabalhadoras.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/35%20%E2%80%93%20M%C3%A3es%20Trabalhadoras.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13qyVkl_Lvtf7M81_xOyWk0Pbq5A8wlpy
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/35%20%E2%80%93%20M%C3%A3es%20Trabalhadoras.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13qyVkl_Lvtf7M81_xOyWk0Pbq5A8wlpy
 #EXTINF:0, 36 – O Suéter Azul.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/36%20%E2%80%93%20O%20Su%C3%A9ter%20Azul.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AmCMZGbrIzhPz5ApWnX9ihGYSS7aOkgu
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/36%20%E2%80%93%20O%20Su%C3%A9ter%20Azul.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AmCMZGbrIzhPz5ApWnX9ihGYSS7aOkgu
 #EXTINF:0, 37 – Joey, O Camarada.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/37%20%E2%80%93%20Joey,%20O%20Camarada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kW8JROBum9YMeIQvqJ33ZF4ovgJLMULe
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/37%20%E2%80%93%20Joey,%20O%20Camarada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1kW8JROBum9YMeIQvqJ33ZF4ovgJLMULe
 #EXTINF:0, 38 – Amor de Bebê.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/38%20%E2%80%93%20Amor%20de%20Beb%C3%AA.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DaAAKE9mDN2T5nt5BxUiqeRlOagnyR9C
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/38%20%E2%80%93%20Amor%20de%20Beb%C3%AA.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DaAAKE9mDN2T5nt5BxUiqeRlOagnyR9C
 #EXTINF:0, 39 – O Problema de D.J..mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/39%20%E2%80%93%20O%20Problema%20de%20D.J..mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_trA3UB1_Csb-16WrrArFD8ox1m5N6GS
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/39%20%E2%80%93%20O%20Problema%20de%20D.J..mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_trA3UB1_Csb-16WrrArFD8ox1m5N6GS
 #EXTINF:0, 40 – Adeus, Senhor Urso.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/40%20%E2%80%93%20Adeus,%20Senhor%20Urso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oGKxA5GUk9P06-a4349fsF8m3AYb-vzg
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/40%20%E2%80%93%20Adeus,%20Senhor%20Urso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oGKxA5GUk9P06-a4349fsF8m3AYb-vzg
 #EXTINF:0, 41 – Recordação do Passado.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/41%20%E2%80%93%20Recorda%C3%A7%C3%A3o%20do%20Passado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tpDGyFy8twH4AxTwWxAXt2DLIbkXDRYH
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/41%20%E2%80%93%20Recorda%C3%A7%C3%A3o%20do%20Passado.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tpDGyFy8twH4AxTwWxAXt2DLIbkXDRYH
 #EXTINF:0, 42 – Pode Contar Comigo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/42%20%E2%80%93%20Pode%20Contar%20Comigo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rB_leo1KvY-YvMa5nBB9Zs3-rn_q-CZZ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/42%20%E2%80%93%20Pode%20Contar%20Comigo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rB_leo1KvY-YvMa5nBB9Zs3-rn_q-CZZ
 #EXTINF:0, 43 – Sorte de Principiantes (Parte 1).mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/43%20%E2%80%93%20Sorte%20de%20Principiantes%20(Parte%201).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B4J294Ua8l8E0_bMt4OAPuXSGB5NK3HA
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/43%20%E2%80%93%20Sorte%20de%20Principiantes%20(Parte%201).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1B4J294Ua8l8E0_bMt4OAPuXSGB5NK3HA
 #EXTINF:0, 44 – Sorte de Principiantes (Parte 2).mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/44%20%E2%80%93%20Sorte%20de%20Principiantes%20(Parte%202).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v-9Q5UGgqMnwH11wTL-vi9qaWEQ5Dx82
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/44%20%E2%80%93%20Sorte%20de%20Principiantes%20(Parte%202).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v-9Q5UGgqMnwH11wTL-vi9qaWEQ5Dx82

@@ -2,38 +2,38 @@
 #EXTENC: UTF-8
 #PLAYLIST: Doctor Who 4° Temporada
 #EXTINF:0, MBS - Doctor Who 4x00.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x00.mp4?a=0&id=1frPayzJWRPMYYQDrhItncijc1IW8nDdI
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x00.mp4?a=0&id=1frPayzJWRPMYYQDrhItncijc1IW8nDdI
 #EXTINF:0, MBS - Doctor Who 4x01.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x01.mp4?a=0&id=1yKMeg1my7t33VUFNvmeLwS9tcajuFUTL
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x01.mp4?a=0&id=1yKMeg1my7t33VUFNvmeLwS9tcajuFUTL
 #EXTINF:0, MBS - Doctor Who 4x02.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x02.mp4?a=0&id=1NnJEIi6qwF4c4K-FVcBw2YCRR4ne_BXP
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x02.mp4?a=0&id=1NnJEIi6qwF4c4K-FVcBw2YCRR4ne_BXP
 #EXTINF:0, MBS - Doctor Who 4x03.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x03.mp4?a=0&id=1owpG2RaL1JXYRifEJFArcrA5gCurTw1s
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x03.mp4?a=0&id=1owpG2RaL1JXYRifEJFArcrA5gCurTw1s
 #EXTINF:0, MBS - Doctor Who 4x04.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x04.mp4?a=0&id=1Qyzb9SeTZe8hViEkFtmegbwzIV9HA2wb
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x04.mp4?a=0&id=1Qyzb9SeTZe8hViEkFtmegbwzIV9HA2wb
 #EXTINF:0, MBS - Doctor Who 4x05.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x05.mp4?a=0&id=1PXzAXpE5KIX3hyyezd0x24HeDWclurKb
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x05.mp4?a=0&id=1PXzAXpE5KIX3hyyezd0x24HeDWclurKb
 #EXTINF:0, MBS - Doctor Who 4x06.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x06.mp4?a=0&id=1S4i3IKBXP563kyh_hJ3FvxStY0DqrxuD
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x06.mp4?a=0&id=1S4i3IKBXP563kyh_hJ3FvxStY0DqrxuD
 #EXTINF:0, MBS - Doctor Who 4x07.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x07.mp4?a=0&id=1HSs_m_KiMz712NZI2PWz46RdBxe_M7-V
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x07.mp4?a=0&id=1HSs_m_KiMz712NZI2PWz46RdBxe_M7-V
 #EXTINF:0, MBS - Doctor Who 4x08.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x08.mp4?a=0&id=1vDc7VwApMMMlyG0XQnn7hPFdhcR8XD6A
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x08.mp4?a=0&id=1vDc7VwApMMMlyG0XQnn7hPFdhcR8XD6A
 #EXTINF:0, MBS - Doctor Who 4x09.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x09.mp4?a=0&id=1YmS_RK-Gy7nxlAFM0PML87VAaB_ccnYg
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x09.mp4?a=0&id=1YmS_RK-Gy7nxlAFM0PML87VAaB_ccnYg
 #EXTINF:0, MBS - Doctor Who 4x10.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x10.mp4?a=0&id=1vzFNwE90Wuwtw0ZhL6JFih8VI_wMdVQM
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x10.mp4?a=0&id=1vzFNwE90Wuwtw0ZhL6JFih8VI_wMdVQM
 #EXTINF:0, MBS - Doctor Who 4x11.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x11.mp4?a=0&id=1zDGxjJhZkSbZbUYXO8uYSQagoeWjCACa
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x11.mp4?a=0&id=1zDGxjJhZkSbZbUYXO8uYSQagoeWjCACa
 #EXTINF:0, MBS - Doctor Who 4x12.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x12.mp4?a=0&id=15gNoF2KOa0xCRk7OS_NUMttrv5ZZX7Q5
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x12.mp4?a=0&id=15gNoF2KOa0xCRk7OS_NUMttrv5ZZX7Q5
 #EXTINF:0, MBS - Doctor Who 4x14.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x14.mp4?a=0&id=18pgfcXRPx5kaQRcDbXY4x5q3sfXYos0J
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x14.mp4?a=0&id=18pgfcXRPx5kaQRcDbXY4x5q3sfXYos0J
 #EXTINF:0, MBS - Doctor Who 4x15.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x15.mp4?a=0&id=1Yuu7LqzUhShmiGVebb4rbEGqegIuua6j
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x15.mp4?a=0&id=1Yuu7LqzUhShmiGVebb4rbEGqegIuua6j
 #EXTINF:0, MBS - Doctor Who 4x16.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x16.mp4?a=0&id=1y6mr8sIMLegmsysk6gTDj4eZj-MqV9w_
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x16.mp4?a=0&id=1y6mr8sIMLegmsysk6gTDj4eZj-MqV9w_
 #EXTINF:0, MBS - Doctor Who 4x17.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x17.mp4?a=0&id=1P7OON5c3sZH6eZU7Dx1NAOYMfKOZsZhf
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x17.mp4?a=0&id=1P7OON5c3sZH6eZU7Dx1NAOYMfKOZsZhf
 #EXTINF:0, MBS - Doctor Who 4x18.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x18.mp4?a=0&id=1h1HW_y481IqDPBZLfGNR8kkBDGKIOnpb
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/MBS%20-%20Doctor%20Who%204x18.mp4?a=0&id=1h1HW_y481IqDPBZLfGNR8kkBDGKIOnpb

@@ -2,50 +2,50 @@
 #EXTENC: UTF-8
 #PLAYLIST: Lost 2ª Temporada
 #EXTINF:0, 1 - Homem da Ciência, Homem de Fé.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Homem%20da%20Ci%C3%AAncia,%20Homem%20de%20F%C3%A9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JIUfr1B4n-QQ0-dsEK9DuqIFBFIOZd1D
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/1%20-%20Homem%20da%20Ci%C3%AAncia,%20Homem%20de%20F%C3%A9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JIUfr1B4n-QQ0-dsEK9DuqIFBFIOZd1D
 #EXTINF:0, 10 - O Salmo 23.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20O%20Salmo%2023.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LUBNPY1RxWE8QiR9U-C29nKT4pBFK50c
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20-%20O%20Salmo%2023.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1LUBNPY1RxWE8QiR9U-C29nKT4pBFK50c
 #EXTINF:0, 11 - O Grupo de Busca.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20O%20Grupo%20de%20Busca.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Yd5qbs6wvOCsc5bQmS2hQ-GcryAMYG58
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/11%20-%20O%20Grupo%20de%20Busca.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Yd5qbs6wvOCsc5bQmS2hQ-GcryAMYG58
 #EXTINF:0, 12 - Fogo + Água.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Fogo%20+%20%C3%81gua.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eW4RF0uY7B3p9gpE3nY2ftbHB0hB8hfl
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/12%20-%20Fogo%20+%20%C3%81gua.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eW4RF0uY7B3p9gpE3nY2ftbHB0hB8hfl
 #EXTINF:0, 13 - O Golpe de Mestre.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20O%20Golpe%20de%20Mestre.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZVR7s0sCzMcIQ0pLl36o-Psk6d4gme5e
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20O%20Golpe%20de%20Mestre.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZVR7s0sCzMcIQ0pLl36o-Psk6d4gme5e
 #EXTINF:0, 14 - Um Deles.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Um%20Deles.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Fbf4MPHrGZ5SKIn1c1ep99z64yweFK8w
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/14%20-%20Um%20Deles.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Fbf4MPHrGZ5SKIn1c1ep99z64yweFK8w
 #EXTINF:0, 15 - Licença Maternidade.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Licen%C3%A7a%20Maternidade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TbFv4p8tJmAo_tK1kctyB9M55gILG69V
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/15%20-%20Licen%C3%A7a%20Maternidade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TbFv4p8tJmAo_tK1kctyB9M55gILG69V
 #EXTINF:0, 16 - Toda a Verdade.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Toda%20a%20Verdade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pzKaL3UDoslfHQeMtjLiGs8jfLzkVFtO
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/16%20-%20Toda%20a%20Verdade.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pzKaL3UDoslfHQeMtjLiGs8jfLzkVFtO
 #EXTINF:0, 17 - Trancado.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Trancado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pYvbUzE5TQje1OQU-i16jE-E1KPFm0AR
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/17%20-%20Trancado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1pYvbUzE5TQje1OQU-i16jE-E1KPFm0AR
 #EXTINF:0, 18 -Dave.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-Dave.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rx3HrQjvOrImZYT2C26l5PBG1fdpQX8h
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/18%20-Dave.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Rx3HrQjvOrImZYT2C26l5PBG1fdpQX8h
 #EXTINF:0, 19 - S.O.S..mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20S.O.S..mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jP8agiJ-piWmCmIoCZEKJgjJY5RY9B5B
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/19%20-%20S.O.S..mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1jP8agiJ-piWmCmIoCZEKJgjJY5RY9B5B
 #EXTINF:0, 2 - À Deriva.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20%C3%80%20Deriva.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-S-LcqEtiDDo0xCL0eYJtXW8GhRBf8w0
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/2%20-%20%C3%80%20Deriva.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-S-LcqEtiDDo0xCL0eYJtXW8GhRBf8w0
 #EXTINF:0, 20 - Duas para a Estrada.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20Duas%20para%20a%20Estrada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QWPh25dzd0aMpLMNpPAA0lCpsWhEZJf8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/20%20-%20Duas%20para%20a%20Estrada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1QWPh25dzd0aMpLMNpPAA0lCpsWhEZJf8
 #EXTINF:0, 21 - Dúvida.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20D%C3%BAvida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hqu4EoScgRhxiOxXm6MxIDUYOvUyi_2c
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/21%20-%20D%C3%BAvida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hqu4EoScgRhxiOxXm6MxIDUYOvUyi_2c
 #EXTINF:0, 22 - Três Minutos.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Tr%C3%AAs%20Minutos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1isYZH3Z1XQzH0l07jvr9Ms-Nztjhjc-2
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/22%20-%20Tr%C3%AAs%20Minutos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1isYZH3Z1XQzH0l07jvr9Ms-Nztjhjc-2
 #EXTINF:0, 23 - Viver Junto, Morrer Sozinho Parte 1.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/23%20-%20Viver%20Junto,%20Morrer%20Sozinho%20Parte%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bTz_FMFzsYFZjEJr2obfi92gcg4sQ-cY
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/23%20-%20Viver%20Junto,%20Morrer%20Sozinho%20Parte%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bTz_FMFzsYFZjEJr2obfi92gcg4sQ-cY
 #EXTINF:0, 24 - Viver Junto, Morrer Sozinho Parte 2.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/24%20-%20Viver%20Junto,%20Morrer%20Sozinho%20Parte%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j4Ldi1R3hXg_lqp47CaGzS2G_2X9NjYG
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/24%20-%20Viver%20Junto,%20Morrer%20Sozinho%20Parte%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1j4Ldi1R3hXg_lqp47CaGzS2G_2X9NjYG
 #EXTINF:0, 3 - Orientação.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Orienta%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fdU38iNUSFAJuHAOC32n73jY1Yhgszl1
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/3%20-%20Orienta%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fdU38iNUSFAJuHAOC32n73jY1Yhgszl1
 #EXTINF:0, 4 - Todo Mundo Odeia o Hugo.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Todo%20Mundo%20Odeia%20o%20Hugo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fmzXve3dSps_rJnt4Wp3g793-4E2t-7Y
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/4%20-%20Todo%20Mundo%20Odeia%20o%20Hugo.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1fmzXve3dSps_rJnt4Wp3g793-4E2t-7Y
 #EXTINF:0, 5 - Perdido e Encontrado.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Perdido%20e%20Encontrado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K-NO_DhQmhN7gr1fTNqaR9yj8XhyYheQ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/5%20-%20Perdido%20e%20Encontrado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K-NO_DhQmhN7gr1fTNqaR9yj8XhyYheQ
 #EXTINF:0, 6 - Abandonada.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Abandonada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ED0lRtITFlfiKM1XG1Ulf24b8I24n4V7
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/6%20-%20Abandonada.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ED0lRtITFlfiKM1XG1Ulf24b8I24n4V7
 #EXTINF:0, 7 - Os Outros 48 Dias.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20Os%20Outros%2048%20Dias.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19HmrdZu3b1PBTzD6YxK_rn6xyA7w-fbv
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/7%20-%20Os%20Outros%2048%20Dias.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=19HmrdZu3b1PBTzD6YxK_rn6xyA7w-fbv
 #EXTINF:0, 8 - Colisão.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Colis%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Z0ixMx6vMm9ABcN7-7pIKr_cOVfAMdI6
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/8%20-%20Colis%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Z0ixMx6vMm9ABcN7-7pIKr_cOVfAMdI6
 #EXTINF:0, 9 - O Que Kate Fez.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20O%20Que%20Kate%20Fez.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YomBD6L_m7dZs2j0NOR3MSppXxakrvCM
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/9%20-%20O%20Que%20Kate%20Fez.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YomBD6L_m7dZs2j0NOR3MSppXxakrvCM

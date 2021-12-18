@@ -2,22 +2,22 @@
 #EXTENC: UTF-8
 #PLAYLIST: Arcanjo Renegado 1° Temporada /@drivefilmesz_chat
 #EXTINF:0, Ep 1
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%201?a=0&id=184Lma1ts2FKT3u2Gtz5G511M7hoWp6n5
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%201?a=0&id=184Lma1ts2FKT3u2Gtz5G511M7hoWp6n5
 #EXTINF:0, Ep 10
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%2010?a=0&id=1nBm8vFl-GGCnB0fGXAuf11SshCJzfMYj
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%2010?a=0&id=1nBm8vFl-GGCnB0fGXAuf11SshCJzfMYj
 #EXTINF:0, Ep 2
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%202?a=0&id=152hlDAQLkXRGWPtMlzipUO7an3K4_z7i
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%202?a=0&id=152hlDAQLkXRGWPtMlzipUO7an3K4_z7i
 #EXTINF:0, Ep 3
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%203?a=0&id=1QEqDI71S9I3kuJeEAlVBmCZAbeHJ5vvZ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%203?a=0&id=1QEqDI71S9I3kuJeEAlVBmCZAbeHJ5vvZ
 #EXTINF:0, Ep 4
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%204?a=0&id=1BFGGPzkka38BKVZyOoemo7sDagk5Iv2X
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%204?a=0&id=1BFGGPzkka38BKVZyOoemo7sDagk5Iv2X
 #EXTINF:0, Ep 5
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%205?a=0&id=1CUNQ7seBy_Np-s1Rrw_mZnCnLdysOdNl
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%205?a=0&id=1CUNQ7seBy_Np-s1Rrw_mZnCnLdysOdNl
 #EXTINF:0, Ep 6
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%206?a=0&id=1XoRekbv2jB8BKc-Z6JZuUGLXSL2Tz3nn
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%206?a=0&id=1XoRekbv2jB8BKc-Z6JZuUGLXSL2Tz3nn
 #EXTINF:0, Ep 7
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%207?a=0&id=1j9QBjaF9ZfoVbBjWNGYf1ohQI_omc44a
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%207?a=0&id=1j9QBjaF9ZfoVbBjWNGYf1ohQI_omc44a
 #EXTINF:0, Ep 8
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%208?a=0&id=1XdMR9eLBEpX4KVEZI4w2hL8HPdYhhUyY
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%208?a=0&id=1XdMR9eLBEpX4KVEZI4w2hL8HPdYhhUyY
 #EXTINF:0, Ep 9
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%209?a=0&id=1ROVA62jn1LOEnmGb0NwtUpcyw25UPlz1
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%209?a=0&id=1ROVA62jn1LOEnmGb0NwtUpcyw25UPlz1

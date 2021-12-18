@@ -2,22 +2,22 @@
 #EXTENC: UTF-8
 #PLAYLIST: Westworld 1 Temporada
 #EXTINF:0, 1.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eCbkekI-NMhcjKpvZXpGJ65JvJ70OobS
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/1.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1eCbkekI-NMhcjKpvZXpGJ65JvJ70OobS
 #EXTINF:0, 10.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hw5ShrJpwO0yO-9XJNNxG3poa9AggeMU
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/10.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Hw5ShrJpwO0yO-9XJNNxG3poa9AggeMU
 #EXTINF:0, 2.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/2.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1riF2fq1IqX-Ake9r5y1znaCyCGERdIJY
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/2.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1riF2fq1IqX-Ake9r5y1znaCyCGERdIJY
 #EXTINF:0, 3.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YVam0P9pL_w5uX5Pb1OY2y3mq9uidgl3
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/3.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YVam0P9pL_w5uX5Pb1OY2y3mq9uidgl3
 #EXTINF:0, 4.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/4.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vMEjdB319xyCTVusvUD-1j7XiVmmwrF7
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/4.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vMEjdB319xyCTVusvUD-1j7XiVmmwrF7
 #EXTINF:0, 5.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/5.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14U2gnwTxMl9AHpdgSP4rAMDXVmWQNra1
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/5.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14U2gnwTxMl9AHpdgSP4rAMDXVmWQNra1
 #EXTINF:0, 6.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/6.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15yaeHreA4oglQWbWfnkLzxVyi9slnXKm
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/6.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=15yaeHreA4oglQWbWfnkLzxVyi9slnXKm
 #EXTINF:0, 7.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/7.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dH6t4bR8m-ntPOoVp4KwcFNtNEci3IrB
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/7.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dH6t4bR8m-ntPOoVp4KwcFNtNEci3IrB
 #EXTINF:0, 8.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/8.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZwdwR7x-ZwIQCmj2fRpumyg-khANAAy_
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/8.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZwdwR7x-ZwIQCmj2fRpumyg-khANAAy_
 #EXTINF:0, 9.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZtCcI8YeEdLgwixoYJgRTPaOQVdmFRSe
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZtCcI8YeEdLgwixoYJgRTPaOQVdmFRSe

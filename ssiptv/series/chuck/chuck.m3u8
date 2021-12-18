@@ -2,14 +2,14 @@
 #EXTENC: UTF-8
 #PLAYLIST: CHUCKY /@drivefilmesz_chat 1° TEMPORADA
 #EXTINF:0, Ep 1
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%201?a=0&id=1Rbu6jNpfYLF2lcXUAVQJvX3vNzuTSAsb
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%201?a=0&id=1Rbu6jNpfYLF2lcXUAVQJvX3vNzuTSAsb
 #EXTINF:0, Ep 2
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%202?a=0&id=1jBfTi1IYsrmAHiwYmZxDxZls_Q8gDqVS
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%202?a=0&id=1jBfTi1IYsrmAHiwYmZxDxZls_Q8gDqVS
 #EXTINF:0, Ep 3
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%203?a=0&id=14zvl65Ky2pMaDpl_6pG54wEe7Hoz7sLR
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%203?a=0&id=14zvl65Ky2pMaDpl_6pG54wEe7Hoz7sLR
 #EXTINF:0, Ep 4
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%204?a=0&id=1NEF7Y4gusF8j0V8VT-GD7_KrWI-kmSdd
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%204?a=0&id=1NEF7Y4gusF8j0V8VT-GD7_KrWI-kmSdd
 #EXTINF:0, Ep 5
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%205?a=0&id=1PZB-NCE9iDcRWzlBzBqVkKb601zTFGlC
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%205?a=0&id=1PZB-NCE9iDcRWzlBzBqVkKb601zTFGlC
 #EXTINF:0, Ep 6
-http://pobreflix.herokuapp.com/api/v1/redirectdownload/Ep%206?a=0&id=1qv0TL-wWuaIJxfKEQBfX-AEXpBa1p_8g
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/Ep%206?a=0&id=1qv0TL-wWuaIJxfKEQBfX-AEXpBa1p_8g

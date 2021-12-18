@@ -2,34 +2,34 @@
 #EXTENC: UTF-8
 #PLAYLIST: The Walking Dead - 7ª temporada
 #EXTINF:0, S07E01.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E01.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AykzS3b-KzE3U1m4cvyP651qxEN83QZU
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E01.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AykzS3b-KzE3U1m4cvyP651qxEN83QZU
 #EXTINF:0, S07E02.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E02.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_Dg8mfVwoLb2ds5G_t6kx_4ntmBNkH2C
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E02.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_Dg8mfVwoLb2ds5G_t6kx_4ntmBNkH2C
 #EXTINF:0, S07E03.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E03.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tQ4R-uwU7I4-88BtjfBJHcUVXlBoxCcY
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E03.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tQ4R-uwU7I4-88BtjfBJHcUVXlBoxCcY
 #EXTINF:0, S07E04.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E04.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Yh15dloHmtDJQle6xK8UtT5Huhx7ZCMM
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E04.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Yh15dloHmtDJQle6xK8UtT5Huhx7ZCMM
 #EXTINF:0, S07E05.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E05.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10zDxJS_6CsK8sUOx-lSwzFhkl0R6MyZf
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E05.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10zDxJS_6CsK8sUOx-lSwzFhkl0R6MyZf
 #EXTINF:0, S07E06.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E06.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-zGoIVjzFHEUyMaqfkN1D5EitKxxEVCF
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E06.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-zGoIVjzFHEUyMaqfkN1D5EitKxxEVCF
 #EXTINF:0, S07E07.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E07.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tXYYdW1v2BVPn3_GWjUwh4TAklImnUdV
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E07.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tXYYdW1v2BVPn3_GWjUwh4TAklImnUdV
 #EXTINF:0, S07E08.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tV_CgBbMd7HEtfxDqkOm-dSYtANt_PX7
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E08.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tV_CgBbMd7HEtfxDqkOm-dSYtANt_PX7
 #EXTINF:0, S07E09.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_mE0C1KKPSPNPvUQkLuIvx7O-M5dbupy
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E09.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_mE0C1KKPSPNPvUQkLuIvx7O-M5dbupy
 #EXTINF:0, S07E10.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16niBxTeGElTliUlNfcQyAT0ZcKf37NFE
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16niBxTeGElTliUlNfcQyAT0ZcKf37NFE
 #EXTINF:0, S07E11.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E11.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CQ1lxxW7hxhUegHZurojaGfNUem7XbCp
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E11.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CQ1lxxW7hxhUegHZurojaGfNUem7XbCp
 #EXTINF:0, S07E12.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E12.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1axOSk73JuI4_7AUI7DVngG6kcsSWxnT8
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E12.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1axOSk73JuI4_7AUI7DVngG6kcsSWxnT8
 #EXTINF:0, S07E13.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E13.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UusHkBlZ-lQXVvFN1APyw_wlM1wMDetY
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E13.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UusHkBlZ-lQXVvFN1APyw_wlM1wMDetY
 #EXTINF:0, S07E14.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E14.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mNLQiJgBc19Ry-USNm45Q5_Lr2FJDzS-
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E14.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1mNLQiJgBc19Ry-USNm45Q5_Lr2FJDzS-
 #EXTINF:0, S07E15.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E15.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1q3wo3yZpmAvBKAYUlkjfyW2CKh1pORo2
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E15.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1q3wo3yZpmAvBKAYUlkjfyW2CKh1pORo2
 #EXTINF:0, S07E16.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/S07E16.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xfbk22y-wUoJhcZl5MVts09A_fr3zXgU
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/S07E16.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1xfbk22y-wUoJhcZl5MVts09A_fr3zXgU

@@ -2,34 +2,34 @@
 #EXTENC: UTF-8
 #PLAYLIST: The Walking Dead - 3 Temporada
 #EXTINF:0, 1 - Seed.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Seed.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CuVObWLvhY_qoFp8WDrv60IwC83rTwFp
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/1%20-%20Seed.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1CuVObWLvhY_qoFp8WDrv60IwC83rTwFp
 #EXTINF:0, 10 - Home.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Home.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17fKsA72hEP0lhhmp2VBK3kAJEQgIe-ff
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20-%20Home.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17fKsA72hEP0lhhmp2VBK3kAJEQgIe-ff
 #EXTINF:0, 11 - I Ain't A Judas.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20I%20Ain't%20A%20Judas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1X1jP8sj8-sJvpLGe9mbjTCJ8v2K8nt2i
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/11%20-%20I%20Ain't%20A%20Judas.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1X1jP8sj8-sJvpLGe9mbjTCJ8v2K8nt2i
 #EXTINF:0, 12 - Clear.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20Clear.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R868mET2B82BSbwwuDjnxEs9QgYdC8WD
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/12%20-%20Clear.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R868mET2B82BSbwwuDjnxEs9QgYdC8WD
 #EXTINF:0, 13 - Arrow On The Doorpost.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20Arrow%20On%20The%20Doorpost.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11pHpudth-U4NeaY6cBBs_taZ8ytxZoO0
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20Arrow%20On%20The%20Doorpost.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11pHpudth-U4NeaY6cBBs_taZ8ytxZoO0
 #EXTINF:0, 14 - Prey.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Prey.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gkpaih-1_qBB42uxg5iH25ulkP4POLjA
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/14%20-%20Prey.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gkpaih-1_qBB42uxg5iH25ulkP4POLjA
 #EXTINF:0, 15 - This Sorrowful Life.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20This%20Sorrowful%20Life.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ULmuz76osmoSMrHxuzULfRojcRbGb0eg
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/15%20-%20This%20Sorrowful%20Life.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ULmuz76osmoSMrHxuzULfRojcRbGb0eg
 #EXTINF:0, 16 - Welcome To The Tombs.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Welcome%20To%20The%20Tombs.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lBaV1QZmCcIcq1yUWx0p_Y0ZM8HauKOH
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/16%20-%20Welcome%20To%20The%20Tombs.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lBaV1QZmCcIcq1yUWx0p_Y0ZM8HauKOH
 #EXTINF:0, 2 - Sick.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20Sick.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17WzmWsSX4T9tKhCeeOdARnZYUY1vYWKq
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/2%20-%20Sick.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17WzmWsSX4T9tKhCeeOdARnZYUY1vYWKq
 #EXTINF:0, 3 - Walk With Me.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Walk%20With%20Me.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SPUexG01hk6o0hpxPqI0zLszu41SeYZz
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/3%20-%20Walk%20With%20Me.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SPUexG01hk6o0hpxPqI0zLszu41SeYZz
 #EXTINF:0, 4 - Killer Within.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Killer%20Within.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16vFWdnhNMLVtdTnnflKZre_X-nvFdSkX
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/4%20-%20Killer%20Within.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16vFWdnhNMLVtdTnnflKZre_X-nvFdSkX
 #EXTINF:0, 5 - Say The Word.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20Say%20The%20Word.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18hOc0V2QhNFTrYkRIEa6CzM4jRfb9n5u
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/5%20-%20Say%20The%20Word.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18hOc0V2QhNFTrYkRIEa6CzM4jRfb9n5u
 #EXTINF:0, 6 - Hounded.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Hounded.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oy-RKZt9K6RMTB9pNDk_E7l_KUk-j2KU
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/6%20-%20Hounded.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1oy-RKZt9K6RMTB9pNDk_E7l_KUk-j2KU
 #EXTINF:0, 7 - When The Dead Come Knocking.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20When%20The%20Dead%20Come%20Knocking.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1__yPf2cAyufeTv6aY6R-ElmwCvkYR7Ag
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/7%20-%20When%20The%20Dead%20Come%20Knocking.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1__yPf2cAyufeTv6aY6R-ElmwCvkYR7Ag
 #EXTINF:0, 8 - Made To Suffe.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Made%20To%20Suffe.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1c5HvLBXgac841QwXOGEmFxWAhlPMs9aM
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/8%20-%20Made%20To%20Suffe.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1c5HvLBXgac841QwXOGEmFxWAhlPMs9aM
 #EXTINF:0, 9 - The Suicide King.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20The%20Suicide%20King.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wcZvLQQsrWtaWyEUxlR4v3jbU4AUQw6l
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/9%20-%20The%20Suicide%20King.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wcZvLQQsrWtaWyEUxlR4v3jbU4AUQw6l

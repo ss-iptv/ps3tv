@@ -2,34 +2,34 @@
 #EXTENC: UTF-8
 #PLAYLIST: The Walking Dead - 6ª Temporada
 #EXTINF:0, 01 - Primeira Vez Novamente.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/01%20-%20Primeira%20Vez%20Novamente.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VZXvYoHJLBd_r0ChlmQp_euzG-_Grjgo
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/01%20-%20Primeira%20Vez%20Novamente.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VZXvYoHJLBd_r0ChlmQp_euzG-_Grjgo
 #EXTINF:0, 02 - JSS.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/02%20-%20JSS.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17BonccONjDnfL9J5y451d30Vn16p-33T
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/02%20-%20JSS.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=17BonccONjDnfL9J5y451d30Vn16p-33T
 #EXTINF:0, 03 - Obrigado.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/03%20-%20Obrigado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O6E9sNgvQ4kDcNzr_EcYmFlNVuDgejF4
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/03%20-%20Obrigado.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1O6E9sNgvQ4kDcNzr_EcYmFlNVuDgejF4
 #EXTINF:0, 04 - Aqui Não é Aqui.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/04%20-%20Aqui%20N%C3%A3o%20%C3%A9%20Aqui.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rUyQBM9EqMEhcLwgyT3ACevs8tqgNjiM
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/04%20-%20Aqui%20N%C3%A3o%20%C3%A9%20Aqui.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rUyQBM9EqMEhcLwgyT3ACevs8tqgNjiM
 #EXTINF:0, 05 - Agora.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/05%20-%20Agora.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JWgvfaXoy7bHDh5-141cTzgiP6x23Hwd
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/05%20-%20Agora.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JWgvfaXoy7bHDh5-141cTzgiP6x23Hwd
 #EXTINF:0, 06 - Sempre Responsável.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/06%20-%20Sempre%20Respons%C3%A1vel.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FSPUpIJgGvtiTPx-VkqaoRDueqIhq_iC
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/06%20-%20Sempre%20Respons%C3%A1vel.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1FSPUpIJgGvtiTPx-VkqaoRDueqIhq_iC
 #EXTINF:0, 07 - Cabeça Erguida.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/07%20-%20Cabe%C3%A7a%20Erguida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aNGRa__AG0Shy_UhL4JT2xKdyhy2XYYM
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/07%20-%20Cabe%C3%A7a%20Erguida.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aNGRa__AG0Shy_UhL4JT2xKdyhy2XYYM
 #EXTINF:0, 08 - Do início ao fim.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/08%20-%20Do%20in%C3%ADcio%20ao%20fim.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-8uuYDnJhvGTFyHLWQ6gFEwQgWyUx5gh
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/08%20-%20Do%20in%C3%ADcio%20ao%20fim.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1-8uuYDnJhvGTFyHLWQ6gFEwQgWyUx5gh
 #EXTINF:0, The Walking Dead - S06E09 (2016) [WEB-DL] Dual Áudio + Legenda  720p (By-LuanHarper).mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E09%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20+%20Legenda%20%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16NH9w1QJKQ6dmmwNJfdmweR6gjweqbO3
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E09%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20+%20Legenda%20%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16NH9w1QJKQ6dmmwNJfdmweR6gjweqbO3
 #EXTINF:0, The Walking Dead - S06E10 (2016) [WEB-DL] Dual Áudio 720p (By-LuanHarper).mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E10%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_4zIIC9DDuMnmT7OHCGS35dUxXDYuzAN
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E10%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_4zIIC9DDuMnmT7OHCGS35dUxXDYuzAN
 #EXTINF:0, The Walking Dead - S06E11 (2016) [WEB-DL] Dual Áudio 720p (By-LuanHarper).mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E11%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12PyFshT7qroDT_IJUYom0pBn5j36dCmH
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E11%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=12PyFshT7qroDT_IJUYom0pBn5j36dCmH
 #EXTINF:0, The Walking Dead - S06E12 (2016) [WEB-DL] Dual Áudio 720p (By-LuanHarper).mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E12%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1A8_OVLKzoin5-E0Nl1n55fOuhoHDeQDo
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Walking%20Dead%20-%20S06E12%20(2016)%20%5BWEB-DL%5D%20Dual%20%C3%81udio%20720p%20(By-LuanHarper).mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1A8_OVLKzoin5-E0Nl1n55fOuhoHDeQDo
 #EXTINF:0, The.Walking.Dead.S06E13.720p.WEB-DL.x264.DUAL-BLUDV.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E13.720p.WEB-DL.x264.DUAL-BLUDV.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10a9fvSewpzPLeTsnZue13KXq-vXMK2IS
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E13.720p.WEB-DL.x264.DUAL-BLUDV.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10a9fvSewpzPLeTsnZue13KXq-vXMK2IS
 #EXTINF:0, The.Walking.Dead.S06E14.720p.WEB-DL.x264.DUAL-BLUDV.COM.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E14.720p.WEB-DL.x264.DUAL-BLUDV.COM.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1z-waWBupuRbaMTsKObZeopGQvZf0ycJB
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E14.720p.WEB-DL.x264.DUAL-BLUDV.COM.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1z-waWBupuRbaMTsKObZeopGQvZf0ycJB
 #EXTINF:0, The.Walking.Dead.S06E15.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.MKV
-http://m3u.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E15.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ooaib0BOvVoblTPmzws1w75Rk7o-wfM5
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E15.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ooaib0BOvVoblTPmzws1w75Rk7o-wfM5
 #EXTINF:0, The.Walking.Dead.S06E16.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.MKV
-http://m3u.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E16.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ok79cPKnjYB8y9exZh8JAcHAgrYaYXo-
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Walking.Dead.S06E16.720p.WEB-DL.x264.DUAL-WWW.BLUDV.COM.MKV?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Ok79cPKnjYB8y9exZh8JAcHAgrYaYXo-

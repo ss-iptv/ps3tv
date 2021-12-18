@@ -2,54 +2,54 @@
 #EXTENC: UTF-8
 #PLAYLIST: Três é Demais 5ª Temporada
 #EXTINF:0, 100 – A Lenda de Ranger Joe.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/100%20%E2%80%93%20A%20Lenda%20de%20Ranger%20Joe.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14XegqGBy5TDuxo4_ENuBkL5jqbZgOu42
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/100%20%E2%80%93%20A%20Lenda%20de%20Ranger%20Joe.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14XegqGBy5TDuxo4_ENuBkL5jqbZgOu42
 #EXTINF:0, 101 – A Voluntária.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/101%20%E2%80%93%20A%20Volunt%C3%A1ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PJVMCjbQ3G5ZXsyvn7zyxN_hnv0HrteF
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/101%20%E2%80%93%20A%20Volunt%C3%A1ria.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1PJVMCjbQ3G5ZXsyvn7zyxN_hnv0HrteF
 #EXTINF:0, 102 – Tenho Que Dançar.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/102%20%E2%80%93%20Tenho%20Que%20Dan%C3%A7ar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nltLDpw2xrYe5a75igWGy-4NpR71dXee
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/102%20%E2%80%93%20Tenho%20Que%20Dan%C3%A7ar.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nltLDpw2xrYe5a75igWGy-4NpR71dXee
 #EXTINF:0, 103 – Feliz Aniversário (Parte 1).mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/103%20%E2%80%93%20Feliz%20Anivers%C3%A1rio%20(Parte%201).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ggQWc4q3WoYryya227tgyFSpsZxqyJkG
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/103%20%E2%80%93%20Feliz%20Anivers%C3%A1rio%20(Parte%201).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ggQWc4q3WoYryya227tgyFSpsZxqyJkG
 #EXTINF:0, 104 – Feliz Aniversário (Parte 2).mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/104%20%E2%80%93%20Feliz%20Anivers%C3%A1rio%20(Parte%202).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lDeIwYfVXylcfBhzZSoEx9SaWg_VtRTi
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/104%20%E2%80%93%20Feliz%20Anivers%C3%A1rio%20(Parte%202).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1lDeIwYfVXylcfBhzZSoEx9SaWg_VtRTi
 #EXTINF:0, 105 – Nicky e Alexander.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/105%20%E2%80%93%20Nicky%20e%20Alexander.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Imvz-AnEpTU79jxHPsP4aSn0tQQscjw_
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/105%20%E2%80%93%20Nicky%20e%20Alexander.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Imvz-AnEpTU79jxHPsP4aSn0tQQscjw_
 #EXTINF:0, 106 – O Solteiro do Mês.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/106%20%E2%80%93%20O%20Solteiro%20do%20M%C3%AAs.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K9zSOcZQXGG8zoNTq8X57RKLJzO1DkBz
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/106%20%E2%80%93%20O%20Solteiro%20do%20M%C3%AAs.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1K9zSOcZQXGG8zoNTq8X57RKLJzO1DkBz
 #EXTINF:0, 107 – Cavaleiro Fácil.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/107%20%E2%80%93%20Cavaleiro%20F%C3%A1cil.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1duTHut4YwyJQecJOwD_uDK7XBLrXCElN
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/107%20%E2%80%93%20Cavaleiro%20F%C3%A1cil.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1duTHut4YwyJQecJOwD_uDK7XBLrXCElN
 #EXTINF:0, 108 – Irmãs Criminosas.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/108%20%E2%80%93%20Irm%C3%A3s%20Criminosas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JsisolNRyHkM0lBQlu703ZLwKlVpOIRH
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/108%20%E2%80%93%20Irm%C3%A3s%20Criminosas.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1JsisolNRyHkM0lBQlu703ZLwKlVpOIRH
 #EXTINF:0, 109 – Tente Novamente, Jesse.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/109%20%E2%80%93%20Tente%20Novamente,%20Jesse.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EyAIxWw1NmE9T37AbvLoiO9vZPBRj5bd
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/109%20%E2%80%93%20Tente%20Novamente,%20Jesse.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1EyAIxWw1NmE9T37AbvLoiO9vZPBRj5bd
 #EXTINF:0, 110 – Apaixonada.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/110%20%E2%80%93%20Apaixonada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aRLFnb9jHxfHLXKPiIG7YoFXG9JAet35
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/110%20%E2%80%93%20Apaixonada.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1aRLFnb9jHxfHLXKPiIG7YoFXG9JAet35
 #EXTINF:0, 111 – Não Seja Tonto.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/111%20%E2%80%93%20N%C3%A3o%20Seja%20Tonto.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UQ9Tr_eF13SlDcibwSWa6k-MEHqLU9g3
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/111%20%E2%80%93%20N%C3%A3o%20Seja%20Tonto.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1UQ9Tr_eF13SlDcibwSWa6k-MEHqLU9g3
 #EXTINF:0, 112 – Negócio de Macaco.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/112%20%E2%80%93%20Neg%C3%B3cio%20de%20Macaco.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VJoEKNQNOyuRkFbJEVLKjuFKB30WpqYc
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/112%20%E2%80%93%20Neg%C3%B3cio%20de%20Macaco.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1VJoEKNQNOyuRkFbJEVLKjuFKB30WpqYc
 #EXTINF:0, 113 – A Culpa é do Diabo.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/113%20%E2%80%93%20A%20Culpa%20%C3%A9%20do%20Diabo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OuVpC9Ywg7eUn6z0a-vdrbRT8LeJC3qU
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/113%20%E2%80%93%20A%20Culpa%20%C3%A9%20do%20Diabo.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OuVpC9Ywg7eUn6z0a-vdrbRT8LeJC3qU
 #EXTINF:0, 114 – Conduzindo Miss D.J..mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/114%20%E2%80%93%20Conduzindo%20Miss%20D.J..mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14AznRVeQtmU6AgB7D3OT-iiDppOeaNpw
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/114%20%E2%80%93%20Conduzindo%20Miss%20D.J..mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=14AznRVeQtmU6AgB7D3OT-iiDppOeaNpw
 #EXTINF:0, 115 – Seu, Meu e Nosso.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/115%20%E2%80%93%20Seu,%20Meu%20e%20Nosso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_3Av2HjR706nCx2Q93nGrWm5wYjzDN_V
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/115%20%E2%80%93%20Seu,%20Meu%20e%20Nosso.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1_3Av2HjR706nCx2Q93nGrWm5wYjzDN_V
 #EXTINF:0, 116 – O Problema Com Danny.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/116%20%E2%80%93%20O%20Problema%20Com%20Danny.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GyccAzMXDXmMa2QhbjznAJgZ-oUqHir_
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/116%20%E2%80%93%20O%20Problema%20Com%20Danny.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GyccAzMXDXmMa2QhbjznAJgZ-oUqHir_
 #EXTINF:0, 117 – Cinco é Multidão.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/117%20%E2%80%93%20Cinco%20%C3%A9%20Multid%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g45LSzFMxpAXvDaymoM2YtInmSKq-83l
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/117%20%E2%80%93%20Cinco%20%C3%A9%20Multid%C3%A3o.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1g45LSzFMxpAXvDaymoM2YtInmSKq-83l
 #EXTINF:0, 118 – Meninas Com Vontade de Serem Meninos.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/118%20%E2%80%93%20Meninas%20Com%20Vontade%20de%20Serem%20Meninos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GylOhqJR-Z8Rem7VjyXTjLHZEancDh2V
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/118%20%E2%80%93%20Meninas%20Com%20Vontade%20de%20Serem%20Meninos.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1GylOhqJR-Z8Rem7VjyXTjLHZEancDh2V
 #EXTINF:0, 119 – Capitão Vídeo (Parte 1).mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/119%20%E2%80%93%20Capit%C3%A3o%20V%C3%ADdeo%20(Parte%201).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZX2QkKWfyEZJi9YKkPHKRzI67914S5sA
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/119%20%E2%80%93%20Capit%C3%A3o%20V%C3%ADdeo%20(Parte%201).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZX2QkKWfyEZJi9YKkPHKRzI67914S5sA
 #EXTINF:0, 120 – Capitão Vídeo (Parte 2).mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/120%20%E2%80%93%20Capit%C3%A3o%20V%C3%ADdeo%20(Parte%202).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ttFSsO90pF-cQypy0j-K7JVPnzyxg-9-
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/120%20%E2%80%93%20Capit%C3%A3o%20V%C3%ADdeo%20(Parte%202).mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ttFSsO90pF-cQypy0j-K7JVPnzyxg-9-
 #EXTINF:0, 95 – Dose Dupla.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/95%20%E2%80%93%20Dose%20Dupla.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1utpWxgYFnD3clXJyyUxgTLTPcx7vWZ_o
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/95%20%E2%80%93%20Dose%20Dupla.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1utpWxgYFnD3clXJyyUxgTLTPcx7vWZ_o
 #EXTINF:0, 96 – Michelle Casamenteira.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/96%20%E2%80%93%20Michelle%20Casamenteira.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10PTOsKoTNIcMrNdR8fiWBQaWFVCLavNg
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/96%20%E2%80%93%20Michelle%20Casamenteira.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10PTOsKoTNIcMrNdR8fiWBQaWFVCLavNg
 #EXTINF:0, 97 – Fique Com Minha Irmã, Por Favor.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/97%20%E2%80%93%20Fique%20Com%20Minha%20Irm%C3%A3,%20Por%20Favor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TALBib1U1L9m11waGoIOAHWBCaefa1Bs
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/97%20%E2%80%93%20Fique%20Com%20Minha%20Irm%C3%A3,%20Por%20Favor.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1TALBib1U1L9m11waGoIOAHWBCaefa1Bs
 #EXTINF:0, 98 – Onde Foi Parar a Minha Menininha?.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/98%20%E2%80%93%20Onde%20Foi%20Parar%20a%20Minha%20Menininha?.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yD04TTDAi25e0saj0LGYAllTssiyePPq
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/98%20%E2%80%93%20Onde%20Foi%20Parar%20a%20Minha%20Menininha?.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1yD04TTDAi25e0saj0LGYAllTssiyePPq
 #EXTINF:0, 99 – O Rei e Eu.mkv
-http://m3u.herokuapp.com/api/v1/redirectdownload/99%20%E2%80%93%20O%20Rei%20e%20Eu.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DmqBlLfWnN1dc2OOe9ei79-CXKIjZx5y
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/99%20%E2%80%93%20O%20Rei%20e%20Eu.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1DmqBlLfWnN1dc2OOe9ei79-CXKIjZx5y

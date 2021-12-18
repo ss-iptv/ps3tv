@@ -2,48 +2,48 @@
 #EXTENC: UTF-8
 #PLAYLIST: Lost 3ª Temporada
 #EXTINF:0, 1 - Um Conto de Duas Cidades.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/1%20-%20Um%20Conto%20de%20Duas%20Cidades.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AgOJdjgm6vahLIeYB9yAQgMY2Tocn16F
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/1%20-%20Um%20Conto%20de%20Duas%20Cidades.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AgOJdjgm6vahLIeYB9yAQgMY2Tocn16F
 #EXTINF:0, 10 - Tricia Tanaka está Morta.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/10%20-%20Tricia%20Tanaka%20est%C3%A1%20Morta.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=120szQ6cH-7IFGvVMhG7_vQyztxr04h8n
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/10%20-%20Tricia%20Tanaka%20est%C3%A1%20Morta.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=120szQ6cH-7IFGvVMhG7_vQyztxr04h8n
 #EXTINF:0, 11 - Digite 77.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/11%20-%20Digite%2077.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18_XsyfNpfRJmM-CjTCndBaTfHPHKAXDZ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/11%20-%20Digite%2077.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18_XsyfNpfRJmM-CjTCndBaTfHPHKAXDZ
 #EXTINF:0, 12 - De Avião.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/12%20-%20De%20Avi%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gVkx1kzZiI7PyANxkDLoPOanYWfNN7dh
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/12%20-%20De%20Avi%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1gVkx1kzZiI7PyANxkDLoPOanYWfNN7dh
 #EXTINF:0, 13 - O Homem de Tallahassee.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/13%20-%20O%20Homem%20de%20Tallahassee.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BWSVNlbMJl8Wjq3mSr2U5hKYLiEQQT4k
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/13%20-%20O%20Homem%20de%20Tallahassee.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1BWSVNlbMJl8Wjq3mSr2U5hKYLiEQQT4k
 #EXTINF:0, 14 - Exposé.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/14%20-%20Expos%C3%A9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16c09JJGVCdy4jhk4eQvZmKZx1szLz2e5
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/14%20-%20Expos%C3%A9.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=16c09JJGVCdy4jhk4eQvZmKZx1szLz2e5
 #EXTINF:0, 15 - Deixada para Trás.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/15%20-%20Deixada%20para%20Tr%C3%A1s.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11Q9mfHhc4DF11IDLwe1tBvx2mzZa50CZ
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/15%20-%20Deixada%20para%20Tr%C3%A1s.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=11Q9mfHhc4DF11IDLwe1tBvx2mzZa50CZ
 #EXTINF:0, 16 - Uma de Nós.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/16%20-%20Uma%20de%20N%C3%B3s.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AGykUE4nyelsziwEwCe3CQt1ON5BpqyG
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/16%20-%20Uma%20de%20N%C3%B3s.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1AGykUE4nyelsziwEwCe3CQt1ON5BpqyG
 #EXTINF:0, 17 - Ardil-22.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/17%20-%20Ardil-22.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MfTxgaB-NfNAy1LebkXSAKYPXUNyt90_
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/17%20-%20Ardil-22.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1MfTxgaB-NfNAy1LebkXSAKYPXUNyt90_
 #EXTINF:0, 18 - Data De Concepção.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/18%20-%20Data%20De%20Concep%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dAVxB34FO5AjZafNCw48nKbJ71B1KJOY
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/18%20-%20Data%20De%20Concep%C3%A7%C3%A3o.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dAVxB34FO5AjZafNCw48nKbJ71B1KJOY
 #EXTINF:0, 19 - A Cela.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/19%20-%20A%20Cela.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10T18ilpWjUfc9pkXN66ZBSAcwATVUbx6
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/19%20-%20A%20Cela.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=10T18ilpWjUfc9pkXN66ZBSAcwATVUbx6
 #EXTINF:0, 2 - A Bailarina de Cristal.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/2%20-%20A%20Bailarina%20de%20Cristal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SymY0bfO1bmeAiLLqMw8AKnFGBG6KKKF
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/2%20-%20A%20Bailarina%20de%20Cristal.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1SymY0bfO1bmeAiLLqMw8AKnFGBG6KKKF
 #EXTINF:0, 20 - O Homem por Trás da Cortina.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/20%20-%20O%20Homem%20por%20Tr%C3%A1s%20da%20Cortina.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18WVJTl5ReUTlS1NluKnL3FZ_e5eFPrdL
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/20%20-%20O%20Homem%20por%20Tr%C3%A1s%20da%20Cortina.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=18WVJTl5ReUTlS1NluKnL3FZ_e5eFPrdL
 #EXTINF:0, 21 - Melhores Momentos.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/21%20-%20Melhores%20Momentos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P9UWAcU9ZP6lyrpyj3p9P_UwbsvygHXm
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/21%20-%20Melhores%20Momentos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1P9UWAcU9ZP6lyrpyj3p9P_UwbsvygHXm
 #EXTINF:0, 22 - Através do Espelho, Parte 1.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/22%20-%20Atrav%C3%A9s%20do%20Espelho,%20Parte%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1scFdnXSGQs8ETfV2boLAdwuTTgrr7kUH
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/22%20-%20Atrav%C3%A9s%20do%20Espelho,%20Parte%201.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1scFdnXSGQs8ETfV2boLAdwuTTgrr7kUH
 #EXTINF:0, 23 - Através do Espelho, Parte 2.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/23%20-%20Atrav%C3%A9s%20do%20Espelho,%20Parte%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wH2U36Ktqj3oCrZ4QbKQZmg-oeHF4f1s
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/23%20-%20Atrav%C3%A9s%20do%20Espelho,%20Parte%202.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1wH2U36Ktqj3oCrZ4QbKQZmg-oeHF4f1s
 #EXTINF:0, 3 - Explicações Futuras.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/3%20-%20Explica%C3%A7%C3%B5es%20Futuras.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ifK7yWfMDjSCRu74c8CJ5RveEcL7S43T
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/3%20-%20Explica%C3%A7%C3%B5es%20Futuras.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ifK7yWfMDjSCRu74c8CJ5RveEcL7S43T
 #EXTINF:0, 4 - Cada Um por Si.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/4%20-%20Cada%20Um%20por%20Si.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x9EqeHtVVlLd7dT30cjAEDTy9-qNO1jr
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/4%20-%20Cada%20Um%20por%20Si.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x9EqeHtVVlLd7dT30cjAEDTy9-qNO1jr
 #EXTINF:0, 5 - O Preço de Viver.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/5%20-%20O%20Pre%C3%A7o%20de%20Viver.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YHgC6coP-A5HsdpQOt0H65nOTJhztnzi
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/5%20-%20O%20Pre%C3%A7o%20de%20Viver.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1YHgC6coP-A5HsdpQOt0H65nOTJhztnzi
 #EXTINF:0, 6 - Eu Aceito.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/6%20-%20Eu%20Aceito.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13YHbF4jqp0X4-m2wPWKyhcvygDwcKxAi
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/6%20-%20Eu%20Aceito.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=13YHbF4jqp0X4-m2wPWKyhcvygDwcKxAi
 #EXTINF:0, 7 - Não em Portland.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/7%20-%20N%C3%A3o%20em%20Portland.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E_sNa-Xwy_3_XrNC0aPROtR3NU_4CB9R
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/7%20-%20N%C3%A3o%20em%20Portland.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1E_sNa-Xwy_3_XrNC0aPROtR3NU_4CB9R
 #EXTINF:0, 8 - Visões Diante de Seus Olhos.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/8%20-%20Vis%C3%B5es%20Diante%20de%20Seus%20Olhos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Vj5UfRb8RaHPoaXmkKYaw2i4sf07dUUT
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/8%20-%20Vis%C3%B5es%20Diante%20de%20Seus%20Olhos.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1Vj5UfRb8RaHPoaXmkKYaw2i4sf07dUUT
 #EXTINF:0, 9 - Estranho em uma Terra Estranha.mp4
-http://m3u.herokuapp.com/api/v1/redirectdownload/9%20-%20Estranho%20em%20uma%20Terra%20Estranha.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vvXyCZs211IJ0k1jDoqRIu0LD903b6No
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/9%20-%20Estranho%20em%20uma%20Terra%20Estranha.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1vvXyCZs211IJ0k1jDoqRIu0LD903b6No
