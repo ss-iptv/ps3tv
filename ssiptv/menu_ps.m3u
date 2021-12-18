@@ -1,0 +1,14 @@
+#EXTM3U size="big"
+
+#EXTINF:0 type="playlist" tvg-logo="",SERIES
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_series.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",FILMES
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_filmes.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",ANIMES
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_animes.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="",CANAIS
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/menu/menu_canais.m3u
+
