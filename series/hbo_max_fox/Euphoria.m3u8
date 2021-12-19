@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Euphoria
+#EXTINF:0, Euphoria S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E01.mp4?a=0&id=1XQjpfRQdo4odVIl8NREG9TBDchdKjank
+#EXTINF:0, Euphoria S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E02.mp4?a=0&id=1hEMAVv_ItzR8EVPIXlcP5yRG4kL_BoH-
+#EXTINF:0, Euphoria S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E03.mp4?a=0&id=1kNF3lBxEoiqCAccbarwoK42AkfV7pt4t
+#EXTINF:0, Euphoria S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E04.mp4?a=0&id=1vfcBq0t7ddz2OAbktAxy_SudawG8f0n3
+#EXTINF:0, Euphoria S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E05.mp4?a=0&id=1-VXEq22C2qgGIA_MIBVd7mwpLR9o5VUD
+#EXTINF:0, Euphoria S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E06.mp4?a=0&id=1c_b1f70LimzRPGPOyD_Vljg-ugA6IwW3
+#EXTINF:0, Euphoria S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E07.mp4?a=0&id=1H7wLllwrIgH7z93Jlr11llT3KcDZPyCr
+#EXTINF:0, Euphoria S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Euphoria%20S01%20E08.mp4?a=0&id=1Dmrf7Q_Iv1GIr-0Sagao3MAgt6aurLkW

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Direito Processual Penal - Norberto Florindo
+#EXTINF:0, Aula 01.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2001.mp4?a=0&id=1bk3aKdHYEYXnCFrM69PN3LZXMRcSZltN
+#EXTINF:0, aula 02.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/aula%2002.mp4?a=0&id=1IEzRyUlxaVUNM_pCOvTHZWkhkc981xBM
+#EXTINF:0, aula 03.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/aula%2003.mp4?a=0&id=1_paN2f2wj2S__RE99dHbmgzkRWcxRtac

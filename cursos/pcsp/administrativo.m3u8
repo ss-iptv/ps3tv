@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Direito Administrativo - Larissa Carvalho
+#EXTINF:0, Aula 01.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2001.mp4?a=0&id=1yoaB12YO5yXQURYCB6vox4u2mzsmSKRw
+#EXTINF:0, Aula 02.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2002.mp4?a=0&id=1cjPi0DM2SgdUk8uPgYZZq_P2EJyLK9Dw
+#EXTINF:0, Aula 03.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2003.mp4?a=0&id=1rLg8-c_dXY5Tc9k41ui2h8uRAY9iuFx5
+#EXTINF:0, Aula 04.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2004.mp4?a=0&id=1sVY_YtJ6O4GboHXRRVELdysxcXjslz_b

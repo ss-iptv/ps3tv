@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: OUTUBRO
+#EXTINF:0, 1.0 - Sexta 01/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/1.0%20-%20Sexta%2001/10/2021.mp4?a=0&id=1HI5kpbN7nOlbDBTeKAbUSl3Y7qSb9kjN
+#EXTINF:0, 1.1 - Língua Portuguesa - Alexandre Soares- Advérbio Conjunção Preposição.mkv
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/1.1%20-%20L%C3%ADngua%20Portuguesa%20-%20Alexandre%20Soares-%20Adv%C3%A9rbio%20Conjun%C3%A7%C3%A3o%20Preposi%C3%A7%C3%A3o.mkv?a=0&id=1ccvs7iE3cB67ATK9piLSPodjWiKxekPf
+#EXTINF:0, 1.2 - Direito Administrativo - Tiago Vidal.mkv
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/1.2%20-%20Direito%20Administrativo%20-%20Tiago%20Vidal.mkv?a=0&id=1aPjjt9Xh7D8pJLYYwExiQ32cSZUykUz3
+#EXTINF:0, 1.3 - Informática - Rafael Araújo - Computação em Nuvem.mkv
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/1.3%20-%20Inform%C3%A1tica%20-%20Rafael%20Ara%C3%BAjo%20-%20Computa%C3%A7%C3%A3o%20em%20Nuvem.mkv?a=0&id=13L4_I_zbHBISyiX9tIPHJmRP6lBK8_en
+#EXTINF:0, 1.4 - RLM - André Arruda.mkv
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/1.4%20-%20RLM%20-%20Andr%C3%A9%20Arruda.mkv?a=0&id=1Be9iHvVys5RKJRClIFsl64EgT2n8SUJR
+#EXTINF:0, 10.0 - Terça 12/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/10.0%20-%20Ter%C3%A7a%2012/10/2021.mp4?a=0&id=1dCBwrL4Tr_OrUV1vSg82MHcyrjt_5Y1N
+#EXTINF:0, 10.1 - Dos crimes contra a Administração Pública.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/10.1%20-%20Dos%20crimes%20contra%20a%20Administra%C3%A7%C3%A3o%20P%C3%BAblica.ts?a=0&id=1eIMCDdS1kvTz1awNjtxT-L3XlrAh3gSj
+#EXTINF:0, 10.2 - Frase, oração, período Análise sintática-termos da oração.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/10.2%20-%20Frase,%20ora%C3%A7%C3%A3o,%20per%C3%ADodo%20An%C3%A1lise%20sint%C3%A1tica-termos%20da%20ora%C3%A7%C3%A3o.mp4?a=0&id=16OtCvOOVebbf37Dh1mok3VV86UpfDbM0
+#EXTINF:0, 10.3 - Programação Conceito, Lógica Linguagem R.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/10.3%20-%20Programa%C3%A7%C3%A3o%20Conceito,%20L%C3%B3gica%20Linguagem%20R.ts?a=0&id=1qY1QBIxUZGBkDnPhwT1hsU_KjgVv3qZO
+#EXTINF:0, 10.4 - Dos crimes contra a Administração Pública.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/10.4%20-%20Dos%20crimes%20contra%20a%20Administra%C3%A7%C3%A3o%20P%C3%BAblica.ts?a=0&id=1z8u_WP9-fQ0C525i2qOtZ3TvLDK9VP01
+#EXTINF:0, 11.0 - Quarta 13/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/11.0%20-%20Quarta%2013/10/2021.mp4?a=0&id=1-mpOseb4VwuIM9Jm0ra4Xn8nunRoDstk
+#EXTINF:0, 11.2 - Teoria de Conjuntos Conceitos, Conjunto das Partes, Operações entre Conjuntos e Relação entre Conjuntos e Conectivos Operações e Aplicação das Operações.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/11.2%20-%20Teoria%20de%20Conjuntos%20Conceitos,%20Conjunto%20das%20Partes,%20Opera%C3%A7%C3%B5es%20entre%20Conjuntos%20e%20Rela%C3%A7%C3%A3o%20entre%20Conjuntos%20e%20Conectivos%20Opera%C3%A7%C3%B5es%20e%20Aplica%C3%A7%C3%A3o%20das%20Opera%C3%A7%C3%B5es.ts?a=0&id=1j2yC01-yUq2c54CIuJTCkJFHmU0BUSb3
+#EXTINF:0, 11.3 - Língua Portuguesa - Rachel Ribeiro - Sujeito.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/11.3%20-%20L%C3%ADngua%20Portuguesa%20-%20Rachel%20Ribeiro%20-%20Sujeito.ts?a=0&id=1jUYhJhdkXSfx3VmZspArngmUMSvmziF_
+#EXTINF:0, 11.4 - Direito Penal - Norberto Florindo - Crimes contra a família.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/11.4%20-%20Direito%20Penal%20-%20Norberto%20Florindo%20-%20Crimes%20contra%20a%20fam%C3%ADlia.ts?a=0&id=1K42lx5rT9mRTqMvrqCJaIM7EeJJ1yJbt
+#EXTINF:0, 12.0 - Quinta 14/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/12.0%20-%20Quinta%2014/10/2021.mp4?a=0&id=1gIiGX0iXW8hojNjgDdHLfDOjcRPSLDhT
+#EXTINF:0, 12.1 - Informática - Rafael Araújo - Linguagem R.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/12.1%20-%20Inform%C3%A1tica%20-%20Rafael%20Ara%C3%BAjo%20-%20Linguagem%20R.mp4?a=0&id=1xvmCUjsbSkIikvzMpF-KMyCTmoKz8tSg
+#EXTINF:0, 12.2 - Predicado Predicativo do sujeito e do objeto.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/12.2%20-%20Predicado%20Predicativo%20do%20sujeito%20e%20do%20objeto.ts?a=0&id=11EOOh6TRgQtPR2eGa4j--2YEtHfolP8Z
+#EXTINF:0, 12.3 - Complemento verbal Adjunto adverbial.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/12.3%20-%20Complemento%20verbal%20Adjunto%20adverbial.ts?a=0&id=1ZQ_as4QxXkRSs2_jHjvc8P32JEJUNS0V
+#EXTINF:0, 12.4 - Direito Processual Penal - Tiago Vidal - Tribunal do júri.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/12.4%20-%20Direito%20Processual%20Penal%20-%20Tiago%20Vidal%20-%20Tribunal%20do%20j%C3%BAri.ts?a=0&id=1lzD6SxuPj7e88M4RsE2PeX03NWHsOOGz
+#EXTINF:0, 13.0 - Sexta 15/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/13.0%20-%20Sexta%2015/10/2021.mp4?a=0&id=1TEDxlIlbNfA81oYl15Ol48Dw0p9YgAnF
+#EXTINF:0, 13.1 - Complemento nominal Agente da passiva Adjunto adnominal.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/13.1%20-%20Complemento%20nominal%20Agente%20da%20passiva%20Adjunto%20adnominal.ts?a=0&id=1a0ifbw8YDWNUvZ9JvsJmb_JELvBU5q8A
+#EXTINF:0, 13.2 - Probabilidade Conceitos e Cálculo da Probabilidade (Probabilidade Complementar) Casos Especiais ...mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/13.2%20-%20Probabilidade%20Conceitos%20e%20C%C3%A1lculo%20da%20Probabilidade%20(Probabilidade%20Complementar)%20Casos%20Especiais%20...mp4?a=0&id=1o8b3NVOgrui8y5qOtXI5_VCZ0xARaQ_k
+#EXTINF:0, 13.3 - Aposto e Vocativo Palavra SE.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/13.3%20-%20Aposto%20e%20Vocativo%20Palavra%20SE.ts?a=0&id=1tUNfnHKOqUUjRluxwda5HwXmL_3RqPXh
+#EXTINF:0, 13.4 - Linguagem R.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/13.4%20-%20Linguagem%20R.ts?a=0&id=1YT7296ViPRnuSPopd5gwnFwAJw-aHv_3
+#EXTINF:0, 14.0 - Sabado 16/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/14.0%20-%20Sabado%2016/10/2021.mp4?a=0&id=1Kji8pYqQez_anlmwUknu_Ljw2XCPi9Sg
+#EXTINF:0, 14.1 - Exercícios dos conteúdos já dados.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/14.1%20-%20Exerc%C3%ADcios%20dos%20conte%C3%BAdos%20j%C3%A1%20dados.ts?a=0&id=1wozOyj40mQLzSKmtj4kRwRcdXTXbWl2i
+#EXTINF:0, 14.2 - Direito Previdenciário - Fernanda Helene - Exercícios dos conteúdos já dados.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/14.2%20-%20Direito%20Previdenci%C3%A1rio%20-%20Fernanda%20Helene%20-%20Exerc%C3%ADcios%20dos%20conte%C3%BAdos%20j%C3%A1%20dados.mp4?a=0&id=1SpKy6oLD1-8r09Gsmnw0LMcLGTZqtCiI
+#EXTINF:0, 15.0 - Segunda 18/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/15.0%20-%20Segunda%2018/10/2021.mp4?a=0&id=1tLeYXYcEp4rAM_pa6cvy6tPLK6jqw1hr
+#EXTINF:0, 15.1 - LEI 8.112-90 Sindicância, processo sumário e PAD Parte.1 Sindicância, processo sumário e PAD par...mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/15.1%20-%20LEI%208.112-90%20Sindic%C3%A2ncia,%20processo%20sum%C3%A1rio%20e%20PAD%20Parte.1%20Sindic%C3%A2ncia,%20processo%20sum%C3%A1rio%20e%20PAD%20par...mp4?a=0&id=1G29XdRqTQ7oRkHOi27t4ePWveZF5BWwS
+#EXTINF:0, 15.2 - Redes P14 Redes P15 Redes P16.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/15.2%20-%20Redes%20P14%20Redes%20P15%20Redes%20P16.ts?a=0&id=1a0tNsPr9GHgeKxT9fBy4iPUuXq5fhcmt
+#EXTINF:0, 15.3 - Língua Portuguesa - Flauzino - Palavra QUE.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/15.3%20-%20L%C3%ADngua%20Portuguesa%20-%20Flauzino%20-%20Palavra%20QUE.ts?a=0&id=1njoixm6siXQh3WRn2fIybTELG7iRO89Z
+#EXTINF:0, 15.4 - Probabilidade Conceitos e Cálculo da Probabilidade (Probabilidade Complementar) Casos Especiais (Probabilidade Sucessiva ou Independente, Probabilidade Condicional, Probabilida.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/15.4%20-%20Probabilidade%20Conceitos%20e%20C%C3%A1lculo%20da%20Probabilidade%20(Probabilidade%20Complementar)%20Casos%20Especiais%20(Probabilidade%20Sucessiva%20ou%20Independente,%20Probabilidade%20Condicional,%20Probabilida.ts?a=0&id=1F4jIuIt7D2TzfG9YHTKRgySnq-kPNSJK
+#EXTINF:0, 16.0 - Terça 19/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/16.0%20-%20Ter%C3%A7a%2019/10/2021.mp4?a=0&id=1Q1eRYLya9dJxo15ofWby0Scu4yEysrA5
+#EXTINF:0, 16.1 - Oração coordenada assindética e sindética Orações coordenadas sindéticas.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/16.1%20-%20Ora%C3%A7%C3%A3o%20coordenada%20assind%C3%A9tica%20e%20sind%C3%A9tica%20Ora%C3%A7%C3%B5es%20coordenadas%20sind%C3%A9ticas.ts?a=0&id=1MCXsZYY5mz3dujJIwR-nYX6e-_oesNCR
+#EXTINF:0, 16.2 - Direito Constitucional - Rogério Dal Piva - Direitos e deveres individuais e coletivos III.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/16.2%20-%20Direito%20Constitucional%20-%20Rog%C3%A9rio%20Dal%20Piva%20-%20Direitos%20e%20deveres%20individuais%20e%20coletivos%20III.ts?a=0&id=1pzSia0ZRHRaZRdTrKUhoDTXqhzYBSfXh
+#EXTINF:0, 16.3 - Direito Processual Penal - Tiago Vidal - Cadeia de custódia.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/16.3%20-%20Direito%20Processual%20Penal%20-%20Tiago%20Vidal%20-%20Cadeia%20de%20cust%C3%B3dia.ts?a=0&id=1vc1saGQ8Z0cXfkrjDH7wN8sbM2Dl1k5m
+#EXTINF:0, 16.4 - Direitos e deveres individuais e coletivos III.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/16.4%20-%20Direitos%20e%20deveres%20individuais%20e%20coletivos%20III.ts?a=0&id=173GR0aJVMxcr7yWxVIzLWyKpYmMK7Imi
+#EXTINF:0, 17.0 - Quarta 20/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/17.0%20-%20Quarta%2020/10/2021.mp4?a=0&id=1jVTG0-suONJMdqZPkuzp4khqICrxO1U4
+#EXTINF:0, 17.1 - Direito Processual Penal - Tiago Vidal - Maria da Penha.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/17.1%20-%20Direito%20Processual%20Penal%20-%20Tiago%20Vidal%20-%20Maria%20da%20Penha.ts?a=0&id=1LZFv6LUQ6FP0gMmilF92qMMRfM8Pl9_E
+#EXTINF:0, 17.2 - Direito Constitucional - Cardoso Neto - Direitos sociais; Introdução, características, mínimo existencial, reserva do possível e aplicabilidade;.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/17.2%20-%20Direito%20Constitucional%20-%20Cardoso%20Neto%20-%20Direitos%20sociais;%20Introdu%C3%A7%C3%A3o,%20caracter%C3%ADsticas,%20m%C3%ADnimo%20existencial,%20reserva%20do%20poss%C3%ADvel%20e%20aplicabilidade;.ts?a=0&id=1i9Py4RyfmKt6CeoRAFzorNj8G-qNcH3A
+#EXTINF:0, 17.3 - Lei 8666-93 Conceito, obrigatoriedade de licitar Princípios da licitação Fases da l...mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/17.3%20-%20Lei%208666-93%20Conceito,%20obrigatoriedade%20de%20licitar%20Princ%C3%ADpios%20da%20licita%C3%A7%C3%A3o%20Fases%20da%20l...mp4?a=0&id=1YHTQiCniqzFHnuucwnx9rBycyLvNpYEl
+#EXTINF:0, 17.4 - Conjuntos Numéricos Operações com Números Múltiplos e Divisores Critérios de Divisibilidade Frações.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/17.4%20-%20Conjuntos%20Num%C3%A9ricos%20Opera%C3%A7%C3%B5es%20com%20N%C3%BAmeros%20M%C3%BAltiplos%20e%20Divisores%20Crit%C3%A9rios%20de%20Divisibilidade%20Fra%C3%A7%C3%B5es.ts?a=0&id=1q8_O33C_82qAijhMaFoi6oKHrIke9J6h
+#EXTINF:0, 18.1 - Learn Machine e IA Conceitos e definições.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/18.1%20-%20Learn%20Machine%20e%20IA%20Conceitos%20e%20defini%C3%A7%C3%B5es.mp4?a=0&id=1JMmc8J7oAEBAUPNMkj_zh2g41tdkWqrf
+#EXTINF:0, 18.2 - Lei 8666_93 Contratação direta - inexigibilidade e dispensa Contratação direta - licitação dispensável CONTRATOS ADMINISTRATIVOS Conceito, sujeitos, caract.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/18.2%20-%20Lei%208666_93%20Contrata%C3%A7%C3%A3o%20direta%20-%20inexigibilidade%20e%20dispensa%20Contrata%C3%A7%C3%A3o%20direta%20-%20licita%C3%A7%C3%A3o%20dispens%C3%A1vel%20CONTRATOS%20ADMINISTRATIVOS%20Conceito,%20sujeitos,%20caract.ts?a=0&id=1imYy2EpxujqkrHxpz-cqB0F495lnr7bG
+#EXTINF:0, 18.3 - Funções sintáticas do pronome relativo Funções sintáticas do pronome pessoal.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/18.3%20-%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20do%20pronome%20relativo%20Fun%C3%A7%C3%B5es%20sint%C3%A1ticas%20do%20pronome%20pessoal.ts?a=0&id=1zYhOpV3ineGV2dm1ATOSB0plQVQjWCOs
+#EXTINF:0, 18.4 - LICITAÇÕES - Lei 14.133_2021.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/18.4%20-%20LICITA%C3%87%C3%95ES%20-%20Lei%2014.133_2021.ts?a=0&id=1njdqpGSfxiey5pV42kr5vimn7mSxkn6v
+#EXTINF:0, 2.0 - Sabado 02/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/2.0%20-%20Sabado%2002/10/2021.mp4?a=0&id=1raoyYeNnmuI-LWdMScQ4Fdb9o0JBn3SL
+#EXTINF:0, 2.1 - Direito Constitucional - Rogério Dal Piva - Exercícios dos conteúdos já dados.mkv
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/2.1%20-%20Direito%20Constitucional%20-%20Rog%C3%A9rio%20Dal%20Piva%20-%20Exerc%C3%ADcios%20dos%20conte%C3%BAdos%20j%C3%A1%20dados.mkv?a=0&id=11SFjqnM1-4rJE_tX7ywM-K6FgF8Mp04h
+#EXTINF:0, 2.2 - Direito Penal - Rodrigo Gomes - Exercícios dos conteúdos já dados.mkv
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/2.2%20-%20Direito%20Penal%20-%20Rodrigo%20Gomes%20-%20Exerc%C3%ADcios%20dos%20conte%C3%BAdos%20j%C3%A1%20dados.mkv?a=0&id=1umVUpNx1dpOMJOqO6CdQyzMqzkEU5CIq
+#EXTINF:0, 3.0 - Segunda 04/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3.0%20-%20Segunda%2004/10/2021.mp4?a=0&id=1F74SA6ggsWFm533fU9EYUwzbuS0xkYe7
+#EXTINF:0, 3.1 - IPV4 e IPV6.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3.1%20-%20IPV4%20e%20IPV6.ts?a=0&id=1pQrEjHOfSYZnT6t5KTJV_Y3CY8SbrIaf
+#EXTINF:0, 3.2 - Análise Combinatória Fatorial e Princípio Fundamental da Contagem (PFC) Arranjo, Combinação e Permutação.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3.2%20-%20An%C3%A1lise%20Combinat%C3%B3ria%20Fatorial%20e%20Princ%C3%ADpio%20Fundamental%20da%20Contagem%20(PFC)%20Arranjo,%20Combina%C3%A7%C3%A3o%20e%20Permuta%C3%A7%C3%A3o.ts?a=0&id=1_b2pNtPAw7zm4xm2x9aIyABqArlI11O-
+#EXTINF:0, 3.3 - Teoria da pena Penas e penas privativas de liberdade Regras específicas dos regimes e detração Penas restritivas de direito Da aplicação da pena.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3.3%20-%20Teoria%20da%20pena%20Penas%20e%20penas%20privativas%20de%20liberdade%20Regras%20espec%C3%ADficas%20dos%20regimes%20e%20detra%C3%A7%C3%A3o%20Penas%20restritivas%20de%20direito%20Da%20aplica%C3%A7%C3%A3o%20da%20pena.ts?a=0&id=19YNOFf2Q4jHe6JVnBwDZAv4wC40_tcNZ
+#EXTINF:0, 3.4 - Direitos e deveres individuais e coletivos II.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/3.4%20-%20Direitos%20e%20deveres%20individuais%20e%20coletivos%20II.ts?a=0&id=1z6GT25WyzyuEoRMNHI7TVgasMDaUEhND
+#EXTINF:0, 4.0 - Terça 05/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/4.0%20-%20Ter%C3%A7a%2005/10/2021.mp4?a=0&id=1sYF4pgfH27FGAS4MbpovZlTc_Hx7KdIW
+#EXTINF:0, 4.1 - Análise Combinatória Casos Especiais (Arranjo com Repetição, Combinação com Repetição, Permutação com Repetição e Permutação Circular).ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/4.1%20-%20An%C3%A1lise%20Combinat%C3%B3ria%20Casos%20Especiais%20(Arranjo%20com%20Repeti%C3%A7%C3%A3o,%20Combina%C3%A7%C3%A3o%20com%20Repeti%C3%A7%C3%A3o,%20Permuta%C3%A7%C3%A3o%20com%20Repeti%C3%A7%C3%A3o%20e%20Permuta%C3%A7%C3%A3o%20Circular).ts?a=0&id=1k-GjbbJOllIoK15hRz5Rw6hgCONMG05N
+#EXTINF:0, 4.2 - CONCURSO DE CRIMES.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/4.2%20-%20CONCURSO%20DE%20CRIMES.ts?a=0&id=1_8s2M2PygXBo9VcQ0TD9L_I8mYkq2-jJ
+#EXTINF:0, 4.3 - Transitividade verbal – verbo intransitivo, transitivo, de ligação Transitividade verbal – predicação oscilante.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/4.3%20-%20Transitividade%20verbal%20%E2%80%93%20verbo%20intransitivo,%20transitivo,%20de%20liga%C3%A7%C3%A3o%20Transitividade%20verbal%20%E2%80%93%20predica%C3%A7%C3%A3o%20oscilante.ts?a=0&id=1V5SbWDWFcEsXlQmxRXDj_LY2CtnnLotX
+#EXTINF:0, 4.4 - Dos crimes contra a pessoa.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/4.4%20-%20Dos%20crimes%20contra%20a%20pessoa.ts?a=0&id=1E3xxJRxJSBLMrFq0-xffUEb5KhOgAn7j
+#EXTINF:0, 5.0 - Quarta 06/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/5.0%20-%20Quarta%2006/10/2021.mp4?a=0&id=1iX4bQWOnZFqYc7Zejq1qHyJdNRF7r3Oo
+#EXTINF:0, 5.1 - Dos crimes contra a pessoa.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/5.1%20-%20Dos%20crimes%20contra%20a%20pessoa.ts?a=0&id=1nhAtXUouP_r6aN_T6B70k289nsSpoXGp
+#EXTINF:0, 5.2- Análise Combinatória Fatorial e Princípio Fundamental da Contagem (PFC) Arranjo, Com...mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/5.2-%20An%C3%A1lise%20Combinat%C3%B3ria%20Fatorial%20e%20Princ%C3%ADpio%20Fundamental%20da%20Contagem%20(PFC)%20Arranjo,%20Com...mp4?a=0&id=1o5UgmMTDOgfPUUYyRI6oixgoRKjiJk5p
+#EXTINF:0, 5.3 - Dos crimes contra a pessoa.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/5.3%20-%20Dos%20crimes%20contra%20a%20pessoa.ts?a=0&id=1CIsN3Zk7Kpt82_U4qFlSSs8tFOmfJC8o
+#EXTINF:0, 5.4 - Introdução à jurisdição e competência e Competência em razão da matéria. Competência em Razão do Lugar Competência em razão da Pessoa. Conexão e continência.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/5.4%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20jurisdi%C3%A7%C3%A3o%20e%20compet%C3%AAncia%20e%20Compet%C3%AAncia%20em%20raz%C3%A3o%20da%20mat%C3%A9ria.%20Compet%C3%AAncia%20em%20Raz%C3%A3o%20do%20Lugar%20Compet%C3%AAncia%20em%20raz%C3%A3o%20da%20Pessoa.%20Conex%C3%A3o%20e%20contin%C3%AAncia.ts?a=0&id=1cY6Maco4kUcr55DHNJKBJlRGYnsxQLS8
+#EXTINF:0, 6.0 - Quinta 07/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/6.0%20-%20Quinta%2007/10/2021.mp4?a=0&id=1l9QmWGAy1P5C0UAaQx_SI1g54lkWXb48
+#EXTINF:0, 6.1 - BlockChain, mineração e criptomoedas.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/6.1%20-%20BlockChain,%20minera%C3%A7%C3%A3o%20e%20criptomoedas.ts?a=0&id=1x-LaS0bVpHf1Nbch02zEE9sSmC6TqwFP
+#EXTINF:0, 6.2 - Dos crimes contra a pessoa.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/6.2%20-%20Dos%20crimes%20contra%20a%20pessoa.ts?a=0&id=1-fY4bbYhKCdPdDM3sYkpL-hmG-jk7kbb
+#EXTINF:0, 6.3 - Dos crimes contra o patrimônio.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/6.3%20-%20Dos%20crimes%20contra%20o%20patrim%C3%B4nio.ts?a=0&id=1qqyHEJMyOvMeIuPvGnsj4d1LU6mFs4b6
+#EXTINF:0, 6.4 - Processo Penal - Citações e intimações..ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/6.4%20-%20Processo%20Penal%20-%20Cita%C3%A7%C3%B5es%20e%20intima%C3%A7%C3%B5es..ts?a=0&id=1EFkulmQTI3vUFiLd4JwEhkpM5K-AHAIw
+#EXTINF:0, 7.0 - Sexta 08/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/7.0%20-%20Sexta%2008/10/2021.mp4?a=0&id=1JOKpDQGx7tYmDogc4YoprMH4Mayy_uqc
+#EXTINF:0, 7.1 - Dos crimes contra o patrimônio.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/7.1%20-%20Dos%20crimes%20contra%20o%20patrim%C3%B4nio.ts?a=0&id=18ieRabej7rBwMS9eLKSBU6YRSIe9K8qo
+#EXTINF:0, 7.2 - Sintaxe Análise Sintática.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/7.2%20-%20Sintaxe%20An%C3%A1lise%20Sint%C3%A1tica.ts?a=0&id=1G_APLWJZ49HXKSJaKHLAPiDVR5dlIPA8
+#EXTINF:0, 7.4 - TGS.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/7.4%20-%20TGS.ts?a=0&id=1cKOopWwStugjr-GFi_FbA6cTtjqkSRBT
+#EXTINF:0, 8.0 - Sabado 09/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/8.0%20-%20Sabado%2009/10/2021.mp4?a=0&id=19CuVYzL9ngbymrzAaS2Vtn3WcDAQlD7n
+#EXTINF:0, 8.1 - Processo Penal - Rodrigo Gomes - Exercícios dos conteúdos já dados.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/8.1%20-%20Processo%20Penal%20-%20Rodrigo%20Gomes%20-%20Exerc%C3%ADcios%20dos%20conte%C3%BAdos%20j%C3%A1%20dados.ts?a=0&id=1mg-wDbaiEBs-s7bREltjksKwuaCGbPNr
+#EXTINF:0, 8.2 - Informática - João Paulo - Exercícios dos conteúdos já dados.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/8.2%20-%20Inform%C3%A1tica%20-%20Jo%C3%A3o%20Paulo%20-%20Exerc%C3%ADcios%20dos%20conte%C3%BAdos%20j%C3%A1%20dados.ts?a=0&id=1t6_a-whX14XjkbPF-8KeWJodZAa9hZd8
+#EXTINF:0, 9.0 - Segunda 11/10/2021.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/9.0%20-%20Segunda%2011/10/2021.mp4?a=0&id=16NRoryfRmf3wplGeBN058E7ypemTOQXa
+#EXTINF:0, 9.1 - Teoria de Conjuntos Conceitos, Conjunto das Partes, Operações entre Conjuntos e Relação entre Conjuntos e Conectivos Operações e Aplicação das Operações.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/9.1%20-%20Teoria%20de%20Conjuntos%20Conceitos,%20Conjunto%20das%20Partes,%20Opera%C3%A7%C3%B5es%20entre%20Conjuntos%20e%20Rela%C3%A7%C3%A3o%20entre%20Conjuntos%20e%20Conectivos%20Opera%C3%A7%C3%B5es%20e%20Aplica%C3%A7%C3%A3o%20das%20Opera%C3%A7%C3%B5es.ts?a=0&id=1o2GGtBILJrYYAljaBKl5IDwpVg4sJuQr
+#EXTINF:0, 9.3 - Direito Processual Penal - Tiago Vidal - Procedimento comum. Processo sumário..ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/9.3%20-%20Direito%20Processual%20Penal%20-%20Tiago%20Vidal%20-%20Procedimento%20comum.%20Processo%20sum%C3%A1rio..ts?a=0&id=1ocwA5HFwMSPnfcfOv2bpvvy5oy1Q-s1k
+#EXTINF:0, 9.4 - Direito Penal - Norberto Florindo - Dos crimes contra a fé pública Crimes contra a Paz Pública.ts
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/9.4%20-%20Direito%20Penal%20-%20Norberto%20Florindo%20-%20Dos%20crimes%20contra%20a%20f%C3%A9%20p%C3%BAblica%20Crimes%20contra%20a%20Paz%20P%C3%BAblica.ts?a=0&id=14XaRKbutQqKX5J2vnfXjv0gKuaSqTtxo

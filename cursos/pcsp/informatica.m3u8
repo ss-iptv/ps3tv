@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Informática - Cid Marques
+#EXTINF:0, Aula 01.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2001.mp4?a=0&id=1j1-VxiabMdo-oijH8eNPzXXUZNS55i1M
+#EXTINF:0, Aula 02.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2002.mp4?a=0&id=1CBB0iItXEZrqHgngClGHw7e94MA5bnhM
+#EXTINF:0, Aula 03.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2003.mp4?a=0&id=1IVvbEazsSfYqcLjDyYlbP9CxtM6M1srs
+#EXTINF:0, Aula 04.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2004.mp4?a=0&id=1KWmvXHQDb9cVFYgECmOBH6FNePMzmeOk

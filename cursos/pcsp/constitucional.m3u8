@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Direito Constitucional - André Adriano
+#EXTINF:0, Aula 01.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2001.mp4?a=0&id=1eUMaDFsRJZtpqrWz9r9ZMCCbpLyUyNGy
+#EXTINF:0, Aula 02.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2002.mp4?a=0&id=1B5qv3ifw0XshVSh-sOvKwUVyl7H7yKXe
+#EXTINF:0, Aula 03.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2003.mp4?a=0&id=1U00TUff3S3GGNbvkwwNjdIecdztp7lSJ
+#EXTINF:0, Aula 04.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2004.mp4?a=0&id=1PMAjjhqOSKSA4-9uMbZ14j7w-eBEu1-I
+#EXTINF:0, Aula 05.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Aula%2005.mp4?a=0&id=1w-d8vLzyCvr_GwYdVcZj4nkJujcai0er

@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: [Animal, Natureza, Vida Selvagem]
+#EXTINF:0, O Lobo de Yellowstone.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Lobo%20de%20Yellowstone.mp4?a=0&id=1ZndGN43S5P53Zk_f4C2auC4pUph2Aa7K
+#EXTINF:0, O Mestre da Pesca - Perca do Nilo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Mestre%20da%20Pesca%20-%20Perca%20do%20Nilo.mp4?a=0&id=1cAxnzkJ77E_6J5Dm4XZQVwkIuIyaP4ng
+#EXTINF:0, O Mestre da Pesca - Pirarucu.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Mestre%20da%20Pesca%20-%20Pirarucu.mp4?a=0&id=10-mpn5AA4FEhszAwSimlkjQVzVtMK_69
+#EXTINF:0, O Mestre da Pesca - Piraíba.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Mestre%20da%20Pesca%20-%20Pira%C3%ADba.mp4?a=0&id=1_HYFdE6KJpa1t-KGgqgdsVXqiQJ_VUqF
+#EXTINF:0, O Misterioso Peixe do Rio Congo - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Misterioso%20Peixe%20do%20Rio%20Congo%20-%20Legendado.mp4?a=0&id=1EJdWA_L_W-LDxq1qHkXG6aUdhiuuikj0
+#EXTINF:0, O Misterioso Universo das Cobras e Serpentes.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Misterioso%20Universo%20das%20Cobras%20e%20Serpentes.mp4?a=0&id=15QUj0Xwl7WE8eS4tpy0v6eB0RRahzgX6
+#EXTINF:0, O Mistério do Tubarão-Branco.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Mist%C3%A9rio%20do%20Tubar%C3%A3o-Branco.mp4?a=0&id=1nfmFr2W7RWVR_-dYsrTXcWYyr6q6Cr8m
+#EXTINF:0, O Mistério dos Monstros Aquáticos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Mist%C3%A9rio%20dos%20Monstros%20Aqu%C3%A1ticos.mp4?a=0&id=1XFG4i05vJ89fQido-T3j2HD8EZl3vvqN
+#EXTINF:0, O Oeste Selvagem Da África - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Oeste%20Selvagem%20Da%20%C3%81frica%20-%20720p.mkv?a=0&id=1it11zaPdf_Jx3PnC5OwxQ3YmcIV34PvS
+#EXTINF:0, O Paraiso Perdido de Africa - Africa's Lost Eden - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Paraiso%20Perdido%20de%20Africa%20-%20Africa's%20Lost%20Eden%20-%20Legendado.mp4?a=0&id=1--dZBHVUhNgD0cyYe4Cw7LEon1U8gyRJ
+#EXTINF:0, O Paraíso Perdido.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Para%C3%ADso%20Perdido.mkv?a=0&id=1IIOytFsWvF7m1eH5kkiD4fwZr7hesDMv
+#EXTINF:0, O Poderoso Dragão de Komodo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Poderoso%20Drag%C3%A3o%20de%20Komodo.mp4?a=0&id=1GgG3n6uxn1qyju4uvSw2B73d9f7gMMgp
+#EXTINF:0, O Ponto de Vista das Formigas.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Ponto%20de%20Vista%20das%20Formigas.mp4?a=0&id=1K0fYmavLYU4sGsCM64wn2-LkfgJc-caV
+#EXTINF:0, O Pântano de Atchafalaya - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20P%C3%A2ntano%20de%20Atchafalaya%20-%20720p.mkv?a=0&id=1eAW-XYM57PYK89XnLBvfAFtXww_KvR4L
+#EXTINF:0, O Pântano de Okefenokee.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20P%C3%A2ntano%20de%20Okefenokee.mp4?a=0&id=1jxFwh3nXUA2lQPmoW7aBAKxmqN_ICKap
+#EXTINF:0, O Rei Carcaju.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Rei%20Carcaju.mp4?a=0&id=1OCE0z0WknzfbKj6gybZE_Llx9Eyp-o4u
+#EXTINF:0, O Rei Gorila.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Rei%20Gorila.mkv?a=0&id=1G1onDJhyit45jB1QhtJkN_7P4Zz5BtG4
+#EXTINF:0, O Reino da Baleia Azul.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Reino%20da%20Baleia%20Azul.mkv?a=0&id=1IpHqaivJSe-pEDEevNMTt7yyz9Pc_2xW
+#EXTINF:0, O Reino da Cobra Real - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Reino%20da%20Cobra%20Real%20-%20Legendado.mp4?a=0&id=1ZB5Pu5e7UEg1iBB-omuxG55lI3ymyTi-
+#EXTINF:0, O Reino do Leopardo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Reino%20do%20Leopardo.mp4?a=0&id=1Wu6jSot8lHf8KZK92Ex4ONMPHNS10cUx
+#EXTINF:0, O Reino dos Primatas - 2015 - 720p.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Reino%20dos%20Primatas%20-%202015%20-%20720p.mp4?a=0&id=1Pn6S-1AwseobbbDLoj5OTRqB604SDqOO
+#EXTINF:0, O Resgate dos Leopardos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Resgate%20dos%20Leopardos.mp4?a=0&id=1Q26riP1abYfuH3Vicj_lvvOoXTuoUt6G
+#EXTINF:0, O Ringue dos Crocodilos.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Ringue%20dos%20Crocodilos.mkv?a=0&id=1TPWfaWfeRhb1YigSNWMWrnheUtzfgEpx
+#EXTINF:0, O Super Bando.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Super%20Bando.mp4?a=0&id=1HxaPHpUwsbXFFfIyDtzMWgqgzYXIrYhT
+#EXTINF:0, O Temível Crocodilo de Água Salgada.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Tem%C3%ADvel%20Crocodilo%20de%20%C3%81gua%20Salgada.mp4?a=0&id=1zr9yQEjnDD6yAckFbxdZhFsmApEYO7uO
+#EXTINF:0, O Temível Tubarão de Rio.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Tem%C3%ADvel%20Tubar%C3%A3o%20de%20Rio.mp4?a=0&id=1Jq9wSIZuDPcMIq-zYP8aA1OMssP-KLC1
+#EXTINF:0, O Tigre e o Canguru.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Tigre%20e%20o%20Canguru.mp4?a=0&id=1Nt97nwjcXV7cxl_a3p0f10lHifSBUq5A
+#EXTINF:0, O Tubarão-Touro.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Tubar%C3%A3o-Touro.mp4?a=0&id=1IgBbS3N2sXapOLIzvV2g7fcrLDY0p1cm
+#EXTINF:0, O Urso-Beiçudo da Índia.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Urso-Bei%C3%A7udo%20da%20%C3%8Dndia.mp4?a=0&id=1mQ9ce4NnVeGOzHZYhTiEsC7PsZ7998Gx
+#EXTINF:0, O Vale dos Lobos.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Vale%20dos%20Lobos.mkv?a=0&id=1ItnZduSr5nAxrS48ByLtmzN7HUYwYMbh
+#EXTINF:0, O Vulcão e os Polvos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Vulc%C3%A3o%20e%20os%20Polvos.mp4?a=0&id=1qpAe5fOD5hKm_whmdQb4YywnNW1HGM82
+#EXTINF:0, O Último Mistério do Mar.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20%C3%9Altimo%20Mist%C3%A9rio%20do%20Mar.mkv?a=0&id=14HPeY7Zdz3wazO_wbBlAKfW45AmDEeFp
+#EXTINF:0, O Último Tigre-de-Sumatra.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20%C3%9Altimo%20Tigre-de-Sumatra.mp4?a=0&id=1kCcDK-oz3lNgrkAADexu7m3HWPVTQ5b2
+#EXTINF:0, Oceano Fantástico.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Oceano%20Fant%C3%A1stico.mp4?a=0&id=1poUp886vfEx8R7hiMN5HR5zi4yBI5kY5
+#EXTINF:0, Oceano Incrível - Amazing Ocean.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Oceano%20Incr%C3%ADvel%20-%20Amazing%20Ocean.mp4?a=0&id=186qUDyN2Kyd34AN5NSC8GozbOfmQrtuk
+#EXTINF:0, Oceano Sem Fim 02.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Oceano%20Sem%20Fim%2002.mkv?a=0&id=1U-3liafV7-fGr0j3gCPUTE1vDaHleNXx
+#EXTINF:0, Oceanos - Mar Mediterrâneo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Oceanos%20-%20Mar%20Mediterr%C3%A2neo.mp4?a=0&id=1pQnmORQ3glR6PI-RhVFrvyjIqWXcQY7s
+#EXTINF:0, Odisséia dos Grandes Felinos - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Odiss%C3%A9ia%20dos%20Grandes%20Felinos%20-%20720p.mkv?a=0&id=1xiuueUJepDV23V-vg-hjJoMoXkSQNG2d
+#EXTINF:0, Oeste Selvagem - Montanhas Rochosas.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Oeste%20Selvagem%20-%20Montanhas%20Rochosas.mp4?a=0&id=1nXxsBIIuIWuB4dVPju_-QaO2aJOcat3E
+#EXTINF:0, Onça-Pintada - Nascida em Liberdade.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/On%C3%A7a-Pintada%20-%20Nascida%20em%20Liberdade.mkv?a=0&id=1ffi--S5CeWv0cHXcbwLgWDwj9LVkn6T5
+#EXTINF:0, Orcas.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Orcas.mp4?a=0&id=1v0Ru-b1nlNSX-pCVhad9BvQEdRYr4Dgg
+#EXTINF:0, Os 10 Piores Venenos - Planeta Animal.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%2010%20Piores%20Venenos%20-%20Planeta%20Animal.mp4?a=0&id=10lmndqe93mKIOFWp81lZv9wXoSzLXENW
+#EXTINF:0, Os 20 Animais Que Podem Matá-lo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%2020%20Animais%20Que%20Podem%20Mat%C3%A1-lo.mp4?a=0&id=1ZE6jajdQtBpEi5aEZoDEcgJfldwlErfv
+#EXTINF:0, Os 7 Grandes da Africa - Legendado - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%207%20Grandes%20da%20Africa%20-%20Legendado%20-%20720p.mkv?a=0&id=1L1C-csbUIGAg6OnBf-VRZG4chyK4aPxR
+#EXTINF:0, Os Animais Mais Mortíferos do Mundo - Costa Rica - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Animais%20Mais%20Mort%C3%ADferos%20do%20Mundo%20-%20Costa%20Rica%20-%20Legendado.mp4?a=0&id=1_mNbNTmpyfs7iqLHIx6dygt_B1O9fXVy
+#EXTINF:0, Os Animais mais Mortíferos do Mundo - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Animais%20mais%20Mort%C3%ADferos%20do%20Mundo%20-%20Legendado.mp4?a=0&id=1QnK8HcDi8S5f1pwTEuFq8pItH9lJ4wAk
+#EXTINF:0, Os Ataques dos Grandes Felinos - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ataques%20dos%20Grandes%20Felinos%20-%20720p.mkv?a=0&id=1iZXyE0C7uwAwyQ9eITYYaHAlRf-lOYtJ
+#EXTINF:0, Os Leopardos do Kalahari.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Leopardos%20do%20Kalahari.mp4?a=0&id=1wU5zQUsI20ocN0O_8YiEPl0KwuM5zoZu
+#EXTINF:0, Os Leões de Singita - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Le%C3%B5es%20de%20Singita%20-%20720p.mkv?a=0&id=1vsdx0AJaNqVKyXLUUNfAADSdbRDkjUEL
+#EXTINF:0, Os Leões do Pântano.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Le%C3%B5es%20do%20P%C3%A2ntano.mkv?a=0&id=1wgPmSopzPiZuNy8WrpEQLzfcSU_LlrWa
+#EXTINF:0, Os Mais Incríveis - Grupos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Mais%20Incr%C3%ADveis%20-%20Grupos.mp4?a=0&id=1FG7SAc6YkIohD6GPK_4NTUnbzm06089M
+#EXTINF:0, Os Mistérios de Sulawesi.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Mist%C3%A9rios%20de%20Sulawesi.mp4?a=0&id=1RZ3bJPCEbqTeqrNqHim5zdBXVcMwvV9M
+#EXTINF:0, Os Predadores Mais Velozes do Oceano.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Predadores%20Mais%20Velozes%20do%20Oceano.mp4?a=0&id=1aNoMHxj3FSo6O9d8KHflKcaDG3gFnjNr
+#EXTINF:0, Os Reis da Namíbia - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Reis%20da%20Nam%C3%ADbia%20-%20Legendado.mkv?a=0&id=1ac-Xf8SgMzZFXPXXHBKQZhhFfnLrFoka
+#EXTINF:0, Os Segredos do Urso Polar.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Segredos%20do%20Urso%20Polar.mp4?a=0&id=17VSxPyMtkvDFOuoAVxR9HmDXdKQZrDv7
+#EXTINF:0, Os Segredos dos Gorilas.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Segredos%20dos%20Gorilas.mkv?a=0&id=1OJV2zKhkoCAjXh8FgUmibmAYudS_jhyQ
+#EXTINF:0, Os Tubarões da Ilha Perdida.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Os%20Tubar%C3%B5es%20da%20Ilha%20Perdida.mp4?a=0&id=10IYR7zXsKqKEeg4uIAsMIGpAueOb5XEC
+#EXTINF:0, Pandamônio - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pandam%C3%B4nio%20-%20Legendado.mp4?a=0&id=1ZSfFisfIZN8EikbwivYIPLC2R_DVwTcw
+#EXTINF:0, Paraíso Verde - Egito - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Para%C3%ADso%20Verde%20-%20Egito%20-%20Legendado.mp4?a=0&id=14pw6AWtUd1MhLeIoKuvM5UzoTid52tJt
+#EXTINF:0, Peixes do Brasil - O Peixe-Vampiro.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Peixes%20do%20Brasil%20-%20O%20Peixe-Vampiro.mp4?a=0&id=1iq6fJuuq2YgFvgTWMrC70ktw9qZROmzh
+#EXTINF:0, Peixes Monstruosos - Os Peixes do Rio Roosevelt da Amazônia.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Peixes%20Monstruosos%20-%20Os%20Peixes%20do%20Rio%20Roosevelt%20da%20Amaz%C3%B4nia.mp4?a=0&id=14t7G6CJwkAt3EZfI0qSnFp3D52SvCaCY
+#EXTINF:0, Pesca Alternativa - Panamá.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pesca%20Alternativa%20-%20Panam%C3%A1.mp4?a=0&id=17aiRBeWNSsTCF194dFvtR0uTQQ1HNDam
+#EXTINF:0, Pesca Mortal - A Lenda do Wizard.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pesca%20Mortal%20-%20A%20Lenda%20do%20Wizard.mp4?a=0&id=1Wt2w7s3bcpY0To8d3XwIZ3xwWi9N-Xxr
+#EXTINF:0, Pesca Radical - O Gigante do Nilo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pesca%20Radical%20-%20O%20Gigante%20do%20Nilo.mp4?a=0&id=1FWNobHwJ3ISLjZrhSSYotrdMkzjQ6b5p
+#EXTINF:0, Pesca Radical - Peixes Selvagens.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pesca%20Radical%20-%20Peixes%20Selvagens.mp4?a=0&id=1UkduRTdemVSHB5Nz-BWOMdsGKz2T2Iuw
+#EXTINF:0, Pescador de Gigantes.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pescador%20de%20Gigantes.mp4?a=0&id=1Ndav-2lma5tl8_81_rr64gW1FxlCxcxx
+#EXTINF:0, Planeta Feroz - Vulcão.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Planeta%20Feroz%20-%20Vulc%C3%A3o.mp4?a=0&id=1xA2coSY0zx2zzh4UWSCdGCn6xcYl-bbb
+#EXTINF:0, Planeta Formiga - Vida Dentro Da Colônia.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Planeta%20Formiga%20-%20Vida%20Dentro%20Da%20Col%C3%B4nia.mkv?a=0&id=1RcLiZP-DsmhkPRCLaod1pvKDfgHsOiV8
+#EXTINF:0, Planeta Mutante - Grande Vale do Rift - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Planeta%20Mutante%20-%20Grande%20Vale%20do%20Rift%20-%20Legendado.mkv?a=0&id=1aYUs2ZYBlgSDlHzQGgF-vFa06sXZOObI
+#EXTINF:0, Planeta Água - 2012 - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Planeta%20%C3%81gua%20-%202012%20-%20720p.mkv?a=0&id=1tuusKRpd1lMtobcBBPwvbLTX-MFON69v
+#EXTINF:0, Polícia de Nova York.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pol%C3%ADcia%20de%20Nova%20York.mp4?a=0&id=1Km-LLCtJX4_1QrhfajoYYFsgAQQseGi9
+#EXTINF:0, Predadores Brutais.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Predadores%20Brutais.mkv?a=0&id=1NB2UAPLxK7aSgnsUk3Cx6899kJKGi4uG
+#EXTINF:0, Predadores do Oceano - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Predadores%20do%20Oceano%20-%20Legendado.mp4?a=0&id=1rk2_2vUone0a3CBdm82MwmxrDNBxNhx7
+#EXTINF:0, Predadores Letais - Armas Mortíferas.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Predadores%20Letais%20-%20Armas%20Mort%C3%ADferas.mp4?a=0&id=1ZjjFOdi4_n_-ag8MxD4dvejUIMGZomqy
+#EXTINF:0, Predadores Letais - Segredo Mortal.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Predadores%20Letais%20-%20Segredo%20Mortal.mp4?a=0&id=1wnFTISOBdYKdb-2O_abuqK465kgy2bwh
+#EXTINF:0, Predadores Perfeitos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Predadores%20Perfeitos.mp4?a=0&id=1YJfKCpPgjMAkVu1N4HaMT4BiE4_ou9e0
+#EXTINF:0, Primavera em Yellowstone.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Primavera%20em%20Yellowstone.mp4?a=0&id=12nipfvjw3RLxYOGbApdpknqayf144B3C
+#EXTINF:0, Projeto Kodiak.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Projeto%20Kodiak.mp4?a=0&id=1RSwqPuzMzDtIBqoffk82-3OeVjpnewhN
+#EXTINF:0, Projeto Lobo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Projeto%20Lobo.mp4?a=0&id=18LpVyRDmIM1G1PtHNzvF8Bpu8HleAyWE
+#EXTINF:0, Puma - Um Hábil Predador.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Puma%20-%20Um%20H%C3%A1bil%20Predador.mp4?a=0&id=1yZxB1Ka46s4fhL_5eE3pU9NyO7WjikaS
+#EXTINF:0, Puma Americano.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Puma%20Americano.mp4?a=0&id=1hpwbTqehSNaJX8pqqMYDoLlkLFShXUHb
+#EXTINF:0, Quando O Puma Ataca.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Quando%20O%20Puma%20Ataca.mp4?a=0&id=1clptQATI4aHYBkMScQy_4bWfEFkZtjDC
+#EXTINF:0, Quando Os Peixes Atacam - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Quando%20Os%20Peixes%20Atacam%20-%20Legendado.mkv?a=0&id=1ZZkC_QSHZUkTMpDbqNhgYKAnzweoVi-K
+#EXTINF:0, Quando Os Tubarões Atacam.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Quando%20Os%20Tubar%C3%B5es%20Atacam.mp4?a=0&id=1pzFiM-HPDhNMn3734D40RQYDW7tyHxBj
+#EXTINF:0, Recriando A Antartida.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Recriando%20A%20Antartida.mp4?a=0&id=1RZaHegmqeRRb_bK0iH5bl2csTWD18wbp
+#EXTINF:0, Reino Animal Diários de Lawrence Wahba - Animais Sagrados do Oriente.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Reino%20Animal%20Di%C3%A1rios%20de%20Lawrence%20Wahba%20-%20Animais%20Sagrados%20do%20Oriente.mp4?a=0&id=1bBg3l5RQcaw5fR5WLUWDaXnn1NYhaj2_
+#EXTINF:0, Reino dos Felinos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Reino%20dos%20Felinos.mp4?a=0&id=1PW9tbOE2FCscli0D7aRoDrefe_PGmDi5
+#EXTINF:0, Reptiles & Anfibios - em Espanhol.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Reptiles%20&%20Anfibios%20-%20em%20Espanhol.mp4?a=0&id=1CeHXxMZGsNXVZgl_sN-6HdCcjv2LAabA
+#EXTINF:0, Rio Yangtzé.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Rio%20Yangtz%C3%A9.mp4?a=0&id=1CgWJ6XfGHqun49aJ0Sf7tFFCr2i3xwXR
+#EXTINF:0, Safári No Grand Canyon.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Saf%C3%A1ri%20No%20Grand%20Canyon.mp4?a=0&id=12gmRtIM81ON4Oba-eOu6Z_1SgrHq4KF4
+#EXTINF:0, Sahara - O Néctar da Vida - 720p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Sahara%20-%20O%20N%C3%A9ctar%20da%20Vida%20-%20720p.mkv?a=0&id=1i_g47kcw943rnAZPEScMhs3EOfT19OFA
+#EXTINF:0, Segredos da Índia Selvagem - O Tigre de Bengala.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Segredos%20da%20%C3%8Dndia%20Selvagem%20-%20O%20Tigre%20de%20Bengala.mp4?a=0&id=19qTHYYlw2Nd9qi-5BVHLZFanarjRZgse
+#EXTINF:0, Selva - Amazonas, O Mundo da Água - em PT-PT.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Selva%20-%20Amazonas,%20O%20Mundo%20da%20%C3%81gua%20-%20em%20PT-PT.mp4?a=0&id=1MeesT4A22jJy99P65EiaOUM8N05wYQ20
+#EXTINF:0, Selva - Congo, Rente ao Solo - em PT-PT.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Selva%20-%20Congo,%20Rente%20ao%20Solo%20-%20em%20PT-PT.mp4?a=0&id=1iFPkVHGjnZevGOrFtduX7qDeZrxCQJn4
+#EXTINF:0, Selva - Sudeste Asiático, A Abóbada de Luz - em PT-PT.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Selva%20-%20Sudeste%20Asi%C3%A1tico,%20A%20Ab%C3%B3bada%20de%20Luz%20-%20em%20PT-PT.mp4?a=0&id=1hFpPIZlbKBLawwuRMEjUMqBDFeBiHR76
+#EXTINF:0, Serpente Colossal.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Serpente%20Colossal.mp4?a=0&id=1PRsmbWz9S8AamUNDFKbFv9I2NmQ1pd1w
+#EXTINF:0, Serpentes Letais da Ásia.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Serpentes%20Letais%20da%20%C3%81sia.mp4?a=0&id=1JPdlAoxq8MI8SN3MU7VhTss-hvoFIcnF
+#EXTINF:0, Sherpas - A Vida no Everest.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Sherpas%20-%20A%20Vida%20no%20Everest.mkv?a=0&id=1KgRUXKzACkc5W7DWFZsw2qGp-6HYt8EK
+#EXTINF:0, Sociedade Animal.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Sociedade%20Animal.mp4?a=0&id=1YCZ-xg9UL7UdJGWv92RyheHsfoZdZ95w
+#EXTINF:0, Sucuri com Nigel Marvin.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Sucuri%20com%20Nigel%20Marvin.mp4?a=0&id=1dqhYkFVlUAMS9Yi0rlpPVre4rdTwemI-
+#EXTINF:0, Super Porcos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Super%20Porcos.mp4?a=0&id=1eXqMV5eGldNVuhFCiYQDO-nJQ3aE3rVh
+#EXTINF:0, Terra de Titãs - em PT-PT.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Terra%20de%20Tit%C3%A3s%20-%20em%20PT-PT.mp4?a=0&id=1pceSbJ1i4-LPt8G67qmyCDPVbj6tpDX4
+#EXTINF:0, Terra.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Terra.mp4?a=0&id=1bayLRaKrdlAQY0fyUJ3pJnv07QnHNtSh
+#EXTINF:0, Território Selvagem - Lobo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Territ%C3%B3rio%20Selvagem%20-%20Lobo.mp4?a=0&id=1DVLAWRS3yua2daJlF8F7T8WME0t2QU_d
+#EXTINF:0, Tigres - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tigres%20-%20Legendado.mp4?a=0&id=18fUWLAr_zZBgyi-_1kI-Lzuv6QRowmdW
+#EXTINF:0, Tigres de Sumatra.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tigres%20de%20Sumatra.mkv?a=0&id=1Vj5CBA3qjSa2WiyTKT4Yl-PytKjZ1CXt
+#EXTINF:0, Tigres em Perigo.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tigres%20em%20Perigo.mkv?a=0&id=1OU9M76L0ScmhaC_lJXc7dHSNB9awAukJ
+#EXTINF:0, Triunfos da Vida - Linhagem Ancestral.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Triunfos%20da%20Vida%20-%20Linhagem%20Ancestral.mp4?a=0&id=1lva45PH87CmgfG7yxg5RmGuv9FuhMvVs
+#EXTINF:0, Triunfos da Vida - O Poder do Cérebro.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Triunfos%20da%20Vida%20-%20O%20Poder%20do%20C%C3%A9rebro.mp4?a=0&id=1FLv0BoVhMZ1b6TnCQv39GoWwwZaCmmhG
+#EXTINF:0, Tubarão O Perigo dos Oceanos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tubar%C3%A3o%20O%20Perigo%20dos%20Oceanos.mp4?a=0&id=1etQdJSU6sLNctFuInMpqhgDUCVut5H-G
+#EXTINF:0, Tubarão Voador.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tubar%C3%A3o%20Voador.mkv?a=0&id=1WmIaDX7lhJNpzVkeEAPHjiKtTrjejJDB
+#EXTINF:0, Tubarão-Albafar - O Monstro das Profundezas.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tubar%C3%A3o-Albafar%20-%20O%20Monstro%20das%20Profundezas.mp4?a=0&id=1Ov_Hncdwt_HGY6fWgHryqKkEaY5eyifM
+#EXTINF:0, Tubarões Caçadores.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tubar%C3%B5es%20Ca%C3%A7adores.mkv?a=0&id=1NRbW2E8u6V-ADTT3W5dgHTs_yoFr9Tbu
+#EXTINF:0, Tubarões Caçadores.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tubar%C3%B5es%20Ca%C3%A7adores.mp4?a=0&id=10MDe99qCMnMNLN7oQwdLEFRdnMGKS-OD
+#EXTINF:0, Tubarões Urbanos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tubar%C3%B5es%20Urbanos.mp4?a=0&id=1xD0HaGSvWWKykdIQGS1blbUa0Mcx4iFl
+#EXTINF:0, Tudo Sobre - Polvos, Águas-Vivas. Límulos.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tudo%20Sobre%20-%20Polvos,%20%C3%81guas-Vivas.%20L%C3%ADmulos.mp4?a=0&id=1kuBk5D-jTgIwIFz7X7tZFgdWKhvuSG3y
+#EXTINF:0, Um Chimpanzé A Solta.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Um%20Chimpanz%C3%A9%20A%20Solta.mp4?a=0&id=1bKCARppeQhwkkW3U_MnAb5tSHKzRzoeY
+#EXTINF:0, Um Leopardo Fora de Série.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Um%20Leopardo%20Fora%20de%20S%C3%A9rie.mp4?a=0&id=15PTiaxGeThCad6SakefY02VtphIXcDOm
+#EXTINF:0, Urso Polar - Uma Odisséia No Verão - Polar Bears - A Summer Odyssey.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Urso%20Polar%20-%20Uma%20Odiss%C3%A9ia%20No%20Ver%C3%A3o%20-%20Polar%20Bears%20-%20A%20Summer%20Odyssey.mp4?a=0&id=10USnm20osQXhR_JwbvyRgIB9a-3mhPMz
+#EXTINF:0, Urso Polar Vs. Urso Pardo.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Urso%20Polar%20Vs.%20Urso%20Pardo.mp4?a=0&id=1A0O021NMCTbxmTHqOu2QNuDrrg_AGiV1
+#EXTINF:0, Ursos Polares - 1080p.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ursos%20Polares%20-%201080p.mkv?a=0&id=1iT8mkBi8BTBSMeIW-OmEZPNUD8tAThCq
+#EXTINF:0, Veneno Nas Veias - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Veneno%20Nas%20Veias%20-%20Legendado.mkv?a=0&id=1MOFuX0KtPdybmjZ-2pg03xbp9Ij2bbyL
+#EXTINF:0, Venenos - Legendado.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Venenos%20-%20Legendado.mp4?a=0&id=1COaKFEoiVST9UvMkvXvs0KovSY9TyyVW
+#EXTINF:0, Viagem Perdida - Teoria da Evolução Darwin.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Viagem%20Perdida%20-%20Teoria%20da%20Evolu%C3%A7%C3%A3o%20Darwin.mp4?a=0&id=1UqdIEZbIE_LfNoSX8p235CoudVbmjLDP
+#EXTINF:0, Viagens de Luxo - África Mágica.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Viagens%20de%20Luxo%20-%20%C3%81frica%20M%C3%A1gica.mp4?a=0&id=1KZOKmADJVl_8Mw8hZ5Cr-aPsApXroim9
+#EXTINF:0, Vida Com Lobos 01 - 1TP.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Vida%20Com%20Lobos%2001%20-%201TP.mkv?a=0&id=1DL-JLW0o4vswN1QoUFmDqI4Zl5lsnDAB
+#EXTINF:0, Vida Com Lobos 02 - 1TP.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Vida%20Com%20Lobos%2002%20-%201TP.mkv?a=0&id=1zEcPCVmD6Kj9D0F4GkkibQ8LBy08-61d
+#EXTINF:0, Vida No Ventre - Animais Selvagens.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Vida%20No%20Ventre%20-%20Animais%20Selvagens.mp4?a=0&id=1N6zrvkg7p4cwX4tAAU544fDR_c_kiwzq
+#EXTINF:0, Voos Insólitos.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Voos%20Ins%C3%B3litos.mkv?a=0&id=1AyLDmOpTxo2XjeedagAUSsq9n-b2kE48
+#EXTINF:0, Yellowstone.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Yellowstone.mp4?a=0&id=1_8ygr7JyRR5tU1ygxoldC-5vJUXMPHXK
+#EXTINF:0, Zona da Morte.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Zona%20da%20Morte.mp4?a=0&id=1vARhxXh87iCvd7umXB2YpSf1Pkh667yc

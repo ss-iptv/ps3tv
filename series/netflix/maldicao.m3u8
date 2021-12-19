@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: A Maldição da Residencia - Mansão
+#EXTINF:0, A Maldição da Mansão Bly S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E01.mp4?a=0&id=11DEf8ew3RFCSBr7zz8DqK5rqmd_G-lKI
+#EXTINF:0, A Maldição da Mansão Bly S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E02.mp4?a=0&id=11DwGLKjaZ4v8IPw3DpZRTE2F3cbVHPd3
+#EXTINF:0, A Maldição da Mansão Bly S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E03.mp4?a=0&id=11EA6azjqXvpn5_M03hGkC2BzK9-CneaZ
+#EXTINF:0, A Maldição da Mansão Bly S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E04.mp4?a=0&id=11EK3r_76fPuSKNRsghIRcEsPjUpbbZUe
+#EXTINF:0, A Maldição da Mansão Bly S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E05.mp4?a=0&id=11EaBiFprlRK_TZe0VYCJFuSejTdf5LC9
+#EXTINF:0, A Maldição da Mansão Bly S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E06.mp4?a=0&id=11EdYVzUj9VHYDHfkkUim8ORn14_E5uCS
+#EXTINF:0, A Maldição da Mansão Bly S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E07.mp4?a=0&id=11HB-sDx79HYyUtC07syOZdXHXP4Lf1SD
+#EXTINF:0, A Maldição da Mansão Bly S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E08.mp4?a=0&id=11HVyKwydYUa1FqinZEio88yXJeLRih0A
+#EXTINF:0, A Maldição da Mansão Bly S01 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Mans%C3%A3o%20Bly%20S01%20E09.mp4?a=0&id=11ITtUhYEr7BGs9ZMmj1nBt_w5fLE856z
+#EXTINF:0, A Maldição da Residência Hill S01 E01.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E01.mp4?a=0&id=1133c0mtrHmP8dRgR5U1cgoHhw1seNKTM
+#EXTINF:0, A Maldição da Residência Hill S01 E02.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E02.mp4?a=0&id=114Xa8CTCN_zEbcvzWvGUiobw1GXLX-Zr
+#EXTINF:0, A Maldição da Residência Hill S01 E03.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E03.mp4?a=0&id=117o_SGjI-GiC7XK4pmedpZxFguZ2EI6w
+#EXTINF:0, A Maldição da Residência Hill S01 E04.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E04.mp4?a=0&id=119Zc0hL2wAYHaxwBbf1Kt9aIKEb-OTNB
+#EXTINF:0, A Maldição da Residência Hill S01 E05.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E05.mp4?a=0&id=11A7LFm5mKt0_ezFK1urZlvL2g-DwQidr
+#EXTINF:0, A Maldição da Residência Hill S01 E06.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E06.mp4?a=0&id=11BDg5bMq9EGjzNfy-EqADcZYDmD7jl5M
+#EXTINF:0, A Maldição da Residência Hill S01 E07.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E07.mp4?a=0&id=11BeHBBcUuI5k-MvPeyhusgWSKK8Y9J1G
+#EXTINF:0, A Maldição da Residência Hill S01 E08.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E08.mp4?a=0&id=11BmVH19rCQz5cFcdrqo2Ej8-BqShfPGx
+#EXTINF:0, A Maldição da Residência Hill S01 E09.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E09.mp4?a=0&id=11C3AvB1QMSSbIw2K-O-dSI-dxqE9Qfco
+#EXTINF:0, A Maldição da Residência Hill S01 E10.mp4
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill%20S01%20E10.mp4?a=0&id=11CvRMzclAsT1HOBvRDUiHENUGxjjWl6Z

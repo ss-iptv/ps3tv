@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 01 - Matemática Básica
+#EXTINF:0, 00 - Adição e subtração.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/00%20-%20Adi%C3%A7%C3%A3o%20e%20subtra%C3%A7%C3%A3o.mp4?a=0&id=13xcUpKEm1zuw7DIhl_hVEvVDjFGpk8NB
+#EXTINF:0, 01 - Multiplicação e Divisão - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/01%20-%20Multiplica%C3%A7%C3%A3o%20e%20Divis%C3%A3o%20-%20Exerc%C3%ADcios.mp4?a=0&id=14THBG7p-d4rTWIpBjAM3Sir5mha4-fVx
+#EXTINF:0, 01 - Multiplicação e Divisão.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/01%20-%20Multiplica%C3%A7%C3%A3o%20e%20Divis%C3%A3o.mp4?a=0&id=1thnemptrfjSyiikFKtld3X8YPmsLEhaE
+#EXTINF:0, 02 - Expressões Numéricas - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/02%20-%20Express%C3%B5es%20Num%C3%A9ricas%20-%20Exerc%C3%ADcios.mp4?a=0&id=1yjkR5xaXrf4dRaUJx4sFhYVPoceqsFFM
+#EXTINF:0, 02 - Expressões Numéricas.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/02%20-%20Express%C3%B5es%20Num%C3%A9ricas.mp4?a=0&id=1A46cJqlDVObu4x_1R5KPfWAkyrs1B60k
+#EXTINF:0, 03 - Frações - Parte 1.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/03%20-%20Fra%C3%A7%C3%B5es%20-%20Parte%201.mp4?a=0&id=13gEf4lXlB3Y_xV1FGNOsX3WqFcBc7dbk
+#EXTINF:0, 04 - Frações - Parte 2.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/04%20-%20Fra%C3%A7%C3%B5es%20-%20Parte%202.mp4?a=0&id=1PLvOJTwHD-C9O61Z2cmAWRvj7afqzH8-
+#EXTINF:0, 05 - Potenciação - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/05%20-%20Potencia%C3%A7%C3%A3o%20-%20Exerc%C3%ADcios.mp4?a=0&id=1edYw-njwSyKhjljng8GCpczbOvJQobiB
+#EXTINF:0, 06 - Radiciação - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/06%20-%20Radicia%C3%A7%C3%A3o%20-%20Exerc%C3%ADcios.mp4?a=0&id=13bkCDZH0GIzSuBOWzk41s0d5AxbW7FqF
+#EXTINF:0, 06 - Radiciação.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/06%20-%20Radicia%C3%A7%C3%A3o.mp4?a=0&id=152cF8jsY7YiKJeS7X44dfAoMFbuu-aSo
+#EXTINF:0, 07 - Racionalização de Denominadores - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/07%20-%20Racionaliza%C3%A7%C3%A3o%20de%20Denominadores%20-%20Exerc%C3%ADcios.mp4?a=0&id=1xOlMZSbmbSgq0bw5soCQxku0NJb704mf
+#EXTINF:0, 08 - Produtos Notáveis - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/08%20-%20Produtos%20Not%C3%A1veis%20-%20Exerc%C3%ADcios.mp4?a=0&id=1xKuA_Q06BDFNm5zWzSNePwNm8rd5nGwI
+#EXTINF:0, 08 - Produtos Notáveis.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/08%20-%20Produtos%20Not%C3%A1veis.mp4?a=0&id=1G7LeuyNH4juiEZy4HQcnjoMQS0GEmDlm
+#EXTINF:0, 09 - Fatoração de Expressões Algébricas - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/09%20-%20Fatora%C3%A7%C3%A3o%20de%20Express%C3%B5es%20Alg%C3%A9bricas%20-%20Exerc%C3%ADcios.mp4?a=0&id=1lqpuvnpKw_kE9penyX4byexMYXGFRdT-
+#EXTINF:0, 10 - Sistema de Numeração Decimal.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/10%20-%20Sistema%20de%20Numera%C3%A7%C3%A3o%20Decimal.mp4?a=0&id=1E_bXO-rKFwNRDyI0TplIxGZBScpx9L-3
+#EXTINF:0, 11 - Potência de Dez e Notação Científica - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/11%20-%20Pot%C3%AAncia%20de%20Dez%20e%20Nota%C3%A7%C3%A3o%20Cient%C3%ADfica%20-%20Exerc%C3%ADcios.mp4?a=0&id=1ew_AyfmppKBolN1qVpssDotkkHPGiaNe
+#EXTINF:0, 11 - Potência de Dez e Notação Científica.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/11%20-%20Pot%C3%AAncia%20de%20Dez%20e%20Nota%C3%A7%C3%A3o%20Cient%C3%ADfica.mp4?a=0&id=1YpvlDueu4Xlf1sJWEl8RnLhlrAKoxIaa
+#EXTINF:0, 13 - Critérios de Divisibilidade - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/13%20-%20Crit%C3%A9rios%20de%20Divisibilidade%20-%20Exerc%C3%ADcios.mp4?a=0&id=1vdIfKZh6ahEvCpw_e8dioo93f7Mw-Thx
+#EXTINF:0, 13 - Critérios de Divisibilidade.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/13%20-%20Crit%C3%A9rios%20de%20Divisibilidade.mp4?a=0&id=1tvIulBGt1jvP3n588h9smVtnqkUr8E89
+#EXTINF:0, 14 - Números Primos.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/14%20-%20N%C3%BAmeros%20Primos.mp4?a=0&id=1MRISbmrOyMVn_gYYINqrn37zECEBCT54
+#EXTINF:0, 15 - Fatoração e Divisores de um Número - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/15%20-%20Fatora%C3%A7%C3%A3o%20e%20Divisores%20de%20um%20N%C3%BAmero%20-%20Exerc%C3%ADcios.mp4?a=0&id=1nL3_li7y7JaS-kaJo7mWnk7TFc_Pavem
+#EXTINF:0, 15 - Fatoração e Divisores de um Número.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/15%20-%20Fatora%C3%A7%C3%A3o%20e%20Divisores%20de%20um%20N%C3%BAmero.mp4?a=0&id=1m6pbppn6oNV0SwCGxqsP1RbMf-QYyFcV
+#EXTINF:0, 16 - Múltiplos e Mínimo Múltiplo Comum (MMC) - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/16%20-%20M%C3%BAltiplos%20e%20M%C3%ADnimo%20M%C3%BAltiplo%20Comum%20(MMC)%20-%20Exerc%C3%ADcios.mp4?a=0&id=1d-vNmXcSnfF8jPeFoDXMc4mnHpElK77I
+#EXTINF:0, 17 - Máximo Divisor Comum (MDC).mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/17%20-%20M%C3%A1ximo%20Divisor%20Comum%20(MDC).mp4?a=0&id=1XTu0XRItxgy4l4c53UX3oqjQNANIbtlQ
+#EXTINF:0, 18 - Razão e Proporção (Parte 1).mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/18%20-%20Raz%C3%A3o%20e%20Propor%C3%A7%C3%A3o%20(Parte%201).mp4?a=0&id=1mDpvmXY4Og9EyreKYYdXIF9OeHRbQOUY
+#EXTINF:0, 19 - Razão e Proporção (Parte 2) - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/19%20-%20Raz%C3%A3o%20e%20Propor%C3%A7%C3%A3o%20(Parte%202)%20-%20Exerc%C3%ADcios.mp4?a=0&id=1WHoVyX1def1QfjTr-fT1JXM_CBZQrkgy
+#EXTINF:0, 19 - Razão e Proporção (Parte 2).mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/19%20-%20Raz%C3%A3o%20e%20Propor%C3%A7%C3%A3o%20(Parte%202).mp4?a=0&id=1H0eHcH9jZr5TyBJDp1MxIytI6RTI2WhR
+#EXTINF:0, 20 - Regra de Três Simples - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/20%20-%20Regra%20de%20Tr%C3%AAs%20Simples%20-%20Exerc%C3%ADcios.mp4?a=0&id=1Wek2_xHbi4Ejte314hO_Ocss1MR5Ds6n
+#EXTINF:0, 21 - Regra de Três Composta - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/21%20-%20Regra%20de%20Tr%C3%AAs%20Composta%20-%20Exerc%C3%ADcios.mp4?a=0&id=11s58lP74HbnUQr90e4UDCCfNqwkivhIC
+#EXTINF:0, 22 - Escalas Numéricas.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/22%20-%20Escalas%20Num%C3%A9ricas.mp4?a=0&id=1VsEAh_AzyHuvQ15bLI1M_K3FqzMcEJgK
+#EXTINF:0, 24 - Juros Simples - Exercícios.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/24%20-%20Juros%20Simples%20-%20Exerc%C3%ADcios.mp4?a=0&id=1fhsfueTJq_FXhgdsKYC759Wg-D42Ovh9
+#EXTINF:0, 26 - Equações Irracionais.mp4
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/26%20-%20Equa%C3%A7%C3%B5es%20Irracionais.mp4?a=0&id=1b71pg9e-F_GQ6Df2XA3hXo-Ti380Xdrm
+#EXTINF:0, Questões
+https://amazonplay.herokuapp.com/api/v1/redirectdownload/Quest%C3%B5es?a=0&id=1q3SLQuiMynUxZrUbVWJbHod7qi2rxJwm

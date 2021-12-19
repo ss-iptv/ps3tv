@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: [BBC]
+#EXTINF:0, Ataque das Formigas.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Ataque%20das%20Formigas.mkv?a=0&id=13zMIqGxmBheq7OXT0WcySaaniDy0awtK
+#EXTINF:0, Atlantida Renascida - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Atlantida%20Renascida%20-%20Legendado.mkv?a=0&id=120HbAdHVn7A93bihVi2wNsALJSimAjsa
+#EXTINF:0, Barba Negra - Parte 01 - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Barba%20Negra%20-%20Parte%2001%20-%20Legendado.mkv?a=0&id=1licW4Um0U1Jhbb2ro43bG5Vo5Zvf1pWe
+#EXTINF:0, Barba Negra - Parte 02 - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Barba%20Negra%20-%20Parte%2002%20-%20Legendado.mkv?a=0&id=1y4vpn7xeqU_JoGcjQfGqJc3IA-IKUbcV
+#EXTINF:0, Como Construir um Dinossauro - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Como%20Construir%20um%20Dinossauro%20-%20Legendado.mkv?a=0&id=1X31WsLxpMqXKo_B3H6iPs9HFjkn3kfoO
+#EXTINF:0, Estamos Sozinhos No Universo - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Estamos%20Sozinhos%20No%20Universo%20-%20Legendado.mkv?a=0&id=1slIlCNBLLSRd4F2bx-dUq9HV3CBPQmXT
+#EXTINF:0, Missão A Marte - A Horizon Special - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Miss%C3%A3o%20A%20Marte%20-%20A%20Horizon%20Special%20-%20Legendado.mkv?a=0&id=10VCPnFFQnrn0YYsNvRUK7L8lfXyF_3vG
+#EXTINF:0, Mundo Natural - Cataratas do Iguaçu - 720p - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Mundo%20Natural%20-%20Cataratas%20do%20Igua%C3%A7u%20-%20720p%20-%20Legendado.mkv?a=0&id=1seD50s4QSYUUiRAdzqWdJZiPg08XN-tu
+#EXTINF:0, Mundo Natural - Pássaros do Paraíso - 720p - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Mundo%20Natural%20-%20P%C3%A1ssaros%20do%20Para%C3%ADso%20-%20720p%20-%20Legendado.mkv?a=0&id=13BFxqltlfauIAOC9IB1A9b34lkAT72lt
+#EXTINF:0, Natural World - O Himalaia - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Natural%20World%20-%20O%20Himalaia%20-%20Legendado.mkv?a=0&id=1ATYe5HjJCTX59QDU26wUv51r8l6MxSeZ
+#EXTINF:0, O Trânsito de Vênus - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20Tr%C3%A2nsito%20de%20V%C3%AAnus%20-%20Legendado.mkv?a=0&id=1PICDo5zE6PlI_vuOYGM0se_ZJxHzlY2w
+#EXTINF:0, O Último Urso-Pardo do Vale do Paraíso - 720p - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/O%20%C3%9Altimo%20Urso-Pardo%20do%20Vale%20do%20Para%C3%ADso%20-%20720p%20-%20Legendado.mkv?a=0&id=1fHRGlWUVFW6jg6PFGFwo9DPLDEPToVwl
+#EXTINF:0, Observando As Estrelas - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Observando%20As%20Estrelas%20-%20Legendado.mkv?a=0&id=184twFS9p_5vX6UA5vhtQ9B9bpDo5lu3g
+#EXTINF:0, Pacifico Sul Oceano dos Vulcões - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Pacifico%20Sul%20Oceano%20dos%20Vulc%C3%B5es%20-%20Legendado.mkv?a=0&id=1W3LUQqyjtiwzXzA8OWUND8yUbv_IDqtx
+#EXTINF:0, Precisamos da Lua - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Precisamos%20da%20Lua%20-%20Legendado.mkv?a=0&id=1I2ZZ6zg3DricybNmIKQQtCCjG3_CdDua
+#EXTINF:0, Segredos do Sistema Solar - 2015 - 720p - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Segredos%20do%20Sistema%20Solar%20-%202015%20-%20720p%20-%20Legendado.mkv?a=0&id=1WiQLsaxJXN19lknVEGq8qVnY5VgTP0jG
+#EXTINF:0, Tempestades Solares - Ameaça Ao Planeta Terra - Legendado.mkv
+https://lib-drive.herokuapp.com/api/v1/redirectdownload/Tempestades%20Solares%20-%20Amea%C3%A7a%20Ao%20Planeta%20Terra%20-%20Legendado.mkv?a=0&id=1NpKxKgTx0YXWa61lEEhjdL4r1gzz3Wca
