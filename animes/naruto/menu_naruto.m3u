@@ -1,8 +1,8 @@
  #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Naruto Shipuuden - Leg
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv//animes/naruto/nar_shippuden_legendado.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//animes/naruto/nar_shippuden_legendado.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Naruto Classico
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv//animes/naruto/nar_classico.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//animes/naruto/nar_classico.m3u8
 

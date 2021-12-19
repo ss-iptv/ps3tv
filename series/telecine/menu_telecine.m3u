@@ -2,9 +2,9 @@
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",WESTWORLD
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/telecine/westworld/menu_westworld.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/telecine/westworld/menu_westworld.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",VISITANTES
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/telecine/visitantes/menu_visitantes.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/telecine/visitantes/menu_visitantes.m3u
 

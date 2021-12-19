@@ -1,19 +1,19 @@
  #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PLUTO TV
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/canais/pluto_tv.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/canais/pluto_tv.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS FREEMIUM
 http://168.205.87.198:8555/get.php?username=michele&password=123456&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FREEMIUM - Alternativo
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/listas/canais.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/listas/canais.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FREEMIUM - Alternativo II
 http://168.205.87.198:8555/get.php?username=123456&password=123456&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS - Portugal
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/canais/portugal.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/canais/portugal.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Canais Portugal (Travando)
 #EXTBG: #11609E

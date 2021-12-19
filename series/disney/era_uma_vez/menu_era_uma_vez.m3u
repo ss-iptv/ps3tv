@@ -1,25 +1,25 @@
  #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 1
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_1.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_1.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 2
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_2.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_2.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 3
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_3.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_3.m3u8
  
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 4
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_4.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_4.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 5
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_5.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_5.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 6
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_6.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_6.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 7
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_7.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_7.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 8
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/disney/era_uma_vez/era_uma_vez_8.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/era_uma_vez_8.m3u8

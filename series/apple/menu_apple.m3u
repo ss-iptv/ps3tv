@@ -2,32 +2,32 @@
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FUNDAÇÃO
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/fundacao.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/fundacao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SEE
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/see.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/see.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FOREVER
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/forever.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/forever.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Em Defesa de Jacob
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/em_defesa_de_jacob.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/em_defesa_de_jacob.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",INVASÃO
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/invasao.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/invasao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PRIVATE PRACTICE
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/Private_Practice.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/Private_Practice.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERVANT
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/Servant.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/Servant.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",I Am the Night
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/ssiptv/series/apple/I_Am_the_Night.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/I_Am_the_Night.m3u8
