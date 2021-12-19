@@ -1,0 +1,38 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1,TODAS AS SERIES
+m3u:https://ss-iptv.github.io/meu//listas/streaming2.m3u
+
+
+#EXTINF:-1,GLOBO/TELECINE
+m3u:https://ss-iptv.github.io/meu//listas/globo-telecine.m3u
+
+
+#EXTINF:-1,HBO/MAX/FOX
+m3u:https://ss-iptv.github.io/meu//listas/hbo-max-fox.m3u
+
+
+#EXTINF:-1,APPLE/TNT
+m3u:https://ss-iptv.github.io/meu//listas/apple-tnt.m3u
+
+
+#EXTINF:-1,AMAZON PRIME
+m3u:https://ss-iptv.github.io/meu//listas/amazon.m3u
+
+
+#EXTINF:-1,DISNEY +
+m3u:https://ss-iptv.github.io/meu//listas/disney.m3u
+
+
+#EXTINF:-1,NETFLIX
+m3u:https://ss-iptv.github.io/meu//listas/netflix.m3u
+
+
+#EXTINF:-1,STARZ
+m3u:https://ss-iptv.github.io/meu//listas/starz.m3u
+
+
+#EXTINF:-1,SERIES DE A-Z
+m3u:https://ss-iptv.github.io/meu//listas/all_series.m3u
+
