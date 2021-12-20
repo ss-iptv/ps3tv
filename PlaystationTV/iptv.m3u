@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1,Pluto TV - Brazil
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//listas/plutotv.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/listas/plutotv.m3u
 
 #EXTINF:-1,VIVO TV
 m3u:http://168.205.87.198:8555/get.php?username=adriana&password=123456&type=m3u_plus
