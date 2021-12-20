@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,Pluto TV - Mundo
-m3u:https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.m3u8
-
 #EXTINF:-1,Pluto TV - Brazil
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//listas/plutotv.m3u
 
-#EXTINF:-1,Canais de TV
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//listas/iptv-link.m3u
+#EXTINF:-1,VIVO TV
+m3u:http://168.205.87.198:8555/get.php?username=adriana&password=123456&type=m3u_plus
+
+#EXTINF:-1,Pluto TV - Mundo
+m3u:https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.m3u8
