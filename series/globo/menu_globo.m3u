@@ -8,9 +8,17 @@ m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/sessao_de_
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/dr_house/menu_dr_house.m3u
  
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Desalma
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Desalma.m3u
+ 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lost
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/hbo_max_fox/lost/menu_lost.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/lost/menu_lost.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Heroes
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Heroes.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Arcanjo Renegado
 #EXTBG: #11609E
@@ -26,64 +34,76 @@ m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/fringe/men
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Descoberta das Bruxas
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/A%20Descoberta%20das%20Bruxas.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Descoberta%20das%20Bruxas.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Divisão
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/A%20Divis%C3%A3o.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Divis%C3%A3o.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Vila
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/A%20Vila.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Vila.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Alcatraz
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Alcatraz.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Alcatraz.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Além da Ilha
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Al%C3%A9m%20da%20Ilha.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Al%C3%A9m%20da%20Ilha.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Alemão Os Dois Lados do Complexo
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Alem%C3%A3o%20Os%20Dois%20Lados%20do%20Complexo.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Alem%C3%A3o%20Os%20Dois%20Lados%20do%20Complexo.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Amores Roubados
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Amores%20Roubados.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Amores%20Roubados.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Arcanjo Renegado - HD
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Arcanjo%20Renegado.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Arcanjo%20Renegado.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Aruanas
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Aruanas.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Aruanas.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Assédio
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Ass%C3%A9dio.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Ass%C3%A9dio.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Big Bang Teory
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Big%20Bang%20A%20Teoria.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Big%20Bang%20A%20Teoria.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Carcereiros
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/Carcereiros.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Carcereiros.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Breaking Bad
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/netflix/breaking_bad/menu_breaking_bad.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/breaking_bad/menu_breaking_bad.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Limitless
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/LIMITLESS.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/LIMITLESS.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Anos Incríveis
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/anos_incriveis.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/anos_incriveis.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FAMÍLIA DINOSSAURO
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Família Dinossauro
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/familia_dinossauro/familia_dinossauro.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Super Máquina
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Super%20M%C3%A1quina.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Manifest
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo//Manifest.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sai de Baixo
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo//Sai%20de%20Baixo.m3u8
