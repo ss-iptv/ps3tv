@@ -1,11 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,FILMES NOVOS
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//listas/filmes_torrent.m3u
+#EXTINF:-1,FILMES (GR)
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/filmes/menu_filmes_por_genero.m3u
 
-#EXTINF:-1,FILMES - LISTA 1
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//listas/filmes.m3u
-
-#EXTINF:-1,FILMES - LISTA 2
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//listas/filmesNovo.m3u
-
+#EXTINF:-1,FILMES FHD
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/filmes/menu_filmes_full_hd.m3u
