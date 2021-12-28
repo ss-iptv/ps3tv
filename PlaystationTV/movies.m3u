@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lançamentos 
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/filmes/filmes_full_hd/lan%C3%A7amentos.m3u8
+
 #EXTINF:-1,FILMES (GR)
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/filmes/menu_filmes_por_genero.m3u
 
