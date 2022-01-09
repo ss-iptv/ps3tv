@@ -10,9 +10,5 @@ m3u:http://168.205.87.198:8555/get.php?username=michele&password=123456&type=m3u
 m3u:http://168.205.87.198:8555/get.php?username=123456&password=123456&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github TV
-#EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/jhonatadev/algumacoisa/main/algumlugar
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github TV (ALT)
 #EXTBG: #000000
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8
