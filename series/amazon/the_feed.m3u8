@@ -2,22 +2,22 @@
 #EXTENC: UTF-8
 #PLAYLIST: 1ª Temporada
 #EXTINF:0, The Feed S01E01.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E01.mkv?a=0&id=17ZKb6CtB2x5HB2dprAi6FlwHZn5fJ2dP
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E01.mkv?a=0&id=17ZKb6CtB2x5HB2dprAi6FlwHZn5fJ2dP
 #EXTINF:0, The Feed S01E02.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E02.mkv?a=0&id=17hLdtxWOIOY_OJxeAR1XyeN444IVYJGs
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E02.mkv?a=0&id=17hLdtxWOIOY_OJxeAR1XyeN444IVYJGs
 #EXTINF:0, The Feed S01E03.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E03.mkv?a=0&id=1f0yIrd0WPl_E2bao3kpaDMhtGEJrXNF5
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E03.mkv?a=0&id=1f0yIrd0WPl_E2bao3kpaDMhtGEJrXNF5
 #EXTINF:0, The Feed S01E04.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E04.mkv?a=0&id=1VObOC8B5QLksO71GBWWFR6w_eFvo5VLg
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E04.mkv?a=0&id=1VObOC8B5QLksO71GBWWFR6w_eFvo5VLg
 #EXTINF:0, The Feed S01E05.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E05.mkv?a=0&id=1kaIme4ygLnyadWixhyLetehNO_q6VC3l
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E05.mkv?a=0&id=1kaIme4ygLnyadWixhyLetehNO_q6VC3l
 #EXTINF:0, The Feed S01E06.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E06.mkv?a=0&id=1gatvM9KRSIhwIx9sVL9PUZqweqolQMuU
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E06.mkv?a=0&id=1gatvM9KRSIhwIx9sVL9PUZqweqolQMuU
 #EXTINF:0, The Feed S01E07.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E07.mkv?a=0&id=1R_Rxzvxrs17uapzfjR8bDUdbRkmZ6GdY
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E07.mkv?a=0&id=1R_Rxzvxrs17uapzfjR8bDUdbRkmZ6GdY
 #EXTINF:0, The Feed S01E08.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E08.mkv?a=0&id=1EcCMjODDBBCALzMq843VBuEj8woBm1C3
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E08.mkv?a=0&id=1EcCMjODDBBCALzMq843VBuEj8woBm1C3
 #EXTINF:0, The Feed S01E09.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E09.mkv?a=0&id=1HrKF4SRE0RlxOY--TH2MTzRbgaLcT_QJ
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E09.mkv?a=0&id=1HrKF4SRE0RlxOY--TH2MTzRbgaLcT_QJ
 #EXTINF:0, The Feed S01E10.mkv
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E10.mkv?a=0&id=1qS9adobnQZ_DEfNmuwLSao1olMtKeDUb
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/The%20Feed%20S01E10.mkv?a=0&id=1qS9adobnQZ_DEfNmuwLSao1olMtKeDUb

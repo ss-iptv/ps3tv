@@ -2,10 +2,10 @@
 #EXTENC: UTF-8
 #PLAYLIST: @Gavião Arqueiro 1ª temporada 2021
 #EXTINF:0, Hawkeye.2021.S01E01.1080p.Mini.DSNP.WEB-DL.DD5.1.H.264.DUAL.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hawkeye.2021.S01E01.1080p.Mini.DSNP.WEB-DL.DD5.1.H.264.DUAL.mkv?a=0&id=1NTeYj5ACA49cfUPKWe47iN8M9M67TZ-6
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/Hawkeye.2021.S01E01.1080p.Mini.DSNP.WEB-DL.DD5.1.H.264.DUAL.mkv?a=0&id=1NTeYj5ACA49cfUPKWe47iN8M9M67TZ-6
 #EXTINF:0, Hawkeye.2021.S01E02.1080p.Mini.DSNP.WEB-DL.DD5.1.H.264.DUAL.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hawkeye.2021.S01E02.1080p.Mini.DSNP.WEB-DL.DD5.1.H.264.DUAL.mkv?a=0&id=1N7hjcG9sPkzF7aaUR_yJ02SGGaz4lQJ3
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/Hawkeye.2021.S01E02.1080p.Mini.DSNP.WEB-DL.DD5.1.H.264.DUAL.mkv?a=0&id=1N7hjcG9sPkzF7aaUR_yJ02SGGaz4lQJ3
 #EXTINF:0, Hawkeye.S01E03.720p.MP4.DUB.BRUNINBEAT.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hawkeye.S01E03.720p.MP4.DUB.BRUNINBEAT.mp4?a=0&id=1ELJYIjSIQ3_Gi8H9pvkyOQwmaaeR8i3X
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/Hawkeye.S01E03.720p.MP4.DUB.BRUNINBEAT.mp4?a=0&id=1ELJYIjSIQ3_Gi8H9pvkyOQwmaaeR8i3X
 #EXTINF:0, Hawkeye.S01E04.720p.DUB.BRUNINBEAT.mp4
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/Hawkeye.S01E04.720p.DUB.BRUNINBEAT.mp4?a=0&id=1e6HaDuUE_NV2F7OPCc56xSr4c6qA69jM
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/Hawkeye.S01E04.720p.DUB.BRUNINBEAT.mp4?a=0&id=1e6HaDuUE_NV2F7OPCc56xSr4c6qA69jM

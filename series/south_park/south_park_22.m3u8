@@ -2,22 +2,22 @@
 #EXTENC: UTF-8
 #PLAYLIST: 22 Temporada Completa
 #EXTINF:0, 1.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/1.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KozCTSp0DlOX1XvwBpL9UQvOdWOnm-4a
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/1.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1KozCTSp0DlOX1XvwBpL9UQvOdWOnm-4a
 #EXTINF:0, 10.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dZug3t-9GwVBqHsnFnH71_IWLKZT4hup
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/10.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dZug3t-9GwVBqHsnFnH71_IWLKZT4hup
 #EXTINF:0, 2.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/2.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zQjJr_XILYCsrbDftoq0BImyEUOMVA0U
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/2.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1zQjJr_XILYCsrbDftoq0BImyEUOMVA0U
 #EXTINF:0, 3.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/3.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i1yo8LvoYuTNBDqpdPxlafD5UgcM01Zg
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/3.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1i1yo8LvoYuTNBDqpdPxlafD5UgcM01Zg
 #EXTINF:0, 4.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/4.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f6PkjMJ22i_7t3DwVrhIiw88adaUA2JJ
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/4.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1f6PkjMJ22i_7t3DwVrhIiw88adaUA2JJ
 #EXTINF:0, 5.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/5.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tprwVxi94n_xhteqQ-goOApNXsZvhGZc
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/5.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1tprwVxi94n_xhteqQ-goOApNXsZvhGZc
 #EXTINF:0, 6.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/6.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cdBPn-EFotTvINr5yBb4BbgyWuCpm8LG
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/6.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1cdBPn-EFotTvINr5yBb4BbgyWuCpm8LG
 #EXTINF:0, 7.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/7.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rTJUmxtikwgk7IFiSak8Fa2WgvLmWRMi
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/7.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1rTJUmxtikwgk7IFiSak8Fa2WgvLmWRMi
 #EXTINF:0, 8.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/8.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nQlOBDY-V9c9sirwoBCKOQRq3j0gi6zY
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/8.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nQlOBDY-V9c9sirwoBCKOQRq3j0gi6zY
 #EXTINF:0, 9.mkv
-https://lib-drive.herokuapp.com/api/v1/redirectdownload/9.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=132nLUkpmR5svdwncPwqqfCt1j9DvZSsp
+https://pobreflix.herokuapp.com/api/v1/redirectdownload/9.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=132nLUkpmR5svdwncPwqqfCt1j9DvZSsp

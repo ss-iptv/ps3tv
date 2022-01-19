@@ -1,46 +1,46 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Fringe Season 3#EXTINF:0, Fringe  S03 E01.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E01.mp4?a=0&id=1gnAVokBcdLiNaf5ZSu0B5hhYUK0DqpKK
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E01.mp4?a=0&id=1gnAVokBcdLiNaf5ZSu0B5hhYUK0DqpKK
 #EXTINF:0, Fringe  S03 E02.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E02.mp4?a=0&id=1tq0eaaa6hVx7KwmjlDVM-EiB1qSNtHzT
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E02.mp4?a=0&id=1tq0eaaa6hVx7KwmjlDVM-EiB1qSNtHzT
 #EXTINF:0, Fringe  S03 E03.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E03.mp4?a=0&id=140m5M6MsyVyjkvG4bb2bVEVLzIJPfZhe
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E03.mp4?a=0&id=140m5M6MsyVyjkvG4bb2bVEVLzIJPfZhe
 #EXTINF:0, Fringe  S03 E04.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E04.mp4?a=0&id=153LIofLXUJFKGodrmUM4rFuxoWM7G_fL
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E04.mp4?a=0&id=153LIofLXUJFKGodrmUM4rFuxoWM7G_fL
 #EXTINF:0, Fringe  S03 E05.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E05.mp4?a=0&id=154xTbmF76HrmY_bW-84sTWXBbSYYr2Kh
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E05.mp4?a=0&id=154xTbmF76HrmY_bW-84sTWXBbSYYr2Kh
 #EXTINF:0, Fringe  S03 E06.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E06.mp4?a=0&id=15lxp1OvWDTa492WgiDP2aFnE_HC6Ow-E
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E06.mp4?a=0&id=15lxp1OvWDTa492WgiDP2aFnE_HC6Ow-E
 #EXTINF:0, Fringe  S03 E07.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E07.mp4?a=0&id=15niT5AsyOKH2t21E7yyTMtxDCsCZzcwY
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E07.mp4?a=0&id=15niT5AsyOKH2t21E7yyTMtxDCsCZzcwY
 #EXTINF:0, Fringe  S03 E08.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E08.mp4?a=0&id=16S61ahbzsT-zy0-GgFsWe4Jwc_sllYTx
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E08.mp4?a=0&id=16S61ahbzsT-zy0-GgFsWe4Jwc_sllYTx
 #EXTINF:0, Fringe  S03 E09.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E09.mp4?a=0&id=16WV1T2xwymqiRkdtVCAgv-HpUELze6fL
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E09.mp4?a=0&id=16WV1T2xwymqiRkdtVCAgv-HpUELze6fL
 #EXTINF:0, Fringe  S03 E10.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E10.mp4?a=0&id=17Ny-cIQa0Su6NNEh2zheY0_cNjJ8yohB
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E10.mp4?a=0&id=17Ny-cIQa0Su6NNEh2zheY0_cNjJ8yohB
 #EXTINF:0, Fringe  S03 E11.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E11.mp4?a=0&id=18eD8OYg7liyLx_Kb05ksiAQcGRXNaShW
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E11.mp4?a=0&id=18eD8OYg7liyLx_Kb05ksiAQcGRXNaShW
 #EXTINF:0, Fringe  S03 E12.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E12.mp4?a=0&id=19LVwXZJoarDa7Izd6P5AdsTGwJpKaKsR
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E12.mp4?a=0&id=19LVwXZJoarDa7Izd6P5AdsTGwJpKaKsR
 #EXTINF:0, Fringe  S03 E13.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E13.mp4?a=0&id=19PSNHkn0lP19gVolgJx1WR9dRJbRFSJ2
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E13.mp4?a=0&id=19PSNHkn0lP19gVolgJx1WR9dRJbRFSJ2
 #EXTINF:0, Fringe  S03 E14.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E14.mp4?a=0&id=19PV609f9thJM7uA7bQ4eUlqPh3NvMtRp
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E14.mp4?a=0&id=19PV609f9thJM7uA7bQ4eUlqPh3NvMtRp
 #EXTINF:0, Fringe  S03 E15.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E15.mp4?a=0&id=19V1pMYnyC8z8v65EbRrIhuUyvT_XJabS
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E15.mp4?a=0&id=19V1pMYnyC8z8v65EbRrIhuUyvT_XJabS
 #EXTINF:0, Fringe  S03 E16.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E16.mp4?a=0&id=19X1X0jiK1dSeukzFNAt962XEaLNIHH88
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E16.mp4?a=0&id=19X1X0jiK1dSeukzFNAt962XEaLNIHH88
 #EXTINF:0, Fringe  S03 E17.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E17.mp4?a=0&id=19cVbCHbb-W194voPZH2J9XihR_O8xJ5-
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E17.mp4?a=0&id=19cVbCHbb-W194voPZH2J9XihR_O8xJ5-
 #EXTINF:0, Fringe  S03 E18.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E18.mp4?a=0&id=19coLXXcXPZNprATuTHLU0DzRW2a56d6C
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E18.mp4?a=0&id=19coLXXcXPZNprATuTHLU0DzRW2a56d6C
 #EXTINF:0, Fringe  S03 E19.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E19.mp4?a=0&id=19gChCAzwrL0KRyHzkNzqM_7Q9kIhpkOZ
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E19.mp4?a=0&id=19gChCAzwrL0KRyHzkNzqM_7Q9kIhpkOZ
 #EXTINF:0, Fringe  S03 E20.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E20.mp4?a=0&id=19iYfyhAkvqySt4KuJyhP-YAtKwsl3at1
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E20.mp4?a=0&id=19iYfyhAkvqySt4KuJyhP-YAtKwsl3at1
 #EXTINF:0, Fringe  S03 E21.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E21.mp4?a=0&id=19m0dg404aTrCsGcuC1xXdgaQhD3PanQV
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E21.mp4?a=0&id=19m0dg404aTrCsGcuC1xXdgaQhD3PanQV
 #EXTINF:0, Fringe  S03 E22.mp4
-http://lib-drive.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E22.mp4?a=0&id=19ozfoLkS5sn4C_RcGJqPmJRLFLAwfU2M
+http://pobreflix.herokuapp.com/api/v1/redirectdownload/Fringe%20%20S03%20E22.mp4?a=0&id=19ozfoLkS5sn4C_RcGJqPmJRLFLAwfU2M
