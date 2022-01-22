@@ -1,8 +1,8 @@
  #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 1
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/american_gods/american_gods_1.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/american_gods/american_gods_1.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TEMPORADA 2
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/american_gods/american_gods_2.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/american_gods/american_gods_2.m3u8
 

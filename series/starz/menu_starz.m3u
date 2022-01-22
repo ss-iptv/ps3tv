@@ -2,7 +2,7 @@
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",American Gods
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/american_gods/menu_american_gods.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/american_gods/menu_american_gods.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Night Manager
 #EXTBG: #11609E
@@ -14,11 +14,11 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/A%20H
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Ash Vs Evil Death
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/ash_vs_evil/menu_ash_vs_evil.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/ash_vs_evil/menu_ash_vs_evil.m3u
  
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lost
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/hbo_max_fox/lost/menu_lost.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/lost/menu_lost.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Aeroporto Área Restrita
 #EXTBG: #11609E
@@ -54,7 +54,7 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/Penny
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Eu a Patroa e as Crianças
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/eu_patroa/menu_eu_patroa.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/eu_patroa/menu_eu_patroa.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Super Máquina
 #EXTBG: #11609E
@@ -66,7 +66,7 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/Castl
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Criminal Minds
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/criminal_minds/menu_criminal_minds.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/criminal_minds/menu_criminal_minds.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Castle
 #EXTBG: #11609E

@@ -1,8 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1,TODAS AS SERIES
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/menu/menu_series_ps3.m3u
-
 #EXTINF:-1,GLOBO/TELECINE
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main//series/globo/menu_globo.m3u
 
