@@ -1,5 +1,9 @@
  #EXTM3U size="medium"
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Novidades
+#EXTBG: #000000
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/_edit/novidades_prime_video.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",American Gods
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/american_gods/menu_american_gods.m3u
@@ -7,6 +11,10 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/ameri
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Star Trek Picard
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Star%20Trek%20Picard.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",11.22.63
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/11.22.63.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Ash Vs Evil Death
 #EXTBG: #11609E
@@ -72,6 +80,10 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Liga
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/chapolin.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Chaves
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Chaves_Alternativo.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Rainha do Sul
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/A%20Rainha%20do%20Sul.m3u8
@@ -99,3 +111,35 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/The%
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Following
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/The%20Following.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",BMF (Black Mafia Family)
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/BMF.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Fear the Walking Dead
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/FearTWD.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Os Ausentes
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Os_Ausentes.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Gangs of London
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Gangs_of_London.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dr. Death
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/Dr.Death.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",American Dad!
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/amazon/American_Dad.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Castle Rock
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/Castle_Rock.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Night Manager
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/starz/The%20Night%20Manager.m3u8

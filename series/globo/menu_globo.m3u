@@ -1,4 +1,8 @@
- #EXTM3U size="medium"
+#EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GLOBOPLAY
+#EXTBG: #8d493c
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/_editar/globo.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sessão de Terapia
 #EXTBG: #11609E
@@ -7,6 +11,18 @@ m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/sessao_de_
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dr. House
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/dr_house/menu_dr_house.m3u
+ 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dexter
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/dexter.m3u8
+ 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dexter New Blood
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/dexter_new_blood.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Meu Amigo Bussunda
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/bussunda.m3u8
  
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Desalma
 #EXTBG: #11609E
@@ -82,7 +98,7 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Carce
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Breaking Bad
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/breaking_bad/menu_breaking_bad.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/netflix/breaking_bad/menu_breaking_bad.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Limitless
 #EXTBG: #11609E
@@ -102,8 +118,48 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20S
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Manifest
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo//Manifest.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Manifest.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sai de Baixo
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo//Sai%20de%20Baixo.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Sai%20de%20Baixo.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",220 Volts
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/220%20Volts.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Grande Família
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Grande%20Fam%C3%ADlia.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Very English Scandal
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/A%20Very%20English%20Scandal.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Bates Motel
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Bates%20Motel.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Big Shot Treinador de Elite
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Big%20Shot%20Treinador%20de%20Elite.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Charmed Nova Geração
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Charmed%20Nova%20Gera%C3%A7%C3%A3o.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Coyote
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Coyote.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Coroner
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Coroner.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Clique
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Clique.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Chernobyl
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/globo/Chernobyl.m3u8

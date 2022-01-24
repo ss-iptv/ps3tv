@@ -2,56 +2,77 @@
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Gavião Arqueiro
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/Gavi%C3%A3o%20Arqueiro.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Gavi%C3%A3o%20Arqueiro.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Monstros no Trabalho
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Monstros%20no%20Trabalho.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Hanna
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Hanna.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Entre Dois Mundos
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Entre%20Dois%20Mundos.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Bela e a Fera
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/A%20Bela%20e%20a%20Fera.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/A%20Bela%20e%20a%20Fera.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Just Beyond
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/Just%20Beyond.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Just%20Beyond.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Falcão a Serie
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/falcao.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/falcao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",O Mandaloriano
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/mandaloriano/mandaloriano_1.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/mandaloriano/mandaloriano_1.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Casa da Raven
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/A%20Casa%20da%20Raven.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/A%20Casa%20da%20Raven.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",As Visões da Raven
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/As%20Vis%C3%B5es%20da%20Raven.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",LOKi
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/loki/loki_1.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/loki/loki_1.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Vida Secreta dos Casais
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/hbo_max_fox/A%20Vida%20Secreta%20dos%20Casais.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Vida%20Secreta%20dos%20Casais.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Lendas da Marvel
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/marvel/lendas_da_marvel.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/marvel/lendas_da_marvel.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Verdade Homem na Lua
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/A%20verdade%20por%20tras%20do%20homem%20na%20lua.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/A%20verdade%20por%20tras%20do%20homem%20na%20lua.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Era uma Vez
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/era_uma_vez/menu_era_uma_vez.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/era_uma_vez/menu_era_uma_vez.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Agente Carter
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/Agente%20Carter,%20da%20Marvel%20S01%20E01.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Agente%20Carter,%20da%20Marvel%20S01%20E01.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Os Simpsons
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/Os%20Simpsons.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Os%20Simpsons.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Agentes Shield
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/Agentes%20da%20S.H.I.E.L.D.%20da%20Marvel.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Agentes%20da%20S.H.I.E.L.D.%20da%20Marvel.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Amphibia
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/AMPHIBIA.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/AMPHIBIA.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Gifted - Os Mutantes
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/The%20Gifted%20-%20Os%20Mutantes.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/The%20Gifted%20-%20Os%20Mutantes.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",O Conto da Aia
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/O_Conto_da_Aia.m3u8
+
