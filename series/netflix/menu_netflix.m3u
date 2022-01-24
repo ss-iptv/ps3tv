@@ -1,22 +1,96 @@
  #EXTM3U size="medium"
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Anne With An"E"
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/breaking_bad/anne.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Jessica Jones
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/marvel/Jessica_Jones.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Startrek Discovery
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/star_trek_discovery.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Demolidor
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/marvel/Demolidor.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Luke Cage
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/marvel/Luke_Cage.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Os Defensores
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/marvel/Os_Defensores.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Punho de Ferro
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/marvel/Punho_de_Ferro.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Altered Carbon
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/altered_carbon.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Dark
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Dark.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Breaking Bad
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/breaking_bad/menu_breaking_bad.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/seriesseries/netflix/breaking_bad/menu_breaking_bad.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Anne With An"E"
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Maldição da Mansão Bly
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/breaking_bad/anne.m3u8
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Maldição (Séries)
-#EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/maldicao.m3u8
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/maldicao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Arquivo Morto
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/arquivo_morto.m3u8
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/arquivo_morto.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Altered Carbon
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CSI - Reino Unido
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/netflix/altered_carbon.m3u8
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Criminal%20-%20Reino%20Unido.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CSI Investigação Criminal
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/CSI%20Investiga%C3%A7%C3%A3o%20Criminal.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",3%
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/3%.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Diablero
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Diablero.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Gypsy
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Gypsy.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Safe
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Safe.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Shadowhunters
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Shadowhunters.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Rain
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/The_Rain.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Maldição da Residência Hill
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Maldição da Residência Hill
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/A%20Maldi%C3%A7%C3%A3o%20da%20Resid%C3%AAncia%20Hill.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",7SEEDS
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/7SEEDS.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Arrow
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Arrow.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Grey's Anatomy
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/Grey's%20Anatomy.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Cobra Kai
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.comss-iptv/meu/main/ssiptv/series/netflix/cobra_kai.m3u8
