@@ -32,6 +32,14 @@ m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/telecine/menu_te
 #EXTBG: #000000
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/menu_apple.m3u
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ultraviolet/80/4a90e2/captain-america.png",SERIES | MARVEL
+#EXTBG: #000000
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/menu_marvel.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",[LEGENDADAS]
+#EXTBG: #000000
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/menu_legendadas.m3u
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",V - VISITANTES
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/visitantes/menu_visitantes.m3u
