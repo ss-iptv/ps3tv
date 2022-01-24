@@ -4,7 +4,7 @@
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/fundacao.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Snoopy e sua turma
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Snoopy e Sua Turma
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/Snoopy%20e%20sua%20turma.m3u8
 
@@ -51,3 +51,7 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/I_Am_
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",The Last Ship
 #EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/The%20Last%20Ship.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",22.11.63
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/22.11.63.m3u8
