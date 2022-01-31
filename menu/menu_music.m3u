@@ -13,7 +13,7 @@ m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/soumais.m3u
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/do_zero.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Enem - Isabela
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/isabela.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/isabela.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Vinícius
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/vinicius.m3u
