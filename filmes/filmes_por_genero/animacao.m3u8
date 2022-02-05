@@ -2,8 +2,58 @@
 #EXTENC: UTF-8
 #PLAYLIST: Animação
 
-#EXTINF:0, Ratatouille - Dublado
-http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Ratatouille%20-%20Dublado%20https://assistirfilmesnocelular.blogspot.com.br/?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=0B7h6w2STaJk6Uy1xWml0TWk4bDA
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Coleções
+#EXTINF:0, 01 - #RIO 720p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20#RIO%20720p%20FilmesRocklex.mp4?a=0&id=1I7a9vMf5aZRMAnuQBdoI2p4AehONw4tl
+#EXTINF:0, 01 - #Shrek [1080p][dual] FilmesRocklex.mkv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20#Shrek%20%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=0&id=1lScdOFFi8CprHeo1NChchnR4nyXNg6Iz
+#EXTINF:0, 01 - #Tá dando onda 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20#T%C3%A1%20dando%20onda%201080p%20FilmesRocklex.mp4?a=0&id=1Q6-laZkZNdCtHaZ1YoZaB3jNjFvEP2U2
+#EXTINF:0, 01 - #Tá dando onda 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20#T%C3%A1%20dando%20onda%201080p%20FilmesRocklex.mp4?a=0&id=1_FvXeBALsSEzWemHHjB5_WXN52t5zYBX
+#EXTINF:0, 01 - Hotel Transilvânia (2012) Dublado 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Hotel%20Transilv%C3%A2nia%20(2012)%20Dublado%201080p%20FilmesRocklex.mp4?a=0&id=1_p-owPqSugL3dt40KN70FkqvFTqGZusW
+#EXTINF:0, 01 - Os Incríveis (2004) 5.1 BluRay Dublado 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Os%20Incr%C3%ADveis%20(2004)%205.1%20BluRay%20Dublado%201080p%20FilmesRocklex.mp4?a=0&id=1uO9B794D5Erm5mtB2rmUJSNpcn6Y34RI
+#EXTINF:0, 01 - Os Incríveis (2004) 5.1 BluRay Dublado 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Os%20Incr%C3%ADveis%20(2004)%205.1%20BluRay%20Dublado%201080p%20FilmesRocklex.mp4?a=0&id=1oZGnD_UGr-jeiK3QNuMD_x7cCDxyxzfb
+#EXTINF:0, 01 - Ta.Chovendo.Hamburguer Dual.Audio.1080p.2009 FilmesRocklex.mkv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Ta.Chovendo.Hamburguer%20Dual.Audio.1080p.2009%20FilmesRocklex.mkv?a=0&id=1lXFWocmQMLkSWeBBoSj_ylZTJEJLeNeZ
+#EXTINF:0, 01 - Ta.Chovendo.Hamburguer Dual.Audio.1080p.2009 FilmesRocklex.mkv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Ta.Chovendo.Hamburguer%20Dual.Audio.1080p.2009%20FilmesRocklex.mkv?a=0&id=1hmp4xeF0zuySOwp7TkOtvED8NZGbbPyH
+#EXTINF:0, 01 - Toy Story (1995) BluRay [720p] Dublado FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Toy%20Story%20(1995)%20BluRay%20%5B720p%5D%20Dublado%20FilmesRocklex.mp4?a=0&id=1d0skPMwLBjrf01zGbUTrJv6rk8H-og7U
+#EXTINF:0, 02 #RIO 2 720p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20#RIO%202%20720p%20FilmesRocklex.mp4?a=0&id=10iZh8LHMTEKyCWSlga7ZbvpdXwndY7oN
+#EXTINF:0, 02 - #Carros 2 BluRay [720p] FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20#Carros%202%20BluRay%20%5B720p%5D%20FilmesRocklex.mp4?a=0&id=1i1117f2NMv-rNuwmUkJL8vdNSsucJKDH
+#EXTINF:0, 02 - #Shrek 2 [1080p][dual] FilmesRocklex.mkv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20#Shrek%202%20%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=0&id=1ClfdXgNVMh7dXVajh5XYRQjNfuVSeh5P
+#EXTINF:0, 02 - Hotel Transilvânia 2 (2015) Dublado 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20Hotel%20Transilv%C3%A2nia%202%20(2015)%20Dublado%201080p%20FilmesRocklex.mp4?a=0&id=1MG2BQ-Z1zifw9u9LV4UtbZNCW7AGG1H0
+#EXTINF:0, 02 - Os Incriveis 2 (2018) 1080p Dublado - FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20Os%20Incriveis%202%20(2018)%201080p%20Dublado%20-%20FilmesRocklex.mp4?a=0&id=1vuNeU8da_ATeIx8lNUXzqULHl4G6NVgr
+#EXTINF:0, 02 - Os Incriveis 2 (2018) 1080p Dublado - FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20Os%20Incriveis%202%20(2018)%201080p%20Dublado%20-%20FilmesRocklex.mp4?a=0&id=1hpTqnajQjiER46H__wahx2wdvyXJBTv9
+#EXTINF:0, 02 - Ta.Chovendo.Hamburguer.2.Dual.Audio.1080p.2013 FilmesRocklex.mkv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20Ta.Chovendo.Hamburguer.2.Dual.Audio.1080p.2013%20FilmesRocklex.mkv?a=0&id=1Beqi5ZKa43V3vzsn-RrfDISn9EqsGEh-
+#EXTINF:0, 02 - Tá Dando Onda 2 (2017) 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20T%C3%A1%20Dando%20Onda%202%20(2017)%201080p%20FilmesRocklex.mp4?a=0&id=1JSk9QR3f31K8BZRekcWVupyuCCaHoHn0
+#EXTINF:0, 02 - Tá Dando Onda 2 (2017) 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20T%C3%A1%20Dando%20Onda%202%20(2017)%201080p%20FilmesRocklex.mp4?a=0&id=1oH-GSNPjW_DO8zMHPxe3r5DFyOPTNeK8
+#EXTINF:0, 03 - #Carros 3 (2017) BluRay [720p] Dublado FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/03%20-%20#Carros%203%20(2017)%20BluRay%20%5B720p%5D%20Dublado%20FilmesRocklex.mp4?a=0&id=1qsjO3nyR51Y5YOFLDAm4HhdUKMQ00rmM
+#EXTINF:0, 03 - Hotel Transilvânia 3 - Férias Monstruosas (2018) 1080p FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/03%20-%20Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas%20(2018)%201080p%20FilmesRocklex.mp4?a=0&id=1HdmHdVHDqRShT9OpsknS0D_R8qLna4nd
+#EXTINF:0, Asterix.entre.os.Bretoes.Dublado.1080p.1986 FilmesRocklex.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Asterix.entre.os.Bretoes.Dublado.1080p.1986%20FilmesRocklex.mp4?a=0&id=1gJ4b_SrWVR3Uw0JRRmccT07lojWbkwJs
+#EXTINF:0, Asterix.o.Gaules.Dublado.720p.1967 FilmesRocklex.mkv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Asterix.o.Gaules.Dublado.720p.1967%20FilmesRocklex.mkv?a=0&id=1WAQZbDZYTM3aSlqD0LHFq1czIIlT26FT
+#EXTINF:0, Astérix e o Domínio dos Deuses 1080p (2016) Dual Áudio BluRay 5.1 FilmesRocklex.mkv
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Ast%C3%A9rix%20e%20o%20Dom%C3%ADnio%20dos%20Deuses%201080p%20(2016)%20Dual%20%C3%81udio%20BluRay%205.1%20FilmesRocklex.mkv?a=0&id=1eUnC3ESrx09i9fIpnTLpLN5yo0CqCtSb
+
 #EXTINF:0, Soul - Uma Aventura com Alma
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/Soul%20-%20Uma%20Aventura%20com%20Alma?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1v3chbclI96qIpz70eK14fu4fFGer1mdj
 
@@ -250,8 +300,6 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20#Meu%20Malvado%20Favorito%20720p%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1nKyNyLimHJEpK8o4KLlPgXfoaINJz8C5
 #EXTINF:0, 01 - #Carros BluRay [720p] 
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20#Carros%20BluRay%20%5B720p%5D%20?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZIXWr3o9CC3hDj_50_PFdh3sAGMaoEXE
-#EXTINF:0, 01 - #RIO 720p 
-http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20#RIO%20720p%20?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1NPn15lBupUMnryK-aPrXx_-lSBXG4E8i
 #EXTINF:0, 01 - #Shrek [1080p][dual] FilmesRocklex.mkv
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20#Shrek%20%5B1080p%5D%5Bdual%5D%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1x-5cWCEyZQgOsgdToN0g6a-jenn2P9M1
 #EXTINF:0, 01 - #Tá dando onda 1080p 
@@ -264,8 +312,6 @@ http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdow
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Ta.Chovendo.Hamburguer%20Dual.Audio.1080p.2009%20FilmesRocklex.mkv?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1OmE8GPzw6Xf0exuxcxXzZUOxBROi7k6E
 #EXTINF:0, 01 - Toy Story (1995) BluRay [720p] Dublado 
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/01%20-%20Toy%20Story%20(1995)%20BluRay%20%5B720p%5D%20Dublado%20?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1bXNUo9ka1zjoAd0_bnFZXe_uzZ_33WvF
-#EXTINF:0, 02 #RIO 2 720p 
-http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20#RIO%202%20720p%20?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1R2V3xKQ3BAe8-TPl2UQQqOF64eTK1kPO
 #EXTINF:0, 02 - #Carros 2 BluRay [720p] 
 http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:32400/api/v1/redirectdownload/02%20-%20#Carros%202%20BluRay%20%5B720p%5D%20?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1dXD8sriUWDl_ExXvetoR1GPdnY00cSIE
 #EXTINF:0, 02 - #Meu Malvado Favorito 2 720p FilmesRocklex.mkv
