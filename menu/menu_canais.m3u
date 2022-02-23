@@ -1,14 +1,31 @@
  #EXTM3U size="medium"
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PLUTO TV
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/canais/pluto_tv.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/canais/pluto_tv.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CANAIS FREEMIUM
-m3u:http://168.205.87.198:8555/get.php?username=michele&password=123456&type=m3u_plus
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CDN Rede
+m3u:http://cdnrede.com:80/get.php?username=groove9197&password=81325036&type=m3u_plus
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",FREEMIUM - Alternativo
-m3u:http://168.205.87.198:8555/get.php?username=123456&password=123456&type=m3u_plus
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Canais Abertos
+m3u:https://raw.githubusercontent.com/jhonatadev/Canais-BR/main/Lista%20de%20canais
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github TV
-#EXTBG: #000000
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV
+m3u:http://168.205.87.198:8555/get.php?username=renato&password=123456&type=m3u_plus
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",MAP TV II
+m3u:http://168.205.87.198:8555/get.php?username=renata&password=123456&type=m3u_plus
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",ESPORTES
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Radios
+#EXTBG: #11609E
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/canais/radio.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Github (TV)
+#EXTBG: #11609E
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/menu/magia_iptv.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CDN - Alternativo
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/listas/canais.m3u
