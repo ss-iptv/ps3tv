@@ -2,48 +2,48 @@
 #EXTENC: UTF-8
 #PLAYLIST: TEMPORADA 10
 #EXTINF:0, 1.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1-gHT8RS0N87vqWIuTZcxpZLc3QUTuDB9
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1-gHT8RS0N87vqWIuTZcxpZLc3QUTuDB9
 #EXTINF:0, 10.mp4
-https://educa.eu.org/api/v1/redirectdownload/10.mp4?a=0&id=1aysF1r3bgi2djn9jw6dT9n4096pA053U
+https://m3u.araujo.eu.org/api/v1/redirectdownload/10.mp4?a=0&id=1aysF1r3bgi2djn9jw6dT9n4096pA053U
 #EXTINF:0, 11.mp4
-https://educa.eu.org/api/v1/redirectdownload/11.mp4?a=0&id=1uxRdxAYysPDJSCvC0_QfKEdJAu1LRRST
+https://m3u.araujo.eu.org/api/v1/redirectdownload/11.mp4?a=0&id=1uxRdxAYysPDJSCvC0_QfKEdJAu1LRRST
 #EXTINF:0, 12.mp4
-https://educa.eu.org/api/v1/redirectdownload/12.mp4?a=0&id=1tPcazfml4-aVvFj0aKCjuOG6UiTKymkv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/12.mp4?a=0&id=1tPcazfml4-aVvFj0aKCjuOG6UiTKymkv
 #EXTINF:0, 13.mp4
-https://educa.eu.org/api/v1/redirectdownload/13.mp4?a=0&id=1D_aFTQGOIb4ulXePCVZcCMgqTucLRbaT
+https://m3u.araujo.eu.org/api/v1/redirectdownload/13.mp4?a=0&id=1D_aFTQGOIb4ulXePCVZcCMgqTucLRbaT
 #EXTINF:0, 14.mp4
-https://educa.eu.org/api/v1/redirectdownload/14.mp4?a=0&id=14s3Qn7ROCR_hno8Cj6Up3CFggOIzrk0p
+https://m3u.araujo.eu.org/api/v1/redirectdownload/14.mp4?a=0&id=14s3Qn7ROCR_hno8Cj6Up3CFggOIzrk0p
 #EXTINF:0, 15.mp4
-https://educa.eu.org/api/v1/redirectdownload/15.mp4?a=0&id=1jSsMPDC5FLo0dpR8WR9xV5CIVp36Nw48
+https://m3u.araujo.eu.org/api/v1/redirectdownload/15.mp4?a=0&id=1jSsMPDC5FLo0dpR8WR9xV5CIVp36Nw48
 #EXTINF:0, 16.mp4
-https://educa.eu.org/api/v1/redirectdownload/16.mp4?a=0&id=1elF3LQrjDNG8R1fJbZ_orZYdih19bcIf
+https://m3u.araujo.eu.org/api/v1/redirectdownload/16.mp4?a=0&id=1elF3LQrjDNG8R1fJbZ_orZYdih19bcIf
 #EXTINF:0, 17.mp4
-https://educa.eu.org/api/v1/redirectdownload/17.mp4?a=0&id=1gBzi5vFJAe4jobHWDG9FegmpwKB7tfh8
+https://m3u.araujo.eu.org/api/v1/redirectdownload/17.mp4?a=0&id=1gBzi5vFJAe4jobHWDG9FegmpwKB7tfh8
 #EXTINF:0, 18.mp4
-https://educa.eu.org/api/v1/redirectdownload/18.mp4?a=0&id=1uh6hOqb2qvV1i2WXAHyEgL3lUbfxYyJu
+https://m3u.araujo.eu.org/api/v1/redirectdownload/18.mp4?a=0&id=1uh6hOqb2qvV1i2WXAHyEgL3lUbfxYyJu
 #EXTINF:0, 19.mp4
-https://educa.eu.org/api/v1/redirectdownload/19.mp4?a=0&id=1TJ_igZZ1Jc3ptwDEj_5QWUdodCWVm_0f
+https://m3u.araujo.eu.org/api/v1/redirectdownload/19.mp4?a=0&id=1TJ_igZZ1Jc3ptwDEj_5QWUdodCWVm_0f
 #EXTINF:0, 2.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.mp4?a=0&id=1UPDUmcc6T6_ROb2sHBDSIefDQ57YAbI8
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.mp4?a=0&id=1UPDUmcc6T6_ROb2sHBDSIefDQ57YAbI8
 #EXTINF:0, 20.mp4
-https://educa.eu.org/api/v1/redirectdownload/20.mp4?a=0&id=1wL6RJDzTCjlCTKh1WvXafgUGM0ug8tPL
+https://m3u.araujo.eu.org/api/v1/redirectdownload/20.mp4?a=0&id=1wL6RJDzTCjlCTKh1WvXafgUGM0ug8tPL
 #EXTINF:0, 21.mp4
-https://educa.eu.org/api/v1/redirectdownload/21.mp4?a=0&id=1t4zbot7N0fDb8PCn9DWSfqOoTH_hY5PI
+https://m3u.araujo.eu.org/api/v1/redirectdownload/21.mp4?a=0&id=1t4zbot7N0fDb8PCn9DWSfqOoTH_hY5PI
 #EXTINF:0, 22.mp4
-https://educa.eu.org/api/v1/redirectdownload/22.mp4?a=0&id=1WWFGJ2QD9ah6ueg063AwYt3WE4y8LNFV
+https://m3u.araujo.eu.org/api/v1/redirectdownload/22.mp4?a=0&id=1WWFGJ2QD9ah6ueg063AwYt3WE4y8LNFV
 #EXTINF:0, 23.mp4
-https://educa.eu.org/api/v1/redirectdownload/23.mp4?a=0&id=1zhmWzMpoiq9Dl3jxezT1hnS_BBW-65DW
+https://m3u.araujo.eu.org/api/v1/redirectdownload/23.mp4?a=0&id=1zhmWzMpoiq9Dl3jxezT1hnS_BBW-65DW
 #EXTINF:0, 3.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.mp4?a=0&id=1ibPBzrqZ1a52gvzdxgIdAgC7k7tb5oC7
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.mp4?a=0&id=1ibPBzrqZ1a52gvzdxgIdAgC7k7tb5oC7
 #EXTINF:0, 4.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.mp4?a=0&id=1Oaac1C8_subswKXksNnAin8fwTnq6Rr7
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.mp4?a=0&id=1Oaac1C8_subswKXksNnAin8fwTnq6Rr7
 #EXTINF:0, 5.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1TKVqBHtiK3eLATTVAobI7u9y9Zoj28O7
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1TKVqBHtiK3eLATTVAobI7u9y9Zoj28O7
 #EXTINF:0, 6.mp4
-https://educa.eu.org/api/v1/redirectdownload/6.mp4?a=0&id=1vjR2L4kH2hSQgN2_CXGsJfHvZkLa3Inj
+https://m3u.araujo.eu.org/api/v1/redirectdownload/6.mp4?a=0&id=1vjR2L4kH2hSQgN2_CXGsJfHvZkLa3Inj
 #EXTINF:0, 7.mp4
-https://educa.eu.org/api/v1/redirectdownload/7.mp4?a=0&id=1tpzMdjdmSMknzW64NhM1hNgBdgyhmuX3
+https://m3u.araujo.eu.org/api/v1/redirectdownload/7.mp4?a=0&id=1tpzMdjdmSMknzW64NhM1hNgBdgyhmuX3
 #EXTINF:0, 8.mp4
-https://educa.eu.org/api/v1/redirectdownload/8.mp4?a=0&id=1oYmNYIIYcASEuDo3II6nWoBOFA9VPSqu
+https://m3u.araujo.eu.org/api/v1/redirectdownload/8.mp4?a=0&id=1oYmNYIIYcASEuDo3II6nWoBOFA9VPSqu
 #EXTINF:0, 9.mp4
-https://educa.eu.org/api/v1/redirectdownload/9.mp4?a=0&id=14Zu1_R1KDl4hIa1nmZv_WQlJOdX-aQ-p
+https://m3u.araujo.eu.org/api/v1/redirectdownload/9.mp4?a=0&id=14Zu1_R1KDl4hIa1nmZv_WQlJOdX-aQ-p
