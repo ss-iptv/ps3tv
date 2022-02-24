@@ -39,7 +39,7 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/As%2
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",LOKi
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/loki/loki_1.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/loki/loki_1.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Vida Secreta dos Casais
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/hbo_max_fox/A%20Vida%20Secreta%20dos%20Casais.m3u8
