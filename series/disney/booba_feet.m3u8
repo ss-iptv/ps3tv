@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1° Temporada
+#EXTINF:0, 1.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/1.mp4?a=0&id=1poDEx8vZV1ScL47P6b6zSnz3-szSdVwT
+#EXTINF:0, 2.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/2.mp4?a=0&id=1DJqPRHM6lUj0mGNp4r1YUJFrpSscUNBd
+#EXTINF:0, 3.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/3.mp4?a=0&id=1npMIKSrYObSvckTPiufgGRyL2WgDXjpA
+#EXTINF:0, 4.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/4.mp4?a=0&id=1DMJ0r8OiSeifL51O7saN_Bh-h_zmpKYL
+#EXTINF:0, 5.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/5.mp4?a=0&id=1hL844KzdBuINIBEHgyrAOmkkRdMRQTpp
+#EXTINF:0, 6.mp4
+http://ec2-18-224-70-43.us-east-2.compute.amazonaws.com:5572/api/v1/redirectdownload/6.mp4?a=0&id=12ofOoJkUlthwe8mhRMXTYMRlz9UpXydQ
