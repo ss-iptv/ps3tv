@@ -1,25 +1,25 @@
  #EXTM3U size="medium"
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sou Mais
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/soumais.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Do Zero - Alfacon
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/do_zero.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Papa Concursos
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/papa.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Focus Concursos
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/focus.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PC/SP
 m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/pcsp.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Papa Concursos
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/papa.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sou Mais
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/soumais.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Do Zero - Alfacon
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/do_zero.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Enem - Isabela
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/isabela.m3u8
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Vinícius
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/vinicius.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/vinicius.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Cursos
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/soumais.m3u
-
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Outros Cursos
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/cursos/soumais.m3u
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Isabela
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/isabela.m3u
