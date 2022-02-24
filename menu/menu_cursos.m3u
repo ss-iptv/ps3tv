@@ -1,8 +1,5 @@
 ﻿ #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",PC/SP
-m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/pcsp.m3u
-
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Sou Mais
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/soumais.m3u8
 
@@ -25,4 +22,4 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/papa.m3u8
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/vinicius.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Isabela
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/isabela.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/cursos/isabela.m3u
