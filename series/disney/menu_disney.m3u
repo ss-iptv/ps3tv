@@ -26,9 +26,12 @@ m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/Just
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Falcão a Serie
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/falcao.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",O Mandaloriano
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",O Mandalorian
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com//ss-iptv/meu/main/ssiptv/series/disney/mandaloriano/mandaloriano_1.m3u8
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/mandaloriano/mandaloriano_1.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",O Mandaloriano
+m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/mandaloriano.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",A Casa da Raven
 m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/disney/A%20Casa%20da%20Raven.m3u8
