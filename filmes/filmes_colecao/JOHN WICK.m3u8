@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTENC: UTF-8
-#PLAYLIST: JOHN WICK
-#EXTINF:0, John Wick 1.mp4
-http://podre.herokuapp.com/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
-#EXTINF:0, John Wick 2.mp4
-http://podre.herokuapp.com/api/v1/redirectdownload/John%20Wick%202.mp4?a=0&id=1ZlWuKjJSqvAdLSIxpDJ_GsbDKbsui3E9
-#EXTINF:0, John Wick 3.mp4
-http://podre.herokuapp.com/api/v1/redirectdownload/John%20Wick%203.mp4?a=0&id=1l8p3_yCDBAQnt8nQlWClV21k_io4_ZZI
