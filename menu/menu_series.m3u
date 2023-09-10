@@ -2,69 +2,69 @@
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/color/50/4a90e2/watch-tv.png",SERIES | MAGIA SERIES
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/hbo_max_fox/menu_hbo_max_fox.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/hbo_max_fox/menu_hbo_max_fox.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | GLOBOPLAY
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/menu_globo.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/menu_globo.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | DISNEY + PLUS
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/menu_disney.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/disney/menu_disney.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | AMAZON PRIME
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/amazon/menu_amazon.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/amazon/menu_amazon.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | STARZ +
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/menu_starz.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/starz/menu_starz.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | NETFLIX
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/netflix/menu_netflix.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/netflix/menu_netflix.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | TELECINE
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/telecine/menu_telecine.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/telecine/menu_telecine.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SERIES | APPLE TV
 #EXTBG: #000000
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/menu_apple.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/apple/menu_apple.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ultraviolet/80/4a90e2/captain-america.png",SERIES | MARVEL
 #EXTBG: #000000
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/menu_marvel.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/menu_marvel.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",[LEGENDADAS]
 #EXTBG: #000000
-https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/menu_legendadas.m3u
+m3u:https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/legendadas/menu_legendadas.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",V - VISITANTES
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/visitantes/menu_visitantes.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/visitantes/menu_visitantes.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",SOUTH PARK
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/south_park/menu_south_park.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/south_park/menu_south_park.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DR. HOUSE
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/dr_house/menu_dr_house.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/globo/dr_house/menu_dr_house.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",TRÊS É DEMAIS
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/tres_e_demais/menu_tres_e_demais.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/tres_e_demais/menu_tres_e_demais.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",WALKING DEAD
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/walking_dead/menu_walking_dead.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/walking_dead/menu_walking_dead.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",DR. WHO
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/dr_who/menu_dr_who.m3u
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/dr_who/menu_dr_who.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CHUCK
 #EXTBG: #11609E
-m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/chuck/chuck.m3u8
+m3u:m3u:https://raw.githubusercontent.com/ss-iptv/ps3tv/main/series/chuck/chuck.m3u8
 
